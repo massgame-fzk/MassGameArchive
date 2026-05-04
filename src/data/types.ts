@@ -1,4 +1,5 @@
 export type GroupName = "太陽" | "月" | "赤" | "白" | "未整理" | "不明";
+export type MusicScene = "入場" | "一部" | "インター" | "二部" | "三部" | "退場";
 
 export type YearRecord = {
   year: number;
@@ -11,16 +12,34 @@ export type YearRecord = {
   lastChecked: string;
 };
 
-export type MusicEntry = {
-  year: number;
-  group: GroupName;
-  legacyGroup: "Red" | "White";
-  scene: string;
+export type MusicTrack = {
   title: string;
   artist: string;
   source: string;
   sourceUrl: string;
   verified: boolean;
+  sourceScene?: string;
+};
+
+export type MusicSceneSlot = {
+  scene: MusicScene;
+  tracks: MusicTrack[];
+};
+
+export type MusicRecord = {
+  year: number;
+  group: GroupName;
+  legacyGroup: "Red" | "White";
+  scenes: MusicSceneSlot[];
+  unassignedTracks?: MusicTrack[];
+  verified: boolean;
+};
+
+export type MusicEntry = MusicTrack & {
+  year: number;
+  group: GroupName;
+  legacyGroup: "Red" | "White";
+  scene: MusicScene;
 };
 
 export type MediaEntry = {

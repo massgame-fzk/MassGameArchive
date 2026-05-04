@@ -1,10 +1,23 @@
 import musicData from "./music.json";
 import yearsData from "./years.json";
 import mediaData from "./media.json";
-import type { MediaEntry, MusicEntry, YearRecord } from "./types";
+import type { MediaEntry, MusicEntry, MusicRecord, YearRecord } from "./types";
 
 export const years = (yearsData as YearRecord[]).filter((entry) => entry.verified);
-export const musicEntries = (musicData as MusicEntry[]).filter((entry) => entry.verified);
+export const musicRecords = (musicData as MusicRecord[]).filter((entry) => entry.verified);
+export const musicEntries = musicRecords.flatMap((record): MusicEntry[] =>
+  record.scenes.flatMap((scene) =>
+    scene.tracks
+      .filter((track) => track.verified)
+      .map((track) => ({
+        ...track,
+        year: record.year,
+        group: record.group,
+        legacyGroup: record.legacyGroup,
+        scene: scene.scene,
+      })),
+  ),
+);
 export const mediaEntries = (mediaData as MediaEntry[]).filter(
   (entry) => entry.verified && (entry.kind === "youtube-playlist" || entry.kind === "youtube-video"),
 );
@@ -48,6 +61,7 @@ export function youtubeEmbedUrl(entry: MediaEntry) {
 export function entriesForYear(year: number) {
   return {
     year: years.find((entry) => entry.year === year),
+    musicRecords: musicRecords.filter((entry) => entry.year === year),
     music: musicEntries.filter((entry) => entry.year === year),
     media: mediaEntries.filter((entry) => mediaMatchesYear(entry, year)),
   };
