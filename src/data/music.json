@@ -6,7 +6,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "TAKE IT ALL",
+            "artist": "VALLEY OF WOLVES",
+            "source": "YouTube音源取得: 25moonmassgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=lAmRsFDKres",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -42,7 +50,15 @@
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "They Don't Know About Us",
+            "artist": "One Direction",
+            "source": "YouTube音源取得: 25moonmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=Fx--R037dc8",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -54,7 +70,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Blow (feat. Spencer Charnas of Ice Nine Kills)",
+            "artist": "Eva Under Fire",
+            "source": "YouTube音源取得: 25sunmassgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=s5qZrI8zT-4",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -86,11 +110,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Don't Stop",
+            "artist": "5 Seconds of Summer",
+            "source": "YouTube音源取得: 25sunmassgame 3rd",
+            "sourceUrl": "https://www.youtube.com/watch?v=-sCO6p5e_sg",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "No Matter What",
+            "artist": "Jordan St. Cyr",
+            "source": "YouTube音源取得: 25sunmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=0wTFXRUQv1k",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -126,11 +166,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Ordinary Life",
+            "artist": "Simple Plan",
+            "source": "YouTube音源取得: 24moonmassgame 3rd",
+            "sourceUrl": "https://www.youtube.com/watch?v=PZ_cbfT65kQ",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Don't Forget Where You Belong",
+            "artist": "One Direction",
+            "source": "YouTube音源取得: 24moonmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=kRORkq2gy38",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -174,11 +230,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Closer (Time Stops Breathing)",
+            "artist": "The Bigger Lights",
+            "source": "YouTube音源取得: 24sunmassgame 3rd",
+            "sourceUrl": "https://www.youtube.com/watch?v=SoOU9H6kvZc",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "See You Around",
+            "artist": "Runner Runner",
+            "source": "YouTube音源取得: 24sunmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=RvjFrM47Dvs",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -190,7 +262,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Monster",
+            "artist": "Skillet",
+            "source": "YouTube音源取得: 23moonmassgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=NxlQ1nYqc0M",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -222,11 +302,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Lost In Stereo",
+            "artist": "All Time Low",
+            "source": "YouTube音源取得: 23moonmassgame 3rd",
+            "sourceUrl": "https://www.youtube.com/watch?v=ciFmvoAZSb0",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Last First Kiss",
+            "artist": "One Direction",
+            "source": "YouTube音源取得: 23moonmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=5FvA_8tGFv0",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -238,7 +334,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Light Up The Sky",
+            "artist": "From Ashes to New",
+            "source": "YouTube音源取得: 23sunmassgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=z0t2lUwUr6E",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -277,11 +381,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Anywhere but Here",
+            "artist": "Mayday Parade",
+            "source": "YouTube音源取得: 23sunmassgame 3rd",
+            "sourceUrl": "https://www.youtube.com/watch?v=WhKEqo1w-aA",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Best Is Yet To Come",
+            "artist": "Red",
+            "source": "YouTube音源取得: 23sunmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=RTA-NwLv0xQ",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -293,7 +413,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Made For This",
+            "artist": "The Phantoms",
+            "source": "YouTube音源取得: 広大附属 月マスゲーム 2022 入場",
+            "sourceUrl": "https://www.youtube.com/watch?v=0PYcF-zso0U",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -325,11 +453,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Contagious (Album Version)",
+            "artist": "Boys Like Girls",
+            "source": "YouTube音源取得: 広大附属 月マスゲーム 2022 Ⅲ部",
+            "sourceUrl": "https://www.youtube.com/watch?v=hsBKKOyNkuA",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Demons at the Door",
+            "artist": "Sleeping Wolf",
+            "source": "YouTube音源取得: 広大附属 月マスゲーム 2022 退場",
+            "sourceUrl": "https://www.youtube.com/watch?v=xQEnBdRXRz4",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -341,11 +485,27 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Three Hammers",
+            "artist": "Dragonforce",
+            "source": "YouTube音源取得: 広大附属 太陽マスゲーム 2022 入場",
+            "sourceUrl": "https://www.youtube.com/watch?v=fVP_tVXGLXU",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Glory Days",
+            "artist": "Fellowship",
+            "source": "YouTube音源取得: 広大附属 太陽マスゲーム 2022 II部",
+            "sourceUrl": "https://www.youtube.com/watch?v=xK4B7SbpWbI",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "インター",
@@ -365,7 +525,15 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "End Up Here",
+            "artist": "5 Seconds of Summer",
+            "source": "YouTube音源取得: 広大附属 太陽マスゲーム 2022 Ⅲ部",
+            "sourceUrl": "https://www.youtube.com/watch?v=gQ0ZPjgE1JE",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
@@ -381,7 +549,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Still Worth Fighting For",
+            "artist": "My Darkest Days",
+            "source": "YouTube音源取得: 21moonmassgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=kRxXW_RkcYg",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -417,7 +593,15 @@
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "You and I Tonight",
+            "artist": "Faber Drive",
+            "source": "YouTube音源取得: 21moonmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=716GWXbSr2U",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -429,7 +613,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Have A Nice Day",
+            "artist": "Bon Jovi",
+            "source": "YouTube音源取得: 21sunmassgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=ULmvPN9Mtno",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -461,11 +653,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Jet Lag (feat. Natasha Bedingfield)",
+            "artist": "Simple Plan",
+            "source": "YouTube音源取得: 21sunmassgame 3rd",
+            "sourceUrl": "https://www.youtube.com/watch?v=-2QtPKlrDOI",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Everything Good",
+            "artist": "Ashes Remain",
+            "source": "YouTube音源取得: 21sunmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=1shp-XSLsm4",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -477,7 +685,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Sweet True Lies",
+            "artist": "Beast in Black",
+            "source": "YouTube音源取得: 19moonmassgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=r2rwoZ6KbN0",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -486,7 +702,7 @@
             "title": "Fantasia",
             "artist": "ReinXeed",
             "source": "YouTube音源取得: 19moonmassgame 1st",
-            "sourceUrl": "https://www.youtube.com/watch?v=rCIJl6RVLr8",
+            "sourceUrl": "https://www.youtube.com/watch?v=zdhDLasDRlo",
             "verified": true
           }
         ]
@@ -502,18 +718,34 @@
             "title": "Still Dreaming",
             "artist": "Q;indivi Starring Rin Oikawa",
             "source": "YouTube音源取得: 19moonmassgame 2nd",
-            "sourceUrl": "https://www.youtube.com/watch?v=iPaf2x8wRE8",
+            "sourceUrl": "https://www.youtube.com/watch?v=OIDElyLimS0",
             "verified": true
           }
         ]
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Five Minutes to Midnight (Album Version)",
+            "artist": "Boys Like Girls",
+            "source": "YouTube音源取得: 19moonmassgame 3rd",
+            "sourceUrl": "https://www.youtube.com/watch?v=AMH9Uv_6HdU",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Tongue Tied (Remastered)",
+            "artist": "Faber Drive",
+            "source": "YouTube音源取得: 19moonmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=sty_MWztmTU",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -525,7 +757,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Crazy over You",
+            "artist": "Bonfire",
+            "source": "YouTube音源取得: 19sunmassgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=RrTyEi5T3Og",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -534,7 +774,7 @@
             "title": "Metal Souls",
             "artist": "Destinia",
             "source": "YouTube音源取得: 19sunmassgame 1st",
-            "sourceUrl": "https://www.youtube.com/watch?v=mFJlGZ-3qQc",
+            "sourceUrl": "https://www.youtube.com/watch?v=KPCi3QFkdpE",
             "verified": true
           }
         ]
@@ -557,11 +797,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Now Or Never",
+            "artist": "Amely",
+            "source": "YouTube音源取得: 19sunmassgame 3rd",
+            "sourceUrl": "https://www.youtube.com/watch?v=cMiDm0DUXig",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "The Life (Album Version)",
+            "artist": "Hinder",
+            "source": "YouTube音源取得: 19sunmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=z4LcT5qYImI",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -573,7 +829,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "New Divide",
+            "artist": "Linkin Park",
+            "source": "YouTube音源取得: 18moonmassgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=eVz395RlJMc",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -605,11 +869,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "The Great Escape",
+            "artist": "Boys Like Girls",
+            "source": "YouTube音源取得: 18moonmassgame 3rd stage",
+            "sourceUrl": "https://www.youtube.com/watch?v=jMPU0oRr_-8",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "This Song Saved My Life",
+            "artist": "Simple Plan",
+            "source": "YouTube音源取得: 18moonmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=MskJD-YkSOA",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -621,7 +901,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Never Look Back",
+            "artist": "Eclipse",
+            "source": "YouTube音源取得: 18sunmassgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=1NmTpMX0PEU",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -659,11 +947,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Skyway Avenue",
+            "artist": "We the Kings",
+            "source": "YouTube音源取得: 18sunmassgame 3rd stage",
+            "sourceUrl": "https://www.youtube.com/watch?v=DiB-ePR2Crs",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Here for a Reason",
+            "artist": "Ashes Remain",
+            "source": "YouTube音源取得: 18sunmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=f1KWe9S9Jtk",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -675,7 +979,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "On My Own",
+            "artist": "Ashes Remain",
+            "source": "YouTube音源取得: 17moonmassgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=JZxATg6v-7w",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -707,11 +1019,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Love Drunk",
+            "artist": "Boys Like Girls",
+            "source": "YouTube音源取得: 17moonmassgame 3rd stage",
+            "sourceUrl": "https://www.youtube.com/watch?v=9OsloLSdK4Q",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Try",
+            "artist": "Simple Plan",
+            "source": "YouTube音源取得: 17moonmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=Ue94QEd8KNI",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -755,11 +1083,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Take My Hand",
+            "artist": "Simple Plan",
+            "source": "YouTube音源取得: 17sunmassgame 3rd stage",
+            "sourceUrl": "https://www.youtube.com/watch?v=CAQFNPI0N00",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "A Life To Die For",
+            "artist": "TREAT",
+            "source": "YouTube音源取得: 17sunmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=wW5hsQR7nuE",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -771,7 +1115,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "The Phoenix",
+            "artist": "Fall Out Boy",
+            "source": "YouTube音源取得: 16moonmassgame  entrance",
+            "sourceUrl": "https://www.youtube.com/watch?v=892QoVNLkY4",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -803,11 +1155,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "She Takes Me High",
+            "artist": "We the Kings",
+            "source": "YouTube音源取得: 16moonmassgame  3rd",
+            "sourceUrl": "https://www.youtube.com/watch?v=XlvhMdLrHHg",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "With Me",
+            "artist": "Sum 41",
+            "source": "YouTube音源取得: 16moonmassgame  ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=oDKXHbCuzxI",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -819,7 +1187,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Cry Thunder",
+            "artist": "Dragonforce",
+            "source": "YouTube音源取得: 16sunmassgame  entrance",
+            "sourceUrl": "https://www.youtube.com/watch?v=cyhWKktFiqc",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -835,7 +1211,15 @@
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "By My Side (Flying Guitar Ver.)",
+            "artist": "Hemenway",
+            "source": "YouTube音源取得: 16sunmassgame  inter",
+            "sourceUrl": "https://www.youtube.com/watch?v=PU0qiQm7B0o",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
@@ -851,11 +1235,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Kicking & Screaming",
+            "artist": "All Time Low",
+            "source": "YouTube音源取得: 16sunmassgame  3rd",
+            "sourceUrl": "https://www.youtube.com/watch?v=kKJAHrvbOu8",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Thunder (Radio Mix)",
+            "artist": "Boys Like Girls",
+            "source": "YouTube音源取得: 16sunmassgame  ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=0hD17A1Eo9I",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -867,7 +1267,22 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "See Who I Am",
+            "artist": "Within Temptation",
+            "source": "YouTube音源取得: 2015MoonMassGame-opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=eUEoCHrw9DU",
+            "verified": true
+          },
+          {
+            "title": "Get Back",
+            "artist": "Nine Lashes",
+            "source": "YouTube音源取得: 2015MoonMassGame-opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=eUEoCHrw9DU",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -891,11 +1306,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "You Suck at Love",
+            "artist": "Simple Plan",
+            "source": "YouTube音源取得: 2015MoonMassGame-3rd stage",
+            "sourceUrl": "https://www.youtube.com/watch?v=oeOgBQ3A4v0",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Photograph",
+            "artist": "Nickelback",
+            "source": "YouTube音源取得: 2015MoonMassGame-ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=jBYdpTGk-v4",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -955,7 +1386,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Rebirthing",
+            "artist": "Skillet",
+            "source": "YouTube音源取得: 2014 moonmass opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=6r_lPKYDdnQ",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -971,7 +1410,15 @@
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Triptych",
+            "artist": "Siam Shade",
+            "source": "YouTube音源取得: 2014 moonmass interval",
+            "sourceUrl": "https://www.youtube.com/watch?v=X4XneQuD5A4",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
@@ -979,11 +1426,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "I Found Love",
+            "artist": "Sunstorm",
+            "source": "YouTube音源取得: 2014 moonmass 3rd stage",
+            "sourceUrl": "https://www.youtube.com/watch?v=ukN4MPxGj8o",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Without You",
+            "artist": "Hinder",
+            "source": "YouTube音源取得: 2014 moonmass ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=RznpPeFDMh8",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -1011,7 +1474,15 @@
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Escape (Lightning Guitar Ver.)",
+            "artist": "Hemenway",
+            "source": "YouTube音源取得: 2014 sunmass interval",
+            "sourceUrl": "https://www.youtube.com/watch?v=OuzqRYT8nDU",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
@@ -1031,7 +1502,15 @@
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "End of the Summer",
+            "artist": "Theory Of A Deadman",
+            "source": "YouTube音源取得: 2014 sunmass ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=XXNOWSc3mNg",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -1043,7 +1522,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "It's My Life",
+            "artist": "Bon Jovi",
+            "source": "YouTube音源取得: 2013 moon massgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=urLpV775ptU",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -1059,19 +1546,35 @@
           {
             "title": "ACROSS THE STARLIGHT",
             "artist": "Q;indivi",
-            "source": "YouTube音源取得: 2013 MoonMassGame Pro 2nd",
-            "sourceUrl": "https://www.youtube.com/watch?v=KwtNCMFgtCI",
+            "source": "YouTube音源取得: 2013 moonmassgame 2nd stage",
+            "sourceUrl": "https://www.youtube.com/watch?v=5fFkDszW0zk",
             "verified": true
           }
         ]
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Never Love Again",
+            "artist": "Work Of Art",
+            "source": "YouTube音源取得: 2013 moonmassgame 3rd stage",
+            "sourceUrl": "https://www.youtube.com/watch?v=3bwyekb72WI",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Over You",
+            "artist": "Daughtry",
+            "source": "YouTube音源取得: 2013 moonmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=oEPrICXytl8",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -1083,7 +1586,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Spectres",
+            "artist": "Avantasia",
+            "source": "YouTube音源取得: 2013 sunmassgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=jcy4AQzAyEg",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -1115,11 +1626,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Surrender Your Soul",
+            "artist": "Place Vendome",
+            "source": "YouTube音源取得: 2013 sunmassgame 3rd stage",
+            "sourceUrl": "https://www.youtube.com/watch?v=s6w5jmgDbDI",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "In My Defense",
+            "artist": "Avantasia",
+            "source": "YouTube音源取得: 2013 sunmassgame ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=t4YEamZ33k4",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -1163,11 +1690,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Better Days",
+            "artist": "Power Quest",
+            "source": "YouTube音源取得: 2012massgame white-3rd stage",
+            "sourceUrl": "https://www.youtube.com/watch?v=EAie0XFvkGY",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "I Can Wait Forever",
+            "artist": "Simple Plan",
+            "source": "YouTube音源取得: 2012massgame white-Ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=28L3XTnDhbs",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -1179,7 +1722,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "A Life To Die For",
+            "artist": "TREAT",
+            "source": "YouTube音源取得: 2012 massgame Red-Opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=fviVfl_aIeo",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -1229,10 +1780,10 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "King Of Fools",
+            "title": "King of Fools",
             "artist": "Edguy",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "YouTube音源取得: 11massgame white-opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=MrX3TG-G8Tc",
             "verified": true
           }
         ]
@@ -1255,8 +1806,8 @@
           {
             "title": "Plastic Dracula",
             "artist": "Paul Gilbert",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "YouTube音源取得: 11massgame white-interval",
+            "sourceUrl": "https://www.youtube.com/watch?v=H2tkLIEhrtU",
             "verified": true
           }
         ]
@@ -1279,8 +1830,8 @@
           {
             "title": "Believer",
             "artist": "Place Vendome",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "YouTube音源取得: 11massgame white-scene3",
+            "sourceUrl": "https://www.youtube.com/watch?v=z6FhQtNdZcA",
             "verified": true
           }
         ]
@@ -1291,8 +1842,8 @@
           {
             "title": "Say Goodbye",
             "artist": "Skillet",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "YouTube音源取得: 11massgame white-ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=s8I8QDL6kx4",
             "verified": true
           }
         ]
@@ -1350,13 +1901,6 @@
             "source": "YouTube音源取得: 11massgame red-scene2",
             "sourceUrl": "https://www.youtube.com/watch?v=p_sjHVGKasg",
             "verified": true
-          },
-          {
-            "title": "Down to the Devil",
-            "artist": "Edguy",
-            "source": "YouTube音源取得: 11massgame red-scene2",
-            "sourceUrl": "https://www.youtube.com/watch?v=p_sjHVGKasg",
-            "verified": true
           }
         ]
       },
@@ -1398,8 +1942,8 @@
           {
             "title": "Gonna Get You Someday",
             "artist": "Wig Wam",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "YouTube音源取得: 10massgame white-opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=p-raHQbWGHM",
             "verified": true
           }
         ]
@@ -1422,8 +1966,8 @@
           {
             "title": "Farewell",
             "artist": "Marco Sfogli",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "YouTube音源取得: 10massgame white-interval",
+            "sourceUrl": "https://www.youtube.com/watch?v=k4GIvgF98g4",
             "verified": true
           }
         ]
@@ -1446,8 +1990,8 @@
           {
             "title": "Lavatory Love Machine",
             "artist": "Edguy",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "YouTube音源取得: 10massgame white-scene3",
+            "sourceUrl": "https://www.youtube.com/watch?v=Bds5iWAbWPA",
             "verified": true
           }
         ]
@@ -1458,8 +2002,8 @@
           {
             "title": "No Love",
             "artist": "Simple Plan",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "YouTube音源取得: 10massgame white-ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=RPor6n6YC0Y",
             "verified": true
           }
         ]
@@ -1556,10 +2100,10 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "I did it my way",
+            "title": "I Did It My Way",
             "artist": "Revolution Renaissance",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "YouTube音源取得: 09massgame white-opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=pAUKTpXAvwU",
             "verified": true
           }
         ]
@@ -1604,6 +2148,13 @@
         "scene": "三部",
         "tracks": [
           {
+            "title": "Can't You Hear My Heartbeat",
+            "artist": "Pride Of Lions",
+            "source": "YouTube音源取得: 09massgame white-scene3",
+            "sourceUrl": "https://www.youtube.com/watch?v=8i9VH9xvYDw",
+            "verified": true
+          },
+          {
             "title": "The courage to love somebody",
             "artist": "Pride of lions",
             "source": "FC2「マスゲームの曲」",
@@ -1616,10 +2167,10 @@
         "scene": "退場",
         "tracks": [
           {
-            "title": "I don't want to miss a thing",
+            "title": "I Don't Want To Miss A Thing (From \"Armageddon\" Soundtrack)",
             "artist": "Aerosmith",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "YouTube音源取得: 09massgame white-ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=UDFRRKawR4Y",
             "verified": true
           }
         ]
@@ -1716,10 +2267,17 @@
         "scene": "入場",
         "tracks": [
           {
+            "title": "Pirates! Pirates! Pirates!/Storming the Castle (Medley)",
+            "artist": "Various Artists",
+            "source": "YouTube音源取得: 08W-0",
+            "sourceUrl": "https://www.youtube.com/watch?v=JxTtVLrK8ds",
+            "verified": true
+          },
+          {
             "title": "In My Dreams",
             "artist": "Wig Wam",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "YouTube音源取得: 08W-0",
+            "sourceUrl": "https://www.youtube.com/watch?v=JxTtVLrK8ds",
             "verified": true
           }
         ]
@@ -1766,8 +2324,8 @@
           {
             "title": "Bless The Night",
             "artist": "Wig Wam",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "YouTube音源取得: 08W-3",
+            "sourceUrl": "https://www.youtube.com/watch?v=pKfPNzuwUXY",
             "verified": true
           }
         ]
@@ -1778,8 +2336,8 @@
           {
             "title": "Welcome To Wherever You Are",
             "artist": "Bon Jovi",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "YouTube音源取得: 08W-E",
+            "sourceUrl": "https://www.youtube.com/watch?v=1UhD-_vRgZQ",
             "verified": true
           }
         ]
@@ -1889,13 +2447,6 @@
         "tracks": [
           {
             "title": "Induction (30 Years - Live Version)",
-            "artist": "Gamma Ray",
-            "source": "YouTube音源取得: 07W-1",
-            "sourceUrl": "https://www.youtube.com/watch?v=xWdgksyRfWE",
-            "verified": true
-          },
-          {
-            "title": "Dethrone Tyranny",
             "artist": "Gamma Ray",
             "source": "YouTube音源取得: 07W-1",
             "sourceUrl": "https://www.youtube.com/watch?v=xWdgksyRfWE",
@@ -2136,13 +2687,6 @@
         "tracks": [
           {
             "title": "Deus Le Volt!",
-            "artist": "Angra",
-            "source": "YouTube音源取得: 06REDMASSGAME 1stStage",
-            "sourceUrl": "https://www.youtube.com/watch?v=GqU1qoOl_d0",
-            "verified": true
-          },
-          {
-            "title": "Spread Your Fire",
             "artist": "Angra",
             "source": "YouTube音源取得: 06REDMASSGAME 1stStage",
             "sourceUrl": "https://www.youtube.com/watch?v=GqU1qoOl_d0",
