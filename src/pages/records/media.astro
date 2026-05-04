@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import ShareActions from "../../components/ShareActions.astro";
 import { mediaEntries, youtubeEmbedUrl } from "../../data/archive";
 import type { MediaEntry } from "../../data/types";
 
@@ -77,11 +78,15 @@ const archivePlaylists = mediaEntries
   });
 ---
 
-<BaseLayout title="YouTube">
+<BaseLayout title="YouTube" description="広大附属マスゲームのYouTube動画を年度ごとに探せます。">
   <section class="hero wrap narrow">
     <p class="eyebrow">YouTube</p>
     <h1>動画</h1>
     <p class="lead">年度ごとに動画を探せます。埋め込み再生は必要な動画だけ読み込みます。</p>
+    <ShareActions
+      title="動画 | MassGame Archive"
+      text="広大附属マスゲームのYouTube動画を年度ごとに探せます。"
+    />
   </section>
   <section class="section wrap narrow">
     <nav class="year-filter" aria-label="動画の年度">

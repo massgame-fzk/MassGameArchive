@@ -6,16 +6,21 @@ import { site } from "../data/site";
 type Props = {
   title: string;
   description?: string;
+  image?: string;
 };
 
-const { title, description = site.description } = Astro.props;
+const { title, description = site.description, image = site.ogImage } = Astro.props;
+const pageTitle = title === "トップ" ? site.name : `${title} | ${site.name}`;
+const baseUrl = import.meta.env.DEV ? Astro.url : Astro.site ?? Astro.url;
+const canonicalUrl = new URL(Astro.url.pathname, baseUrl).toString();
+const imageUrl = new URL(image, baseUrl).toString();
 const nav = [
   { href: "/", label: "トップ", icon: "home" },
   { href: "/about/", label: "このサイトについて", icon: "book" },
   { href: "/years/", label: "年度", icon: "calendar" },
   { href: "/records/music/", label: "曲", icon: "music" },
   { href: "/records/media/", label: "動画", icon: "video" },
-  { href: "/contribute/", label: "情報提供", icon: "info" },
+  { href: "/contribute/", label: "連絡・情報提供", icon: "info" },
 ] as const;
 ---
 
@@ -25,8 +30,19 @@ const nav = [
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    <meta property="og:site_name" content={site.name} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:image" content={imageUrl} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={imageUrl} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <title>{title} | {site.name}</title>
+    <title>{pageTitle}</title>
   </head>
   <body>
     <a class="skip-link" href="#main">本文へ移動</a>

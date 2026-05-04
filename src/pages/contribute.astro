@@ -2,33 +2,136 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 
-<BaseLayout title="情報提供">
+<BaseLayout title="連絡・情報提供">
   <section class="hero wrap narrow">
-    <p class="eyebrow">Contribute</p>
-    <h1>情報提供・訂正・削除依頼</h1>
-    <p class="lead">掲載対象は出典を確認できる資料のみです。未確認情報はIssueで管理し、公開ページには出しません。</p>
+    <p class="eyebrow">Contact</p>
+    <h1>連絡・情報提供について</h1>
+    <p class="lead">
+      掲載内容の間違い、リンク切れ、曲名や動画の追加情報、掲載取り下げの相談などがあれば、下のフォームから連絡してください。
+    </p>
   </section>
-  <section class="section wrap narrow grid cols-3">
-    <article class="card">
-      <h2>情報提供</h2>
-      <p>年度、部門、場面、曲名、アーティスト、YouTube URL、確認根拠を添えてIssueを作成してください。</p>
-    </article>
-    <article class="card">
-      <h2>訂正依頼</h2>
-      <p>誤記、出典の不備、リンク切れ、年度・部門の誤りを受け付けます。</p>
-    </article>
-    <article class="card">
-      <h2>削除依頼</h2>
-      <p>本人・権利者・関係者からの削除依頼を優先して確認します。</p>
-    </article>
+
+  <section class="section wrap narrow grid cols-2">
+    <div>
+      <h2>受け付けている連絡</h2>
+      <ul>
+        <li>曲名、アーティスト名、年度、部門の訂正</li>
+        <li>公開されているYouTube動画の追加</li>
+        <li>動画リンク切れの報告</li>
+        <li>掲載内容についての相談</li>
+        <li>削除、非掲載の依頼</li>
+        <li>その他、このサイトに関する連絡</li>
+      </ul>
+    </div>
+    <div>
+      <h2>あると助かる情報</h2>
+      <ul>
+        <li>年度</li>
+        <li>太陽 / 月</li>
+        <li>場面や曲順</li>
+        <li>曲名、アーティスト名</li>
+        <li>YouTube URL</li>
+        <li>どこで確認した情報か</li>
+      </ul>
+    </div>
   </section>
+
   <section class="section wrap narrow">
-    <h2>掲載方針</h2>
-    <ul>
-      <li>個人名は原則掲載しません。</li>
-      <li>公開する外部リンクはYouTubeのみです。</li>
-      <li>出典が確認できないデータは公開ページに出しません。</li>
-      <li>学校公式ではないことを全ページで明記します。</li>
-    </ul>
+    <h2>連絡フォーム</h2>
+    <p class="source-note">
+      送信内容は管理者宛のメールに転送されます。個人情報や公開を望まない内容は、必要な範囲だけ書いてください。
+    </p>
+    <form class="contact-form" action="https://formspree.io/f/maqvejqg" method="post" data-contact-form>
+      <input type="hidden" name="subject" value="MassGame Archiveへの連絡" />
+      <div class="form-grid">
+        <label>
+          用件
+          <select name="topic" required>
+            <option value="">選択してください</option>
+            <option value="情報提供">情報提供</option>
+            <option value="訂正依頼">訂正依頼</option>
+            <option value="リンク切れ">リンク切れ</option>
+            <option value="削除・非掲載の相談">削除・非掲載の相談</option>
+            <option value="その他">その他</option>
+          </select>
+        </label>
+        <label>
+          名前
+          <input type="text" name="name" autocomplete="name" maxlength="80" />
+        </label>
+      </div>
+      <label>
+        返信先メールアドレス
+        <input type="email" name="email" autocomplete="email" maxlength="160" required />
+      </label>
+      <div class="form-grid">
+        <label>
+          年度
+          <input type="text" name="year" inputmode="numeric" maxlength="20" placeholder="例: 2024" />
+        </label>
+        <label>
+          太陽 / 月
+          <select name="group">
+            <option value="">不明・指定なし</option>
+            <option value="太陽">太陽</option>
+            <option value="月">月</option>
+          </select>
+        </label>
+      </div>
+      <label>
+        関連URL
+        <input type="url" name="url" inputmode="url" maxlength="500" placeholder="YouTubeなど、確認できるURLがあれば" />
+      </label>
+      <label>
+        内容
+        <textarea name="message" rows="8" maxlength="2000" required></textarea>
+      </label>
+      <p class="source-note">
+        添付ファイルは受け付けていません。いただいた情報は確認できたものから反映します。
+      </p>
+      <p class="form-status" data-form-status role="status" aria-live="polite"></p>
+      <button class="primary-cta" type="submit">送信する</button>
+    </form>
   </section>
+  <script>
+    const form = document.querySelector("[data-contact-form]");
+    const status = document.querySelector("[data-form-status]");
+
+    if (form instanceof HTMLFormElement && status instanceof HTMLElement) {
+      form.addEventListener("submit", async (event) => {
+        event.preventDefault();
+
+        const submitButton = form.querySelector("button[type='submit']");
+        const formData = new FormData(form);
+
+        status.textContent = "送信しています。";
+        if (submitButton instanceof HTMLButtonElement) {
+          submitButton.disabled = true;
+        }
+
+        try {
+          const response = await fetch(form.action, {
+            method: "POST",
+            body: formData,
+            headers: {
+              Accept: "application/json",
+            },
+          });
+
+          if (!response.ok) {
+            throw new Error("Formspree submission failed");
+          }
+
+          form.reset();
+          status.textContent = "送信ありがとうございました。内容を確認します。";
+        } catch {
+          status.textContent = "送信できませんでした。時間をおいてもう一度試してください。";
+        } finally {
+          if (submitButton instanceof HTMLButtonElement) {
+            submitButton.disabled = false;
+          }
+        }
+      });
+    }
+  </script>
 </BaseLayout>

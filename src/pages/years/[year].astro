@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import RecordsTable from "../../components/RecordsTable.astro";
+import ShareActions from "../../components/ShareActions.astro";
 import { entriesForYear, youtubeEmbedUrl, years } from "../../data/archive";
 
 export function getStaticPaths() {
@@ -14,11 +15,15 @@ if (!record.year) {
 }
 ---
 
-<BaseLayout title={`${record.year.label}`}>
+<BaseLayout title={`${record.year.label}`} description={`${record.year.label}の広大附属マスゲームの曲と動画をまとめています。`}>
   <section class="hero wrap narrow">
     <p class="eyebrow">Year</p>
     <h1>{record.year.label}</h1>
     <p class="lead">{record.year.summary}</p>
+    <ShareActions
+      title={`${record.year.label} | MassGame Archive`}
+      text={`MassGame Archiveで${record.year.label}の曲と動画を見る`}
+    />
   </section>
 
   <section class="section wrap narrow">
