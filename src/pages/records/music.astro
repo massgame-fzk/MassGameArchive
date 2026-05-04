@@ -10,7 +10,7 @@ const sorted = [...musicEntries].sort((a, b) => b.year - a.year || a.group.local
   <section class="hero wrap narrow">
     <p class="eyebrow">Music</p>
     <h1>曲一覧</h1>
-    <p class="lead">年度、部門、動画あり年度、曲名・アーティストで絞り込めます。</p>
+    <p class="lead">年度、部門、曲名・アーティストで絞り込み、列ごとに並べ替えできます。</p>
   </section>
   <section class="section wrap narrow">
     <RecordsTable entries={sorted} searchable />

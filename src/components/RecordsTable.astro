@@ -9,6 +9,14 @@ type Props = {
 const { entries, searchable = false } = Astro.props;
 const years = [...new Set(entries.map((entry) => entry.year))].sort((a, b) => b - a);
 const groups = [...new Set(entries.map((entry) => entry.group))];
+
+const columns = [
+  { key: "year", label: "年度", type: "number" },
+  { key: "group", label: "部門", type: "text" },
+  { key: "scene", label: "シーン", type: "text" },
+  { key: "title", label: "曲名", type: "text" },
+  { key: "artist", label: "アーティスト", type: "text" },
+];
 ---
 
 {searchable && (
@@ -31,13 +39,6 @@ const groups = [...new Set(entries.map((entry) => entry.group))];
         {groups.map((group) => <option value={group}>{group}</option>)}
       </select>
     </label>
-    <label>
-      <span class="source-note">動画</span>
-      <select data-filter="media">
-        <option value="">指定なし</option>
-        <option value="yes">動画あり年度</option>
-      </select>
-    </label>
   </div>
 )}
 
@@ -45,12 +46,19 @@ const groups = [...new Set(entries.map((entry) => entry.group))];
   <table data-records-table>
     <thead>
       <tr>
-        <th>年度</th>
-        <th>部門</th>
-        <th>場面</th>
-        <th>曲名</th>
-        <th>アーティスト</th>
-        <th>状態</th>
+        {columns.map((column) => (
+          <th scope="col" aria-sort="none">
+            <button
+              class="sort-button"
+              type="button"
+              data-sort-key={column.key}
+              data-sort-type={column.type}
+            >
+              <span>{column.label}</span>
+              <span class="sort-indicator" aria-hidden="true"></span>
+            </button>
+          </th>
+        ))}
       </tr>
     </thead>
     <tbody>
@@ -58,7 +66,9 @@ const groups = [...new Set(entries.map((entry) => entry.group))];
         <tr
           data-year={entry.year}
           data-group={entry.group}
-          data-media={entry.year >= 2000 && entry.year <= 2011 ? "yes" : "no"}
+          data-scene={entry.scene}
+          data-title={entry.title}
+          data-artist={entry.artist}
           data-search={`${entry.title} ${entry.artist}`.toLowerCase()}
         >
           <td><a href={`/years/${entry.year}/`}>{entry.year}</a></td>
@@ -66,12 +76,73 @@ const groups = [...new Set(entries.map((entry) => entry.group))];
           <td>{entry.scene}</td>
           <td>{entry.title}</td>
           <td>{entry.artist}</td>
-          <td><span class="status">確認済み</span></td>
         </tr>
       ))}
     </tbody>
   </table>
 </div>
+
+<script>
+  const root = document.currentScript?.parentElement ?? document;
+  const table = root.querySelector("[data-records-table]");
+  const tbody = table?.querySelector("tbody");
+  const rows = Array.from(table?.querySelectorAll("tbody tr") ?? []);
+  const collator = new Intl.Collator("ja", { numeric: true, sensitivity: "base" });
+  let activeSort = { key: "year", direction: "desc", type: "number" };
+
+  const valueFor = (row: HTMLTableRowElement, key: string, type: string) => {
+    const value = row.dataset[key] ?? "";
+    return type === "number" ? Number(value) : value;
+  };
+
+  const updateSortState = () => {
+    table?.querySelectorAll("th").forEach((header) => header.setAttribute("aria-sort", "none"));
+    table?.querySelectorAll("[data-sort-key]").forEach((control) => {
+      const button = control as HTMLButtonElement;
+      const indicator = button.querySelector(".sort-indicator");
+      const isActive = button.dataset.sortKey === activeSort.key;
+      button.dataset.sortDirection = isActive ? activeSort.direction : "";
+      if (indicator) {
+        indicator.textContent = isActive ? (activeSort.direction === "asc" ? "↑" : "↓") : "";
+      }
+      if (isActive) {
+        button.closest("th")?.setAttribute("aria-sort", activeSort.direction === "asc" ? "ascending" : "descending");
+      }
+    });
+  };
+
+  const applySort = () => {
+    if (!tbody) return;
+    const sortedRows = [...rows].sort((a, b) => {
+      if (!(a instanceof HTMLTableRowElement) || !(b instanceof HTMLTableRowElement)) return 0;
+      const aValue = valueFor(a, activeSort.key, activeSort.type);
+      const bValue = valueFor(b, activeSort.key, activeSort.type);
+      const result =
+        typeof aValue === "number" && typeof bValue === "number"
+          ? aValue - bValue
+          : collator.compare(String(aValue), String(bValue));
+      return activeSort.direction === "asc" ? result : -result;
+    });
+    tbody.append(...sortedRows);
+    updateSortState();
+  };
+
+  table?.querySelectorAll("[data-sort-key]").forEach((control) => {
+    control.addEventListener("click", () => {
+      if (!(control instanceof HTMLButtonElement)) return;
+      const key = control.dataset.sortKey ?? "year";
+      const type = control.dataset.sortType ?? "text";
+      activeSort = {
+        key,
+        type,
+        direction: activeSort.key === key && activeSort.direction === "asc" ? "desc" : "asc",
+      };
+      applySort();
+    });
+  });
+
+  applySort();
+</script>
 
 {searchable && (
   <script>
@@ -89,20 +160,17 @@ const groups = [...new Set(entries.map((entry) => entry.group))];
       query: getControl("[data-filter='query']"),
       year: getControl("[data-filter='year']"),
       group: getControl("[data-filter='group']"),
-      media: getControl("[data-filter='media']"),
     };
     const applyFilters = () => {
       const query = controls.query.value.trim().toLowerCase();
       const year = controls.year.value;
       const group = controls.group.value;
-      const media = controls.media.value;
       for (const row of rows) {
         if (!(row instanceof HTMLTableRowElement)) continue;
         const visible =
           (!query || (row.dataset.search ?? "").includes(query)) &&
           (!year || row.dataset.year === year) &&
-          (!group || row.dataset.group === group) &&
-          (!media || row.dataset.media === media);
+          (!group || row.dataset.group === group);
         row.hidden = !visible;
       }
     };
