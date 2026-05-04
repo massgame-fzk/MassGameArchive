@@ -66,7 +66,7 @@ const columns = [
               data-sort-type={column.type}
             >
               <span>{column.label}</span>
-              <span class="sort-indicator" aria-hidden="true">↕</span>
+              <span class="sort-indicator" aria-hidden="true"></span>
             </button>
           </th>
         ))}
@@ -111,12 +111,8 @@ const columns = [
     table?.querySelectorAll("th").forEach((header) => header.setAttribute("aria-sort", "none"));
     table?.querySelectorAll("[data-sort-key]").forEach((control) => {
       const button = control as HTMLButtonElement;
-      const indicator = button.querySelector(".sort-indicator");
       const isActive = button.dataset.sortKey === activeSort.key;
       button.dataset.sortDirection = isActive ? activeSort.direction : "";
-      if (indicator) {
-        indicator.textContent = isActive ? (activeSort.direction === "asc" ? "↑" : "↓") : "↕";
-      }
       if (isActive) {
         button.closest("th")?.setAttribute("aria-sort", activeSort.direction === "asc" ? "ascending" : "descending");
       }
