@@ -1,5 +1,544 @@
 [
   {
+    "year": 2025,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "一部",
+    "title": "The Black Mare",
+    "artist": "Dragonland",
+    "source": "YouTube音源取得: 25sunmassgame 1st",
+    "sourceUrl": "https://www.youtube.com/watch?v=BPtx_YLTKbw",
+    "verified": true
+  },
+  {
+    "year": 2025,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "Glory To The World (Live - 12 March, 2023)",
+    "artist": "LOVEBITES",
+    "source": "YouTube音源取得: 25sunmassgame 2nd",
+    "sourceUrl": "https://www.youtube.com/watch?v=6dmONEwIB7M",
+    "verified": true
+  },
+  {
+    "year": 2025,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "一部",
+    "title": "Until The Fires Die",
+    "artist": "Fellowship",
+    "source": "YouTube音源取得: 25moonmassgame 1st",
+    "sourceUrl": "https://www.youtube.com/watch?v=bb5yQmTyg2Y",
+    "verified": true
+  },
+  {
+    "year": 2025,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "二部",
+    "title": "The Rest of My Life",
+    "artist": "Ashley Tisdale",
+    "source": "YouTube音源取得: 25moonmassgame 2nd",
+    "sourceUrl": "https://www.youtube.com/watch?v=j0Z51Jl7K88",
+    "verified": true
+  },
+  {
+    "year": 2024,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "一部",
+    "title": "To the Stars",
+    "artist": "Twilight Force",
+    "source": "YouTube音源取得: 2024sunmassgame 1st",
+    "sourceUrl": "https://www.youtube.com/watch?v=09mgaZXLZSI",
+    "verified": true
+  },
+  {
+    "year": 2024,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "Operation Ground And Pound",
+    "artist": "Dragonforce",
+    "source": "YouTube音源取得: 24sunmassgame 2nd",
+    "sourceUrl": "https://www.youtube.com/watch?v=H8YP7bKkG8o",
+    "verified": true
+  },
+  {
+    "year": 2024,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "二部",
+    "title": "Hurt So Good",
+    "artist": "Carly Rae Jepsen",
+    "source": "YouTube音源取得: 24moonmassgame 2nd",
+    "sourceUrl": "https://www.youtube.com/watch?v=pdpNYyw_Snw",
+    "verified": true
+  },
+  {
+    "year": 2023,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "一部",
+    "title": "Across the Sea of Time",
+    "artist": "Terra Atlantica",
+    "source": "YouTube音源取得: 23sunmassgame 1st",
+    "sourceUrl": "https://www.youtube.com/watch?v=P8ugLWNBA-o",
+    "verified": true
+  },
+  {
+    "year": 2023,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "Thundersword",
+    "artist": "Twilight Force",
+    "source": "YouTube音源取得: 23sunmassgame 2nd",
+    "sourceUrl": "https://www.youtube.com/watch?v=KglxvNDzkBs",
+    "verified": true
+  },
+  {
+    "year": 2023,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "Night of Winterlight",
+    "artist": "Twilight Force",
+    "source": "YouTube音源取得: 23sunmassgame 2nd",
+    "sourceUrl": "https://www.youtube.com/watch?v=KglxvNDzkBs",
+    "verified": true
+  },
+  {
+    "year": 2023,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "一部",
+    "title": "Distant Sky",
+    "artist": "Rhapsody of Fire",
+    "source": "YouTube音源取得: 23moonmassgame 1st",
+    "sourceUrl": "https://www.youtube.com/watch?v=KHWGTMmWGHE",
+    "verified": true
+  },
+  {
+    "year": 2023,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "二部",
+    "title": "LOOKING AT THE STARS (THE STANDARD CLUB PIANO DANCE REMIX)",
+    "artist": "Q;indivi",
+    "source": "YouTube音源取得: 23moonmassgame 2nd",
+    "sourceUrl": "https://www.youtube.com/watch?v=34dy0mWNSGU",
+    "verified": true
+  },
+  {
+    "year": 2022,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "Glory Days",
+    "artist": "Fellowship",
+    "source": "YouTube音源取得: 広大附属 太陽マスゲーム 2022 II部",
+    "sourceUrl": "https://www.youtube.com/watch?v=xK4B7SbpWbI",
+    "verified": true
+  },
+  {
+    "year": 2022,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "一部",
+    "title": "Shining Unity",
+    "artist": "Galderia",
+    "source": "YouTube音源取得: 広大附属 月マスゲーム 2022 Ⅰ部",
+    "sourceUrl": "https://www.youtube.com/watch?v=D0vzwJcqJrc",
+    "verified": true
+  },
+  {
+    "year": 2022,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "二部",
+    "title": "The Very First Night (Taylor's Version) (From The Vault)",
+    "artist": "Taylor Swift",
+    "source": "YouTube音源取得: 広大附属 月マスゲーム 2022 Ⅱ部",
+    "sourceUrl": "https://www.youtube.com/watch?v=tQijBDBtLFg",
+    "verified": true
+  },
+  {
+    "year": 2021,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "一部",
+    "title": "The Human Paradox",
+    "artist": "Dynazty",
+    "source": "YouTube音源取得: 21sunmassgame 1st",
+    "sourceUrl": "https://www.youtube.com/watch?v=YJZtFSeIC0k",
+    "verified": true
+  },
+  {
+    "year": 2021,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "Into the Light",
+    "artist": "Power Quest",
+    "source": "YouTube音源取得: 21sunmassgame 2nd",
+    "sourceUrl": "https://www.youtube.com/watch?v=WESm-Oaf5pI",
+    "verified": true
+  },
+  {
+    "year": 2021,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "一部",
+    "title": "Symphony of the Night",
+    "artist": "Dragonforce",
+    "source": "YouTube音源取得: 21moonmassgame 1st",
+    "sourceUrl": "https://www.youtube.com/watch?v=MrkU8zkp0LE",
+    "verified": true
+  },
+  {
+    "year": 2021,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "二部",
+    "title": "Starlight (Taylor's Version)",
+    "artist": "Taylor Swift",
+    "source": "YouTube音源取得: 21moonmassgame 2nd",
+    "sourceUrl": "https://www.youtube.com/watch?v=rzPeM499LVs",
+    "verified": true
+  },
+  {
+    "year": 2019,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "一部",
+    "title": "Metal Souls",
+    "artist": "Destinia",
+    "source": "YouTube音源取得: 19sunmassgame 1st",
+    "sourceUrl": "https://www.youtube.com/watch?v=mFJlGZ-3qQc",
+    "verified": true
+  },
+  {
+    "year": 2019,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "Break Your Soul",
+    "artist": "AXXIS",
+    "source": "YouTube音源取得: 19sunmassgame 2nd",
+    "sourceUrl": "https://www.youtube.com/watch?v=pMB0GWxFoD0",
+    "verified": true
+  },
+  {
+    "year": 2019,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "一部",
+    "title": "Fantasia",
+    "artist": "ReinXeed",
+    "source": "YouTube音源取得: 19moonmassgame 1st",
+    "sourceUrl": "https://www.youtube.com/watch?v=rCIJl6RVLr8",
+    "verified": true
+  },
+  {
+    "year": 2019,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "二部",
+    "title": "Still Dreaming",
+    "artist": "Q;indivi Starring Rin Oikawa",
+    "source": "YouTube音源取得: 19moonmassgame 2nd",
+    "sourceUrl": "https://www.youtube.com/watch?v=iPaf2x8wRE8",
+    "verified": true
+  },
+  {
+    "year": 2018,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "No More",
+    "artist": "Dragonforce",
+    "source": "YouTube音源取得: 18sunmassgame 2nd stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=FwVHwTpmzbA",
+    "verified": true
+  },
+  {
+    "year": 2018,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "Once In A Lifetime",
+    "artist": "Dragonforce",
+    "source": "YouTube音源取得: 18sunmassgame 2nd stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=FwVHwTpmzbA",
+    "verified": true
+  },
+  {
+    "year": 2018,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "My Spirit Will Go On",
+    "artist": "Dragonforce",
+    "source": "YouTube音源取得: 18sunmassgame 2nd stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=FwVHwTpmzbA",
+    "verified": true
+  },
+  {
+    "year": 2018,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "一部",
+    "title": "Arising Thunder",
+    "artist": "Angra",
+    "source": "YouTube音源取得: 18moonmassgame 1st stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=r99vLtqBHNc",
+    "verified": true
+  },
+  {
+    "year": 2018,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "二部",
+    "title": "Connected (Album Version)",
+    "artist": "Sara Paxton",
+    "source": "YouTube音源取得: 18moonmassgame 2nd stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=_-22AGfZxcY",
+    "verified": true
+  },
+  {
+    "year": 2017,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "一部",
+    "title": "Battle of Arcane Might (Instrumental) (Instrumental)",
+    "artist": "Twilight Force",
+    "source": "YouTube音源取得: 17sunmassgame 1st stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=de-CRJMSvwI",
+    "verified": true
+  },
+  {
+    "year": 2017,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "Gone To The Wall",
+    "artist": "Twilightning",
+    "source": "YouTube音源取得: 17sunmassgame 2nd stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=IIIj72WDnvI",
+    "verified": true
+  },
+  {
+    "year": 2017,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "一部",
+    "title": "Echoes Within",
+    "artist": "Age of Artemis",
+    "source": "YouTube音源取得: 17moonmassgame 1st stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=5ZhJdX1lfMQ",
+    "verified": true
+  },
+  {
+    "year": 2017,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "二部",
+    "title": "Magic Mirror",
+    "artist": "Tiffany Thornton",
+    "source": "YouTube音源取得: 17moonmassgame 2nd stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=hIuGkUa26nw",
+    "verified": true
+  },
+  {
+    "year": 2016,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "一部",
+    "title": "Rise of the Chaos Wizards",
+    "artist": "Gloryhammer",
+    "source": "YouTube音源取得: 16sunmassgame  1st",
+    "sourceUrl": "https://www.youtube.com/watch?v=nAEEbDs7Ohk",
+    "verified": true
+  },
+  {
+    "year": 2016,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "Twilight Skies",
+    "artist": "Victorius",
+    "source": "YouTube音源取得: 16sunmassgame  2nd",
+    "sourceUrl": "https://www.youtube.com/watch?v=tABnz0SoV8o",
+    "verified": true
+  },
+  {
+    "year": 2016,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "一部",
+    "title": "Ode to Joy",
+    "artist": "Heavenly",
+    "source": "YouTube音源取得: 16moonmassgame  1st",
+    "sourceUrl": "https://www.youtube.com/watch?v=W5OAq7oI-aM",
+    "verified": true
+  },
+  {
+    "year": 2016,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "二部",
+    "title": "More Than A Memory",
+    "artist": "Carly Rae Jepsen",
+    "source": "YouTube音源取得: 16moonmassgame  2nd",
+    "sourceUrl": "https://www.youtube.com/watch?v=s1d-0_C8LwM",
+    "verified": true
+  },
+  {
+    "year": 2015,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "一部",
+    "title": "Glass Room",
+    "artist": "Holy Knights",
+    "source": "YouTube音源取得: 2015 Sunmassgame 1st stage櫓",
+    "sourceUrl": "https://www.youtube.com/watch?v=Cz6Hajxq0UA",
+    "verified": true
+  },
+  {
+    "year": 2015,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "Heroes Of Our Time",
+    "artist": "Dragonforce",
+    "source": "YouTube音源取得: 2015 Sunmassgame 2nd stage櫓",
+    "sourceUrl": "https://www.youtube.com/watch?v=LgzTcZByz4A",
+    "verified": true
+  },
+  {
+    "year": 2015,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "一部",
+    "title": "Your Time Has Come",
+    "artist": "Unisonic",
+    "source": "YouTube音源取得: 2015MoonMassGame-1st stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=PlIkqUH6cRQ",
+    "verified": true
+  },
+  {
+    "year": 2014,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "一部",
+    "title": "Reign of Terror",
+    "artist": "Rhapsody of Fire",
+    "source": "YouTube音源取得: 2014 sunmass 1st stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=_rHg-fPLLcU",
+    "verified": true
+  },
+  {
+    "year": 2014,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "Blood Angel",
+    "artist": "AXXIS",
+    "source": "YouTube音源取得: 2014 sunmass 2nd stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=e2bKUL9uNKU",
+    "verified": true
+  },
+  {
+    "year": 2014,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "一部",
+    "title": "Into Eternity",
+    "artist": "Bloodbound",
+    "source": "YouTube音源取得: 2014 moonmass 1st stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=_oaI9YLLz5U",
+    "verified": true
+  },
+  {
+    "year": 2013,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "一部",
+    "title": "Rider of the Astral Fire",
+    "artist": "Luca Turilli",
+    "source": "YouTube音源取得: 2013 sunmassgame 1st stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=oGMlZUj3LUs",
+    "verified": true
+  },
+  {
+    "year": 2013,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "Inside the Winter Storm",
+    "artist": "Dragonforce",
+    "source": "YouTube音源取得: 2013 sunmassgame 2nd stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=tbZL6yEd2JE",
+    "verified": true
+  },
+  {
+    "year": 2013,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "二部",
+    "title": "ACROSS THE STARLIGHT",
+    "artist": "Q;indivi",
+    "source": "YouTube音源取得: 2013 MoonMassGame Pro 2nd",
+    "sourceUrl": "https://www.youtube.com/watch?v=KwtNCMFgtCI",
+    "verified": true
+  },
+  {
+    "year": 2012,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "一部",
+    "title": "The Power and Fury",
+    "artist": "Heavenly",
+    "source": "YouTube音源取得: 2012massgame Red-1st stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=vhMdWSG6C4U",
+    "verified": true
+  },
+  {
+    "year": 2012,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "Utopia",
+    "artist": "AXXIS",
+    "source": "YouTube音源取得: 2012massgame Red-2nd stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=1AQHKo31UCU",
+    "verified": true
+  },
+  {
+    "year": 2012,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "一部",
+    "title": "The Temple of Hate",
+    "artist": "Angra",
+    "source": "YouTube音源取得: 2012massgame white-1st stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=Db5y3ciwOkw",
+    "verified": true
+  },
+  {
+    "year": 2012,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "二部",
+    "title": "LOVE YOU",
+    "artist": "Q;indivi",
+    "source": "YouTube音源取得: 2012massgame white-2nd stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=ZnhgUMKq_GU",
+    "verified": true
+  },
+  {
     "year": 2011,
     "group": "太陽",
     "legacyGroup": "Red",
@@ -15,10 +554,10 @@
     "group": "太陽",
     "legacyGroup": "Red",
     "scene": "一部",
-    "title": "Prince of the starlight",
-    "artist": "Luca turilli",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "title": "Prince of the Starlight",
+    "artist": "Luca Turilli",
+    "source": "YouTube音源取得: 11massgame red-scene1",
+    "sourceUrl": "https://www.youtube.com/watch?v=Mrv1R83LTpo",
     "verified": true
   },
   {
@@ -37,10 +576,21 @@
     "group": "太陽",
     "legacyGroup": "Red",
     "scene": "二部",
-    "title": "warriors/Freedom call",
-    "artist": "Down to the Devil/Edguy",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "title": "Warriors",
+    "artist": "Freedom Call",
+    "source": "YouTube音源取得: 11massgame red-scene2",
+    "sourceUrl": "https://www.youtube.com/watch?v=p_sjHVGKasg",
+    "verified": true
+  },
+  {
+    "year": 2011,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "二部",
+    "title": "Down to the Devil",
+    "artist": "Edguy",
+    "source": "YouTube音源取得: 11massgame red-scene2",
+    "sourceUrl": "https://www.youtube.com/watch?v=p_sjHVGKasg",
     "verified": true
   },
   {
@@ -81,10 +631,10 @@
     "group": "月",
     "legacyGroup": "White",
     "scene": "一部",
-    "title": "Triumph For My Magic Steel",
+    "title": "Triumph for My Magic Steel",
     "artist": "Rhapsody",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 11massgame white-scene1",
+    "sourceUrl": "https://www.youtube.com/watch?v=NQABiiueY64",
     "verified": true
   },
   {
@@ -103,10 +653,10 @@
     "group": "月",
     "legacyGroup": "White",
     "scene": "二部",
-    "title": "Everything you do",
+    "title": "Everything You Do",
     "artist": "M2M",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 11massgame white-scene2",
+    "sourceUrl": "https://www.youtube.com/watch?v=AzjbWOnhNZ0",
     "verified": true
   },
   {
@@ -149,8 +699,8 @@
     "scene": "一部",
     "title": "Avalon",
     "artist": "Nocturnal Rites",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 10massgame red-scene1",
+    "sourceUrl": "https://www.youtube.com/watch?v=QuHqrcVWaQs",
     "verified": true
   },
   {
@@ -169,10 +719,10 @@
     "group": "太陽",
     "legacyGroup": "Red",
     "scene": "二部",
-    "title": "Sign in the sky",
+    "title": "Sign in the Sky",
     "artist": "Saidian",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 10massgame red-scene2",
+    "sourceUrl": "https://www.youtube.com/watch?v=isLyGSQ26t0",
     "verified": true
   },
   {
@@ -215,8 +765,8 @@
     "scene": "一部",
     "title": "The Star",
     "artist": "Dark Moor",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 10massgame white-scene1",
+    "sourceUrl": "https://www.youtube.com/watch?v=xc0fVB05SOs",
     "verified": true
   },
   {
@@ -237,8 +787,8 @@
     "scene": "二部",
     "title": "Part of Your World",
     "artist": "Q;indivi",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 10massgame white-scene2",
+    "sourceUrl": "https://www.youtube.com/watch?v=k24ME1th_rY",
     "verified": true
   },
   {
@@ -279,10 +829,10 @@
     "group": "太陽",
     "legacyGroup": "Red",
     "scene": "一部",
-    "title": "Demonheart",
-    "artist": "Luca turilli",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "title": "Demonheart (Edit)",
+    "artist": "Luca Turilli",
+    "source": "YouTube音源取得: 09massgame red-scene1",
+    "sourceUrl": "https://www.youtube.com/watch?v=NFDTvZqfqwY",
     "verified": true
   },
   {
@@ -301,10 +851,10 @@
     "group": "太陽",
     "legacyGroup": "Red",
     "scene": "二部",
-    "title": "Doom of destiny",
-    "artist": "Axxis",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "title": "Doom of Destiny (Arabia)",
+    "artist": "AXXIS",
+    "source": "YouTube音源取得: 09massgame red-scene2",
+    "sourceUrl": "https://www.youtube.com/watch?v=rpqYm3sPdxI",
     "verified": true
   },
   {
@@ -345,10 +895,10 @@
     "group": "月",
     "legacyGroup": "White",
     "scene": "一部",
-    "title": "Whisper in the red sky",
-    "artist": "Galneryus",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "title": "WHISPER IN THE RED SKY",
+    "artist": "GALNERYUS",
+    "source": "YouTube音源取得: 09massgame white-scene1",
+    "sourceUrl": "https://www.youtube.com/watch?v=DAi7E1VYNH4",
     "verified": true
   },
   {
@@ -367,10 +917,10 @@
     "group": "月",
     "legacyGroup": "White",
     "scene": "二部",
-    "title": "I wanna be",
+    "title": "I Wanna Be",
     "artist": "Emma Roberts",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 09massgame white-scene2",
+    "sourceUrl": "https://www.youtube.com/watch?v=A4_EfdiBWkA",
     "verified": true
   },
   {
@@ -433,10 +983,10 @@
     "group": "太陽",
     "legacyGroup": "Red",
     "scene": "二部",
-    "title": "Through the Fire and Flames",
+    "title": "Through The Fire And Flames",
     "artist": "Dragonforce",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 08R-2",
+    "sourceUrl": "https://www.youtube.com/watch?v=x-YV3vgclwE",
     "verified": true
   },
   {
@@ -479,8 +1029,8 @@
     "scene": "一部",
     "title": "Nova Era",
     "artist": "Angra",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 08W-1",
+    "sourceUrl": "https://www.youtube.com/watch?v=1OBM9X7tak8",
     "verified": true
   },
   {
@@ -499,10 +1049,10 @@
     "group": "月",
     "legacyGroup": "White",
     "scene": "二部",
-    "title": "Kiss The Girl",
+    "title": "Kiss the Girl",
     "artist": "Ashley Tisdale",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 08W-2",
+    "sourceUrl": "https://www.youtube.com/watch?v=kQ1aMx4Gvoc",
     "verified": true
   },
   {
@@ -567,8 +1117,8 @@
     "scene": "二部",
     "title": "We Don't Need a Hero",
     "artist": "Edguy",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 07R-2",
+    "sourceUrl": "https://www.youtube.com/watch?v=cYi8pCkIWLE",
     "verified": true
   },
   {
@@ -609,10 +1159,21 @@
     "group": "月",
     "legacyGroup": "White",
     "scene": "一部",
+    "title": "Induction (30 Years - Live Version)",
+    "artist": "Gamma Ray",
+    "source": "YouTube音源取得: 07W-1",
+    "sourceUrl": "https://www.youtube.com/watch?v=xWdgksyRfWE",
+    "verified": true
+  },
+  {
+    "year": 2007,
+    "group": "月",
+    "legacyGroup": "White",
+    "scene": "一部",
     "title": "Dethrone Tyranny",
-    "artist": "Gamma ray",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "artist": "Gamma Ray",
+    "source": "YouTube音源取得: 07W-1",
+    "sourceUrl": "https://www.youtube.com/watch?v=xWdgksyRfWE",
     "verified": true
   },
   {
@@ -631,10 +1192,10 @@
     "group": "月",
     "legacyGroup": "White",
     "scene": "二部",
-    "title": "Mamma Mia",
-    "artist": "A☆Teens",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "title": "Mamma Mia (Spanish Version)",
+    "artist": "A*Teens",
+    "source": "YouTube音源取得: 07W-2",
+    "sourceUrl": "https://www.youtube.com/watch?v=7ry5kSyoihg",
     "verified": true
   },
   {
@@ -675,10 +1236,21 @@
     "group": "太陽",
     "legacyGroup": "Red",
     "scene": "一部",
-    "title": "Spread your fire",
+    "title": "Deus Le Volt!",
     "artist": "Angra",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 06REDMASSGAME 1stStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=GqU1qoOl_d0",
+    "verified": true
+  },
+  {
+    "year": 2006,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scene": "一部",
+    "title": "Spread Your Fire",
+    "artist": "Angra",
+    "source": "YouTube音源取得: 06REDMASSGAME 1stStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=GqU1qoOl_d0",
     "verified": true
   },
   {
@@ -742,9 +1314,9 @@
     "legacyGroup": "White",
     "scene": "一部",
     "title": "Emerald Sword",
-    "artist": "Rhapsody of fire",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "artist": "Rhapsody",
+    "source": "YouTube音源取得: 06WHITEMASSGAME 1stStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=xQSMyagaZyU",
     "verified": true
   },
   {
@@ -765,8 +1337,8 @@
     "scene": "二部",
     "title": "Miracles Happen",
     "artist": "Myra",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 06WHITEMASSGAME 2ndStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=ecCTFVBmTTQ",
     "verified": true
   },
   {
@@ -809,8 +1381,8 @@
     "scene": "一部",
     "title": "The Ancient Forest of Elves",
     "artist": "Luca Turilli",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 05REDMassGame １stStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=o9yXXRtT5cg",
     "verified": true
   },
   {
@@ -831,8 +1403,8 @@
     "scene": "二部",
     "title": "Heaven or Hell",
     "artist": "Gamma Ray",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 05R 2",
+    "sourceUrl": "https://www.youtube.com/watch?v=qS1ZrAWLjtI",
     "verified": true
   },
   {
@@ -875,8 +1447,8 @@
     "scene": "一部",
     "title": "Nightmare",
     "artist": "Nocturnal Rites",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 05W 1",
+    "sourceUrl": "https://www.youtube.com/watch?v=JzGGhG3-rYw",
     "verified": true
   },
   {
@@ -941,8 +1513,8 @@
     "scene": "一部",
     "title": "San Sebastian",
     "artist": "Sonata Arctica",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 2004Red 1st_stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=rCyyucdyqOs",
     "verified": true
   },
   {
@@ -961,10 +1533,10 @@
     "group": "赤",
     "legacyGroup": "Red",
     "scene": "二部",
-    "title": "HEROES",
+    "title": "Heroes",
     "artist": "Masterplan",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 2004Red 2nd_stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=UJPkR-k1F3o",
     "verified": true
   },
   {
@@ -1005,10 +1577,10 @@
     "group": "白",
     "legacyGroup": "White",
     "scene": "一部",
-    "title": "The Pride of The Tyrant",
+    "title": "The Pride of the Tyrant",
     "artist": "Rhapsody",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 2004White 1st_stage",
+    "sourceUrl": "https://www.youtube.com/watch?v=_Q50pVtkh34",
     "verified": true
   },
   {
@@ -1073,8 +1645,8 @@
     "scene": "一部",
     "title": "Center of the Universe",
     "artist": "Kamelot",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 03REDMassGame １stStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=DO_T8Oj-whw",
     "verified": true
   },
   {
@@ -1093,10 +1665,10 @@
     "group": "赤",
     "legacyGroup": "Red",
     "scene": "二部",
-    "title": "Power",
+    "title": "Power (2024 Remaster)",
     "artist": "Helloween",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 03REDMassGame 2ndStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=9szH1BbNdSY",
     "verified": true
   },
   {
@@ -1139,8 +1711,8 @@
     "scene": "一部",
     "title": "Eyes of the Dead",
     "artist": "Nocturnal Rites",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 03WHITEMassGame １stStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=rvjoFVxPyPM",
     "verified": true
   },
   {
@@ -1161,8 +1733,8 @@
     "scene": "二部",
     "title": "I Surrender",
     "artist": "Steps",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 03W-2",
+    "sourceUrl": "https://www.youtube.com/watch?v=Vacp7H_uR-M",
     "verified": true
   },
   {
@@ -1205,8 +1777,8 @@
     "scene": "一部",
     "title": "Forever",
     "artist": "Kamelot",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 02REDMassGame １stStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=SU7WYPbsZsM",
     "verified": true
   },
   {
@@ -1225,10 +1797,10 @@
     "group": "赤",
     "legacyGroup": "Red",
     "scene": "二部",
-    "title": "Send Me a Sign",
+    "title": "Send Me A Sign",
     "artist": "Gamma Ray",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 02REDMassGame 2ndStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=2ML8WUIgV6s",
     "verified": true
   },
   {
@@ -1270,9 +1842,9 @@
     "legacyGroup": "White",
     "scene": "一部",
     "title": "High Tide",
-    "artist": "TEN",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "artist": "Ten",
+    "source": "YouTube音源取得: 02WHITEMassGame １stStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=BS6Sgg4CGMU",
     "verified": true
   },
   {
@@ -1293,8 +1865,8 @@
     "scene": "二部",
     "title": "An Apple A Day",
     "artist": "Aqua",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 02WHITEMassGame 2ndStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=XB7wyFLM3EU",
     "verified": true
   },
   {
@@ -1335,10 +1907,10 @@
     "group": "赤",
     "legacyGroup": "Red",
     "scene": "一部",
-    "title": "Fullmoon",
+    "title": "FullMoon",
     "artist": "Sonata Arctica",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 01R 1",
+    "sourceUrl": "https://www.youtube.com/watch?v=4LPLoBnZIVs",
     "verified": true
   },
   {
@@ -1357,10 +1929,10 @@
     "group": "赤",
     "legacyGroup": "Red",
     "scene": "二部",
-    "title": "Garpe Diem",
+    "title": "Carpe Diem (Carpe Diem)",
     "artist": "Pretty Maids",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 01REDMassGame 2ndStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=bZBd2vRPmJA",
     "verified": true
   },
   {
@@ -1424,9 +1996,9 @@
     "legacyGroup": "White",
     "scene": "二部",
     "title": "Super Trouper",
-    "artist": "A☆Teens",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "artist": "A*Teens",
+    "source": "YouTube音源取得: 01WHITEMassGame 2ndStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=t0q0OCfEBvg",
     "verified": true
   },
   {
@@ -1469,8 +2041,8 @@
     "scene": "一部",
     "title": "Legend of Steel",
     "artist": "Luca Turilli",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 00REDMassGame １stStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=n2AJEWaMB0g",
     "verified": true
   },
   {
@@ -1491,8 +2063,8 @@
     "scene": "二部",
     "title": "Forever",
     "artist": "Skid Row",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 00REDMassGame 2ndStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=K0CV2iDXkKU",
     "verified": true
   },
   {
@@ -1557,8 +2129,8 @@
     "scene": "二部",
     "title": "What In This World",
     "artist": "Maarja",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 00WHITEMassGame 2ndStage",
+    "sourceUrl": "https://www.youtube.com/watch?v=ICC3nuHRPZw",
     "verified": true
   },
   {
@@ -1601,8 +2173,8 @@
     "scene": "一部",
     "title": "Babylon",
     "artist": "Riot",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 広島大学附属高校マスゲーム1999年赤軍（1部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=kfRzT9etOCo",
     "verified": true
   },
   {
@@ -1623,8 +2195,8 @@
     "scene": "二部",
     "title": "Love Is A Gun",
     "artist": "Little Angels",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 広島大学附属高校マスゲーム1999年赤軍（2部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=41EOjcapZTg",
     "verified": true
   },
   {
@@ -1665,10 +2237,10 @@
     "group": "白",
     "legacyGroup": "White",
     "scene": "一部",
-    "title": "Change The World",
+    "title": "Change the World",
     "artist": "Dokken",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 広島大学附属高校マスゲーム1999年白軍（1部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=B7ZN10fk3DU",
     "verified": true
   },
   {
@@ -1732,9 +2304,9 @@
     "legacyGroup": "Red",
     "scene": "一部",
     "title": "Victory Is Mine",
-    "artist": "Virgin Steel",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "artist": "Virgin Steele",
+    "source": "YouTube音源取得: 広島大学附属高校マスゲーム1998年赤軍（1部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=Pvd-M26Q4wQ",
     "verified": true
   },
   {
@@ -1755,8 +2327,8 @@
     "scene": "二部",
     "title": "I'll Be With You",
     "artist": "Impellitteri",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 広島大学附属高校マスゲーム1998年赤軍（2部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=U0PWB0o0lXA",
     "verified": true
   },
   {
@@ -1797,10 +2369,10 @@
     "group": "白",
     "legacyGroup": "White",
     "scene": "一部",
-    "title": "The Name Of The Rose",
-    "artist": "TEN",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "title": "The Name of the Rose",
+    "artist": "Ten",
+    "source": "YouTube音源取得: 【集団行動】広島大学附属高校マスゲーム1998年白軍（1部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=YSM6sMcMfek",
     "verified": true
   },
   {
@@ -1865,8 +2437,8 @@
     "scene": "一部",
     "title": "Holy Land",
     "artist": "Riot",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 広島大学附属高校マスゲーム1997年赤軍（1部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=ysronlHdGzE",
     "verified": true
   },
   {
@@ -1885,10 +2457,10 @@
     "group": "赤",
     "legacyGroup": "Red",
     "scene": "二部",
-    "title": "Rich And Famous",
+    "title": "Rich and Famous (Remastered in 2015)",
     "artist": "Gamma Ray",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 広島大学附属高校マスゲーム1997年赤軍（2部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=6k5s7RovZqo",
     "verified": true
   },
   {
@@ -1931,8 +2503,8 @@
     "scene": "一部",
     "title": "Wolf To The Moon",
     "artist": "Ritchie Blackmore's Rainbow",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 広島大学附属高校マスゲーム1997年白軍（1部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=qbVzrSvYM1Y",
     "verified": true
   },
   {
@@ -1997,8 +2569,8 @@
     "scene": "一部",
     "title": "Take What You Can",
     "artist": "XYZ",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 広島大学附属高校マスゲーム1996年赤軍（1部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=YxgAub21JcU",
     "verified": true
   },
   {
@@ -2017,10 +2589,10 @@
     "group": "赤",
     "legacyGroup": "Red",
     "scene": "二部",
-    "title": "Kittens Got Clows",
-    "artist": "White Snake",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "title": "Kittens Got Claws (The Wagging Tongue Edition / 2019 Remaster)",
+    "artist": "Whitesnake",
+    "source": "YouTube音源取得: 広島大学附属高校マスゲーム1996年赤軍（2部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=oZbdejiN1WM",
     "verified": true
   },
   {
@@ -2061,10 +2633,10 @@
     "group": "白",
     "legacyGroup": "White",
     "scene": "一部",
-    "title": "You're Gonna Break My Heart Again",
-    "artist": "White Snake",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "title": "You're Gonna Break My Heart Again (2022 Remix)",
+    "artist": "Whitesnake",
+    "source": "YouTube音源取得: 【集団行動】広島大学附属高校マスゲーム1996年白軍（1部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=IMJocLst4Cg",
     "verified": true
   },
   {
@@ -2085,8 +2657,8 @@
     "scene": "二部",
     "title": "Only Love",
     "artist": "Susanna Hoffs",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 【集団行動】広島大学附属高校マスゲーム1996年白軍（2部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=ntr-DByrpQU",
     "verified": true
   },
   {
@@ -2195,8 +2767,8 @@
     "scene": "一部",
     "title": "Desire",
     "artist": "Ozzy Osbourne",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 広島大学附属高校マスゲーム1995年白軍（1部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=3WUaoefSMzM",
     "verified": true
   },
   {
@@ -2545,10 +3117,10 @@
     "group": "赤",
     "legacyGroup": "Red",
     "scene": "二部",
-    "title": "Daddy Brother Lover Little Boy",
-    "artist": "Mr.Big",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "title": "Daddy, Brother, Lover, Little Boy [The Electric Drill Song]",
+    "artist": "Mr. Big",
+    "source": "YouTube音源取得: 広島大学附属高校マスゲーム1992年赤軍（2部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=vo8OjVe7nEA",
     "verified": true
   },
   {
@@ -2589,10 +3161,10 @@
     "group": "白",
     "legacyGroup": "White",
     "scene": "一部",
-    "title": "Break The Ice",
+    "title": "Break The Ice (Album Version)",
     "artist": "Accept",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "source": "YouTube音源取得: 【集団行動】広島大学附属高校マスゲーム1992年白軍（1部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=CnOTqJeTVrQ",
     "verified": true
   },
   {
@@ -2611,10 +3183,10 @@
     "group": "白",
     "legacyGroup": "White",
     "scene": "二部",
-    "title": "Hole In My Heart",
-    "artist": "Cyndy Lauper",
-    "source": "FC2「マスゲームの曲」",
-    "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+    "title": "Hole in My Heart",
+    "artist": "Cyndi Lauper",
+    "source": "YouTube音源取得: 【集団行動】広島大学附属高校マスゲーム1992年白軍（2部）",
+    "sourceUrl": "https://www.youtube.com/watch?v=dmwmFZgynN0",
     "verified": true
   },
   {
