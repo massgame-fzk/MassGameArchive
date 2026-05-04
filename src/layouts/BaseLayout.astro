@@ -58,7 +58,7 @@ const nav = [
           <span class="brand-mark" aria-hidden="true"></span>
           <span>{site.name}</span>
         </a>
-        <nav class="site-nav" aria-label="主要ナビゲーション">
+        <nav class="site-nav desktop-nav" aria-label="主要ナビゲーション">
           {nav.map((item) => {
             const isCurrent = item.href === "/" ? currentPath === "/" : currentPath.startsWith(item.href);
             return (
@@ -68,6 +68,22 @@ const nav = [
             );
           })}
         </nav>
+        <details class="mobile-menu">
+          <summary>
+            <span class="menu-icon" aria-hidden="true"></span>
+            <span>メニュー</span>
+          </summary>
+          <nav class="site-nav mobile-nav" aria-label="主要ナビゲーション">
+            {nav.map((item) => {
+              const isCurrent = item.href === "/" ? currentPath === "/" : currentPath.startsWith(item.href);
+              return (
+                <a href={item.href} aria-current={isCurrent ? "page" : undefined}>
+                  <Icon name={item.icon} />{item.label}
+                </a>
+              );
+            })}
+          </nav>
+        </details>
       </div>
     </header>
     <main id="main">
