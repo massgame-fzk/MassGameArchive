@@ -3,6 +3,7 @@ import yearsData from "./years.json";
 import mediaData from "./media.json";
 import type { MediaEntry, MusicEntry, MusicRecord, YearRecord } from "./types";
 
+const expectedMusicScenes = ["入場", "一部", "インター", "二部", "三部", "退場"] as const;
 const allowedYoutubeHosts = new Set(["youtube.com", "www.youtube.com", "youtu.be"]);
 const youtubeVideoIdPattern = /^[A-Za-z0-9_-]{11}$/;
 const youtubePlaylistIdPattern = /^[A-Za-z0-9_-]+$/;
@@ -25,6 +26,42 @@ export const musicEntries = musicRecords.flatMap((record): MusicEntry[] =>
 export const mediaEntries = (mediaData as MediaEntry[]).filter(
   (entry) => entry.verified && isValidYoutubeEntry(entry),
 );
+
+export function formatEventDate(date?: string) {
+  if (!date) return "";
+  const match = date.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (!match) return date;
+
+  const [, year, month, day] = match;
+  return `${Number(year)}年${Number(month)}月${Number(day)}日`;
+}
+
+export function missingMusicComment(year: number) {
+  const records = musicRecords.filter((entry) => entry.year === year);
+  if (records.length === 0) return "曲データ未整理";
+
+  const missingByGroup = records
+    .map((record) => {
+      const missingScenes = expectedMusicScenes.filter((scene) => {
+        const slot = record.scenes.find((item) => item.scene === scene);
+        return !slot || !slot.tracks.some((track) => track.verified);
+      });
+
+      return {
+        group: record.group,
+        missingScenes,
+      };
+    })
+    .filter((entry) => entry.missingScenes.length > 0);
+
+  if (missingByGroup.length === 0) return "";
+
+  const details = missingByGroup
+    .map((entry) => `${entry.group}: ${entry.missingScenes.join("、")}`)
+    .join(" / ");
+
+  return `曲データ不足: ${details}`;
+}
 
 function mediaMatchesYear(entry: MediaEntry, year: number) {
   const exactYear = entry.label.match(/^(\d{4})年度$/);
@@ -87,10 +124,14 @@ export function youtubeEmbedUrl(entry: MediaEntry) {
 }
 
 export function entriesForYear(year: number) {
+  const yearRecord = years.find((entry) => entry.year === year);
+
   return {
-    year: years.find((entry) => entry.year === year),
+    year: yearRecord,
     musicRecords: musicRecords.filter((entry) => entry.year === year),
     music: musicEntries.filter((entry) => entry.year === year),
     media: mediaEntries.filter((entry) => mediaMatchesYear(entry, year)),
+    eventDateLabel: formatEventDate(yearRecord?.eventDate),
+    missingMusicComment: missingMusicComment(year),
   };
 }

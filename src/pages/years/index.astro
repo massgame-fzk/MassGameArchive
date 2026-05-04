@@ -1,8 +1,14 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { years } from "../../data/archive";
+import { formatEventDate, missingMusicComment, years } from "../../data/archive";
 
-const sorted = [...years].sort((a, b) => b.year - a.year);
+const sorted = [...years]
+  .sort((a, b) => b.year - a.year)
+  .map((entry) => ({
+    ...entry,
+    eventDateLabel: formatEventDate(entry.eventDate),
+    missingMusicComment: missingMusicComment(entry.year),
+  }));
 ---
 
 <BaseLayout title="年度別" breadcrumbs={[{ label: "年度別" }]}>
@@ -17,7 +23,8 @@ const sorted = [...years].sort((a, b) => b.year - a.year);
         <a class="year-card" href={`/years/${entry.year}/`}>
           <span class="year-number">{entry.year}</span>
           <div>
-            <p>{entry.summary}</p>
+            {entry.eventDateLabel && <p class="year-card-event">体育祭: {entry.eventDateLabel}</p>}
+            {entry.missingMusicComment && <p class="year-card-comment">{entry.missingMusicComment}</p>}
             <p>
               {entry.groups.map((group) => <span class="tag">{group}</span>)}
             </p>

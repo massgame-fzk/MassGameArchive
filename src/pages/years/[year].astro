@@ -26,7 +26,7 @@ if (!record.year) {
   <section class="hero wrap narrow">
     <p class="eyebrow">Year</p>
     <h1>{record.year.label}</h1>
-    <p class="lead">{record.year.summary}</p>
+    {record.eventDateLabel && <p class="lead">体育祭: {record.eventDateLabel}</p>}
     <ShareActions
       title={`${record.year.label} | MassGame Archive`}
       text={`MassGame Archiveで${record.year.label}の曲と動画を見る`}
@@ -35,6 +35,7 @@ if (!record.year) {
 
   <section class="section wrap narrow">
     <h2>曲</h2>
+    {record.missingMusicComment && <p class="data-comment">{record.missingMusicComment}</p>}
     {record.music.length > 0 ? <RecordsTable entries={record.music} /> : <p>この年度の曲はまだ確認済みデータがありません。</p>}
   </section>
 

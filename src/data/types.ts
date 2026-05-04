@@ -6,6 +6,7 @@ export type YearRecord = {
   label: string;
   groups: GroupName[];
   summary: string;
+  eventDate?: string;
   source: string;
   sourceUrl: string;
   verified: boolean;
