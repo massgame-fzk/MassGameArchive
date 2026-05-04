@@ -1,0 +1,25 @@
+name: 訂正依頼
+description: 誤記、リンク切れ、年度・部門の訂正
+title: "[訂正]: "
+labels: ["correction"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: 対象ページ
+      placeholder: "例: /records/music/"
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 訂正内容
+      description: 現在の記載と、正しい内容を記入してください。
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 根拠・出典
+    validations:
+      required: true

@@ -1,0 +1,30 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { years } from "../../data/archive";
+
+const sorted = [...years].sort((a, b) => b.year - a.year);
+---
+
+<BaseLayout title="年度別">
+  <section class="hero wrap narrow">
+    <p class="eyebrow">Years</p>
+    <h1>年度別</h1>
+    <p class="lead">曲またはYouTube動画が確認できる年度を中心に掲載しています。各年度ページで曲と動画を確認できます。</p>
+  </section>
+  <section class="section wrap narrow">
+    <div class="year-list">
+      {sorted.map((entry) => (
+        <a class="year-card" href={`/years/${entry.year}/`}>
+          <span class="year-number">{entry.year}</span>
+          <div>
+            <h2>{entry.label}</h2>
+            <p>{entry.summary}</p>
+            <p>
+              {entry.groups.map((group) => <span class="tag">{group}</span>)}
+            </p>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

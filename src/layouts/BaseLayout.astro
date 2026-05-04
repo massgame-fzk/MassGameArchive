@@ -1,0 +1,60 @@
+---
+import "../styles/global.css";
+import Icon from "../components/Icon.astro";
+import { site } from "../data/site";
+
+type Props = {
+  title: string;
+  description?: string;
+};
+
+const { title, description = site.description } = Astro.props;
+const nav = [
+  { href: "/", label: "トップ", icon: "home" },
+  { href: "/about/", label: "このサイトについて", icon: "book" },
+  { href: "/years/", label: "年度", icon: "calendar" },
+  { href: "/records/music/", label: "曲", icon: "music" },
+  { href: "/records/media/", label: "動画", icon: "video" },
+  { href: "/contribute/", label: "情報提供", icon: "info" },
+] as const;
+---
+
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <title>{title} | {site.name}</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">本文へ移動</a>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <a class="brand" href="/">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span>{site.name}</span>
+        </a>
+        <nav class="site-nav" aria-label="主要ナビゲーション">
+          {nav.map((item) => <a href={item.href}><Icon name={item.icon} />{item.label}</a>)}
+        </nav>
+      </div>
+    </header>
+    <main id="main">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap footer-grid">
+        <p>
+          このサイトはOB/OGコミュニティ向けの非公式アーカイブです。広島大学附属中・高等学校の公式サイトではありません。
+        </p>
+        <p>
+          掲載対象は曲名、年度、部門、場面、YouTube動画です。個人名、本文レポート、写真資料は公開対象にしていません。
+        </p>
+        <p>
+          <a href="/about/">このサイトについて</a>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

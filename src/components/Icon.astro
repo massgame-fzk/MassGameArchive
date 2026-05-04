@@ -1,0 +1,21 @@
+---
+type IconName = "home" | "book" | "calendar" | "music" | "video" | "info" | "arrow";
+
+type Props = {
+  name: IconName;
+};
+
+const { name } = Astro.props;
+
+const paths: Record<IconName, string> = {
+  home: '<path d="M3 10.5 12 3l9 7.5"/><path d="M5.5 9.5V21h13V9.5"/><path d="M9.5 21v-6h5v6"/>',
+  book: '<path d="M5 4.5h9a3 3 0 0 1 3 3V20H8a3 3 0 0 0-3 3V4.5Z"/><path d="M5 4.5v18"/><path d="M17 7.5h2a2 2 0 0 1 2 2V20h-4"/>',
+  calendar: '<path d="M7 3v4"/><path d="M17 3v4"/><path d="M4.5 8h15"/><rect x="4.5" y="5" width="15" height="16" rx="2"/><path d="M8 12h2"/><path d="M12 12h2"/><path d="M16 12h2"/><path d="M8 16h2"/><path d="M12 16h2"/>',
+  music: '<path d="M9 18.5a3 2.2 0 1 1-2-2.08V6l11-2v10.5a3 2.2 0 1 1-2-2.08V8L9 9.25v9.25Z"/>',
+  video: '<rect x="3.5" y="6.5" width="12" height="11" rx="2"/><path d="m15.5 10 5-3v10l-5-3"/>',
+  info: '<circle cx="12" cy="12" r="9"/><path d="M12 10.5V17"/><path d="M12 7h.01"/>',
+  arrow: '<path d="M5 12h14"/><path d="m13 6 6 6-6 6"/>',
+};
+---
+
+<svg class="icon" viewBox="0 0 24 24" aria-hidden="true" set:html={paths[name]}></svg>

@@ -1,0 +1,18 @@
+{
+  "name": "massgame-archive",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "extract:fc2": "node scripts/extract-fc2-data.mjs"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.4",
+    "astro": "^5.7.5",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {}
+}

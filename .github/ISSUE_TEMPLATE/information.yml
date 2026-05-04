@@ -1,0 +1,26 @@
+name: 情報提供
+description: 新しい曲・動画・写真・年度情報の提供
+title: "[情報提供]: "
+labels: ["information"]
+body:
+  - type: input
+    id: year
+    attributes:
+      label: 年度
+      placeholder: "例: 2012"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 内容
+      description: 部門、場面、曲名、アーティスト、YouTube URLなどを記入してください。
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 出典
+      description: 公開URL、資料名、確認方法を記入してください。
+    validations:
+      required: true

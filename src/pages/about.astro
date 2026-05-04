@@ -1,0 +1,28 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { site } from "../data/site";
+---
+
+<BaseLayout title="このサイトについて">
+  <section class="hero wrap narrow">
+    <p class="eyebrow">About</p>
+    <h1>このサイトについて</h1>
+    <p class="lead">
+      {site.name} は、広大附属マスゲームの曲とYouTube動画を、OB/OGが参照しやすい形に整理する非公式アーカイブです。
+    </p>
+  </section>
+  <section class="section wrap narrow grid cols-2">
+    <div>
+      <h2>継承の記録</h2>
+      <p>
+        旧非公式サイトに残っていた曲名と動画情報を、単独で閲覧できる資料として整理しています。旧サイトへのリンク集としては公開しません。
+      </p>
+    </div>
+    <div>
+      <h2>運用方針</h2>
+      <p>
+        公開対象は年度、部門、場面、曲名、アーティスト、YouTube動画です。本文レポート、写真、個人名は公開対象にしません。
+      </p>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,56 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import RecordsTable from "../../components/RecordsTable.astro";
+import { entriesForYear, youtubeEmbedUrl, years } from "../../data/archive";
+
+export function getStaticPaths() {
+  return years.map((entry) => ({ params: { year: String(entry.year) } }));
+}
+
+const yearParam = Number(Astro.params.year);
+const record = entriesForYear(yearParam);
+if (!record.year) {
+  return Astro.redirect("/years/");
+}
+---
+
+<BaseLayout title={`${record.year.label}`}>
+  <section class="hero wrap narrow">
+    <p class="eyebrow">Year</p>
+    <h1>{record.year.label}</h1>
+    <p class="lead">{record.year.summary}</p>
+  </section>
+
+  <section class="section wrap narrow">
+    <h2>曲</h2>
+    {record.music.length > 0 ? <RecordsTable entries={record.music} /> : <p>この年度の曲はまだ確認済みデータがありません。</p>}
+  </section>
+
+  <section class="section wrap narrow">
+    <h2>YouTube</h2>
+    {record.media.length > 0 ? (
+      <div class="video-grid">
+        {record.media.map((entry) => {
+          const embedUrl = youtubeEmbedUrl(entry);
+          return (
+            <article class="video-item">
+              <h3>{entry.label}</h3>
+              {embedUrl && (
+                <iframe
+                  src={embedUrl}
+                  title={`${entry.label} YouTube`}
+                  loading="lazy"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowfullscreen
+                ></iframe>
+              )}
+              <p><a class="youtube-link" href={entry.url}>YouTubeで見る</a></p>
+            </article>
+          );
+        })}
+      </div>
+    ) : (
+      <p>この年度のYouTubeリンクは未確認です。</p>
+    )}
+  </section>
+</BaseLayout>

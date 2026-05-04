@@ -1,0 +1,34 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { mediaEntries, youtubeEmbedUrl } from "../../data/archive";
+---
+
+<BaseLayout title="YouTube">
+  <section class="hero wrap narrow">
+    <p class="eyebrow">YouTube</p>
+    <h1>動画</h1>
+    <p class="lead">公開ページで扱う外部リンクはYouTubeのみです。プレイリストは可能な範囲で埋め込み表示します。</p>
+  </section>
+  <section class="section wrap narrow">
+    <div class="video-grid">
+      {mediaEntries.map((entry) => {
+        const embedUrl = youtubeEmbedUrl(entry);
+        return (
+          <article class="video-item">
+            <h2>{entry.label}</h2>
+            {embedUrl && (
+              <iframe
+                src={embedUrl}
+                title={`${entry.label} YouTube`}
+                loading="lazy"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+              ></iframe>
+            )}
+            <p><a class="youtube-link" href={entry.url}>YouTubeで見る</a></p>
+          </article>
+        );
+      })}
+    </div>
+  </section>
+</BaseLayout>

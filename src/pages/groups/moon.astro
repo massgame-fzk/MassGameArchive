@@ -1,0 +1,19 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import RecordsTable from "../../components/RecordsTable.astro";
+import { musicEntries } from "../../data/archive";
+
+const entries = musicEntries.filter((entry) => entry.group === "月" || entry.group === "白");
+---
+
+<BaseLayout title="月・白">
+  <section class="hero wrap narrow">
+    <p class="eyebrow">Group</p>
+    <h1>月・白</h1>
+    <p class="lead">旧呼称の白と、2006年以降の月を横断して表示します。</p>
+  </section>
+  <section class="section wrap narrow">
+    <h2>曲一覧</h2>
+    <RecordsTable entries={entries} searchable />
+  </section>
+</BaseLayout>

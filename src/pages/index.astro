@@ -1,0 +1,64 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Icon from "../components/Icon.astro";
+import { site } from "../data/site";
+
+const featureLinks = [
+  {
+    href: "/about/",
+    label: "このサイトについて",
+    text: "公開方針と扱う情報を確認する",
+    icon: "book",
+  },
+  {
+    href: "/years/",
+    label: "年度から探す",
+    text: "年ごとの曲と動画を確認する",
+    icon: "calendar",
+  },
+  {
+    href: "/records/music/",
+    label: "曲名で探す",
+    text: "曲名、アーティスト、部門で絞り込む",
+    icon: "music",
+  },
+  {
+    href: "/records/media/",
+    label: "動画を見る",
+    text: "YouTubeプレイリストをまとめて見る",
+    icon: "video",
+  },
+] as const;
+---
+
+<BaseLayout title="トップ">
+  <section class="landing-hero">
+    <div class="wrap landing-inner">
+      <h1>{site.name}</h1>
+      <p class="landing-lead">
+        {site.lead}
+      </p>
+      <div class="cta-row">
+        <a class="primary-cta" href="/years/"><Icon name="calendar" />年度から探す</a>
+        <a class="secondary-cta" href="/records/music/"><Icon name="music" />曲名で探す</a>
+        <a class="secondary-cta" href="/about/"><Icon name="book" />このサイトについて</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="landing-links wrap">
+    {featureLinks.map((item) => (
+      <a class="feature-card" href={item.href}>
+        <span><Icon name={item.icon} />{item.label}</span>
+        <strong>{item.text}</strong>
+        <small>開く <Icon name="arrow" /></small>
+      </a>
+    ))}
+  </section>
+
+  <section class="landing-note wrap narrow">
+    <p>
+      このサイトは学校公式サイトではありません。
+    </p>
+  </section>
+</BaseLayout>

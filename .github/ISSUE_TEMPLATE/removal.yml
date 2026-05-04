@@ -1,0 +1,26 @@
+name: 削除依頼
+description: 掲載情報やリンクの削除依頼
+title: "[削除依頼]: "
+labels: ["removal"]
+body:
+  - type: input
+    id: target
+    attributes:
+      label: 削除対象
+      placeholder: "対象ページ、URL、項目名"
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 理由
+      description: 個人情報、権利、公開範囲など、確認に必要な範囲で記入してください。
+    validations:
+      required: true
+  - type: checkboxes
+    id: relation
+    attributes:
+      label: 確認
+      options:
+        - label: 本人、権利者、関係者、またはその代理として依頼しています。
+          required: true
