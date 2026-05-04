@@ -3,6 +3,10 @@ import yearsData from "./years.json";
 import mediaData from "./media.json";
 import type { MediaEntry, MusicEntry, MusicRecord, YearRecord } from "./types";
 
+const allowedYoutubeHosts = new Set(["youtube.com", "www.youtube.com", "youtu.be"]);
+const youtubeVideoIdPattern = /^[A-Za-z0-9_-]{11}$/;
+const youtubePlaylistIdPattern = /^[A-Za-z0-9_-]+$/;
+
 export const years = (yearsData as YearRecord[]).filter((entry) => entry.verified);
 export const musicRecords = (musicData as MusicRecord[]).filter((entry) => entry.verified);
 export const musicEntries = musicRecords.flatMap((record): MusicEntry[] =>
@@ -21,10 +25,6 @@ export const musicEntries = musicRecords.flatMap((record): MusicEntry[] =>
 export const mediaEntries = (mediaData as MediaEntry[]).filter(
   (entry) => entry.verified && isValidYoutubeEntry(entry),
 );
-
-const allowedYoutubeHosts = new Set(["youtube.com", "www.youtube.com", "youtu.be"]);
-const youtubeVideoIdPattern = /^[A-Za-z0-9_-]{11}$/;
-const youtubePlaylistIdPattern = /^[A-Za-z0-9_-]+$/;
 
 function mediaMatchesYear(entry: MediaEntry, year: number) {
   const exactYear = entry.label.match(/^(\d{4})年度$/);
