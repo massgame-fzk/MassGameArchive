@@ -6,13 +6,18 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro check && astro build",
-    "preview": "astro preview",
-    "extract:fc2": "node scripts/extract-fc2-data.mjs"
+    "preview": "npm run build && wrangler dev",
+    "extract:fc2": "node scripts/extract-fc2-data.mjs",
+    "deploy": "npm run build && wrangler deploy",
+    "cf-typegen": "wrangler types"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
+    "@astrojs/cloudflare": "12",
     "astro": "^5.7.5",
     "typescript": "^5.8.3"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "wrangler": "^4.87.0"
+  }
 }
