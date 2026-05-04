@@ -9,6 +9,8 @@
   --accent-soft: #eef4f1;
   --youtube: #c4302b;
   --blue: #0066cc;
+  --site-header-height: 65px;
+  --scroll-hint-shell-height: 62px;
 }
 
 * {
@@ -931,7 +933,7 @@ textarea {
 
 .scroll-hint-shell {
   position: sticky;
-  top: 65px;
+  top: var(--site-header-height);
   z-index: 3;
   background: var(--bg);
   border-bottom: 1px solid var(--line);
@@ -976,7 +978,7 @@ textarea {
 }
 
 .video-year {
-  scroll-margin-top: 126px;
+  scroll-margin-top: calc(var(--site-header-height) + var(--scroll-hint-shell-height) + 16px);
 }
 
 .section-heading {
@@ -1202,10 +1204,6 @@ textarea {
   .year-card {
     grid-template-columns: 1fr;
     gap: 4px;
-  }
-
-  .scroll-hint-shell {
-    top: 112px;
   }
 
   .table-scroll-shell::after,

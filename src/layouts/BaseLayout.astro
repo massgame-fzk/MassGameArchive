@@ -119,5 +119,31 @@ const nav = [
         </p>
       </div>
     </footer>
+    <script>
+      const root = document.documentElement;
+      const header = document.querySelector(".site-header");
+      const scrollHintShell = document.querySelector(".scroll-hint-shell");
+
+      const setMeasuredHeight = (name: string, element: Element | null) => {
+        if (!(element instanceof HTMLElement)) return;
+        root.style.setProperty(name, `${element.getBoundingClientRect().height}px`);
+      };
+
+      const updateStickyOffsets = () => {
+        setMeasuredHeight("--site-header-height", header);
+        setMeasuredHeight("--scroll-hint-shell-height", scrollHintShell);
+      };
+
+      updateStickyOffsets();
+
+      const ResizeObserverConstructor = globalThis.ResizeObserver;
+      if (typeof ResizeObserverConstructor === "function") {
+        const observer = new ResizeObserverConstructor(updateStickyOffsets);
+        if (header instanceof HTMLElement) observer.observe(header);
+        if (scrollHintShell instanceof HTMLElement) observer.observe(scrollHintShell);
+      } else {
+        globalThis.addEventListener("resize", updateStickyOffsets);
+      }
+    </script>
   </body>
 </html>
