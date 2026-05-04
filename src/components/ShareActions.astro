@@ -1,5 +1,6 @@
 ---
 import Icon from "./Icon.astro";
+import BrandIcon from "./BrandIcon.astro";
 import { site } from "../data/site";
 
 type Props = {
@@ -21,7 +22,8 @@ const lineUrl = `https://social-plugins.line.me/lineit/share?url=${encodeURIComp
 const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`;
 ---
 
-<div class="share-actions" data-share-title={title} data-share-text={text} data-share-url={url}>
+<aside class="share-actions" aria-label="このページを共有" data-share-title={title} data-share-text={text} data-share-url={url}>
+  <span class="share-heading">共有</span>
   <button class="share-button share-copy" type="button" data-copy-text={shareText}>
     <Icon name="copy" />リンクをコピー
   </button>
@@ -29,16 +31,16 @@ const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURICom
     <Icon name="share" />共有
   </button>
   <a class="share-button" href={xUrl} target="_blank" rel="noopener noreferrer">
-    <Icon name="x" />X
+    <BrandIcon name="x" />X
   </a>
   <a class="share-button" href={lineUrl} target="_blank" rel="noopener noreferrer">
-    <Icon name="line" />LINE
+    <BrandIcon name="line" />LINE
   </a>
   <a class="share-button" href={facebookUrl} target="_blank" rel="noopener noreferrer">
-    <Icon name="facebook" />Facebook
+    <BrandIcon name="facebook" />Facebook
   </a>
   <span class="share-status" aria-live="polite"></span>
-</div>
+</aside>
 
 <script>
   const shareGroups = document.querySelectorAll(".share-actions");
