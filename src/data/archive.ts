@@ -19,8 +19,12 @@ export const musicEntries = musicRecords.flatMap((record): MusicEntry[] =>
   ),
 );
 export const mediaEntries = (mediaData as MediaEntry[]).filter(
-  (entry) => entry.verified && (entry.kind === "youtube-playlist" || entry.kind === "youtube-video"),
+  (entry) => entry.verified && isValidYoutubeEntry(entry),
 );
+
+const allowedYoutubeHosts = new Set(["youtube.com", "www.youtube.com", "youtu.be"]);
+const youtubeVideoIdPattern = /^[A-Za-z0-9_-]{11}$/;
+const youtubePlaylistIdPattern = /^[A-Za-z0-9_-]+$/;
 
 function mediaMatchesYear(entry: MediaEntry, year: number) {
   const exactYear = entry.label.match(/^(\d{4})年度$/);
@@ -40,13 +44,37 @@ function mediaMatchesYear(entry: MediaEntry, year: number) {
 }
 
 export function playlistId(url: string) {
-  return new URL(url).searchParams.get("list");
+  const parsed = parseYoutubeUrl(url);
+  if (!parsed) return null;
+  const id = parsed.searchParams.get("list");
+  return id && youtubePlaylistIdPattern.test(id) ? id : null;
 }
 
 export function videoId(url: string) {
-  const parsed = new URL(url);
-  if (parsed.hostname === "youtu.be") return parsed.pathname.replace("/", "");
-  return parsed.searchParams.get("v");
+  const parsed = parseYoutubeUrl(url);
+  if (!parsed) return null;
+  if (parsed.hostname === "youtu.be") {
+    const id = parsed.pathname.split("/").filter(Boolean)[0] ?? "";
+    return youtubeVideoIdPattern.test(id) ? id : null;
+  }
+  const id = parsed.searchParams.get("v");
+  return id && youtubeVideoIdPattern.test(id) ? id : null;
+}
+
+function parseYoutubeUrl(url: string) {
+  try {
+    const parsed = new URL(url);
+    if (parsed.protocol !== "https:" || !allowedYoutubeHosts.has(parsed.hostname)) return null;
+    return parsed;
+  } catch {
+    return null;
+  }
+}
+
+function isValidYoutubeEntry(entry: MediaEntry) {
+  if (entry.kind === "youtube-playlist") return Boolean(playlistId(entry.url));
+  if (entry.kind === "youtube-video") return Boolean(videoId(entry.url));
+  return false;
 }
 
 export function youtubeEmbedUrl(entry: MediaEntry) {

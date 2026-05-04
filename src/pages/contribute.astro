@@ -39,8 +39,10 @@ import BaseLayout from "../layouts/BaseLayout.astro";
   <section class="section wrap narrow">
     <h2>連絡フォーム</h2>
     <p class="source-note">
-      送信内容は管理者宛のメールに転送されます。個人情報や公開を望まない内容は、必要な範囲だけ書いてください。
-      必須は返信先メールアドレスと内容だけです。
+      送信内容はFormspreeを通じて管理者宛のメールに転送されます。個人情報や公開を望まない内容は、必要な範囲だけ書いてください。
+      必須は返信先メールアドレスと内容だけです。Formspreeの扱いは
+      <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener noreferrer">プライバシーポリシー</a>
+      を確認してください。
     </p>
     <form class="contact-form" action="https://formspree.io/f/maqvejqg" method="post" data-contact-form>
       <input type="hidden" name="subject" value="MassGame Archiveへの連絡" />

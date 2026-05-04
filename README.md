@@ -141,4 +141,4 @@ npm run normalize:music
 
 - Build command: `npm run build`
 - Build output directory: `dist`
-- Node.js: 20以上
+- Node.js: 22.12以上

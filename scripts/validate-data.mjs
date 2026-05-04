@@ -3,14 +3,46 @@ import fs from "node:fs";
 const expectedScenes = ["入場", "一部", "インター", "二部", "三部", "退場"];
 const allowedScenes = new Set(expectedScenes);
 const allowedGroups = new Set(["太陽", "月", "赤", "白", "未整理", "不明"]);
+const allowedYoutubeHosts = new Set(["youtube.com", "www.youtube.com", "youtu.be"]);
+const youtubeVideoIdPattern = /^[A-Za-z0-9_-]{11}$/;
+const youtubePlaylistIdPattern = /^[A-Za-z0-9_-]+$/;
 
 const music = JSON.parse(fs.readFileSync("src/data/music.json", "utf8"));
+const media = JSON.parse(fs.readFileSync("src/data/media.json", "utf8"));
 
 let failures = 0;
 
 function fail(message) {
   failures += 1;
   console.error(message);
+}
+
+function parseYoutubeUrl(url) {
+  try {
+    const parsed = new URL(url);
+    if (parsed.protocol !== "https:" || !allowedYoutubeHosts.has(parsed.hostname)) return null;
+    return parsed;
+  } catch {
+    return null;
+  }
+}
+
+function playlistId(url) {
+  const parsed = parseYoutubeUrl(url);
+  if (!parsed) return null;
+  const id = parsed.searchParams.get("list");
+  return id && youtubePlaylistIdPattern.test(id) ? id : null;
+}
+
+function videoId(url) {
+  const parsed = parseYoutubeUrl(url);
+  if (!parsed) return null;
+  if (parsed.hostname === "youtu.be") {
+    const id = parsed.pathname.split("/").filter(Boolean)[0] ?? "";
+    return youtubeVideoIdPattern.test(id) ? id : null;
+  }
+  const id = parsed.searchParams.get("v");
+  return id && youtubeVideoIdPattern.test(id) ? id : null;
 }
 
 for (const record of music) {
@@ -56,9 +88,26 @@ for (const record of music) {
   }
 }
 
+for (const entry of media) {
+  const label = entry.label || "(missing label)";
+
+  if (entry.kind !== "youtube-playlist" && entry.kind !== "youtube-video") {
+    fail(`${label}: unknown media kind "${entry.kind}"`);
+    continue;
+  }
+
+  if (entry.kind === "youtube-playlist" && !playlistId(entry.url)) {
+    fail(`${label}: playlist URL must be an HTTPS YouTube URL with a valid list parameter`);
+  }
+
+  if (entry.kind === "youtube-video" && !videoId(entry.url)) {
+    fail(`${label}: video URL must be an HTTPS YouTube watch or youtu.be URL with a valid video id`);
+  }
+}
+
 if (failures > 0) {
   console.error(`Data validation failed with ${failures} issue(s).`);
   process.exit(1);
 }
 
-console.log(`Data validation passed for ${music.length} music records.`);
+console.log(`Data validation passed for ${music.length} music records and ${media.length} media entries.`);

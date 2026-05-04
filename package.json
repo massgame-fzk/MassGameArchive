@@ -11,10 +11,15 @@
     "normalize:music": "node scripts/normalize-music-data.mjs",
     "validate:data": "node scripts/validate-data.mjs"
   },
+  "engines": {
+    "node": ">=22.12.0"
+  },
   "dependencies": {
-    "@astrojs/check": "^0.9.4",
-    "astro": "^5.7.5",
+    "@astrojs/check": "^0.9.9",
+    "astro": "^6.2.1",
     "typescript": "^5.8.3"
   },
-  "devDependencies": {}
+  "overrides": {
+    "yaml-language-server": "1.22.0"
+  }
 }
