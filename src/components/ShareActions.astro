@@ -23,8 +23,9 @@ const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURICom
 ---
 
 <aside class="share-actions" aria-label="このページを共有" data-share-title={title} data-share-text={text} data-share-url={url}>
-  <button class="share-menu-toggle" type="button" aria-expanded="false">
-    <Icon name="share" />共有
+  <button class="share-menu-toggle" type="button" aria-expanded="false" aria-label="共有メニューを開く">
+    <Icon name="share" />
+    <span class="share-menu-close" aria-hidden="true">×</span>
   </button>
   <div class="share-panel">
     <span class="share-heading">共有</span>
@@ -72,6 +73,27 @@ const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURICom
       const expanded = group.dataset.open === "true";
       group.dataset.open = expanded ? "false" : "true";
       toggleButton.setAttribute("aria-expanded", String(!expanded));
+      toggleButton.setAttribute("aria-label", expanded ? "共有メニューを開く" : "共有メニューを閉じる");
+    });
+
+    document.addEventListener("click", (event) => {
+      if (group.dataset.open !== "true") return;
+      if (event.target instanceof Node && group.contains(event.target)) return;
+      group.dataset.open = "false";
+      if (toggleButton instanceof HTMLButtonElement) {
+        toggleButton.setAttribute("aria-expanded", "false");
+        toggleButton.setAttribute("aria-label", "共有メニューを開く");
+      }
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (event.key !== "Escape" || group.dataset.open !== "true") return;
+      group.dataset.open = "false";
+      if (toggleButton instanceof HTMLButtonElement) {
+        toggleButton.setAttribute("aria-expanded", "false");
+        toggleButton.setAttribute("aria-label", "共有メニューを開く");
+        toggleButton.focus();
+      }
     });
 
     copyButton?.addEventListener("click", async () => {

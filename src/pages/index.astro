@@ -1,7 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import Icon from "../components/Icon.astro";
-import ShareActions from "../components/ShareActions.astro";
 import { site } from "../data/site";
 
 const featureLinks = [
@@ -44,7 +43,6 @@ const featureLinks = [
         <a class="secondary-cta" href="/records/music/"><Icon name="music" />曲名で探す</a>
         <a class="secondary-cta" href="/about/"><Icon name="book" />このサイトについて</a>
       </div>
-      <ShareActions title={site.name} text={site.shareText} />
     </div>
   </section>
 
