@@ -56,319 +56,1354 @@
     "verified": true
   },
   {
+    "label": "2000年度 太陽 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=b9dZG58ukLk",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 00R-0"
+  },
+  {
+    "label": "2000年度 太陽 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=n2AJEWaMB0g",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 00REDMassGame １stStage"
+  },
+  {
+    "label": "2000年度 太陽 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=IftaSjIwt8E",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 00R-1.5"
+  },
+  {
+    "label": "2000年度 太陽 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=K0CV2iDXkKU",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 00REDMassGame 2ndStage"
+  },
+  {
+    "label": "2000年度 太陽 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=42F7_s8lDAo",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 00R 3"
+  },
+  {
+    "label": "2000年度 太陽 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=3tRNO8PqC7I",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 00R E"
+  },
+  {
+    "label": "2000年度 月 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=nfF3pr0FEcA",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 00W 0"
+  },
+  {
+    "label": "2000年度 月 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Ts1xsSOiEfE",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 00WHITEMassGame １stStage"
+  },
+  {
+    "label": "2000年度 月 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=C3T4G6gOSQw",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 00W 1 5"
+  },
+  {
+    "label": "2000年度 月 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=ICC3nuHRPZw",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 00WHITEMassGame 2ndStage"
+  },
+  {
+    "label": "2000年度 月 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=h-61OuW6Vy8",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 00W 3"
+  },
+  {
+    "label": "2001年度 太陽 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=AWoZcAoDqCQ",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 01R 0"
+  },
+  {
+    "label": "2001年度 太陽 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=4LPLoBnZIVs",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 01R 1"
+  },
+  {
+    "label": "2001年度 太陽 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=bZBd2vRPmJA",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 01REDMassGame 2ndStage"
+  },
+  {
+    "label": "2001年度 月 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=t0q0OCfEBvg",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 01WHITEMassGame 2ndStage"
+  },
+  {
+    "label": "2002年度 太陽 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=SU7WYPbsZsM",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 02REDMassGame １stStage"
+  },
+  {
+    "label": "2002年度 太陽 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=2ML8WUIgV6s",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 02REDMassGame 2ndStage"
+  },
+  {
+    "label": "2002年度 月 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=BS6Sgg4CGMU",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 02WHITEMassGame １stStage"
+  },
+  {
+    "label": "2002年度 月 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=XB7wyFLM3EU",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 02WHITEMassGame 2ndStage"
+  },
+  {
+    "label": "2003年度 太陽 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=oR2LU0Bxp8o",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 03R-0"
+  },
+  {
+    "label": "2003年度 太陽 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=DO_T8Oj-whw",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 03REDMassGame １stStage"
+  },
+  {
+    "label": "2003年度 太陽 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=xTXKwMf1dzI",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 03R-1.5"
+  },
+  {
+    "label": "2003年度 太陽 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=9szH1BbNdSY",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 03REDMassGame 2ndStage"
+  },
+  {
+    "label": "2003年度 太陽 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=I1pM3w-HvQI",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 03R-3"
+  },
+  {
+    "label": "2003年度 太陽 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=0VG32TSopdo",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 03R-E"
+  },
+  {
+    "label": "2003年度 月 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Cfg_o5n8OOM",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 03W-0"
+  },
+  {
+    "label": "2003年度 月 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=rvjoFVxPyPM",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 03WHITEMassGame １stStage"
+  },
+  {
+    "label": "2003年度 月 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=StKxh2MgGLo",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 03W-1.5"
+  },
+  {
+    "label": "2003年度 月 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Vacp7H_uR-M",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 03W-2"
+  },
+  {
+    "label": "2003年度 月 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=cRyCv0iyT4g",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 03W-3"
+  },
+  {
+    "label": "2003年度 月 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=2NhMXi0BtL4",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 03W-E"
+  },
+  {
+    "label": "2004年度 太陽 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Anm-2bJPw7U",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 2004Red Entrance"
+  },
+  {
+    "label": "2004年度 太陽 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=rCyyucdyqOs",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 2004Red 1st_stage"
+  },
+  {
+    "label": "2004年度 太陽 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=HqRNkeJDw0o",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 2004Red Interbal"
+  },
+  {
+    "label": "2004年度 太陽 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=UJPkR-k1F3o",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 2004Red 2nd_stage"
+  },
+  {
+    "label": "2004年度 太陽 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=ElZXC1fi4k4",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 2004Red 3rd_stage"
+  },
+  {
+    "label": "2004年度 月 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=VXJIPVx4CMU",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 2004White　Entrance"
+  },
+  {
+    "label": "2004年度 月 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=_Q50pVtkh34",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 2004White 1st_stage"
+  },
+  {
+    "label": "2004年度 月 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=IWMy3_6EwpA",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 2004White Interbal"
+  },
+  {
+    "label": "2004年度 月 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=XPtwRYGb-I0",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 2004White 3rd_stage"
+  },
+  {
+    "label": "2005年度 太陽 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=ta9bsH6ibLQ",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 05REDMASSGAME entrance"
+  },
+  {
+    "label": "2005年度 太陽 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=o9yXXRtT5cg",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 05REDMassGame １stStage"
+  },
+  {
+    "label": "2005年度 太陽 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=ImwfQ56iOto",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 05REDMASSGAME interval"
+  },
+  {
+    "label": "2005年度 太陽 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=qS1ZrAWLjtI",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 05R 2"
+  },
+  {
+    "label": "2005年度 太陽 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=OYczahTg0IU",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 05REDMASSGAME 3rdStage"
+  },
+  {
+    "label": "2005年度 太陽 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=RxeqjS2u374",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 05REDMASSGAME ending"
+  },
+  {
+    "label": "2005年度 月 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=JzGGhG3-rYw",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 05W 1"
+  },
+  {
+    "label": "2005年度 月 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=2IcD3Nqkoa8",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 05W-2"
+  },
+  {
+    "label": "2006年度 太陽 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=GqU1qoOl_d0",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 06REDMASSGAME 1stStage"
+  },
+  {
+    "label": "2006年度 太陽 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=pZ7B5IlSlpY",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 06REDMASSGAME 2ndStage"
+  },
+  {
+    "label": "2006年度 太陽 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=6B3fGg7Q-rA",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 06R-3"
+  },
+  {
+    "label": "2006年度 月 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=-POljhK3Ar4",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 06WHITEMASSGAME Entrance"
+  },
+  {
+    "label": "2006年度 月 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=xQSMyagaZyU",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 06WHITEMASSGAME 1stStage"
+  },
+  {
+    "label": "2006年度 月 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=ecCTFVBmTTQ",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 06WHITEMASSGAME 2ndStage"
+  },
+  {
+    "label": "2006年度 月 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=ymUFfyonzCk",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 06WHITEMASSGAME 3rdStage"
+  },
+  {
+    "label": "2007年度 太陽 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=E610bSjuCLA",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 07R-0"
+  },
+  {
+    "label": "2007年度 太陽 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=cYQJhlhfy8w",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 07R-1"
+  },
+  {
+    "label": "2007年度 太陽 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=oYmfB262vwc",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 07R-1.5"
+  },
+  {
+    "label": "2007年度 太陽 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=cYi8pCkIWLE",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 07R-2"
+  },
+  {
+    "label": "2007年度 太陽 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=kD_EoKZ4Tck",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 07R-3"
+  },
+  {
+    "label": "2007年度 太陽 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=DmjWQpoxtD0",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 07R-E"
+  },
+  {
+    "label": "2007年度 月 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=tcCQkYhZmx0",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 07W-0"
+  },
+  {
+    "label": "2007年度 月 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=xWdgksyRfWE",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 07W-1"
+  },
+  {
+    "label": "2007年度 月 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=ERe14A4eadY",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 07W-1.5"
+  },
+  {
+    "label": "2007年度 月 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=7ry5kSyoihg",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 07W-2"
+  },
+  {
+    "label": "2007年度 月 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=fxtk1ByJcwA",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 07W-3"
+  },
+  {
+    "label": "2007年度 月 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=iS2pA6W71fw",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 07W-E"
+  },
+  {
+    "label": "2008年度 太陽 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=8MGQ6Jm1Xv0",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 08R-0"
+  },
+  {
+    "label": "2008年度 太陽 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=czBgMBiJiJk",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 08R-1"
+  },
+  {
+    "label": "2008年度 太陽 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=TJKDzS83DTg",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 08R-1.5"
+  },
+  {
+    "label": "2008年度 太陽 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=x-YV3vgclwE",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 08R-2"
+  },
+  {
+    "label": "2008年度 太陽 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=QGdgHyxEsfY",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 08R-3"
+  },
+  {
+    "label": "2008年度 太陽 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=5RleyEEqcYs",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 08R-E"
+  },
+  {
+    "label": "2008年度 月 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=JxTtVLrK8ds",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 08W-0"
+  },
+  {
+    "label": "2008年度 月 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=1OBM9X7tak8",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 08W-1"
+  },
+  {
+    "label": "2008年度 月 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Fk1DZMjxRLs",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 08W-1.5"
+  },
+  {
+    "label": "2008年度 月 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=kQ1aMx4Gvoc",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 08W-2"
+  },
+  {
+    "label": "2008年度 月 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=pKfPNzuwUXY",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 08W-3"
+  },
+  {
+    "label": "2008年度 月 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=1UhD-_vRgZQ",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 08W-E"
+  },
+  {
+    "label": "2009年度 太陽 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=equpjfBak00",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 09massgame red-opening"
+  },
+  {
+    "label": "2009年度 太陽 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=NFDTvZqfqwY",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 09massgame red-scene1"
+  },
+  {
+    "label": "2009年度 太陽 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=hvznduYZaJE",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 09massgame red-interval"
+  },
+  {
+    "label": "2009年度 太陽 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=rpqYm3sPdxI",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 09massgame red-scene2"
+  },
+  {
+    "label": "2009年度 太陽 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=FVmwDUE6tFU",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 09massgame red-scene3"
+  },
+  {
+    "label": "2009年度 太陽 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=_Y8HiMN3hWU",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 09massgame red-ending"
+  },
+  {
+    "label": "2009年度 月 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=pAUKTpXAvwU",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 09massgame white-opening"
+  },
+  {
+    "label": "2009年度 月 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=DAi7E1VYNH4",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 09massgame white-scene1"
+  },
+  {
+    "label": "2009年度 月 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=bz1FqJZ4qJc",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 09massgame white-interval"
+  },
+  {
+    "label": "2009年度 月 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=A4_EfdiBWkA",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 09massgame white-scene2"
+  },
+  {
+    "label": "2009年度 月 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=8i9VH9xvYDw",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 09massgame white-scene3"
+  },
+  {
+    "label": "2009年度 月 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=UDFRRKawR4Y",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 09massgame white-ending"
+  },
+  {
+    "label": "2010年度 太陽 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=YpuZxZ4VFTM",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 10massgame red-opening"
+  },
+  {
+    "label": "2010年度 太陽 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=QuHqrcVWaQs",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 10massgame red-scene1"
+  },
+  {
+    "label": "2010年度 太陽 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=CN4VMI3XLXg",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 10massgame red-interval"
+  },
+  {
+    "label": "2010年度 太陽 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=isLyGSQ26t0",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 10massgame red-scene2"
+  },
+  {
+    "label": "2010年度 太陽 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=JRwMu7pO1f4",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 10massgame red-scene3"
+  },
+  {
+    "label": "2010年度 太陽 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=29DQI3WB0ZM",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 10massgame red-ending"
+  },
+  {
+    "label": "2010年度 月 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=p-raHQbWGHM",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 10massgame white-opening"
+  },
+  {
+    "label": "2010年度 月 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=xc0fVB05SOs",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 10massgame white-scene1"
+  },
+  {
+    "label": "2010年度 月 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=k4GIvgF98g4",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 10massgame white-interval"
+  },
+  {
+    "label": "2010年度 月 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=k24ME1th_rY",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 10massgame white-scene2"
+  },
+  {
+    "label": "2010年度 月 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Bds5iWAbWPA",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 10massgame white-scene3"
+  },
+  {
+    "label": "2010年度 月 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=RPor6n6YC0Y",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 10massgame white-ending"
+  },
+  {
+    "label": "2011年度 太陽 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=2yBpcJFH9Jo",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 11massgame red-opening"
+  },
+  {
+    "label": "2011年度 太陽 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Mrv1R83LTpo",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 11massgame red-scene1"
+  },
+  {
+    "label": "2011年度 太陽 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=1Idx4UF37nI",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 11massgame red-interval"
+  },
+  {
+    "label": "2011年度 太陽 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=p_sjHVGKasg",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 11massgame red-scene2"
+  },
+  {
+    "label": "2011年度 太陽 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=qKxLoDQHneU",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 11massgame red-scene3"
+  },
+  {
+    "label": "2011年度 太陽 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=ns5LOlf81d4",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 11massgame red-ending"
+  },
+  {
+    "label": "2011年度 月 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=MrX3TG-G8Tc",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 11massgame white-opening"
+  },
+  {
+    "label": "2011年度 月 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=NQABiiueY64",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 11massgame white-scene1"
+  },
+  {
+    "label": "2011年度 月 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=H2tkLIEhrtU",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 11massgame white-interval"
+  },
+  {
+    "label": "2011年度 月 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=AzjbWOnhNZ0",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 11massgame white-scene2"
+  },
+  {
+    "label": "2011年度 月 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=z6FhQtNdZcA",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 11massgame white-scene3"
+  },
+  {
+    "label": "2011年度 月 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=s8I8QDL6kx4",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 11massgame white-ending"
+  },
+  {
     "label": "2012年度 太陽 入場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=fviVfl_aIeo",
-    "source": "YouTube検索結果: 2012 massgame Red-Opening",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2012%20massgame%20Red-Opening",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2012 massgame Red-Opening"
   },
   {
     "label": "2012年度 太陽 1部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=vhMdWSG6C4U",
-    "source": "YouTube検索結果: 2012massgame Red-1st stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2012massgame%20Red-1st%20stage",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2012massgame Red-1st stage"
   },
   {
     "label": "2012年度 太陽 インター",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=kHiENfANObQ",
-    "source": "YouTube検索結果: 2012massgame Red-Interval",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2012massgame%20Red-Interval",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2012massgame Red-Interval"
   },
   {
     "label": "2012年度 太陽 2部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=1AQHKo31UCU",
-    "source": "YouTube検索結果: 2012massgame Red-2nd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2012massgame%20Red-2nd%20stage",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2012massgame Red-2nd stage"
   },
   {
     "label": "2012年度 太陽 3部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=55uBcmcWjLM",
-    "source": "YouTube検索結果: 2012massgame Red-3rd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2012massgame%20Red-3rd%20stage",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2012massgame Red-3rd stage"
   },
   {
     "label": "2012年度 太陽 退場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=yZ03aCsyyiI",
-    "source": "YouTube検索結果: 2012massgame Red-Ending",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2012massgame%20Red-Ending",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2012massgame Red-Ending"
   },
   {
     "label": "2012年度 月 入場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=StQGOVzEtUE",
-    "source": "YouTube検索結果: 2012massgame white-Opening",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2012massgame%20white-Opening",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2012massgame white-Opening"
   },
   {
     "label": "2012年度 月 1部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=Db5y3ciwOkw",
-    "source": "YouTube検索結果: 2012massgame white-1st stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2012massgame%20white-1st%20stage",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2012massgame white-1st stage"
   },
   {
     "label": "2012年度 月 インター",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=TpQLbCQKOww",
-    "source": "YouTube検索結果: 2012massgame white-Interval",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2012massgame%20white-Interval",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2012massgame white-Interval"
   },
   {
     "label": "2012年度 月 2部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=ZnhgUMKq_GU",
-    "source": "YouTube検索結果: 2012massgame white-2nd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2012massgame%20white-2nd%20stage",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2012massgame white-2nd stage"
   },
   {
     "label": "2012年度 月 3部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=EAie0XFvkGY",
-    "source": "YouTube検索結果: 2012massgame white-3rd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2012massgame%20white-3rd%20stage",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2012massgame white-3rd stage"
   },
   {
     "label": "2012年度 月 退場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=28L3XTnDhbs",
-    "source": "YouTube検索結果: 2012massgame white-Ending",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2012massgame%20white-Ending",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2012massgame white-Ending"
   },
   {
     "label": "2013年度 太陽 入場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=jcy4AQzAyEg",
-    "source": "YouTube検索結果: 2013 sunmassgame opening",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2013%20sunmassgame%20opening",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2013 sunmassgame opening"
   },
   {
     "label": "2013年度 太陽 1部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=oGMlZUj3LUs",
-    "source": "YouTube検索結果: 2013 sunmassgame 1st stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2013%20sunmassgame%201st%20stage",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2013 sunmassgame 1st stage"
   },
   {
     "label": "2013年度 太陽 インター",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=nips7NGWF_I",
-    "source": "YouTube検索結果: 2013 sunmassgame interval",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2013%20sunmassgame%20interval",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2013 sunmassgame interval"
   },
   {
     "label": "2013年度 太陽 2部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=tbZL6yEd2JE",
-    "source": "YouTube検索結果: 2013 sunmassgame 2nd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2013%20sunmassgame%202nd%20stage",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2013 sunmassgame 2nd stage"
   },
   {
     "label": "2013年度 太陽 3部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=s6w5jmgDbDI",
-    "source": "YouTube検索結果: 2013 sunmassgame 3rd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2013%20sunmassgame%203rd%20stage",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2013 sunmassgame 3rd stage"
   },
   {
     "label": "2013年度 太陽 退場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=t4YEamZ33k4",
-    "source": "YouTube検索結果: 2013 sunmassgame ending",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2013%20sunmassgame%20ending",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2013 sunmassgame ending"
   },
   {
     "label": "2013年度 月 入場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=urLpV775ptU",
-    "source": "YouTube検索結果: 2013 moon massgame opening",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2013%20moon%20massgame%20opening",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2013 moon massgame opening"
   },
   {
     "label": "2013年度 月 1部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=A3zJEYSnjbI",
-    "source": "YouTube検索結果: 2013 moonmassgame 1st stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2013%20moonmassgame%201st%20stage",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2013 moonmassgame 1st stage"
   },
   {
     "label": "2013年度 月 2部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=5fFkDszW0zk",
-    "source": "YouTube検索結果: 2013 moonmassgame 2nd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2013%20moonmassgame%202nd%20stage",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2013 moonmassgame 2nd stage"
   },
   {
     "label": "2013年度 月 3部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=3bwyekb72WI",
-    "source": "YouTube検索結果: 2013 moonmassgame 3rd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2013%20moonmassgame%203rd%20stage",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2013 moonmassgame 3rd stage"
   },
   {
     "label": "2013年度 月 退場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=oEPrICXytl8",
-    "source": "YouTube検索結果: 2013 moonmassgame ending",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2013%20moonmassgame%20ending",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2013 moonmassgame ending"
   },
   {
     "label": "2014年度 太陽 入場",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=22rAPL877P4",
-    "source": "YouTube検索結果: 2014 Sun Massgame Entrance",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2014%20Sun%20Massgame%20Entrance",
+    "url": "https://www.youtube.com/watch?v=lvled2vYTPA",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2014 sunmass opening"
   },
   {
     "label": "2014年度 太陽 1部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=gerKhMmGHXg",
-    "source": "YouTube検索結果: 2014 Sun MassGame 1st",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2014%20Sun%20MassGame%201st",
+    "url": "https://www.youtube.com/watch?v=_rHg-fPLLcU",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2014 sunmass 1st stage"
   },
   {
     "label": "2014年度 太陽 インター",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=ssvT0b6TLjM",
-    "source": "YouTube検索結果: 2014 Sun MassGame Inter",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2014%20Sun%20MassGame%20Inter",
+    "url": "https://www.youtube.com/watch?v=OuzqRYT8nDU",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2014 sunmass interval"
   },
   {
     "label": "2014年度 太陽 2部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=7rXj6seRLjs",
-    "source": "YouTube検索結果: 2014 Sun MassGame 2nd",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2014%20Sun%20MassGame%202nd",
+    "url": "https://www.youtube.com/watch?v=e2bKUL9uNKU",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2014 sunmass 2nd stage"
   },
   {
     "label": "2014年度 太陽 3部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=WIj3Y94B_WI",
-    "source": "YouTube検索結果: 2014 Sun MassGame 3rd",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2014%20Sun%20MassGame%203rd",
+    "url": "https://www.youtube.com/watch?v=yoxZn3rewt8",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2014 sunmass 3rd stage"
   },
   {
     "label": "2014年度 太陽 退場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=XXNOWSc3mNg",
-    "source": "YouTube検索結果: 2014 sunmass ending",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2014%20sunmass%20ending",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2014 sunmass ending"
   },
   {
     "label": "2014年度 月 入場",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=zBbpPXzW-aE",
-    "source": "YouTube検索結果: 2014 Moon MassGame Entrance",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2014%20Moon%20MassGame%20Entrance",
+    "url": "https://www.youtube.com/watch?v=6r_lPKYDdnQ",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2014 moonmass opening"
   },
   {
     "label": "2014年度 月 1部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=ezsRjTFabzA",
-    "source": "YouTube検索結果: 2014 Moon MassGame 1st",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2014%20Moon%20MassGame%201st",
+    "url": "https://www.youtube.com/watch?v=_oaI9YLLz5U",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2014 moonmass 1st stage"
   },
   {
     "label": "2014年度 月 インター",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=C0SR0Ty1ozE",
-    "source": "YouTube検索結果: 2014 Moon MassGame Inter",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2014%20Moon%20MassGame%20Inter",
+    "url": "https://www.youtube.com/watch?v=X4XneQuD5A4",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2014 moonmass interval"
   },
   {
     "label": "2014年度 月 2部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=kqWDaYu6feU",
-    "source": "YouTube検索結果: 2014 Moon MassGame 2nd",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2014%20Moon%20MassGame%202nd",
+    "url": "https://www.youtube.com/watch?v=DyzmN-zRJOo",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2014 moonmass 2nd stage"
   },
   {
     "label": "2014年度 月 3部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=7_YkF0Re6Ko",
-    "source": "YouTube検索結果: 2014 Moon MassGame 3rd",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2014%20Moon%20MassGame%203rd",
+    "url": "https://www.youtube.com/watch?v=ukN4MPxGj8o",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2014 moonmass 3rd stage"
   },
   {
     "label": "2014年度 月 退場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=RznpPeFDMh8",
-    "source": "YouTube検索結果: 2014 moonmass ending",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2014%20moonmass%20ending",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2014 moonmass ending"
   },
   {
     "label": "2015年度 太陽 入場",
@@ -428,648 +1463,1017 @@
     "label": "2015年度 月 入場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=eUEoCHrw9DU",
-    "source": "YouTube検索結果: 2015MoonMassGame-opening",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2015MoonMassGame-opening",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2015MoonMassGame-opening"
   },
   {
     "label": "2015年度 月 1部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=PlIkqUH6cRQ",
-    "source": "YouTube検索結果: 2015MoonMassGame-1st stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2015MoonMassGame-1st%20stage",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2015MoonMassGame-1st stage"
   },
   {
     "label": "2015年度 月 インター",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=Bj8oP2xUFmw",
-    "source": "YouTube検索結果: 2015MoonMassGame-interval",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2015MoonMassGame-interval",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2015MoonMassGame-interval"
   },
   {
     "label": "2015年度 月 2部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=IIKxi2fG0jE",
-    "source": "YouTube検索結果: 2015MoonMassGame-2nd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2015MoonMassGame-2nd%20stage",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2015MoonMassGame-2nd stage"
   },
   {
     "label": "2015年度 月 3部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=oeOgBQ3A4v0",
-    "source": "YouTube検索結果: 2015MoonMassGame-3rd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2015MoonMassGame-3rd%20stage",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2015MoonMassGame-3rd stage"
   },
   {
     "label": "2015年度 月 退場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=jBYdpTGk-v4",
-    "source": "YouTube検索結果: 2015MoonMassGame-ending",
-    "sourceUrl": "https://www.youtube.com/results?search_query=2015MoonMassGame-ending",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 2015MoonMassGame-ending"
   },
   {
     "label": "2016年度 太陽 入場",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=M50zSFg5eWw",
-    "source": "YouTube検索結果: 16sunmassgame 入場",
-    "sourceUrl": "https://www.youtube.com/results?search_query=16sunmassgame%20%E5%85%A5%E5%A0%B4",
+    "url": "https://www.youtube.com/watch?v=cyhWKktFiqc",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 16sunmassgame  entrance"
   },
   {
     "label": "2016年度 太陽 1部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=jBmZQB9PjjM",
-    "source": "YouTube検索結果: 16sunmassgame 1st",
-    "sourceUrl": "https://www.youtube.com/results?search_query=16sunmassgame%201st",
+    "url": "https://www.youtube.com/watch?v=nAEEbDs7Ohk",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 16sunmassgame  1st"
   },
   {
     "label": "2016年度 太陽 インター",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=PU0qiQm7B0o",
-    "source": "YouTube検索結果: 16sunmassgame inter",
-    "sourceUrl": "https://www.youtube.com/results?search_query=16sunmassgame%20inter",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 16sunmassgame  inter"
   },
   {
     "label": "2016年度 太陽 2部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=tABnz0SoV8o",
-    "source": "YouTube検索結果: 16sunmassgame 2nd",
-    "sourceUrl": "https://www.youtube.com/results?search_query=16sunmassgame%202nd",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 16sunmassgame  2nd"
   },
   {
     "label": "2016年度 太陽 3部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=8XvYxFckC-k",
-    "source": "YouTube検索結果: 16sunmassgame 3rd",
-    "sourceUrl": "https://www.youtube.com/results?search_query=16sunmassgame%203rd",
+    "url": "https://www.youtube.com/watch?v=kKJAHrvbOu8",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 16sunmassgame  3rd"
   },
   {
     "label": "2016年度 太陽 退場",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=5P-y1FWR2VI",
-    "source": "YouTube検索結果: 16sunmassgame 退場",
-    "sourceUrl": "https://www.youtube.com/results?search_query=16sunmassgame%20%E9%80%80%E5%A0%B4",
+    "url": "https://www.youtube.com/watch?v=0hD17A1Eo9I",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 16sunmassgame  ending"
   },
   {
     "label": "2016年度 月 入場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=892QoVNLkY4",
-    "source": "YouTube検索結果: 16moonmassgame entrance",
-    "sourceUrl": "https://www.youtube.com/results?search_query=16moonmassgame%20entrance",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 16moonmassgame  entrance"
   },
   {
     "label": "2016年度 月 1部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=W5OAq7oI-aM",
-    "source": "YouTube検索結果: 16moonmassgame 1st",
-    "sourceUrl": "https://www.youtube.com/results?search_query=16moonmassgame%201st",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 16moonmassgame  1st"
   },
   {
     "label": "2016年度 月 インター",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=nCZ4ql9qhHQ",
-    "source": "YouTube検索結果: 16moonmassgame inter",
-    "sourceUrl": "https://www.youtube.com/results?search_query=16moonmassgame%20inter",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 16moonmassgame  inter"
   },
   {
     "label": "2016年度 月 2部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=s1d-0_C8LwM",
-    "source": "YouTube検索結果: 16moonmassgame 2nd",
-    "sourceUrl": "https://www.youtube.com/results?search_query=16moonmassgame%202nd",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 16moonmassgame  2nd"
   },
   {
     "label": "2016年度 月 3部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=XlvhMdLrHHg",
-    "source": "YouTube検索結果: 16moonmassgame 3rd",
-    "sourceUrl": "https://www.youtube.com/results?search_query=16moonmassgame%203rd",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 16moonmassgame  3rd"
   },
   {
     "label": "2016年度 月 退場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=oDKXHbCuzxI",
-    "source": "YouTube検索結果: 16moonmassgame ending",
-    "sourceUrl": "https://www.youtube.com/results?search_query=16moonmassgame%20ending",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 16moonmassgame  ending"
   },
   {
     "label": "2017年度 太陽 入場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=W8yZB1PbJwk",
-    "source": "YouTube検索結果: 17sunmassgame opening",
-    "sourceUrl": "https://www.youtube.com/results?search_query=17sunmassgame%20opening",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 17sunmassgame opening"
   },
   {
     "label": "2017年度 太陽 1部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=de-CRJMSvwI",
-    "source": "YouTube検索結果: 17sunmassgame 1st stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=17sunmassgame%201st%20stage",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 17sunmassgame 1st stage"
   },
   {
     "label": "2017年度 太陽 インター",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=y3XCzJP3rRQ",
-    "source": "YouTube検索結果: 17sunmassgame inter",
-    "sourceUrl": "https://www.youtube.com/results?search_query=17sunmassgame%20inter",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 17sunmassgame inter"
   },
   {
     "label": "2017年度 太陽 2部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=IIIj72WDnvI",
-    "source": "YouTube検索結果: 17sunmassgame 2nd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=17sunmassgame%202nd%20stage",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 17sunmassgame 2nd stage"
   },
   {
     "label": "2017年度 太陽 3部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=CAQFNPI0N00",
-    "source": "YouTube検索結果: 17sunmassgame 3rd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=17sunmassgame%203rd%20stage",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 17sunmassgame 3rd stage"
   },
   {
     "label": "2017年度 太陽 退場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=wW5hsQR7nuE",
-    "source": "YouTube検索結果: 17sunmassgame ending",
-    "sourceUrl": "https://www.youtube.com/results?search_query=17sunmassgame%20ending",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 17sunmassgame ending"
   },
   {
     "label": "2017年度 月 入場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=JZxATg6v-7w",
-    "source": "YouTube検索結果: 17moonmassgame opening",
-    "sourceUrl": "https://www.youtube.com/results?search_query=17moonmassgame%20opening",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 17moonmassgame opening"
   },
   {
     "label": "2017年度 月 1部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=5ZhJdX1lfMQ",
-    "source": "YouTube検索結果: 17moonmassgame 1st stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=17moonmassgame%201st%20stage",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 17moonmassgame 1st stage"
   },
   {
     "label": "2017年度 月 インター",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=uBfJ8XBCfy0",
-    "source": "YouTube検索結果: 17moonmassgame inter",
-    "sourceUrl": "https://www.youtube.com/results?search_query=17moonmassgame%20inter",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 17moonmassgame inter"
   },
   {
     "label": "2017年度 月 2部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=hIuGkUa26nw",
-    "source": "YouTube検索結果: 17moonmassgame 2nd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=17moonmassgame%202nd%20stage",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 17moonmassgame 2nd stage"
   },
   {
     "label": "2017年度 月 3部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=9OsloLSdK4Q",
-    "source": "YouTube検索結果: 17moonmassgame 3rd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=17moonmassgame%203rd%20stage",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 17moonmassgame 3rd stage"
   },
   {
     "label": "2017年度 月 退場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=Ue94QEd8KNI",
-    "source": "YouTube検索結果: 17moonmassgame ending",
-    "sourceUrl": "https://www.youtube.com/results?search_query=17moonmassgame%20ending",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 17moonmassgame ending"
   },
   {
     "label": "2018年度 太陽 入場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=1NmTpMX0PEU",
-    "source": "YouTube検索結果: 18sunmassgame opening",
-    "sourceUrl": "https://www.youtube.com/results?search_query=18sunmassgame%20opening",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 18sunmassgame opening"
   },
   {
     "label": "2018年度 太陽 1部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=jP7BzIdPaZY",
-    "source": "YouTube検索結果: 18sunmassgame 1st stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=18sunmassgame%201st%20stage",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 18sunmassgame 1st stage"
   },
   {
     "label": "2018年度 太陽 インター",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=GWvg91GhT9g",
-    "source": "YouTube検索結果: 18sunmassgame interval",
-    "sourceUrl": "https://www.youtube.com/results?search_query=18sunmassgame%20interval",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 18sunmassgame interval"
   },
   {
     "label": "2018年度 太陽 2部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=FwVHwTpmzbA",
-    "source": "YouTube検索結果: 18sunmassgame 2nd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=18sunmassgame%202nd%20stage",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 18sunmassgame 2nd stage"
   },
   {
     "label": "2018年度 太陽 3部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=DiB-ePR2Crs",
-    "source": "YouTube検索結果: 18sunmassgame 3rd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=18sunmassgame%203rd%20stage",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 18sunmassgame 3rd stage"
   },
   {
     "label": "2018年度 太陽 退場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=f1KWe9S9Jtk",
-    "source": "YouTube検索結果: 18sunmassgame ending",
-    "sourceUrl": "https://www.youtube.com/results?search_query=18sunmassgame%20ending",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 18sunmassgame ending"
   },
   {
     "label": "2018年度 月 入場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=eVz395RlJMc",
-    "source": "YouTube検索結果: 18moonmassgame opening",
-    "sourceUrl": "https://www.youtube.com/results?search_query=18moonmassgame%20opening",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 18moonmassgame opening"
   },
   {
     "label": "2018年度 月 1部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=r99vLtqBHNc",
-    "source": "YouTube検索結果: 18moonmassgame 1st stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=18moonmassgame%201st%20stage",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 18moonmassgame 1st stage"
   },
   {
     "label": "2018年度 月 インター",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=RtJ0g8bd2k8",
-    "source": "YouTube検索結果: 18moonmassgame interval",
-    "sourceUrl": "https://www.youtube.com/results?search_query=18moonmassgame%20interval",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 18moonmassgame interval"
   },
   {
     "label": "2018年度 月 2部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=_-22AGfZxcY",
-    "source": "YouTube検索結果: 18moonmassgame 2nd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=18moonmassgame%202nd%20stage",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 18moonmassgame 2nd stage"
   },
   {
     "label": "2018年度 月 3部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=jMPU0oRr_-8",
-    "source": "YouTube検索結果: 18moonmassgame 3rd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=18moonmassgame%203rd%20stage",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 18moonmassgame 3rd stage"
   },
   {
     "label": "2018年度 月 退場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=MskJD-YkSOA",
-    "source": "YouTube検索結果: 18moonmassgame ending",
-    "sourceUrl": "https://www.youtube.com/results?search_query=18moonmassgame%20ending",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 18moonmassgame ending"
   },
   {
     "label": "2019年度 太陽 入場",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=-NzPyTvHrq0",
-    "source": "YouTube検索結果: 19sunmassgame 入場",
-    "sourceUrl": "https://www.youtube.com/results?search_query=19sunmassgame%20%E5%85%A5%E5%A0%B4",
+    "url": "https://www.youtube.com/watch?v=RrTyEi5T3Og",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 19sunmassgame opening"
   },
   {
     "label": "2019年度 太陽 1部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=MwFCJ3k-RhI",
-    "source": "YouTube検索結果: 19sunmassgame 1部",
-    "sourceUrl": "https://www.youtube.com/results?search_query=19sunmassgame%201%E9%83%A8",
+    "url": "https://www.youtube.com/watch?v=KPCi3QFkdpE",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 19sunmassgame 1st"
   },
   {
     "label": "2019年度 太陽 インター",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=Rd9yp5-6mpQ",
-    "source": "YouTube検索結果: 19sunmassgame インター",
-    "sourceUrl": "https://www.youtube.com/results?search_query=19sunmassgame%20%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC",
+    "url": "https://www.youtube.com/watch?v=mn2A8uk8UY0",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 19sunmassgame inter"
   },
   {
     "label": "2019年度 太陽 2部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=W7WyLcvNZck",
-    "source": "YouTube検索結果: 19sunmassgame 2部",
-    "sourceUrl": "https://www.youtube.com/results?search_query=19sunmassgame%202%E9%83%A8",
+    "url": "https://www.youtube.com/watch?v=pMB0GWxFoD0",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 19sunmassgame 2nd"
   },
   {
     "label": "2019年度 太陽 3部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=zT-MuYeInnY",
-    "source": "YouTube検索結果: 19sunmassgame 3部",
-    "sourceUrl": "https://www.youtube.com/results?search_query=19sunmassgame%203%E9%83%A8",
+    "url": "https://www.youtube.com/watch?v=cMiDm0DUXig",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 19sunmassgame 3rd"
   },
   {
     "label": "2019年度 太陽 退場",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=-LiOChe2Ze8",
-    "source": "YouTube検索結果: 19sunmassgame 退場",
-    "sourceUrl": "https://www.youtube.com/results?search_query=19sunmassgame%20%E9%80%80%E5%A0%B4",
+    "url": "https://www.youtube.com/watch?v=z4LcT5qYImI",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 19sunmassgame ending"
   },
   {
     "label": "2019年度 月 入場",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=fXf2f6xhCSw",
-    "source": "YouTube検索結果: 19moonmassgame 入場",
-    "sourceUrl": "https://www.youtube.com/results?search_query=19moonmassgame%20%E5%85%A5%E5%A0%B4",
+    "url": "https://www.youtube.com/watch?v=r2rwoZ6KbN0",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 19moonmassgame opening"
   },
   {
     "label": "2019年度 月 1部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=nh1X0tTnZuM",
-    "source": "YouTube検索結果: 19moonmassgame 1部",
-    "sourceUrl": "https://www.youtube.com/results?search_query=19moonmassgame%201%E9%83%A8",
+    "url": "https://www.youtube.com/watch?v=zdhDLasDRlo",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 19moonmassgame 1st"
+  },
+  {
+    "label": "2019年度 月 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=8Pf2pGqKMXk",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 19moonmassgame inter"
   },
   {
     "label": "2019年度 月 2部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=-ySclYVncQ4",
-    "source": "YouTube検索結果: 19moonmassgame 2部",
-    "sourceUrl": "https://www.youtube.com/results?search_query=19moonmassgame%202%E9%83%A8",
+    "url": "https://www.youtube.com/watch?v=OIDElyLimS0",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 19moonmassgame 2nd"
+  },
+  {
+    "label": "2019年度 月 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=AMH9Uv_6HdU",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 19moonmassgame 3rd"
+  },
+  {
+    "label": "2019年度 月 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=sty_MWztmTU",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 19moonmassgame ending"
+  },
+  {
+    "label": "2021年度 太陽 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=ULmvPN9Mtno",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 21sunmassgame opening"
   },
   {
     "label": "2021年度 太陽 1部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=9nKzIhVwOtI",
-    "source": "YouTube検索結果: 21 Sunmassgame 1st stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=21%20Sunmassgame%201st%20stage",
+    "url": "https://www.youtube.com/watch?v=YJZtFSeIC0k",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 21sunmassgame 1st"
+  },
+  {
+    "label": "2021年度 太陽 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Hh3ex7DezYY",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 21sunmassgame inter"
   },
   {
     "label": "2021年度 太陽 2部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=T6XhITaLV58",
-    "source": "YouTube検索結果: 21 Sunmassgame 2nd stage",
-    "sourceUrl": "https://www.youtube.com/results?search_query=21%20Sunmassgame%202nd%20stage",
+    "url": "https://www.youtube.com/watch?v=WESm-Oaf5pI",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 21sunmassgame 2nd"
+  },
+  {
+    "label": "2021年度 太陽 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=-2QtPKlrDOI",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 21sunmassgame 3rd"
+  },
+  {
+    "label": "2021年度 太陽 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=1shp-XSLsm4",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 21sunmassgame ending"
+  },
+  {
+    "label": "2021年度 月 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=kRxXW_RkcYg",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 21moonmassgame opening"
+  },
+  {
+    "label": "2021年度 月 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=MrkU8zkp0LE",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 21moonmassgame 1st"
+  },
+  {
+    "label": "2021年度 月 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Xjn7dTq6A_E",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 21moonmassgame inter"
+  },
+  {
+    "label": "2021年度 月 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=rzPeM499LVs",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 21moonmassgame 2nd"
+  },
+  {
+    "label": "2021年度 月 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=716GWXbSr2U",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 21moonmassgame ending"
   },
   {
     "label": "2022年度 太陽 入場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=fVP_tVXGLXU",
-    "source": "YouTube検索結果: 広大附属 太陽マスゲーム 2022 入場",
-    "sourceUrl": "https://www.youtube.com/results?search_query=%E5%BA%83%E5%A4%A7%E9%99%84%E5%B1%9E%20%E5%A4%AA%E9%99%BD%E3%83%9E%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%202022%20%E5%85%A5%E5%A0%B4",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 広大附属 太陽マスゲーム 2022 入場"
   },
   {
     "label": "2022年度 太陽 1部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=7kdhgm_tjJU",
-    "source": "YouTube検索結果: 広大附属 太陽マスゲーム 2022 I部",
-    "sourceUrl": "https://www.youtube.com/results?search_query=%E5%BA%83%E5%A4%A7%E9%99%84%E5%B1%9E%20%E5%A4%AA%E9%99%BD%E3%83%9E%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%202022%20I%E9%83%A8",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 広大附属 太陽マスゲーム 2022 I部"
   },
   {
     "label": "2022年度 太陽 インター",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=qSujD_7EYSE",
-    "source": "YouTube検索結果: 広大附属 太陽マスゲーム 2022 インター",
-    "sourceUrl": "https://www.youtube.com/results?search_query=%E5%BA%83%E5%A4%A7%E9%99%84%E5%B1%9E%20%E5%A4%AA%E9%99%BD%E3%83%9E%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%202022%20%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 広大附属 太陽マスゲーム 2022 インター"
   },
   {
     "label": "2022年度 太陽 2部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=xK4B7SbpWbI",
-    "source": "YouTube検索結果: 広大附属 太陽マスゲーム 2022 II部",
-    "sourceUrl": "https://www.youtube.com/results?search_query=%E5%BA%83%E5%A4%A7%E9%99%84%E5%B1%9E%20%E5%A4%AA%E9%99%BD%E3%83%9E%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%202022%20II%E9%83%A8",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 広大附属 太陽マスゲーム 2022 II部"
   },
   {
     "label": "2022年度 太陽 3部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=gQ0ZPjgE1JE",
-    "source": "YouTube検索結果: 広大附属 太陽マスゲーム 2022 Ⅲ部",
-    "sourceUrl": "https://www.youtube.com/results?search_query=%E5%BA%83%E5%A4%A7%E9%99%84%E5%B1%9E%20%E5%A4%AA%E9%99%BD%E3%83%9E%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%202022%20%E2%85%A2%E9%83%A8",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 広大附属 太陽マスゲーム 2022 Ⅲ部"
   },
   {
     "label": "2022年度 太陽 退場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=FDU7WP2YUrw",
-    "source": "YouTube検索結果: 広大附属 太陽マスゲーム 2022 退場",
-    "sourceUrl": "https://www.youtube.com/results?search_query=%E5%BA%83%E5%A4%A7%E9%99%84%E5%B1%9E%20%E5%A4%AA%E9%99%BD%E3%83%9E%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%202022%20%E9%80%80%E5%A0%B4",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 広大附属 太陽マスゲーム 2022 退場"
   },
   {
     "label": "2022年度 月 入場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=0PYcF-zso0U",
-    "source": "YouTube検索結果: 広大附属 月マスゲーム 2022 入場",
-    "sourceUrl": "https://www.youtube.com/results?search_query=%E5%BA%83%E5%A4%A7%E9%99%84%E5%B1%9E%20%E6%9C%88%E3%83%9E%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%202022%20%E5%85%A5%E5%A0%B4",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 広大附属 月マスゲーム 2022 入場"
   },
   {
     "label": "2022年度 月 1部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=D0vzwJcqJrc",
-    "source": "YouTube検索結果: 広大附属 月マスゲーム 2022 Ⅰ部",
-    "sourceUrl": "https://www.youtube.com/results?search_query=%E5%BA%83%E5%A4%A7%E9%99%84%E5%B1%9E%20%E6%9C%88%E3%83%9E%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%202022%20%E2%85%A0%E9%83%A8",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 広大附属 月マスゲーム 2022 Ⅰ部"
   },
   {
     "label": "2022年度 月 インター",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=CVuxpJDaMlQ",
-    "source": "YouTube検索結果: 広大附属 月マスゲーム 2022 インター",
-    "sourceUrl": "https://www.youtube.com/results?search_query=%E5%BA%83%E5%A4%A7%E9%99%84%E5%B1%9E%20%E6%9C%88%E3%83%9E%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%202022%20%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 広大附属 月マスゲーム 2022 インター"
   },
   {
     "label": "2022年度 月 2部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=tQijBDBtLFg",
-    "source": "YouTube検索結果: 広大附属 月マスゲーム 2022 Ⅱ部",
-    "sourceUrl": "https://www.youtube.com/results?search_query=%E5%BA%83%E5%A4%A7%E9%99%84%E5%B1%9E%20%E6%9C%88%E3%83%9E%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%202022%20%E2%85%A1%E9%83%A8",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 広大附属 月マスゲーム 2022 Ⅱ部"
   },
   {
     "label": "2022年度 月 3部",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=hsBKKOyNkuA",
-    "source": "YouTube検索結果: 広大附属 月マスゲーム 2022 Ⅲ部",
-    "sourceUrl": "https://www.youtube.com/results?search_query=%E5%BA%83%E5%A4%A7%E9%99%84%E5%B1%9E%20%E6%9C%88%E3%83%9E%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%202022%20%E2%85%A2%E9%83%A8",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 広大附属 月マスゲーム 2022 Ⅲ部"
   },
   {
     "label": "2022年度 月 退場",
     "kind": "youtube-video",
     "url": "https://www.youtube.com/watch?v=xQEnBdRXRz4",
-    "source": "YouTube検索結果: 広大附属 月マスゲーム 2022 退場",
-    "sourceUrl": "https://www.youtube.com/results?search_query=%E5%BA%83%E5%A4%A7%E9%99%84%E5%B1%9E%20%E6%9C%88%E3%83%9E%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0%202022%20%E9%80%80%E5%A0%B4",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 広大附属 月マスゲーム 2022 退場"
   },
   {
-    "label": "2023年度 太陽 入場 櫓",
+    "label": "2023年度 太陽 入場",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=2XeBRoFleN8",
-    "source": "YouTube検索結果: '23 SUN MASSGAME 入場 櫓",
-    "sourceUrl": "https://www.youtube.com/results?search_query='23%20SUN%20MASSGAME%20%E5%85%A5%E5%A0%B4%20%E6%AB%93",
+    "url": "https://www.youtube.com/watch?v=z0t2lUwUr6E",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 23sunmassgame opening"
   },
   {
-    "label": "2023年度 太陽 2部 櫓",
+    "label": "2023年度 太陽 1部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=qmlKu65AYR0",
-    "source": "YouTube検索結果: '23 SUN MASSGAME 2部 櫓",
-    "sourceUrl": "https://www.youtube.com/results?search_query='23%20SUN%20MASSGAME%202%E9%83%A8%20%E6%AB%93",
+    "url": "https://www.youtube.com/watch?v=P8ugLWNBA-o",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 23sunmassgame 1st"
   },
   {
-    "label": "2023年度 太陽 退場 櫓",
+    "label": "2023年度 太陽 インター",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=buokyxsnCb8",
-    "source": "YouTube検索結果: '23 SUN MASSGAME 退場 櫓",
-    "sourceUrl": "https://www.youtube.com/results?search_query='23%20SUN%20MASSGAME%20%E9%80%80%E5%A0%B4%20%E6%AB%93",
+    "url": "https://www.youtube.com/watch?v=3IwG1BJ_rdY",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 23sunmassgame inter"
   },
   {
-    "label": "2023年度 月 入場 櫓",
+    "label": "2023年度 太陽 2部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=Z1kw9xsebDg",
-    "source": "YouTube検索結果: '23 MOON MASSGAME 入場 櫓",
-    "sourceUrl": "https://www.youtube.com/results?search_query='23%20MOON%20MASSGAME%20%E5%85%A5%E5%A0%B4%20%E6%AB%93",
+    "url": "https://www.youtube.com/watch?v=KglxvNDzkBs",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 23sunmassgame 2nd"
   },
   {
-    "label": "2024年度 月 櫓",
+    "label": "2023年度 太陽 3部",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=uUdj8SaRAaU",
-    "source": "YouTube検索結果: 広大附属月マスゲーム2024櫓",
-    "sourceUrl": "https://www.youtube.com/results?search_query=%E5%BA%83%E5%A4%A7%E9%99%84%E5%B1%9E%E6%9C%88%E3%83%9E%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A02024%E6%AB%93",
+    "url": "https://www.youtube.com/watch?v=WhKEqo1w-aA",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 23sunmassgame 3rd"
   },
   {
-    "label": "2025年度 太陽 櫓",
+    "label": "2023年度 太陽 退場",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=PPRS674pb5Y",
-    "source": "YouTube検索結果: 25SUNMASSGAME 櫓",
-    "sourceUrl": "https://www.youtube.com/results?search_query=25SUNMASSGAME%20%E6%AB%93",
+    "url": "https://www.youtube.com/watch?v=RTA-NwLv0xQ",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 23sunmassgame ending"
   },
   {
-    "label": "2025年度 月 櫓",
+    "label": "2023年度 月 入場",
     "kind": "youtube-video",
-    "url": "https://www.youtube.com/watch?v=t98BTxrHOsM",
-    "source": "YouTube検索結果: 25MOONMASSGAME 櫓",
-    "sourceUrl": "https://www.youtube.com/results?search_query=25MOONMASSGAME%20%E6%AB%93",
+    "url": "https://www.youtube.com/watch?v=NxlQ1nYqc0M",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
     "verified": true,
-    "note": "YouTube検索結果でタイトル確認"
+    "note": "YouTube再生リストでタイトル確認: 23moonmassgame opening"
+  },
+  {
+    "label": "2023年度 月 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=KHWGTMmWGHE",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 23moonmassgame 1st"
+  },
+  {
+    "label": "2023年度 月 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=-bH8FqXPb7Y",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 23moonmassgame inter"
+  },
+  {
+    "label": "2023年度 月 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=34dy0mWNSGU",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 23moonmassgame 2nd"
+  },
+  {
+    "label": "2023年度 月 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=ciFmvoAZSb0",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 23moonmassgame 3rd"
+  },
+  {
+    "label": "2023年度 月 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=5FvA_8tGFv0",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 23moonmassgame ending"
+  },
+  {
+    "label": "2024年度 太陽 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=PwR0vZzBEpc",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 24sunmassgame opening"
+  },
+  {
+    "label": "2024年度 太陽 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=09mgaZXLZSI",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 2024sunmassgame 1st"
+  },
+  {
+    "label": "2024年度 太陽 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=HOe9kIPFLRE",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 24sunmassgame inter"
+  },
+  {
+    "label": "2024年度 太陽 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=H8YP7bKkG8o",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 24sunmassgame 2nd"
+  },
+  {
+    "label": "2024年度 太陽 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=SoOU9H6kvZc",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 24sunmassgame 3rd"
+  },
+  {
+    "label": "2024年度 太陽 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=RvjFrM47Dvs",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 24sunmassgame ending"
+  },
+  {
+    "label": "2024年度 月 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Jrm7VWKwsAc",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 24moonmassgame opening"
+  },
+  {
+    "label": "2024年度 月 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=JGmcQRVpDko",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 24moonmassgame 1st"
+  },
+  {
+    "label": "2024年度 月 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=HdAmClHPB14",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 24moonmassgame inter"
+  },
+  {
+    "label": "2024年度 月 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=pdpNYyw_Snw",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 24moonmassgame 2nd"
+  },
+  {
+    "label": "2024年度 月 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=PZ_cbfT65kQ",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 24moonmassgame 3rd"
+  },
+  {
+    "label": "2024年度 月 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=kRORkq2gy38",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 24moonmassgame ending"
+  },
+  {
+    "label": "2025年度 太陽 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=s5qZrI8zT-4",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 25sunmassgame opening"
+  },
+  {
+    "label": "2025年度 太陽 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=BPtx_YLTKbw",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 25sunmassgame 1st"
+  },
+  {
+    "label": "2025年度 太陽 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=toEAWfdjndE",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 25sunmassgame inter"
+  },
+  {
+    "label": "2025年度 太陽 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=6dmONEwIB7M",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 25sunmassgame 2nd"
+  },
+  {
+    "label": "2025年度 太陽 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=-sCO6p5e_sg",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 25sunmassgame 3rd"
+  },
+  {
+    "label": "2025年度 太陽 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=0wTFXRUQv1k",
+    "source": "YouTube再生リスト「太陽マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 25sunmassgame ending"
+  },
+  {
+    "label": "2025年度 月 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=lAmRsFDKres",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 25moonmassgame opening"
+  },
+  {
+    "label": "2025年度 月 1部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=bb5yQmTyg2Y",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 25moonmassgame 1st"
+  },
+  {
+    "label": "2025年度 月 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=JjKwVU77g8g",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 25moonmassgame inter"
+  },
+  {
+    "label": "2025年度 月 2部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=j0Z51Jl7K88",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 25moonmassgame 2nd"
+  },
+  {
+    "label": "2025年度 月 3部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=oqxhZH06Lt4",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 25moonmassgame 3rd"
+  },
+  {
+    "label": "2025年度 月 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Fx--R037dc8",
+    "source": "YouTube再生リスト「月マス」",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 25moonmassgame ending"
   }
 ]
