@@ -9,6 +9,8 @@ type Props = {
 const { entries, searchable = false } = Astro.props;
 const years = [...new Set(entries.map((entry) => entry.year))].sort((a, b) => b - a);
 const groups = [...new Set(entries.map((entry) => entry.group))];
+const sceneOrder = ["入場", "一部", "インター", "二部", "三部", "退場"];
+const scenes = sceneOrder.filter((scene) => entries.some((entry) => entry.scene === scene));
 
 const columns = [
   { key: "year", label: "年度", type: "number" },
@@ -37,6 +39,13 @@ const columns = [
       <select data-filter="group">
         <option value="">すべて</option>
         {groups.map((group) => <option value={group}>{group}</option>)}
+      </select>
+    </label>
+    <label>
+      <span class="source-note">シーン</span>
+      <select data-filter="scene">
+        <option value="">すべて</option>
+        {scenes.map((scene) => <option value={scene}>{scene}</option>)}
       </select>
     </label>
   </div>
@@ -160,17 +169,20 @@ const columns = [
       query: getControl("[data-filter='query']"),
       year: getControl("[data-filter='year']"),
       group: getControl("[data-filter='group']"),
+      scene: getControl("[data-filter='scene']"),
     };
     const applyFilters = () => {
       const query = controls.query.value.trim().toLowerCase();
       const year = controls.year.value;
       const group = controls.group.value;
+      const scene = controls.scene.value;
       for (const row of rows) {
         if (!(row instanceof HTMLTableRowElement)) continue;
         const visible =
           (!query || (row.dataset.search ?? "").includes(query)) &&
           (!year || row.dataset.year === year) &&
-          (!group || row.dataset.group === group);
+          (!group || row.dataset.group === group) &&
+          (!scene || row.dataset.scene === scene);
         row.hidden = !visible;
       }
     };
