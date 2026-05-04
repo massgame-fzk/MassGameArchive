@@ -6,7 +6,7 @@ import { musicEntries } from "../../data/archive";
 const entries = musicEntries.filter((entry) => entry.group === "月" || entry.group === "白");
 ---
 
-<BaseLayout title="月・白">
+<BaseLayout title="月・白" breadcrumbs={[{ label: "月・白" }]}>
   <section class="hero wrap narrow">
     <p class="eyebrow">Group</p>
     <h1>月・白</h1>

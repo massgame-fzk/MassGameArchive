@@ -7,7 +7,11 @@ import { musicEntries } from "../../data/archive";
 const sorted = [...musicEntries].sort((a, b) => b.year - a.year || a.group.localeCompare(b.group, "ja"));
 ---
 
-<BaseLayout title="曲一覧" description="広大附属マスゲームの曲を年度、部門、シーン、曲名・アーティストで探せます。">
+<BaseLayout
+  title="曲一覧"
+  description="広大附属マスゲームの曲を年度、部門、シーン、曲名・アーティストで探せます。"
+  breadcrumbs={[{ label: "曲一覧" }]}
+>
   <section class="hero wrap narrow">
     <p class="eyebrow">Music</p>
     <h1>曲一覧</h1>

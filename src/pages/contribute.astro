@@ -2,7 +2,7 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 
-<BaseLayout title="連絡・情報提供">
+<BaseLayout title="連絡・情報提供" breadcrumbs={[{ label: "連絡・情報提供" }]}>
   <section class="hero wrap narrow">
     <p class="eyebrow">Contact</p>
     <h1>連絡・情報提供について</h1>
@@ -40,6 +40,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
     <h2>連絡フォーム</h2>
     <p class="source-note">
       送信内容は管理者宛のメールに転送されます。個人情報や公開を望まない内容は、必要な範囲だけ書いてください。
+      必須は返信先メールアドレスと内容だけです。
     </p>
     <form class="contact-form" action="https://formspree.io/f/maqvejqg" method="post" data-contact-form>
       <input type="hidden" name="subject" value="MassGame Archiveへの連絡" />
@@ -84,7 +85,14 @@ import BaseLayout from "../layouts/BaseLayout.astro";
       </label>
       <label>
         内容
-        <textarea name="message" rows="8" maxlength="2000" required></textarea>
+        <textarea
+          name="message"
+          rows="8"
+          maxlength="2000"
+          required
+          data-message-field
+          placeholder="例: 2024年度 月 一部で使われていた曲について"
+        ></textarea>
       </label>
       <p class="source-note">
         添付ファイルは受け付けていません。いただいた情報は確認できたものから反映します。
@@ -96,6 +104,22 @@ import BaseLayout from "../layouts/BaseLayout.astro";
   <script>
     const form = document.querySelector("[data-contact-form]");
     const status = document.querySelector("[data-form-status]");
+    const topic = form?.querySelector("select[name='topic']");
+    const message = form?.querySelector("[data-message-field]");
+
+    const placeholders: Record<string, string> = {
+      情報提供: "例: 2024年度 月 一部で使われていた曲は...",
+      訂正依頼: "例: 2023年度 太陽 二部の曲名が...",
+      リンク切れ: "例: 2025年度 月のYouTubeリンクが再生できません",
+      "削除・非掲載の相談": "例: 掲載内容について相談したい箇所は...",
+      その他: "例: サイトについて相談したい内容を入力してください",
+    };
+
+    if (topic instanceof HTMLSelectElement && message instanceof HTMLTextAreaElement) {
+      topic.addEventListener("change", () => {
+        message.placeholder = placeholders[topic.value] ?? "例: 2024年度 月 一部で使われていた曲について";
+      });
+    }
 
     if (form instanceof HTMLFormElement && status instanceof HTMLElement) {
       form.addEventListener("submit", async (event) => {

@@ -5,7 +5,7 @@ import { years } from "../../data/archive";
 const sorted = [...years].sort((a, b) => b.year - a.year);
 ---
 
-<BaseLayout title="年度別">
+<BaseLayout title="年度別" breadcrumbs={[{ label: "年度別" }]}>
   <section class="hero wrap narrow">
     <p class="eyebrow">Years</p>
     <h1>年度別</h1>

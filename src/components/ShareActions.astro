@@ -23,23 +23,28 @@ const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURICom
 ---
 
 <aside class="share-actions" aria-label="このページを共有" data-share-title={title} data-share-text={text} data-share-url={url}>
-  <span class="share-heading">共有</span>
-  <button class="share-button share-copy" type="button" data-copy-text={shareText}>
-    <Icon name="copy" />リンクをコピー
-  </button>
-  <button class="share-button share-native" type="button">
+  <button class="share-menu-toggle" type="button" aria-expanded="false">
     <Icon name="share" />共有
   </button>
-  <a class="share-button" href={xUrl} target="_blank" rel="noopener noreferrer">
-    <BrandIcon name="x" />X
-  </a>
-  <a class="share-button" href={lineUrl} target="_blank" rel="noopener noreferrer">
-    <BrandIcon name="line" />LINE
-  </a>
-  <a class="share-button" href={facebookUrl} target="_blank" rel="noopener noreferrer">
-    <BrandIcon name="facebook" />Facebook
-  </a>
-  <span class="share-status" aria-live="polite"></span>
+  <div class="share-panel">
+    <span class="share-heading">共有</span>
+    <button class="share-button share-copy" type="button" data-copy-text={shareText}>
+      <Icon name="copy" />リンクをコピー
+    </button>
+    <button class="share-button share-native" type="button">
+      <Icon name="share" />共有
+    </button>
+    <a class="share-button" href={xUrl} target="_blank" rel="noopener noreferrer">
+      <BrandIcon name="x" />X
+    </a>
+    <a class="share-button" href={lineUrl} target="_blank" rel="noopener noreferrer">
+      <BrandIcon name="line" />LINE
+    </a>
+    <a class="share-button" href={facebookUrl} target="_blank" rel="noopener noreferrer">
+      <BrandIcon name="facebook" />Facebook
+    </a>
+    <span class="share-status" aria-live="polite"></span>
+  </div>
 </aside>
 
 <script>
@@ -50,6 +55,7 @@ const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURICom
 
     const copyButton = group.querySelector(".share-copy");
     const nativeButton = group.querySelector(".share-native");
+    const toggleButton = group.querySelector(".share-menu-toggle");
     const status = group.querySelector(".share-status");
     const shareData = {
       title: group.dataset.shareTitle ?? document.title,
@@ -60,6 +66,13 @@ const facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURICom
     if (!navigator.share && nativeButton instanceof HTMLElement) {
       nativeButton.hidden = true;
     }
+
+    toggleButton?.addEventListener("click", () => {
+      if (!(toggleButton instanceof HTMLButtonElement)) return;
+      const expanded = group.dataset.open === "true";
+      group.dataset.open = expanded ? "false" : "true";
+      toggleButton.setAttribute("aria-expanded", String(!expanded));
+    });
 
     copyButton?.addEventListener("click", async () => {
       if (!(copyButton instanceof HTMLElement)) return;

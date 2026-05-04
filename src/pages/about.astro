@@ -3,7 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import { site } from "../data/site";
 ---
 
-<BaseLayout title="このサイトについて">
+<BaseLayout title="このサイトについて" breadcrumbs={[{ label: "このサイトについて" }]}>
   <section class="hero wrap narrow">
     <p class="eyebrow">About</p>
     <h1>このサイトについて</h1>

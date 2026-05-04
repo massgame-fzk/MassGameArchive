@@ -7,13 +7,18 @@ type Props = {
   title: string;
   description?: string;
   image?: string;
+  breadcrumbs?: {
+    href?: string;
+    label: string;
+  }[];
 };
 
-const { title, description = site.description, image = site.ogImage } = Astro.props;
+const { title, description = site.description, image = site.ogImage, breadcrumbs = [] } = Astro.props;
 const pageTitle = title === "トップ" ? site.name : `${title} | ${site.name}`;
 const baseUrl = import.meta.env.DEV ? Astro.url : Astro.site ?? Astro.url;
 const canonicalUrl = new URL(Astro.url.pathname, baseUrl).toString();
 const imageUrl = new URL(image, baseUrl).toString();
+const currentPath = Astro.url.pathname;
 const nav = [
   { href: "/", label: "トップ", icon: "home" },
   { href: "/about/", label: "このサイトについて", icon: "book" },
@@ -53,11 +58,34 @@ const nav = [
           <span>{site.name}</span>
         </a>
         <nav class="site-nav" aria-label="主要ナビゲーション">
-          {nav.map((item) => <a href={item.href}><Icon name={item.icon} />{item.label}</a>)}
+          {nav.map((item) => {
+            const isCurrent = item.href === "/" ? currentPath === "/" : currentPath.startsWith(item.href);
+            return (
+              <a href={item.href} aria-current={isCurrent ? "page" : undefined}>
+                <Icon name={item.icon} />{item.label}
+              </a>
+            );
+          })}
         </nav>
       </div>
     </header>
     <main id="main">
+      {breadcrumbs.length > 0 && (
+        <nav class="breadcrumbs wrap narrow" aria-label="パンくず">
+          <ol>
+            <li><a href="/">トップ</a></li>
+            {breadcrumbs.map((item, index) => (
+              <li>
+                {item.href && index < breadcrumbs.length - 1 ? (
+                  <a href={item.href}>{item.label}</a>
+                ) : (
+                  <span aria-current="page">{item.label}</span>
+                )}
+              </li>
+            ))}
+          </ol>
+        </nav>
+      )}
       <slot />
     </main>
     <footer class="site-footer">

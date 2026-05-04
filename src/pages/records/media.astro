@@ -78,7 +78,11 @@ const archivePlaylists = mediaEntries
   });
 ---
 
-<BaseLayout title="YouTube" description="広大附属マスゲームのYouTube動画を年度ごとに探せます。">
+<BaseLayout
+  title="YouTube"
+  description="広大附属マスゲームのYouTube動画を年度ごとに探せます。"
+  breadcrumbs={[{ label: "動画" }]}
+>
   <section class="hero wrap narrow">
     <p class="eyebrow">YouTube</p>
     <h1>動画</h1>
@@ -89,10 +93,13 @@ const archivePlaylists = mediaEntries
     />
   </section>
   <section class="section wrap narrow">
-    <nav class="year-filter" aria-label="動画の年度">
-      {videosByYear.map(([year]) => <a href={`#year-${year}`}>{year}</a>)}
-      {archivePlaylists.length > 0 && <a href="#archive-playlists">2011以前</a>}
-    </nav>
+    <div class="scroll-hint-shell">
+      <p class="scroll-hint">年度は横にスクロールできます</p>
+      <nav class="year-filter" aria-label="動画の年度">
+        {videosByYear.map(([year]) => <a href={`#year-${year}`}>{year}</a>)}
+        {archivePlaylists.length > 0 && <a href="#archive-playlists">2011以前</a>}
+      </nav>
+    </div>
 
     <div class="video-years">
       {videosByYear.map(([year, entries]) => (

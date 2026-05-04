@@ -15,7 +15,14 @@ if (!record.year) {
 }
 ---
 
-<BaseLayout title={`${record.year.label}`} description={`${record.year.label}の広大附属マスゲームの曲と動画をまとめています。`}>
+<BaseLayout
+  title={`${record.year.label}`}
+  description={`${record.year.label}の広大附属マスゲームの曲と動画をまとめています。`}
+  breadcrumbs={[
+    { href: "/years/", label: "年度別" },
+    { label: record.year.label },
+  ]}
+>
   <section class="hero wrap narrow">
     <p class="eyebrow">Year</p>
     <h1>{record.year.label}</h1>
@@ -40,16 +47,19 @@ if (!record.year) {
           return (
             <article class="video-item">
               <h3>{entry.label}</h3>
-              {embedUrl && (
-                <iframe
-                  src={embedUrl}
-                  title={`${entry.label} YouTube`}
-                  loading="lazy"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowfullscreen
-                ></iframe>
-              )}
-              <p><a class="youtube-link" href={entry.url}>YouTubeで見る</a></p>
+              <div class="video-actions">
+                <button
+                  type="button"
+                  class="embed-toggle"
+                  data-embed-url={embedUrl}
+                  data-embed-title={`${entry.label} YouTube`}
+                  disabled={!embedUrl}
+                >
+                  このページで再生
+                </button>
+                <a class="youtube-link" href={entry.url}>YouTubeで見る</a>
+              </div>
+              <div class="embed-slot" aria-live="polite"></div>
             </article>
           );
         })}
@@ -58,4 +68,33 @@ if (!record.year) {
       <p>この年度のYouTubeリンクは未確認です。</p>
     )}
   </section>
+  <script>
+    const buttons = document.querySelectorAll("[data-embed-url]");
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => {
+        if (!(button instanceof HTMLButtonElement)) return;
+        const url = button.dataset.embedUrl;
+        if (!url) return;
+        const row = button.closest(".video-item");
+        const slot = row?.querySelector(".embed-slot");
+        if (!slot) return;
+
+        const existing = slot.querySelector("iframe");
+        if (existing) {
+          slot.replaceChildren();
+          button.textContent = "このページで再生";
+          return;
+        }
+
+        const iframe = document.createElement("iframe");
+        iframe.src = url;
+        iframe.title = button.dataset.embedTitle ?? "YouTube";
+        iframe.loading = "lazy";
+        iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+        iframe.allowFullscreen = true;
+        slot.replaceChildren(iframe);
+        button.textContent = "閉じる";
+      });
+    });
+  </script>
 </BaseLayout>

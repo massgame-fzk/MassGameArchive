@@ -51,8 +51,10 @@ const columns = [
   </div>
 )}
 
-<div class="table-wrap">
-  <table data-records-table>
+<p class="scroll-hint table-scroll-hint">表は横にスクロールできます</p>
+<div class="table-scroll-shell">
+  <div class="table-wrap">
+    <table data-records-table>
     <thead>
       <tr>
         {columns.map((column) => (
@@ -64,7 +66,7 @@ const columns = [
               data-sort-type={column.type}
             >
               <span>{column.label}</span>
-              <span class="sort-indicator" aria-hidden="true"></span>
+              <span class="sort-indicator" aria-hidden="true">↕</span>
             </button>
           </th>
         ))}
@@ -88,7 +90,8 @@ const columns = [
         </tr>
       ))}
     </tbody>
-  </table>
+    </table>
+  </div>
 </div>
 
 <script>
@@ -112,7 +115,7 @@ const columns = [
       const isActive = button.dataset.sortKey === activeSort.key;
       button.dataset.sortDirection = isActive ? activeSort.direction : "";
       if (indicator) {
-        indicator.textContent = isActive ? (activeSort.direction === "asc" ? "↑" : "↓") : "";
+        indicator.textContent = isActive ? (activeSort.direction === "asc" ? "↑" : "↓") : "↕";
       }
       if (isActive) {
         button.closest("th")?.setAttribute("aria-sort", activeSort.direction === "asc" ? "ascending" : "descending");
@@ -160,10 +163,7 @@ const columns = [
     const rows = Array.from(table?.querySelectorAll("tbody tr") ?? []);
     const getControl = (selector: string) => {
       const control = root.querySelector(selector);
-      if (!(control instanceof HTMLInputElement || control instanceof HTMLSelectElement)) {
-        throw new Error(`Missing filter control: ${selector}`);
-      }
-      return control;
+      return control instanceof HTMLInputElement || control instanceof HTMLSelectElement ? control : null;
     };
     const controls = {
       query: getControl("[data-filter='query']"),
@@ -171,21 +171,24 @@ const columns = [
       group: getControl("[data-filter='group']"),
       scene: getControl("[data-filter='scene']"),
     };
-    const applyFilters = () => {
-      const query = controls.query.value.trim().toLowerCase();
-      const year = controls.year.value;
-      const group = controls.group.value;
-      const scene = controls.scene.value;
-      for (const row of rows) {
-        if (!(row instanceof HTMLTableRowElement)) continue;
-        const visible =
-          (!query || (row.dataset.search ?? "").includes(query)) &&
-          (!year || row.dataset.year === year) &&
-          (!group || row.dataset.group === group) &&
-          (!scene || row.dataset.scene === scene);
-        row.hidden = !visible;
-      }
-    };
-    Object.values(controls).forEach((control) => control.addEventListener("input", applyFilters));
+    if (controls.query && controls.year && controls.group && controls.scene) {
+      const { query: queryControl, year: yearControl, group: groupControl, scene: sceneControl } = controls;
+      const applyFilters = () => {
+        const query = queryControl.value.trim().toLowerCase();
+        const year = yearControl.value;
+        const group = groupControl.value;
+        const scene = sceneControl.value;
+        for (const row of rows) {
+          if (!(row instanceof HTMLTableRowElement)) continue;
+          const visible =
+            (!query || (row.dataset.search ?? "").includes(query)) &&
+            (!year || row.dataset.year === year) &&
+            (!group || row.dataset.group === group) &&
+            (!scene || row.dataset.scene === scene);
+          row.hidden = !visible;
+        }
+      };
+      [queryControl, yearControl, groupControl, sceneControl].forEach((control) => control.addEventListener("input", applyFilters));
+    }
   </script>
 )}
