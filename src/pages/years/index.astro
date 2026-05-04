@@ -17,7 +17,6 @@ const sorted = [...years].sort((a, b) => b.year - a.year);
         <a class="year-card" href={`/years/${entry.year}/`}>
           <span class="year-number">{entry.year}</span>
           <div>
-            <h2>{entry.label}</h2>
             <p>{entry.summary}</p>
             <p>
               {entry.groups.map((group) => <span class="tag">{group}</span>)}
