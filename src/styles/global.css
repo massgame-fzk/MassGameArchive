@@ -626,6 +626,12 @@ p {
   color: #315349;
 }
 
+.status-unknown {
+  background: #fff8e8;
+  border-color: #efd9a9;
+  color: #725014;
+}
+
 .timeline {
   display: grid;
   gap: 0;
@@ -864,6 +870,11 @@ th {
 
 tr:last-child td {
   border-bottom: 0;
+}
+
+tr.is-unknown td {
+  background: #fffaf0;
+  color: #725014;
 }
 
 .filters {

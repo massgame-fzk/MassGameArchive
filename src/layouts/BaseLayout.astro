@@ -20,6 +20,7 @@ const baseUrl = import.meta.env.DEV ? Astro.url : Astro.site ?? Astro.url;
 const canonicalUrl = new URL(Astro.url.pathname, baseUrl).toString();
 const imageUrl = new URL(image, baseUrl).toString();
 const currentPath = Astro.url.pathname;
+const showFooterAboutLink = currentPath !== "/about/";
 const nav = [
   { href: "/", label: "トップ", icon: "home" },
   { href: "/about/", label: "このサイトについて", icon: "book" },
@@ -121,9 +122,11 @@ const nav = [
         <p>
           掲載対象は曲名、年度、部門、場面、YouTube動画です。個人名、本文レポート、写真資料は公開対象にしていません。
         </p>
-        <p>
-          <a href="/about/">このサイトについて</a>
-        </p>
+        {showFooterAboutLink && (
+          <p>
+            <a href="/about/">このサイトについて</a>
+          </p>
+        )}
       </div>
     </footer>
     <script>

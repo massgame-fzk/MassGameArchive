@@ -1,7 +1,7 @@
 import musicData from "./music.json";
 import yearsData from "./years.json";
 import mediaData from "./media.json";
-import type { MediaEntry, MusicEntry, MusicRecord, YearRecord } from "./types";
+import type { MediaEntry, MusicEntry, MusicRecord, MusicSlotEntry, YearRecord } from "./types";
 
 const expectedMusicScenes = ["入場", "一部", "インター", "二部", "三部", "退場"] as const;
 const allowedYoutubeHosts = new Set(["youtube.com", "www.youtube.com", "youtu.be"]);
@@ -13,9 +13,12 @@ export const musicRecords = (musicData as MusicRecord[]).filter((entry) => entry
 export const musicEntries = musicRecords.flatMap((record): MusicEntry[] =>
   record.scenes.flatMap((scene) =>
     scene.tracks
-      .filter((track) => track.verified)
+      .filter((track) => isKnownTrack(track))
       .map((track) => ({
         ...track,
+        title: track.title ?? "",
+        artist: track.artist ?? "",
+        status: "known" as const,
         year: record.year,
         group: record.group,
         legacyGroup: record.legacyGroup,
@@ -23,9 +26,51 @@ export const musicEntries = musicRecords.flatMap((record): MusicEntry[] =>
       })),
   ),
 );
+export const musicSlotEntries = musicRecords.flatMap((record): MusicSlotEntry[] =>
+  expectedMusicScenes.flatMap((expectedScene): MusicSlotEntry[] => {
+    const slot = record.scenes.find((item) => item.scene === expectedScene);
+    const tracks = slot?.tracks ?? [];
+    const visibleTracks = tracks.filter((track) => track.verified);
+
+    if (visibleTracks.length === 0) {
+      return [
+        {
+          year: record.year,
+          group: record.group,
+          legacyGroup: record.legacyGroup,
+          scene: expectedScene,
+          title: "調査中",
+          artist: "調査中",
+          status: "unknown",
+          verified: true,
+        },
+      ];
+    }
+
+    return visibleTracks.map((track) => {
+      const known = isKnownTrack(track);
+      return {
+        year: record.year,
+        group: record.group,
+        legacyGroup: record.legacyGroup,
+        scene: expectedScene,
+        title: known ? (track.title ?? "") : (track.title ?? "調査中"),
+        artist: known ? (track.artist ?? "") : (track.artist ?? "調査中"),
+        status: known ? "known" : "unknown",
+        source: track.source,
+        sourceUrl: track.sourceUrl,
+        verified: track.verified,
+      };
+    });
+  }),
+);
 export const mediaEntries = (mediaData as MediaEntry[]).filter(
   (entry) => entry.verified && isValidYoutubeEntry(entry),
 );
+
+function isKnownTrack(track: MusicRecord["scenes"][number]["tracks"][number]) {
+  return track.verified && track.status !== "unknown" && Boolean(track.title) && Boolean(track.artist);
+}
 
 export function formatEventDate(date?: string) {
   if (!date) return "";
@@ -44,7 +89,7 @@ export function missingMusicComment(year: number) {
     .map((record) => {
       const missingScenes = expectedMusicScenes.filter((scene) => {
         const slot = record.scenes.find((item) => item.scene === scene);
-        return !slot || !slot.tracks.some((track) => track.verified);
+        return !slot || !slot.tracks.some((track) => isKnownTrack(track));
       });
 
       return {
@@ -130,6 +175,7 @@ export function entriesForYear(year: number) {
     year: yearRecord,
     musicRecords: musicRecords.filter((entry) => entry.year === year),
     music: musicEntries.filter((entry) => entry.year === year),
+    musicSlots: musicSlotEntries.filter((entry) => entry.year === year),
     media: mediaEntries.filter((entry) => mediaMatchesYear(entry, year)),
     eventDateLabel: formatEventDate(yearRecord?.eventDate),
     missingMusicComment: missingMusicComment(year),

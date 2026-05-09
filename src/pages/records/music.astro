@@ -2,9 +2,9 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import RecordsTable from "../../components/RecordsTable.astro";
 import ShareActions from "../../components/ShareActions.astro";
-import { musicEntries } from "../../data/archive";
+import { musicSlotEntries } from "../../data/archive";
 
-const sorted = [...musicEntries].sort((a, b) => b.year - a.year || a.group.localeCompare(b.group, "ja"));
+const sorted = [...musicSlotEntries].sort((a, b) => b.year - a.year || a.group.localeCompare(b.group, "ja"));
 ---
 
 <BaseLayout
@@ -15,7 +15,7 @@ const sorted = [...musicEntries].sort((a, b) => b.year - a.year || a.group.local
   <section class="hero wrap narrow">
     <p class="eyebrow">Music</p>
     <h1>曲一覧</h1>
-    <p class="lead">年度、部門、シーン、曲名・アーティストで絞り込み、列ごとに並べ替えできます。</p>
+    <p class="lead">年度、部門、シーン、曲名・アーティストで絞り込み、未判明の箇所も含めて確認できます。</p>
     <ShareActions
       title="曲一覧 | MassGame Archive"
       text="広大附属マスゲームの曲を年度、部門、シーン、曲名・アーティストで探せます。"

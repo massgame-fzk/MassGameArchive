@@ -1,8 +1,8 @@
 ---
-import type { MusicEntry } from "../data/types";
+import type { MusicEntry, MusicSlotEntry } from "../data/types";
 
 type Props = {
-  entries: MusicEntry[];
+  entries: (MusicEntry | MusicSlotEntry)[];
   searchable?: boolean;
 };
 
@@ -80,7 +80,9 @@ const columns = [
           data-scene={entry.scene}
           data-title={entry.title}
           data-artist={entry.artist}
-          data-search={`${entry.title} ${entry.artist}`.toLowerCase()}
+          data-status={entry.status}
+          data-search={`${entry.title} ${entry.artist} ${entry.status === "unknown" ? "調査中 unknown 未判明" : ""}`.toLowerCase()}
+          class:list={[entry.status === "unknown" && "is-unknown"]}
         >
           <td><a href={`/years/${entry.year}/`}>{entry.year}</a></td>
           <td>{entry.group}<span class="source-note"> / {entry.legacyGroup}</span></td>

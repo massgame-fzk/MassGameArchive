@@ -36,7 +36,11 @@ if (!record.year) {
   <section class="section wrap narrow">
     <h2>曲</h2>
     {record.missingMusicComment && <p class="data-comment">{record.missingMusicComment}</p>}
-    {record.music.length > 0 ? <RecordsTable entries={record.music} /> : <p>この年度の曲はまだ確認済みデータがありません。</p>}
+    {record.musicSlots.length > 0 ? (
+      <RecordsTable entries={record.musicSlots} />
+    ) : (
+      <p>この年度の曲はまだ確認済みデータがありません。</p>
+    )}
   </section>
 
   <section class="section wrap narrow">

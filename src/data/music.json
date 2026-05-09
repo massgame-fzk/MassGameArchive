@@ -1534,7 +1534,15 @@
       },
       {
         "scene": "一部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Ready To Die Between Stars",
+            "artist": "Pathfinder",
+            "source": "ウェブサイト情報提供",
+            "sourceUrl": "https://youtu.be/GPjAbyGkEjc?si=1FbxuKAMUpILZRUf",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "インター",
@@ -2378,11 +2386,12 @@
         "scene": "インター",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -5596,11 +5605,12 @@
         "scene": "インター",
         "tracks": [
           {
-            "title": "Unknown",
+            "title": null,
             "artist": "The Square",
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -5956,11 +5966,12 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6016,11 +6027,12 @@
         "scene": "退場",
         "tracks": [
           {
-            "title": "Unknown",
+            "title": null,
             "artist": "クスコ",
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       }
@@ -6140,11 +6152,12 @@
         "scene": "インター",
         "tracks": [
           {
-            "title": "Unknown",
+            "title": null,
             "artist": "「Ｕボート」より",
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6220,11 +6233,12 @@
         "scene": "インター",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6276,11 +6290,12 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6288,11 +6303,12 @@
         "scene": "一部",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6300,11 +6316,12 @@
         "scene": "インター",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6312,11 +6329,12 @@
         "scene": "二部",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6324,11 +6342,12 @@
         "scene": "三部",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6336,11 +6355,12 @@
         "scene": "退場",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       }
@@ -6356,11 +6376,12 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6369,10 +6390,11 @@
         "tracks": [
           {
             "title": "スタートレックのテーマ",
-            "artist": "Unknown",
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6380,11 +6402,12 @@
         "scene": "インター",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6392,11 +6415,12 @@
         "scene": "二部",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6404,11 +6428,12 @@
         "scene": "三部",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6416,11 +6441,12 @@
         "scene": "退場",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       }
@@ -6436,11 +6462,12 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6448,11 +6475,12 @@
         "scene": "一部",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6460,11 +6488,12 @@
         "scene": "インター",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6472,11 +6501,12 @@
         "scene": "二部",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6484,11 +6514,12 @@
         "scene": "三部",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6496,11 +6527,12 @@
         "scene": "退場",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       }
@@ -6516,11 +6548,12 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6529,10 +6562,11 @@
         "tracks": [
           {
             "title": "ワイルドギスのテーマ",
-            "artist": "Unknown",
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6540,11 +6574,12 @@
         "scene": "インター",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6552,11 +6587,12 @@
         "scene": "二部",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6564,11 +6600,12 @@
         "scene": "三部",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       },
@@ -6576,11 +6613,12 @@
         "scene": "退場",
         "tracks": [
           {
-            "title": "Unknown",
-            "artist": "Unknown",
+            "title": null,
+            "artist": null,
             "source": "FC2「マスゲームの曲」",
             "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
-            "verified": true
+            "verified": true,
+            "status": "unknown"
           }
         ]
       }

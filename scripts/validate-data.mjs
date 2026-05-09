@@ -81,6 +81,13 @@ for (const record of music) {
     }
 
     for (const track of scene.tracks) {
+      if (track.status === "unknown") {
+        if (!track.source || !track.sourceUrl) {
+          fail(`${label} ${scene.scene}: unknown track is missing source or sourceUrl`);
+        }
+        continue;
+      }
+
       if (!track.title || !track.artist || !track.source || !track.sourceUrl) {
         fail(`${label} ${scene.scene}: track is missing title, artist, source, or sourceUrl`);
       }

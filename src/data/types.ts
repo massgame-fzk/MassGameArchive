@@ -14,12 +14,13 @@ export type YearRecord = {
 };
 
 export type MusicTrack = {
-  title: string;
-  artist: string;
+  title?: string | null;
+  artist?: string | null;
   source: string;
   sourceUrl: string;
   verified: boolean;
   sourceScene?: string;
+  status?: "known" | "unknown";
 };
 
 export type MusicSceneSlot = {
@@ -41,6 +42,22 @@ export type MusicEntry = MusicTrack & {
   group: GroupName;
   legacyGroup: "Red" | "White";
   scene: MusicScene;
+  title: string;
+  artist: string;
+  status: "known";
+};
+
+export type MusicSlotEntry = {
+  year: number;
+  group: GroupName;
+  legacyGroup: "Red" | "White";
+  scene: MusicScene;
+  title: string;
+  artist: string;
+  status: "known" | "unknown";
+  source?: string;
+  sourceUrl?: string;
+  verified: boolean;
 };
 
 export type MediaEntry = {
