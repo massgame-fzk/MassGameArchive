@@ -1,13 +1,12 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { formatEventDate, missingMusicComment, years } from "../../data/archive";
+import { formatEventDate, years } from "../../data/archive";
 
 const sorted = [...years]
   .sort((a, b) => b.year - a.year)
   .map((entry) => ({
     ...entry,
     eventDateLabel: formatEventDate(entry.eventDate),
-    missingMusicComment: missingMusicComment(entry.year),
   }));
 ---
 
@@ -24,7 +23,6 @@ const sorted = [...years]
           <span class="year-number">{entry.year}</span>
           <div>
             {entry.eventDateLabel && <p class="year-card-event">体育祭: {entry.eventDateLabel}</p>}
-            {entry.missingMusicComment && <p class="year-card-comment">{entry.missingMusicComment}</p>}
             <p>
               {entry.groups.map((group) => <span class="tag">{group}</span>)}
             </p>
