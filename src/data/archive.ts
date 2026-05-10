@@ -72,13 +72,20 @@ function isKnownTrack(track: MusicRecord["scenes"][number]["tracks"][number]) {
   return track.verified && track.status !== "unknown" && Boolean(track.title) && Boolean(track.artist);
 }
 
+const weekdayLabels = ["日", "月", "火", "水", "木", "金", "土"] as const;
+
 export function formatEventDate(date?: string) {
   if (!date) return "";
   const match = date.match(/^(\d{4})-(\d{2})-(\d{2})$/);
   if (!match) return date;
 
   const [, year, month, day] = match;
-  return `${Number(year)}年${Number(month)}月${Number(day)}日`;
+  const yearNum = Number(year);
+  const monthNum = Number(month);
+  const dayNum = Number(day);
+  const weekday = new Date(Date.UTC(yearNum, monthNum - 1, dayNum)).getUTCDay();
+  const weekdayLabel = weekdayLabels[weekday];
+  return `${yearNum}年${monthNum}月${dayNum}日 (${weekdayLabel})`;
 }
 
 export function missingMusicComment(year: number) {
