@@ -1,0 +1,5253 @@
+{
+  "provider": "acrcloud",
+  "playlist": {
+    "id": "PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "title": "月マス🌙",
+    "url": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "count": 131
+  },
+  "options": {
+    "offsets": [
+      0.2,
+      0.35,
+      0.5,
+      0.65,
+      0.8
+    ],
+    "sampleLength": 12,
+    "filterUnknown": true,
+    "includeEmptyScenes": true,
+    "hummingMinScore": 0.9,
+    "topN": 5,
+    "dryRun": false
+  },
+  "generatedAt": "2026-05-09T15:48:13.331Z",
+  "skipped": [
+    {
+      "playlistIndex": 1,
+      "videoId": "lAmRsFDKres",
+      "title": "25moonmassgame opening",
+      "url": "https://www.youtube.com/watch?v=lAmRsFDKres",
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 2,
+      "videoId": "bb5yQmTyg2Y",
+      "title": "25moonmassgame 1st",
+      "url": "https://www.youtube.com/watch?v=bb5yQmTyg2Y",
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 4,
+      "videoId": "j0Z51Jl7K88",
+      "title": "25moonmassgame 2nd",
+      "url": "https://www.youtube.com/watch?v=j0Z51Jl7K88",
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 6,
+      "videoId": "Fx--R037dc8",
+      "title": "25moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=Fx--R037dc8",
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 10,
+      "videoId": "pdpNYyw_Snw",
+      "title": "24moonmassgame 2nd",
+      "url": "https://www.youtube.com/watch?v=pdpNYyw_Snw",
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 11,
+      "videoId": "PZ_cbfT65kQ",
+      "title": "24moonmassgame 3rd",
+      "url": "https://www.youtube.com/watch?v=PZ_cbfT65kQ",
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 12,
+      "videoId": "kRORkq2gy38",
+      "title": "24moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=kRORkq2gy38",
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 13,
+      "videoId": "NxlQ1nYqc0M",
+      "title": "23moonmassgame opening",
+      "url": "https://www.youtube.com/watch?v=NxlQ1nYqc0M",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 14,
+      "videoId": "KHWGTMmWGHE",
+      "title": "23moonmassgame 1st",
+      "url": "https://www.youtube.com/watch?v=KHWGTMmWGHE",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 16,
+      "videoId": "34dy0mWNSGU",
+      "title": "23moonmassgame 2nd",
+      "url": "https://www.youtube.com/watch?v=34dy0mWNSGU",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 17,
+      "videoId": "ciFmvoAZSb0",
+      "title": "23moonmassgame 3rd",
+      "url": "https://www.youtube.com/watch?v=ciFmvoAZSb0",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 18,
+      "videoId": "5FvA_8tGFv0",
+      "title": "23moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=5FvA_8tGFv0",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 19,
+      "videoId": "0PYcF-zso0U",
+      "title": "広大附属 月マスゲーム 2022 入場",
+      "url": "https://www.youtube.com/watch?v=0PYcF-zso0U",
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 20,
+      "videoId": "D0vzwJcqJrc",
+      "title": "広大附属 月マスゲーム 2022 Ⅰ部",
+      "url": "https://www.youtube.com/watch?v=D0vzwJcqJrc",
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 22,
+      "videoId": "tQijBDBtLFg",
+      "title": "広大附属 月マスゲーム 2022 Ⅱ部",
+      "url": "https://www.youtube.com/watch?v=tQijBDBtLFg",
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 23,
+      "videoId": "hsBKKOyNkuA",
+      "title": "広大附属 月マスゲーム 2022 Ⅲ部",
+      "url": "https://www.youtube.com/watch?v=hsBKKOyNkuA",
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 24,
+      "videoId": "xQEnBdRXRz4",
+      "title": "広大附属 月マスゲーム 2022 退場",
+      "url": "https://www.youtube.com/watch?v=xQEnBdRXRz4",
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 25,
+      "videoId": "kRxXW_RkcYg",
+      "title": "21moonmassgame opening",
+      "url": "https://www.youtube.com/watch?v=kRxXW_RkcYg",
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 26,
+      "videoId": "MrkU8zkp0LE",
+      "title": "21moonmassgame 1st",
+      "url": "https://www.youtube.com/watch?v=MrkU8zkp0LE",
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 28,
+      "videoId": "rzPeM499LVs",
+      "title": "21moonmassgame 2nd",
+      "url": "https://www.youtube.com/watch?v=rzPeM499LVs",
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 29,
+      "videoId": "716GWXbSr2U",
+      "title": "21moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=716GWXbSr2U",
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 30,
+      "videoId": "r2rwoZ6KbN0",
+      "title": "19moonmassgame opening",
+      "url": "https://www.youtube.com/watch?v=r2rwoZ6KbN0",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 31,
+      "videoId": "zdhDLasDRlo",
+      "title": "19moonmassgame 1st",
+      "url": "https://www.youtube.com/watch?v=zdhDLasDRlo",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 33,
+      "videoId": "OIDElyLimS0",
+      "title": "19moonmassgame 2nd",
+      "url": "https://www.youtube.com/watch?v=OIDElyLimS0",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 34,
+      "videoId": "AMH9Uv_6HdU",
+      "title": "19moonmassgame 3rd",
+      "url": "https://www.youtube.com/watch?v=AMH9Uv_6HdU",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 35,
+      "videoId": "sty_MWztmTU",
+      "title": "19moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=sty_MWztmTU",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 36,
+      "videoId": "eVz395RlJMc",
+      "title": "18moonmassgame opening",
+      "url": "https://www.youtube.com/watch?v=eVz395RlJMc",
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 37,
+      "videoId": "r99vLtqBHNc",
+      "title": "18moonmassgame 1st stage",
+      "url": "https://www.youtube.com/watch?v=r99vLtqBHNc",
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 39,
+      "videoId": "_-22AGfZxcY",
+      "title": "18moonmassgame 2nd stage",
+      "url": "https://www.youtube.com/watch?v=_-22AGfZxcY",
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 40,
+      "videoId": "jMPU0oRr_-8",
+      "title": "18moonmassgame 3rd stage",
+      "url": "https://www.youtube.com/watch?v=jMPU0oRr_-8",
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 41,
+      "videoId": "MskJD-YkSOA",
+      "title": "18moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=MskJD-YkSOA",
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 42,
+      "videoId": "JZxATg6v-7w",
+      "title": "17moonmassgame opening",
+      "url": "https://www.youtube.com/watch?v=JZxATg6v-7w",
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 43,
+      "videoId": "5ZhJdX1lfMQ",
+      "title": "17moonmassgame 1st stage",
+      "url": "https://www.youtube.com/watch?v=5ZhJdX1lfMQ",
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 45,
+      "videoId": "hIuGkUa26nw",
+      "title": "17moonmassgame 2nd stage",
+      "url": "https://www.youtube.com/watch?v=hIuGkUa26nw",
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 46,
+      "videoId": "9OsloLSdK4Q",
+      "title": "17moonmassgame 3rd stage",
+      "url": "https://www.youtube.com/watch?v=9OsloLSdK4Q",
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 47,
+      "videoId": "Ue94QEd8KNI",
+      "title": "17moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=Ue94QEd8KNI",
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 48,
+      "videoId": "892QoVNLkY4",
+      "title": "16moonmassgame  entrance",
+      "url": "https://www.youtube.com/watch?v=892QoVNLkY4",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 49,
+      "videoId": "W5OAq7oI-aM",
+      "title": "16moonmassgame  1st",
+      "url": "https://www.youtube.com/watch?v=W5OAq7oI-aM",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 51,
+      "videoId": "s1d-0_C8LwM",
+      "title": "16moonmassgame  2nd",
+      "url": "https://www.youtube.com/watch?v=s1d-0_C8LwM",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 52,
+      "videoId": "XlvhMdLrHHg",
+      "title": "16moonmassgame  3rd",
+      "url": "https://www.youtube.com/watch?v=XlvhMdLrHHg",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 53,
+      "videoId": "oDKXHbCuzxI",
+      "title": "16moonmassgame  ending",
+      "url": "https://www.youtube.com/watch?v=oDKXHbCuzxI",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 54,
+      "videoId": "eUEoCHrw9DU",
+      "title": "2015MoonMassGame-opening",
+      "url": "https://www.youtube.com/watch?v=eUEoCHrw9DU",
+      "parsed": {
+        "year": 2015,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 55,
+      "videoId": "PlIkqUH6cRQ",
+      "title": "2015MoonMassGame-1st stage",
+      "url": "https://www.youtube.com/watch?v=PlIkqUH6cRQ",
+      "parsed": {
+        "year": 2015,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 58,
+      "videoId": "oeOgBQ3A4v0",
+      "title": "2015MoonMassGame-3rd stage",
+      "url": "https://www.youtube.com/watch?v=oeOgBQ3A4v0",
+      "parsed": {
+        "year": 2015,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 59,
+      "videoId": "jBYdpTGk-v4",
+      "title": "2015MoonMassGame-ending",
+      "url": "https://www.youtube.com/watch?v=jBYdpTGk-v4",
+      "parsed": {
+        "year": 2015,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 60,
+      "videoId": "6r_lPKYDdnQ",
+      "title": "2014 moonmass opening",
+      "url": "https://www.youtube.com/watch?v=6r_lPKYDdnQ",
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 61,
+      "videoId": "_oaI9YLLz5U",
+      "title": "2014 moonmass 1st stage",
+      "url": "https://www.youtube.com/watch?v=_oaI9YLLz5U",
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 62,
+      "videoId": "X4XneQuD5A4",
+      "title": "2014 moonmass interval",
+      "url": "https://www.youtube.com/watch?v=X4XneQuD5A4",
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 64,
+      "videoId": "ukN4MPxGj8o",
+      "title": "2014 moonmass 3rd stage",
+      "url": "https://www.youtube.com/watch?v=ukN4MPxGj8o",
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 65,
+      "videoId": "RznpPeFDMh8",
+      "title": "2014 moonmass ending",
+      "url": "https://www.youtube.com/watch?v=RznpPeFDMh8",
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 66,
+      "videoId": "urLpV775ptU",
+      "title": "2013 moon massgame opening",
+      "url": "https://www.youtube.com/watch?v=urLpV775ptU",
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 67,
+      "videoId": "A3zJEYSnjbI",
+      "title": "2013 moonmassgame 1st stage",
+      "url": "https://www.youtube.com/watch?v=A3zJEYSnjbI",
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 68,
+      "videoId": "5fFkDszW0zk",
+      "title": "2013 moonmassgame 2nd stage",
+      "url": "https://www.youtube.com/watch?v=5fFkDszW0zk",
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 69,
+      "videoId": "3bwyekb72WI",
+      "title": "2013 moonmassgame 3rd stage",
+      "url": "https://www.youtube.com/watch?v=3bwyekb72WI",
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 70,
+      "videoId": "oEPrICXytl8",
+      "title": "2013 moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=oEPrICXytl8",
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 72,
+      "videoId": "Db5y3ciwOkw",
+      "title": "2012massgame white-1st stage",
+      "url": "https://www.youtube.com/watch?v=Db5y3ciwOkw",
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 74,
+      "videoId": "ZnhgUMKq_GU",
+      "title": "2012massgame white-2nd stage",
+      "url": "https://www.youtube.com/watch?v=ZnhgUMKq_GU",
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 75,
+      "videoId": "EAie0XFvkGY",
+      "title": "2012massgame white-3rd stage",
+      "url": "https://www.youtube.com/watch?v=EAie0XFvkGY",
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 76,
+      "videoId": "28L3XTnDhbs",
+      "title": "2012massgame white-Ending",
+      "url": "https://www.youtube.com/watch?v=28L3XTnDhbs",
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 77,
+      "videoId": "MrX3TG-G8Tc",
+      "title": "11massgame white-opening",
+      "url": "https://www.youtube.com/watch?v=MrX3TG-G8Tc",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 78,
+      "videoId": "NQABiiueY64",
+      "title": "11massgame white-scene1",
+      "url": "https://www.youtube.com/watch?v=NQABiiueY64",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 79,
+      "videoId": "H2tkLIEhrtU",
+      "title": "11massgame white-interval",
+      "url": "https://www.youtube.com/watch?v=H2tkLIEhrtU",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 80,
+      "videoId": "AzjbWOnhNZ0",
+      "title": "11massgame white-scene2",
+      "url": "https://www.youtube.com/watch?v=AzjbWOnhNZ0",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 81,
+      "videoId": "z6FhQtNdZcA",
+      "title": "11massgame white-scene3",
+      "url": "https://www.youtube.com/watch?v=z6FhQtNdZcA",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 82,
+      "videoId": "s8I8QDL6kx4",
+      "title": "11massgame white-ending",
+      "url": "https://www.youtube.com/watch?v=s8I8QDL6kx4",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 83,
+      "videoId": "p-raHQbWGHM",
+      "title": "10massgame white-opening",
+      "url": "https://www.youtube.com/watch?v=p-raHQbWGHM",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 84,
+      "videoId": "xc0fVB05SOs",
+      "title": "10massgame white-scene1",
+      "url": "https://www.youtube.com/watch?v=xc0fVB05SOs",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 85,
+      "videoId": "k4GIvgF98g4",
+      "title": "10massgame white-interval",
+      "url": "https://www.youtube.com/watch?v=k4GIvgF98g4",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 86,
+      "videoId": "k24ME1th_rY",
+      "title": "10massgame white-scene2",
+      "url": "https://www.youtube.com/watch?v=k24ME1th_rY",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 87,
+      "videoId": "Bds5iWAbWPA",
+      "title": "10massgame white-scene3",
+      "url": "https://www.youtube.com/watch?v=Bds5iWAbWPA",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 88,
+      "videoId": "RPor6n6YC0Y",
+      "title": "10massgame white-ending",
+      "url": "https://www.youtube.com/watch?v=RPor6n6YC0Y",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 89,
+      "videoId": "pAUKTpXAvwU",
+      "title": "09massgame white-opening",
+      "url": "https://www.youtube.com/watch?v=pAUKTpXAvwU",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 90,
+      "videoId": "DAi7E1VYNH4",
+      "title": "09massgame white-scene1",
+      "url": "https://www.youtube.com/watch?v=DAi7E1VYNH4",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 91,
+      "videoId": "bz1FqJZ4qJc",
+      "title": "09massgame white-interval",
+      "url": "https://www.youtube.com/watch?v=bz1FqJZ4qJc",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 92,
+      "videoId": "A4_EfdiBWkA",
+      "title": "09massgame white-scene2",
+      "url": "https://www.youtube.com/watch?v=A4_EfdiBWkA",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 93,
+      "videoId": "8i9VH9xvYDw",
+      "title": "09massgame white-scene3",
+      "url": "https://www.youtube.com/watch?v=8i9VH9xvYDw",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 94,
+      "videoId": "UDFRRKawR4Y",
+      "title": "09massgame white-ending",
+      "url": "https://www.youtube.com/watch?v=UDFRRKawR4Y",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 95,
+      "videoId": "JxTtVLrK8ds",
+      "title": "08W-0",
+      "url": "https://www.youtube.com/watch?v=JxTtVLrK8ds",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 96,
+      "videoId": "1OBM9X7tak8",
+      "title": "08W-1",
+      "url": "https://www.youtube.com/watch?v=1OBM9X7tak8",
+      "parsed": {
+        "year": 2008,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 97,
+      "videoId": "Fk1DZMjxRLs",
+      "title": "08W-1.5",
+      "url": "https://www.youtube.com/watch?v=Fk1DZMjxRLs",
+      "parsed": {
+        "year": 2008,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 98,
+      "videoId": "kQ1aMx4Gvoc",
+      "title": "08W-2",
+      "url": "https://www.youtube.com/watch?v=kQ1aMx4Gvoc",
+      "parsed": {
+        "year": 2008,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 99,
+      "videoId": "pKfPNzuwUXY",
+      "title": "08W-3",
+      "url": "https://www.youtube.com/watch?v=pKfPNzuwUXY",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 100,
+      "videoId": "1UhD-_vRgZQ",
+      "title": "08W-E",
+      "url": "https://www.youtube.com/watch?v=1UhD-_vRgZQ",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 101,
+      "videoId": "tcCQkYhZmx0",
+      "title": "07W-0",
+      "url": "https://www.youtube.com/watch?v=tcCQkYhZmx0",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 102,
+      "videoId": "xWdgksyRfWE",
+      "title": "07W-1",
+      "url": "https://www.youtube.com/watch?v=xWdgksyRfWE",
+      "parsed": {
+        "year": 2007,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 103,
+      "videoId": "ERe14A4eadY",
+      "title": "07W-1.5",
+      "url": "https://www.youtube.com/watch?v=ERe14A4eadY",
+      "parsed": {
+        "year": 2007,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 104,
+      "videoId": "7ry5kSyoihg",
+      "title": "07W-2",
+      "url": "https://www.youtube.com/watch?v=7ry5kSyoihg",
+      "parsed": {
+        "year": 2007,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 105,
+      "videoId": "fxtk1ByJcwA",
+      "title": "07W-3",
+      "url": "https://www.youtube.com/watch?v=fxtk1ByJcwA",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 106,
+      "videoId": "iS2pA6W71fw",
+      "title": "07W-E",
+      "url": "https://www.youtube.com/watch?v=iS2pA6W71fw",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 107,
+      "videoId": "-POljhK3Ar4",
+      "title": "06WHITEMASSGAME Entrance",
+      "url": "https://www.youtube.com/watch?v=-POljhK3Ar4",
+      "parsed": {
+        "year": 2006,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 108,
+      "videoId": "xQSMyagaZyU",
+      "title": "06WHITEMASSGAME 1stStage",
+      "url": "https://www.youtube.com/watch?v=xQSMyagaZyU",
+      "parsed": {
+        "year": 2006,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 109,
+      "videoId": "ecCTFVBmTTQ",
+      "title": "06WHITEMASSGAME 2ndStage",
+      "url": "https://www.youtube.com/watch?v=ecCTFVBmTTQ",
+      "parsed": {
+        "year": 2006,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 110,
+      "videoId": "ymUFfyonzCk",
+      "title": "06WHITEMASSGAME 3rdStage",
+      "url": "https://www.youtube.com/watch?v=ymUFfyonzCk",
+      "parsed": {
+        "year": 2006,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 111,
+      "videoId": "JzGGhG3-rYw",
+      "title": "05W 1",
+      "url": "https://www.youtube.com/watch?v=JzGGhG3-rYw",
+      "parsed": {
+        "year": 2005,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 112,
+      "videoId": "2IcD3Nqkoa8",
+      "title": "05W-2",
+      "url": "https://www.youtube.com/watch?v=2IcD3Nqkoa8",
+      "parsed": {
+        "year": 2005,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 113,
+      "videoId": "VXJIPVx4CMU",
+      "title": "2004White　Entrance",
+      "url": "https://www.youtube.com/watch?v=VXJIPVx4CMU",
+      "parsed": {
+        "year": 2004,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 114,
+      "videoId": "_Q50pVtkh34",
+      "title": "2004White 1st_stage",
+      "url": "https://www.youtube.com/watch?v=_Q50pVtkh34",
+      "parsed": {
+        "year": 2004,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 115,
+      "videoId": "IWMy3_6EwpA",
+      "title": "2004White Interbal",
+      "url": "https://www.youtube.com/watch?v=IWMy3_6EwpA",
+      "parsed": {
+        "year": 2004,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 116,
+      "videoId": "XPtwRYGb-I0",
+      "title": "2004White 3rd_stage",
+      "url": "https://www.youtube.com/watch?v=XPtwRYGb-I0",
+      "parsed": {
+        "year": 2004,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 117,
+      "videoId": "Cfg_o5n8OOM",
+      "title": "03W-0",
+      "url": "https://www.youtube.com/watch?v=Cfg_o5n8OOM",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 118,
+      "videoId": "rvjoFVxPyPM",
+      "title": "03WHITEMassGame １stStage",
+      "url": "https://www.youtube.com/watch?v=rvjoFVxPyPM",
+      "parsed": {
+        "year": 2003,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 119,
+      "videoId": "StKxh2MgGLo",
+      "title": "03W-1.5",
+      "url": "https://www.youtube.com/watch?v=StKxh2MgGLo",
+      "parsed": {
+        "year": 2003,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 120,
+      "videoId": "Vacp7H_uR-M",
+      "title": "03W-2",
+      "url": "https://www.youtube.com/watch?v=Vacp7H_uR-M",
+      "parsed": {
+        "year": 2003,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 121,
+      "videoId": "cRyCv0iyT4g",
+      "title": "03W-3",
+      "url": "https://www.youtube.com/watch?v=cRyCv0iyT4g",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 122,
+      "videoId": "2NhMXi0BtL4",
+      "title": "03W-E",
+      "url": "https://www.youtube.com/watch?v=2NhMXi0BtL4",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 123,
+      "videoId": "BS6Sgg4CGMU",
+      "title": "02WHITEMassGame １stStage",
+      "url": "https://www.youtube.com/watch?v=BS6Sgg4CGMU",
+      "parsed": {
+        "year": 2002,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 124,
+      "videoId": "XB7wyFLM3EU",
+      "title": "02WHITEMassGame 2ndStage",
+      "url": "https://www.youtube.com/watch?v=XB7wyFLM3EU",
+      "parsed": {
+        "year": 2002,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 125,
+      "videoId": "t0q0OCfEBvg",
+      "title": "01WHITEMassGame 2ndStage",
+      "url": "https://www.youtube.com/watch?v=t0q0OCfEBvg",
+      "parsed": {
+        "year": 2001,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 126,
+      "videoId": "nfF3pr0FEcA",
+      "title": "00W 0",
+      "url": "https://www.youtube.com/watch?v=nfF3pr0FEcA",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 127,
+      "videoId": "Ts1xsSOiEfE",
+      "title": "00WHITEMassGame １stStage",
+      "url": "https://www.youtube.com/watch?v=Ts1xsSOiEfE",
+      "parsed": {
+        "year": 2000,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 128,
+      "videoId": "C3T4G6gOSQw",
+      "title": "00W 1 5",
+      "url": "https://www.youtube.com/watch?v=C3T4G6gOSQw",
+      "parsed": {
+        "year": 2000,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 129,
+      "videoId": "ICC3nuHRPZw",
+      "title": "00WHITEMassGame 2ndStage",
+      "url": "https://www.youtube.com/watch?v=ICC3nuHRPZw",
+      "parsed": {
+        "year": 2000,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 130,
+      "videoId": "h-61OuW6Vy8",
+      "title": "00W 3",
+      "url": "https://www.youtube.com/watch?v=h-61OuW6Vy8",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 131,
+      "videoId": "3tRNO8PqC7I",
+      "title": "00R E",
+      "url": "https://www.youtube.com/watch?v=3tRNO8PqC7I",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "unparsed-title"
+    }
+  ],
+  "results": [
+    {
+      "playlistIndex": 3,
+      "videoId": "JjKwVU77g8g",
+      "title": "25moonmassgame inter",
+      "url": "https://www.youtube.com/watch?v=JjKwVU77g8g",
+      "duration": 54,
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 10,
+          "sample": "tmp/music-recognition/samples/JjKwVU77g8g_0010.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Blue Lightning",
+              "artist": "Evan",
+              "album": "Blue Lightning",
+              "releaseDate": "2016-10-14",
+              "isrc": "USHM81645737",
+              "score": 0.8,
+              "label": "℗ 2016 Evan K",
+              "durationMs": "332697",
+              "playOffsetMs": 40000,
+              "providerIds": {
+                "acrid": "234aa6cfea84ce083dc79f672c16cbdf",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Die",
+              "artist": "Green House 27",
+              "album": "Die",
+              "releaseDate": "2008-06-03",
+              "isrc": "US37V9303203",
+              "score": 0.32,
+              "label": "Bar/None",
+              "durationMs": 242000,
+              "playOffsetMs": 232000,
+              "providerIds": {
+                "acrid": "7f990abacaa9d11b9c6a5e25a656abdd",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 18,
+          "sample": "tmp/music-recognition/samples/JjKwVU77g8g_0018.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 27,
+          "sample": "tmp/music-recognition/samples/JjKwVU77g8g_0027.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Blue Lightning",
+              "artist": "Evan",
+              "album": "Blue Lightning",
+              "releaseDate": "2016-10-14",
+              "isrc": "USHM81645737",
+              "score": 0.8,
+              "label": "℗ 2016 Evan K",
+              "durationMs": "332697",
+              "playOffsetMs": 105000,
+              "providerIds": {
+                "acrid": "234aa6cfea84ce083dc79f672c16cbdf",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 35,
+          "sample": "tmp/music-recognition/samples/JjKwVU77g8g_0035.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 41,
+          "sample": "tmp/music-recognition/samples/JjKwVU77g8g_0041.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        }
+      ],
+      "bestMatch": null
+    },
+    {
+      "playlistIndex": 5,
+      "videoId": "oqxhZH06Lt4",
+      "title": "25moonmassgame 3rd",
+      "url": "https://www.youtube.com/watch?v=oqxhZH06Lt4",
+      "duration": 193,
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "三部"
+        ],
+        "matchedScene": "三部"
+      },
+      "samples": [
+        {
+          "offset": 38,
+          "sample": "tmp/music-recognition/samples/oqxhZH06Lt4_0038.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Where I Belong (feat. We the Kings)",
+              "artist": "Simple Plan, State Champs",
+              "album": "Where I Belong (feat. We The Kings)",
+              "releaseDate": "2019-10-11",
+              "isrc": "CACN41900023",
+              "score": 0.96,
+              "label": "Coalition Music (Records)",
+              "durationMs": "190027",
+              "playOffsetMs": 30000,
+              "providerIds": {
+                "acrid": "a97b0c5ee787d01e9db65bed90877d6e",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Lake Erie Rainfall",
+              "artist": "Jim Brickman",
+              "album": "From The Heart",
+              "releaseDate": "2008-06-01",
+              "isrc": "CASD10801210",
+              "score": 0.32,
+              "label": "℗ 2009 Green Hill Productions",
+              "durationMs": "307053",
+              "playOffsetMs": 140000,
+              "providerIds": {
+                "acrid": "9350517272cac96c0260ed03cbfe158a",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Nativity",
+              "artist": "Angelic Piano Veronika Ptáčková",
+              "album": "Under The Leadership Of Angels",
+              "releaseDate": "2018-03-17",
+              "isrc": "CZP951600106",
+              "score": 0.3,
+              "label": "℗ 2024 Angelic Piano Music Veronika Ptáčková",
+              "durationMs": "470467",
+              "playOffsetMs": 75000,
+              "providerIds": {
+                "acrid": "46acda104e8e6b6e74f3d93b42e77aeb",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 67,
+          "sample": "tmp/music-recognition/samples/oqxhZH06Lt4_0067.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Where I Belong (feat. We The Kings)",
+              "artist": "Simple Plan, State Champs, We The Kings",
+              "album": "Where I Belong (feat. We the Kings) - Single",
+              "releaseDate": "2019-10-11",
+              "isrc": "CACN41900023",
+              "score": 0.96,
+              "label": "℗ 2019 Coalition Music (Records) Inc.",
+              "durationMs": 190000,
+              "playOffsetMs": 57000,
+              "providerIds": {
+                "acrid": "a97b0c5ee787d01e9db65bed90877d6e",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 96,
+          "sample": "tmp/music-recognition/samples/oqxhZH06Lt4_0096.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Where I Belong (feat. We the Kings)",
+              "artist": "Simple Plan, State Champs",
+              "album": "Where I Belong (feat. We The Kings)",
+              "releaseDate": "2019-10-11",
+              "isrc": "CACN41900023",
+              "score": 0.96,
+              "label": "Coalition Music (Records)",
+              "durationMs": "190027",
+              "playOffsetMs": 82000,
+              "providerIds": {
+                "acrid": "a97b0c5ee787d01e9db65bed90877d6e",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Baap Ji (feat. Vishal J Singh)",
+              "artist": "Mohito",
+              "album": "Baap Ji (feat. Vishal J Singh) - Single",
+              "releaseDate": "2024-02-12",
+              "isrc": "TCAHX2467724",
+              "score": 0.53,
+              "label": "℗ 2024 Mohito",
+              "durationMs": "281818",
+              "playOffsetMs": 205000,
+              "providerIds": {
+                "acrid": "619c50bc0c443e506478af885d6b440d",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Nativity",
+              "artist": "Angelic Piano Veronika Ptáčková",
+              "album": "Under The Leadership Of Angels",
+              "releaseDate": "2018-03-17",
+              "isrc": "CZP951600106",
+              "score": 0.36,
+              "label": "℗ 2024 Angelic Piano Music Veronika Ptáčková",
+              "durationMs": "470467",
+              "playOffsetMs": 75000,
+              "providerIds": {
+                "acrid": "46acda104e8e6b6e74f3d93b42e77aeb",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 125,
+          "sample": "tmp/music-recognition/samples/oqxhZH06Lt4_0125.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Where I Belong (feat. We The Kings)",
+              "artist": "Simple Plan, State Champs, We The Kings",
+              "album": "Where I Belong (feat. We The Kings)",
+              "releaseDate": "2019-10-11",
+              "isrc": "CACN41900023",
+              "score": 0.44,
+              "label": "Coalition Music (Records)",
+              "durationMs": 190000,
+              "playOffsetMs": 107000,
+              "providerIds": {
+                "acrid": "a97b0c5ee787d01e9db65bed90877d6e",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 154,
+          "sample": "tmp/music-recognition/samples/oqxhZH06Lt4_0154.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Where I Belong (feat. We The Kings)",
+              "artist": "Simple Plan, State Champs, We The Kings",
+              "album": "Where I Belong (feat. We The Kings)",
+              "releaseDate": "2019-10-11",
+              "isrc": "CACN41900023",
+              "score": 0.8,
+              "label": "Coalition Music (Records)",
+              "durationMs": 190000,
+              "playOffsetMs": 155000,
+              "providerIds": {
+                "acrid": "a97b0c5ee787d01e9db65bed90877d6e",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Venue (Leventina Big Venue Remix)",
+              "artist": "Passenger 10",
+              "album": "Festival House Hits",
+              "releaseDate": "2012-10-01",
+              "isrc": "CH3131211141",
+              "score": 0.33,
+              "label": "℗ 2012 GNKP Goodnight Kiss Productions GmbH",
+              "durationMs": "422868",
+              "playOffsetMs": 130000,
+              "providerIds": {
+                "acrid": "7b43bd8f61f723e82a35e936ca2dc050",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "等妹子",
+              "artist": "张宁宁",
+              "album": "等妹子",
+              "releaseDate": "2019-07-23",
+              "isrc": null,
+              "score": 0.33,
+              "label": "",
+              "durationMs": "304000",
+              "playOffsetMs": 260000,
+              "providerIds": {
+                "acrid": "d38da89b11b5da4f96f04cf96d471e60",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        }
+      ],
+      "bestMatch": {
+        "source": "humming",
+        "count": 2,
+        "score": 0.96,
+        "title": "Where I Belong (feat. We the Kings)",
+        "artist": "Simple Plan, State Champs",
+        "album": "Where I Belong (feat. We The Kings)",
+        "releaseDate": "2019-10-11",
+        "isrc": "CACN41900023",
+        "providerIds": {
+          "acrid": "a97b0c5ee787d01e9db65bed90877d6e",
+          "spotify": null,
+          "youtube": null
+        }
+      }
+    },
+    {
+      "playlistIndex": 7,
+      "videoId": "Jrm7VWKwsAc",
+      "title": "24moonmassgame opening",
+      "url": "https://www.youtube.com/watch?v=Jrm7VWKwsAc",
+      "duration": 142,
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "入場"
+        ],
+        "matchedScene": "入場"
+      },
+      "samples": [
+        {
+          "offset": 28,
+          "sample": "tmp/music-recognition/samples/Jrm7VWKwsAc_0028.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Everywhere I Go",
+            "artist": "Onlap",
+            "album": "Running (Deluxe Edition)",
+            "releaseDate": "2017-02-01",
+            "isrc": null,
+            "score": 100,
+            "label": "Onlap",
+            "durationMs": 208000,
+            "playOffsetMs": 34040,
+            "providerIds": {
+              "acrid": "59d49797ba0d1bfa994d47a0a4f650ec",
+              "spotify": "28r7jFLV6scNQGsCfqWY35",
+              "youtube": "aAjPXc8JR7U"
+            }
+          },
+          "music": [
+            {
+              "title": "Everywhere I Go",
+              "artist": "Onlap",
+              "album": "Running (Deluxe Edition)",
+              "releaseDate": "2017-02-01",
+              "isrc": null,
+              "score": 100,
+              "label": "Onlap",
+              "durationMs": 208000,
+              "playOffsetMs": 34040,
+              "providerIds": {
+                "acrid": "59d49797ba0d1bfa994d47a0a4f650ec",
+                "spotify": "28r7jFLV6scNQGsCfqWY35",
+                "youtube": "aAjPXc8JR7U"
+              }
+            },
+            {
+              "title": "Everywhere I Go (Acoustic Version)",
+              "artist": "Onlap",
+              "album": "Running (Deluxe Edition)",
+              "releaseDate": "2017-10-16",
+              "isrc": null,
+              "score": 100,
+              "label": "Onlap",
+              "durationMs": 186000,
+              "playOffsetMs": 34180,
+              "providerIds": {
+                "acrid": "e93a46fb6180b99eceaca9e34efd47d0",
+                "spotify": "3ujGCd76vRpU0Jyie9SLw8",
+                "youtube": null
+              }
+            },
+            {
+              "title": "Everywhere I Go",
+              "artist": "Onlap",
+              "album": "Running (Deluxe Edition)",
+              "releaseDate": "2017-10-16",
+              "isrc": null,
+              "score": 100,
+              "label": "ONLAP",
+              "durationMs": 208770,
+              "playOffsetMs": 34140,
+              "providerIds": {
+                "acrid": "c0fb8528184d72810bef202481f0d31c",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 49,
+          "sample": "tmp/music-recognition/samples/Jrm7VWKwsAc_0049.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Everywhere I Go",
+            "artist": "Onlap",
+            "album": "Running (Deluxe Edition)",
+            "releaseDate": "2017-02-01",
+            "isrc": null,
+            "score": 100,
+            "label": "Onlap",
+            "durationMs": 208000,
+            "playOffsetMs": 55040,
+            "providerIds": {
+              "acrid": "59d49797ba0d1bfa994d47a0a4f650ec",
+              "spotify": "28r7jFLV6scNQGsCfqWY35",
+              "youtube": "aAjPXc8JR7U"
+            }
+          },
+          "music": [
+            {
+              "title": "Everywhere I Go",
+              "artist": "Onlap",
+              "album": "Running (Deluxe Edition)",
+              "releaseDate": "2017-02-01",
+              "isrc": null,
+              "score": 100,
+              "label": "Onlap",
+              "durationMs": 208000,
+              "playOffsetMs": 55040,
+              "providerIds": {
+                "acrid": "59d49797ba0d1bfa994d47a0a4f650ec",
+                "spotify": "28r7jFLV6scNQGsCfqWY35",
+                "youtube": "aAjPXc8JR7U"
+              }
+            },
+            {
+              "title": "Everywhere I Go",
+              "artist": "Onlap",
+              "album": "Running (Deluxe Edition)",
+              "releaseDate": "2017-10-16",
+              "isrc": null,
+              "score": 100,
+              "label": "ONLAP",
+              "durationMs": 208770,
+              "playOffsetMs": 55140,
+              "providerIds": {
+                "acrid": "c0fb8528184d72810bef202481f0d31c",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Everywhere I Go (Acoustic Version)",
+              "artist": "Onlap",
+              "album": "Running (Deluxe Edition)",
+              "releaseDate": "2017-10-16",
+              "isrc": null,
+              "score": 43,
+              "label": "Onlap",
+              "durationMs": 186000,
+              "playOffsetMs": 55180,
+              "providerIds": {
+                "acrid": "e93a46fb6180b99eceaca9e34efd47d0",
+                "spotify": "3ujGCd76vRpU0Jyie9SLw8",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 71,
+          "sample": "tmp/music-recognition/samples/Jrm7VWKwsAc_0071.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Everywhere I Go",
+            "artist": "Onlap",
+            "album": "Running (Deluxe Edition)",
+            "releaseDate": "2017-02-01",
+            "isrc": null,
+            "score": 100,
+            "label": "Onlap",
+            "durationMs": 208000,
+            "playOffsetMs": 77020,
+            "providerIds": {
+              "acrid": "59d49797ba0d1bfa994d47a0a4f650ec",
+              "spotify": "28r7jFLV6scNQGsCfqWY35",
+              "youtube": "aAjPXc8JR7U"
+            }
+          },
+          "music": [
+            {
+              "title": "Everywhere I Go",
+              "artist": "Onlap",
+              "album": "Running (Deluxe Edition)",
+              "releaseDate": "2017-02-01",
+              "isrc": null,
+              "score": 100,
+              "label": "Onlap",
+              "durationMs": 208000,
+              "playOffsetMs": 77020,
+              "providerIds": {
+                "acrid": "59d49797ba0d1bfa994d47a0a4f650ec",
+                "spotify": "28r7jFLV6scNQGsCfqWY35",
+                "youtube": "aAjPXc8JR7U"
+              }
+            },
+            {
+              "title": "Everywhere I Go",
+              "artist": "Onlap",
+              "album": "Running (Deluxe Edition)",
+              "releaseDate": "2017-10-16",
+              "isrc": null,
+              "score": 100,
+              "label": "ONLAP",
+              "durationMs": 208770,
+              "playOffsetMs": 77120,
+              "providerIds": {
+                "acrid": "c0fb8528184d72810bef202481f0d31c",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Everywhere I Go (Acoustic Version)",
+              "artist": "Onlap",
+              "album": "Running (Deluxe Edition)",
+              "releaseDate": "2017-10-16",
+              "isrc": null,
+              "score": 55,
+              "label": "Onlap",
+              "durationMs": 186000,
+              "playOffsetMs": 77160,
+              "providerIds": {
+                "acrid": "e93a46fb6180b99eceaca9e34efd47d0",
+                "spotify": "3ujGCd76vRpU0Jyie9SLw8",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 92,
+          "sample": "tmp/music-recognition/samples/Jrm7VWKwsAc_0092.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Everywhere I Go",
+            "artist": "Onlap",
+            "album": "Running (Deluxe Edition)",
+            "releaseDate": "2017-02-01",
+            "isrc": null,
+            "score": 100,
+            "label": "Onlap",
+            "durationMs": 208000,
+            "playOffsetMs": 126480,
+            "providerIds": {
+              "acrid": "59d49797ba0d1bfa994d47a0a4f650ec",
+              "spotify": "28r7jFLV6scNQGsCfqWY35",
+              "youtube": "aAjPXc8JR7U"
+            }
+          },
+          "music": [
+            {
+              "title": "Everywhere I Go",
+              "artist": "Onlap",
+              "album": "Running (Deluxe Edition)",
+              "releaseDate": "2017-02-01",
+              "isrc": null,
+              "score": 100,
+              "label": "Onlap",
+              "durationMs": 208000,
+              "playOffsetMs": 126480,
+              "providerIds": {
+                "acrid": "59d49797ba0d1bfa994d47a0a4f650ec",
+                "spotify": "28r7jFLV6scNQGsCfqWY35",
+                "youtube": "aAjPXc8JR7U"
+              }
+            },
+            {
+              "title": "Everywhere I Go",
+              "artist": "Onlap",
+              "album": "Running (Deluxe Edition)",
+              "releaseDate": "2017-10-16",
+              "isrc": null,
+              "score": 100,
+              "label": "ONLAP",
+              "durationMs": 208770,
+              "playOffsetMs": 126580,
+              "providerIds": {
+                "acrid": "c0fb8528184d72810bef202481f0d31c",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 113,
+          "sample": "tmp/music-recognition/samples/Jrm7VWKwsAc_0113.webm",
+          "status": "Success",
+          "score": 70,
+          "match": {
+            "title": "Everywhere I Go",
+            "artist": "Onlap",
+            "album": "Running (Deluxe Edition)",
+            "releaseDate": "2017-02-01",
+            "isrc": null,
+            "score": 70,
+            "label": "Onlap",
+            "durationMs": 208000,
+            "playOffsetMs": 122600,
+            "providerIds": {
+              "acrid": "59d49797ba0d1bfa994d47a0a4f650ec",
+              "spotify": "28r7jFLV6scNQGsCfqWY35",
+              "youtube": "aAjPXc8JR7U"
+            }
+          },
+          "music": [
+            {
+              "title": "Everywhere I Go",
+              "artist": "Onlap",
+              "album": "Running (Deluxe Edition)",
+              "releaseDate": "2017-02-01",
+              "isrc": null,
+              "score": 70,
+              "label": "Onlap",
+              "durationMs": 208000,
+              "playOffsetMs": 122600,
+              "providerIds": {
+                "acrid": "59d49797ba0d1bfa994d47a0a4f650ec",
+                "spotify": "28r7jFLV6scNQGsCfqWY35",
+                "youtube": "aAjPXc8JR7U"
+              }
+            },
+            {
+              "title": "Everywhere I Go",
+              "artist": "Onlap",
+              "album": "Running (Deluxe Edition)",
+              "releaseDate": "2017-10-16",
+              "isrc": null,
+              "score": 34,
+              "label": "ONLAP",
+              "durationMs": 208770,
+              "playOffsetMs": 58720,
+              "providerIds": {
+                "acrid": "c0fb8528184d72810bef202481f0d31c",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "music",
+        "count": 10,
+        "score": 90.4,
+        "title": "Everywhere I Go",
+        "artist": "Onlap",
+        "album": "Running (Deluxe Edition)",
+        "releaseDate": "2017-02-01",
+        "isrc": null,
+        "providerIds": {
+          "acrid": "59d49797ba0d1bfa994d47a0a4f650ec",
+          "spotify": "28r7jFLV6scNQGsCfqWY35",
+          "youtube": "aAjPXc8JR7U"
+        }
+      }
+    },
+    {
+      "playlistIndex": 8,
+      "videoId": "JGmcQRVpDko",
+      "title": "24moonmassgame 1st",
+      "url": "https://www.youtube.com/watch?v=JGmcQRVpDko",
+      "duration": 294,
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "一部"
+        ],
+        "matchedScene": "一部"
+      },
+      "samples": [
+        {
+          "offset": 58,
+          "sample": "tmp/music-recognition/samples/JGmcQRVpDko_0058.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Oak And Ash",
+              "artist": "Fellowship",
+              "album": "The Saberlight Chronicles",
+              "releaseDate": "2022-07-01",
+              "isrc": "ITD292202402",
+              "score": 0.67,
+              "label": "℗ 2022 Scarlet Records",
+              "durationMs": "292143",
+              "playOffsetMs": 150000,
+              "providerIds": {
+                "acrid": "ce3ed7ed3692086379194b9b2b09682b",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 102,
+          "sample": "tmp/music-recognition/samples/JGmcQRVpDko_0102.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Oak And Ash",
+              "artist": "Fellowship",
+              "album": "The Saberlight Chronicles",
+              "releaseDate": "2022-07-01",
+              "isrc": "ITD292202402",
+              "score": 0.96,
+              "label": "℗ 2022 Scarlet Records",
+              "durationMs": "292143",
+              "playOffsetMs": 55000,
+              "providerIds": {
+                "acrid": "ce3ed7ed3692086379194b9b2b09682b",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Dance Of The Dead",
+              "artist": "Corrosion Of Conformity",
+              "album": "Blind (Expanded Edition)",
+              "releaseDate": "2021-11-05",
+              "isrc": "USSM10022667",
+              "score": 0.31,
+              "label": "Columbia/Legacy",
+              "durationMs": 269000,
+              "playOffsetMs": 200000,
+              "providerIds": {
+                "acrid": "1de46fc215adb44dcc8f27df64355de8",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 147,
+          "sample": "tmp/music-recognition/samples/JGmcQRVpDko_0147.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "READY STEADY GO",
+              "artist": "L'Arc〜en〜Ciel",
+              "album": "TWENITY 2000-2010",
+              "releaseDate": "2004-02-04",
+              "isrc": "JPKS00301961",
+              "score": 0.6,
+              "label": "℗ 2000 Sony Music Entertainment (Japan) Inc.",
+              "durationMs": "230653",
+              "playOffsetMs": 180000,
+              "providerIds": {
+                "acrid": "cae3af8c1c6f1661b65df8f23fe65a96",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Moai",
+              "artist": "SEIKIMA-II",
+              "album": "From Hell With Love",
+              "releaseDate": "2013-07-17",
+              "isrc": "JPSR08624140",
+              "score": 0.33,
+              "label": "SME",
+              "durationMs": 325000,
+              "playOffsetMs": 230000,
+              "providerIds": {
+                "acrid": "9ff3412de4bd23a935baf893705a5811",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "READY STEADY GO (yukihiro READY)",
+              "artist": "L'Arc-en-Ciel",
+              "album": "Hitomi no jyunin",
+              "releaseDate": "2014-09-17",
+              "isrc": "JPKS00400085",
+              "score": 0.3,
+              "label": "SME",
+              "durationMs": 228000,
+              "playOffsetMs": 180000,
+              "providerIds": {
+                "acrid": "512917ca17d117b4465d93b26f3d25de",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 191,
+          "sample": "tmp/music-recognition/samples/JGmcQRVpDko_0191.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Echoes in the Darkness",
+              "artist": "Bryson Echo Rocker",
+              "album": "Echoes in the Darkness",
+              "releaseDate": "",
+              "isrc": "BK4DA2460459",
+              "score": 0.6,
+              "label": "Nisou Records",
+              "durationMs": 110000,
+              "playOffsetMs": 87000,
+              "providerIds": {
+                "acrid": "446c960f693f84d7585dab38881c9992",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Push",
+              "artist": "OLIVE",
+              "album": "Trickle",
+              "releaseDate": "2000-05-19",
+              "isrc": "USMV20000024",
+              "score": 0.43,
+              "label": "Maverick",
+              "durationMs": 284000,
+              "playOffsetMs": 262000,
+              "providerIds": {
+                "acrid": "9c0796a9b7d13d697eba308d15c4c809",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Vulnerable",
+              "artist": "BEKA",
+              "album": "Vulnerable - Single",
+              "releaseDate": "2023-07-28",
+              "isrc": "GB8MX2300651",
+              "score": 0.4,
+              "label": "℗ 2023 LAB Records, Ltd",
+              "durationMs": "160113",
+              "playOffsetMs": 130000,
+              "providerIds": {
+                "acrid": "b32215185c5d551f4691a2ddc81c1925",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Physics-metaphysics Monologue [Inst]",
+              "artist": "Fulfill",
+              "album": "Gems Company",
+              "releaseDate": "2019-06-28",
+              "isrc": "JPZ921901198",
+              "score": 0.4,
+              "label": "℗ DearStage Records",
+              "durationMs": "235756",
+              "playOffsetMs": 180000,
+              "providerIds": {
+                "acrid": "a437bc070fee5af29d56b2650b50ffc7",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "The Girl Doesn't Get It",
+              "artist": "Belle and Sebastian",
+              "album": "How To Solve Our Human Problems (Part 1) - EP",
+              "releaseDate": "2017-12-08",
+              "isrc": "USMTD1710270",
+              "score": 0.31,
+              "label": "℗ 2017 Matador Records",
+              "durationMs": "288520",
+              "playOffsetMs": 190000,
+              "providerIds": {
+                "acrid": "30ff90e57878d32da6fc302c121740e6",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 235,
+          "sample": "tmp/music-recognition/samples/JGmcQRVpDko_0235.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "humming",
+        "count": 1,
+        "score": 0.96,
+        "title": "Oak And Ash",
+        "artist": "Fellowship",
+        "album": "The Saberlight Chronicles",
+        "releaseDate": "2022-07-01",
+        "isrc": "ITD292202402",
+        "providerIds": {
+          "acrid": "ce3ed7ed3692086379194b9b2b09682b",
+          "spotify": null,
+          "youtube": null
+        }
+      }
+    },
+    {
+      "playlistIndex": 9,
+      "videoId": "HdAmClHPB14",
+      "title": "24moonmassgame inter",
+      "url": "https://www.youtube.com/watch?v=HdAmClHPB14",
+      "duration": 60,
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 12,
+          "sample": "tmp/music-recognition/samples/HdAmClHPB14_0012.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 21,
+          "sample": "tmp/music-recognition/samples/HdAmClHPB14_0021.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 30,
+          "sample": "tmp/music-recognition/samples/HdAmClHPB14_0030.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 39,
+          "sample": "tmp/music-recognition/samples/HdAmClHPB14_0039.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 47,
+          "sample": "tmp/music-recognition/samples/HdAmClHPB14_0047.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        }
+      ],
+      "bestMatch": null
+    },
+    {
+      "playlistIndex": 15,
+      "videoId": "-bH8FqXPb7Y",
+      "title": "23moonmassgame inter",
+      "url": "https://www.youtube.com/watch?v=-bH8FqXPb7Y",
+      "duration": 57,
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 11,
+          "sample": "tmp/music-recognition/samples/-bH8FqXPb7Y_0011.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Paranoid",
+              "artist": "Van Canto",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "ATN261452513",
+              "score": 0.83,
+              "label": "",
+              "durationMs": 185000,
+              "playOffsetMs": 25000,
+              "providerIds": {
+                "acrid": "e4e02516bfe014558923e60e88d74488",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Tergila (Album Version)",
+              "artist": "Rocket Rockers",
+              "album": "Ras Bebas",
+              "releaseDate": "2004-10-20",
+              "isrc": "IDAC52004198",
+              "score": 0.47,
+              "label": "SME",
+              "durationMs": 271000,
+              "playOffsetMs": 192000,
+              "providerIds": {
+                "acrid": "03a4883670e4c5d48f977d9e4e486dc0",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Unlocked 'N' Loaded",
+              "artist": "HARDBONE",
+              "album": "Dirty 'N' Young",
+              "releaseDate": "2010-10-11",
+              "isrc": "DEKS81002511",
+              "score": 0.47,
+              "label": "℗ 2010 Remedy Records / Rude Records",
+              "durationMs": "259120",
+              "playOffsetMs": 185000,
+              "providerIds": {
+                "acrid": "7370d4bd14beeb00a71fa57e2c39f047",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Urashima",
+              "artist": "Drakum",
+              "album": "Zombie Dragons from Outer Space",
+              "releaseDate": "2019-12-18",
+              "isrc": "QZK6Q1907892",
+              "score": 0.47,
+              "label": "℗ 2020 Drakum",
+              "durationMs": "271947",
+              "playOffsetMs": 90000,
+              "providerIds": {
+                "acrid": "5441ea08e5cb4d5fa59bd10952d50071",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Run (Rehearsal 1985 / Remastered 2018)",
+              "artist": "Deathrow",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "GB5KW1703630",
+              "score": 0.37,
+              "label": "Noise Records",
+              "durationMs": 278000,
+              "playOffsetMs": 212000,
+              "providerIds": {
+                "acrid": "8e933dcd64ec533ca3f349cfef1da29e",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 19,
+          "sample": "tmp/music-recognition/samples/-bH8FqXPb7Y_0019.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Can Ya Handle The Heat?",
+              "artist": "Samantha Fish",
+              "album": "Paper Doll (Deluxe Edition)",
+              "releaseDate": "2025-10-10",
+              "isrc": "USRO22404957",
+              "score": 0.53,
+              "label": "℗ 2025 Rounder Records., Distributed by Concord.",
+              "durationMs": "174431",
+              "playOffsetMs": 165000,
+              "providerIds": {
+                "acrid": "89de92b96c93684e4481783f51868aac",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Teufelskreis",
+              "artist": "Eulenspygel",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "DEUM71903256",
+              "score": 0.53,
+              "label": "EMI",
+              "durationMs": 483000,
+              "playOffsetMs": 310000,
+              "providerIds": {
+                "acrid": "d2c31a8a96bb8a3288262b6b17f3d422",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Spirit Of Joy (Live, BBC Radio 1 John Peel Show, 19 September 1972)",
+              "artist": "Arthur Brown's Kingdom Come",
+              "album": "Eternal Messenger: An Anthology 1970-1973",
+              "releaseDate": "2021-06-25",
+              "isrc": "GBCAD2100011",
+              "score": 0.51,
+              "label": "Esoteric",
+              "durationMs": 515000,
+              "playOffsetMs": 459000,
+              "providerIds": {
+                "acrid": "1903f2536cf7056e0fc67cb5246ab730",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Last Exit (Live)",
+              "artist": "Pearl Jam",
+              "album": "2000.08.15 - Memphis, Tennessee (Live)",
+              "releaseDate": "2000-08-15",
+              "isrc": "USSM10018291",
+              "score": 0.45,
+              "label": "℗ 2000 Monkeywrench Records",
+              "durationMs": "155907",
+              "playOffsetMs": 135000,
+              "providerIds": {
+                "acrid": "4cae3b9bb1afdfc8c9804c177114f3f6",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "The Fish (Schindleria Praematurus) [Live]",
+              "artist": "Yes",
+              "album": "Live at Montreux 2003",
+              "releaseDate": "2007-09-03",
+              "isrc": "GBCBR0700166",
+              "score": 0.44,
+              "label": "℗ 2007 Montreux Sounds, issued under exclusive license to Eagle Records Ltd. Eagle Records is a division of Eagle Rock Entertainment Limited",
+              "durationMs": "533093",
+              "playOffsetMs": 489000,
+              "providerIds": {
+                "acrid": "029fb1cf9acadae457d8d29f50fa1fff",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 28,
+          "sample": "tmp/music-recognition/samples/-bH8FqXPb7Y_0028.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 37,
+          "sample": "tmp/music-recognition/samples/-bH8FqXPb7Y_0037.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "I Still Believe (Great Design) [Remastered]",
+              "artist": "The Call",
+              "album": "I Still Believe (Great Design) [Remastered] - Single",
+              "releaseDate": "2024-04-05",
+              "isrc": "QMFME2363053",
+              "score": 0.67,
+              "label": "℗ 2024 The Call Band Partnership LLC",
+              "durationMs": "333582",
+              "playOffsetMs": 310000,
+              "providerIds": {
+                "acrid": "8fc6653a90d3b1d4b2aeefb96840bf7e",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Chasing the Dragon (VIP)",
+              "artist": "Getsix",
+              "album": "Tree of Life (Chapter One)",
+              "releaseDate": "2019-07-13",
+              "isrc": "QMEZE1957973",
+              "score": 0.53,
+              "label": "℗ 2019 Isaac McLeish",
+              "durationMs": "251313",
+              "playOffsetMs": 125000,
+              "providerIds": {
+                "acrid": "8a7bee4b7c5cfe7ec326d8b19e7df271",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "MESSENGER",
+              "artist": "PUSHIM",
+              "album": "MESSENGER",
+              "releaseDate": "2012-11-07",
+              "isrc": "JPKS01101061",
+              "score": 0.47,
+              "label": "SME",
+              "durationMs": 286000,
+              "playOffsetMs": 270000,
+              "providerIds": {
+                "acrid": "7fd7878d6809827f530275238657920f",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 44,
+          "sample": "tmp/music-recognition/samples/-bH8FqXPb7Y_0044.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        }
+      ],
+      "bestMatch": null
+    },
+    {
+      "playlistIndex": 21,
+      "videoId": "CVuxpJDaMlQ",
+      "title": "広大附属 月マスゲーム 2022 インター",
+      "url": "https://www.youtube.com/watch?v=CVuxpJDaMlQ",
+      "duration": 69,
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 13,
+          "sample": "tmp/music-recognition/samples/CVuxpJDaMlQ_0013.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Save Me",
+            "artist": "Nicolas Blache",
+            "album": "Ghost",
+            "releaseDate": "2018-08-21",
+            "isrc": null,
+            "score": 100,
+            "label": "Nicolas Blache",
+            "durationMs": 317280,
+            "playOffsetMs": 24920,
+            "providerIds": {
+              "acrid": "27bab1a8bb4adb680d36d638dded8f1d",
+              "spotify": "7qiCkHvEOLdxgG3BY10OHB",
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Save Me",
+              "artist": "Nicolas Blache",
+              "album": "Ghost",
+              "releaseDate": "2018-08-21",
+              "isrc": null,
+              "score": 100,
+              "label": "Nicolas Blache",
+              "durationMs": 317280,
+              "playOffsetMs": 24920,
+              "providerIds": {
+                "acrid": "27bab1a8bb4adb680d36d638dded8f1d",
+                "spotify": "7qiCkHvEOLdxgG3BY10OHB",
+                "youtube": null
+              }
+            },
+            {
+              "title": "The 300",
+              "artist": "Kid Sexy",
+              "album": "World Without End",
+              "releaseDate": "2017-04-11",
+              "isrc": null,
+              "score": 100,
+              "label": "MondoTunes",
+              "durationMs": 360000,
+              "playOffsetMs": 201800,
+              "providerIds": {
+                "acrid": "308d36695c992f0277263e3eb9bfa982",
+                "spotify": null,
+                "youtube": "A2zxeWK08xY"
+              }
+            },
+            {
+              "title": "Anglerfish",
+              "artist": "Michael Curtis",
+              "album": "All Work And No Play",
+              "releaseDate": "2014-08-12",
+              "isrc": null,
+              "score": 79,
+              "label": "What Dat Records",
+              "durationMs": 190563,
+              "playOffsetMs": 24860,
+              "providerIds": {
+                "acrid": "39cd07f559a5d6c849cdd2a705bb6a21",
+                "spotify": "0wgm47Og7F9Pl8IKc2rtG5",
+                "youtube": "zqE60O6NhzY"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 24,
+          "sample": "tmp/music-recognition/samples/CVuxpJDaMlQ_0024.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Save Me",
+            "artist": "Nicolas Blache",
+            "album": "Ghost",
+            "releaseDate": "2018-08-21",
+            "isrc": null,
+            "score": 100,
+            "label": "Nicolas Blache",
+            "durationMs": 317280,
+            "playOffsetMs": 35980,
+            "providerIds": {
+              "acrid": "27bab1a8bb4adb680d36d638dded8f1d",
+              "spotify": "7qiCkHvEOLdxgG3BY10OHB",
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Save Me",
+              "artist": "Nicolas Blache",
+              "album": "Ghost",
+              "releaseDate": "2018-08-21",
+              "isrc": null,
+              "score": 100,
+              "label": "Nicolas Blache",
+              "durationMs": 317280,
+              "playOffsetMs": 35980,
+              "providerIds": {
+                "acrid": "27bab1a8bb4adb680d36d638dded8f1d",
+                "spotify": "7qiCkHvEOLdxgG3BY10OHB",
+                "youtube": null
+              }
+            },
+            {
+              "title": "The 300",
+              "artist": "Kid Sexy",
+              "album": "World Without End",
+              "releaseDate": "2017-04-11",
+              "isrc": null,
+              "score": 100,
+              "label": "MondoTunes",
+              "durationMs": 360000,
+              "playOffsetMs": 212880,
+              "providerIds": {
+                "acrid": "308d36695c992f0277263e3eb9bfa982",
+                "spotify": null,
+                "youtube": "A2zxeWK08xY"
+              }
+            },
+            {
+              "title": "Anglerfish",
+              "artist": "Michael Curtis",
+              "album": "All Work And No Play",
+              "releaseDate": "2014-08-12",
+              "isrc": null,
+              "score": 73,
+              "label": "What Dat Records",
+              "durationMs": 190563,
+              "playOffsetMs": 35920,
+              "providerIds": {
+                "acrid": "39cd07f559a5d6c849cdd2a705bb6a21",
+                "spotify": "0wgm47Og7F9Pl8IKc2rtG5",
+                "youtube": "zqE60O6NhzY"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 34,
+          "sample": "tmp/music-recognition/samples/CVuxpJDaMlQ_0034.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Save Me",
+            "artist": "Nicolas Blache",
+            "album": "Ghost",
+            "releaseDate": "2018-08-21",
+            "isrc": null,
+            "score": 100,
+            "label": "Nicolas Blache",
+            "durationMs": 317280,
+            "playOffsetMs": 45980,
+            "providerIds": {
+              "acrid": "27bab1a8bb4adb680d36d638dded8f1d",
+              "spotify": "7qiCkHvEOLdxgG3BY10OHB",
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Save Me",
+              "artist": "Nicolas Blache",
+              "album": "Ghost",
+              "releaseDate": "2018-08-21",
+              "isrc": null,
+              "score": 100,
+              "label": "Nicolas Blache",
+              "durationMs": 317280,
+              "playOffsetMs": 45980,
+              "providerIds": {
+                "acrid": "27bab1a8bb4adb680d36d638dded8f1d",
+                "spotify": "7qiCkHvEOLdxgG3BY10OHB",
+                "youtube": null
+              }
+            },
+            {
+              "title": "The 300",
+              "artist": "Kid Sexy",
+              "album": "World Without End",
+              "releaseDate": "2017-04-11",
+              "isrc": null,
+              "score": 82,
+              "label": "MondoTunes",
+              "durationMs": 360000,
+              "playOffsetMs": 210360,
+              "providerIds": {
+                "acrid": "308d36695c992f0277263e3eb9bfa982",
+                "spotify": null,
+                "youtube": "A2zxeWK08xY"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 44,
+          "sample": "tmp/music-recognition/samples/CVuxpJDaMlQ_0044.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Save Me",
+            "artist": "Nicolas Blache",
+            "album": "Ghost",
+            "releaseDate": "2018-08-21",
+            "isrc": null,
+            "score": 100,
+            "label": "Nicolas Blache",
+            "durationMs": 317280,
+            "playOffsetMs": 55980,
+            "providerIds": {
+              "acrid": "27bab1a8bb4adb680d36d638dded8f1d",
+              "spotify": "7qiCkHvEOLdxgG3BY10OHB",
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Save Me",
+              "artist": "Nicolas Blache",
+              "album": "Ghost",
+              "releaseDate": "2018-08-21",
+              "isrc": null,
+              "score": 100,
+              "label": "Nicolas Blache",
+              "durationMs": 317280,
+              "playOffsetMs": 55980,
+              "providerIds": {
+                "acrid": "27bab1a8bb4adb680d36d638dded8f1d",
+                "spotify": "7qiCkHvEOLdxgG3BY10OHB",
+                "youtube": null
+              }
+            },
+            {
+              "title": "The 300",
+              "artist": "Kid Sexy",
+              "album": "World Without End",
+              "releaseDate": "2017-04-11",
+              "isrc": null,
+              "score": 100,
+              "label": "MondoTunes",
+              "durationMs": 360000,
+              "playOffsetMs": 220360,
+              "providerIds": {
+                "acrid": "308d36695c992f0277263e3eb9bfa982",
+                "spotify": null,
+                "youtube": "A2zxeWK08xY"
+              }
+            },
+            {
+              "title": "Anglerfish",
+              "artist": "Michael Curtis",
+              "album": "All Work And No Play",
+              "releaseDate": "2014-08-12",
+              "isrc": null,
+              "score": 43,
+              "label": "What Dat Records",
+              "durationMs": 190563,
+              "playOffsetMs": 55920,
+              "providerIds": {
+                "acrid": "39cd07f559a5d6c849cdd2a705bb6a21",
+                "spotify": "0wgm47Og7F9Pl8IKc2rtG5",
+                "youtube": "zqE60O6NhzY"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 55,
+          "sample": "tmp/music-recognition/samples/CVuxpJDaMlQ_0055.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Save Me",
+            "artist": "Nicolas Blache",
+            "album": "Ghost",
+            "releaseDate": "2018-08-21",
+            "isrc": null,
+            "score": 100,
+            "label": "Nicolas Blache",
+            "durationMs": 317280,
+            "playOffsetMs": 66940,
+            "providerIds": {
+              "acrid": "27bab1a8bb4adb680d36d638dded8f1d",
+              "spotify": "7qiCkHvEOLdxgG3BY10OHB",
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Save Me",
+              "artist": "Nicolas Blache",
+              "album": "Ghost",
+              "releaseDate": "2018-08-21",
+              "isrc": null,
+              "score": 100,
+              "label": "Nicolas Blache",
+              "durationMs": 317280,
+              "playOffsetMs": 66940,
+              "providerIds": {
+                "acrid": "27bab1a8bb4adb680d36d638dded8f1d",
+                "spotify": "7qiCkHvEOLdxgG3BY10OHB",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "music",
+        "count": 5,
+        "score": 100,
+        "title": "Save Me",
+        "artist": "Nicolas Blache",
+        "album": "Ghost",
+        "releaseDate": "2018-08-21",
+        "isrc": null,
+        "providerIds": {
+          "acrid": "27bab1a8bb4adb680d36d638dded8f1d",
+          "spotify": "7qiCkHvEOLdxgG3BY10OHB",
+          "youtube": null
+        }
+      }
+    },
+    {
+      "playlistIndex": 27,
+      "videoId": "Xjn7dTq6A_E",
+      "title": "21moonmassgame inter",
+      "url": "https://www.youtube.com/watch?v=Xjn7dTq6A_E",
+      "duration": 69,
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 13,
+          "sample": "tmp/music-recognition/samples/Xjn7dTq6A_E_0013.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Kuchiyakusoku",
+              "artist": "Nogizaka46",
+              "album": "Sorezoreno Isu Special Edition",
+              "releaseDate": "2016-05-25",
+              "isrc": "JPU901601308",
+              "score": 0.56,
+              "label": "SME",
+              "durationMs": 272000,
+              "playOffsetMs": 167000,
+              "providerIds": {
+                "acrid": "eb46d2c47d6785fd30f9dfc5d8ec7736",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Teri Judai Ka Gham",
+              "artist": "Mehnaz",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "GBKRT9418010",
+              "score": 0.53,
+              "label": "Universal Music MENA (Oriental Star Agencies)",
+              "durationMs": 296000,
+              "playOffsetMs": 165000,
+              "providerIds": {
+                "acrid": "4c84cb52e5923d32a899f99422177b45",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "story",
+              "artist": "MAYU MAESHIMA",
+              "album": "TVアニメ「異世界おじさん」オープニングテーマ「story」 - EP",
+              "releaseDate": "2022-07-06",
+              "isrc": "JPD732200131",
+              "score": 0.53,
+              "label": "℗ 2022 KADOKAWA CORPORATION",
+              "durationMs": "224426",
+              "playOffsetMs": 190000,
+              "providerIds": {
+                "acrid": "42e458ce8ed0b3e52e96c82f4c848538",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "ยาพิษ",
+              "artist": "genie Season",
+              "album": "HALLOWEEN - EP",
+              "releaseDate": "2024-11-15",
+              "isrc": "THG012400981",
+              "score": 0.36,
+              "label": "℗ 2024 GMM Music Public Company Limited",
+              "durationMs": "216840",
+              "playOffsetMs": 70000,
+              "providerIds": {
+                "acrid": "f5f788cfda3f458fcdcb809e0c3634c3",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 24,
+          "sample": "tmp/music-recognition/samples/Xjn7dTq6A_E_0024.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Future Destination",
+              "artist": "KellySIMONZ",
+              "album": "The Anthems",
+              "releaseDate": "2020-02-12",
+              "isrc": "JPPC01902425",
+              "score": 0.67,
+              "label": "℗ 2020 PONY CANYON",
+              "durationMs": "195493",
+              "playOffsetMs": 25000,
+              "providerIds": {
+                "acrid": "0811a407fd2bed658828c58d3ae3e355",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 34,
+          "sample": "tmp/music-recognition/samples/Xjn7dTq6A_E_0034.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Future Destination",
+              "artist": "KellySIMONZ",
+              "album": "The Anthems",
+              "releaseDate": "2020-02-12",
+              "isrc": "JPPC01902425",
+              "score": 0.8,
+              "label": "℗ 2020 PONY CANYON",
+              "durationMs": "195493",
+              "playOffsetMs": 35000,
+              "providerIds": {
+                "acrid": "0811a407fd2bed658828c58d3ae3e355",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 44,
+          "sample": "tmp/music-recognition/samples/Xjn7dTq6A_E_0044.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Waiting For The Tide To Turn",
+              "artist": "The Dingoes",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "USUM70979396",
+              "score": 0.43,
+              "label": "A&M",
+              "durationMs": 315000,
+              "playOffsetMs": 235000,
+              "providerIds": {
+                "acrid": "91eb3bf0d0d272cbdfe883b12c99ad29",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Gerhe Te Gerha",
+              "artist": "Amar Arshi, Miss Pooja, Narinder Jot",
+              "album": "Mulakataan",
+              "releaseDate": "2007-03-12",
+              "isrc": "INS180707443",
+              "score": 0.37,
+              "label": "℗ 2007 Super Cassettes Industries Private Limited",
+              "durationMs": "248773",
+              "playOffsetMs": 230000,
+              "providerIds": {
+                "acrid": "cdc6399942209c2bb2b400fe5f332379",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Jezebel",
+              "artist": "Michel Legrand",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "FRUM72200813",
+              "score": 0.31,
+              "label": "Universal Music Division Decca Records France",
+              "durationMs": 258000,
+              "playOffsetMs": 112000,
+              "providerIds": {
+                "acrid": "9bd91d4f381022ac0bc9b284c27c9148",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 55,
+          "sample": "tmp/music-recognition/samples/Xjn7dTq6A_E_0055.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        }
+      ],
+      "bestMatch": null
+    },
+    {
+      "playlistIndex": 32,
+      "videoId": "8Pf2pGqKMXk",
+      "title": "19moonmassgame inter",
+      "url": "https://www.youtube.com/watch?v=8Pf2pGqKMXk",
+      "duration": 72,
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 14,
+          "sample": "tmp/music-recognition/samples/8Pf2pGqKMXk_0014.webm",
+          "status": "Success",
+          "score": 37,
+          "match": {
+            "title": "Chasing The Moonlight (Feat. 김세황)",
+            "artist": "Jimi & Doma Studio",
+            "album": "던전 앤 파이터 OST (Chasing The Moonlight)",
+            "releaseDate": null,
+            "isrc": null,
+            "score": 37,
+            "label": null,
+            "durationMs": 210760,
+            "playOffsetMs": 134700,
+            "providerIds": {
+              "acrid": "52ce826b77067d34b4ca45d15a98651b",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Chasing The Moonlight (Feat. 김세황)",
+              "artist": "Jimi & Doma Studio",
+              "album": "던전 앤 파이터 OST (Chasing The Moonlight)",
+              "releaseDate": null,
+              "isrc": null,
+              "score": 37,
+              "label": null,
+              "durationMs": 210760,
+              "playOffsetMs": 134700,
+              "providerIds": {
+                "acrid": "52ce826b77067d34b4ca45d15a98651b",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 25,
+          "sample": "tmp/music-recognition/samples/8Pf2pGqKMXk_0025.webm",
+          "status": "Success",
+          "score": 37,
+          "match": {
+            "title": "Chasing The Moonlight (Feat. 김세황)",
+            "artist": "Jimi & Doma Studio",
+            "album": "던전 앤 파이터 OST (Chasing The Moonlight)",
+            "releaseDate": null,
+            "isrc": null,
+            "score": 37,
+            "label": null,
+            "durationMs": 210760,
+            "playOffsetMs": 62600,
+            "providerIds": {
+              "acrid": "52ce826b77067d34b4ca45d15a98651b",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Chasing The Moonlight (Feat. 김세황)",
+              "artist": "Jimi & Doma Studio",
+              "album": "던전 앤 파이터 OST (Chasing The Moonlight)",
+              "releaseDate": null,
+              "isrc": null,
+              "score": 37,
+              "label": null,
+              "durationMs": 210760,
+              "playOffsetMs": 62600,
+              "providerIds": {
+                "acrid": "52ce826b77067d34b4ca45d15a98651b",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 36,
+          "sample": "tmp/music-recognition/samples/8Pf2pGqKMXk_0036.webm",
+          "status": "Success",
+          "score": 46,
+          "match": {
+            "title": "Chasing The Moonlight (Feat. 김세황)",
+            "artist": "Jimi & Doma Studio",
+            "album": "던전 앤 파이터 OST (Chasing The Moonlight)",
+            "releaseDate": null,
+            "isrc": null,
+            "score": 46,
+            "label": null,
+            "durationMs": 210760,
+            "playOffsetMs": 165380,
+            "providerIds": {
+              "acrid": "52ce826b77067d34b4ca45d15a98651b",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Chasing The Moonlight (Feat. 김세황)",
+              "artist": "Jimi & Doma Studio",
+              "album": "던전 앤 파이터 OST (Chasing The Moonlight)",
+              "releaseDate": null,
+              "isrc": null,
+              "score": 46,
+              "label": null,
+              "durationMs": 210760,
+              "playOffsetMs": 165380,
+              "providerIds": {
+                "acrid": "52ce826b77067d34b4ca45d15a98651b",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Chasing The Moonlight",
+              "artist": "지미",
+              "album": "던전 앤 파이터 (Dungeon &amp; Fighter) - Chasing The Moonlight",
+              "releaseDate": "2010-08-04",
+              "isrc": null,
+              "score": 37,
+              "label": "SK Communications",
+              "durationMs": 211000,
+              "playOffsetMs": 83080,
+              "providerIds": {
+                "acrid": "99299af96333e7ca4bbec117455a3960",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 46,
+          "sample": "tmp/music-recognition/samples/8Pf2pGqKMXk_0046.webm",
+          "status": "Success",
+          "score": 43,
+          "match": {
+            "title": "Chasing The Moonlight (Feat. 김세황)",
+            "artist": "Jimi & Doma Studio",
+            "album": "던전 앤 파이터 OST (Chasing The Moonlight)",
+            "releaseDate": null,
+            "isrc": null,
+            "score": 43,
+            "label": null,
+            "durationMs": 210760,
+            "playOffsetMs": 180180,
+            "providerIds": {
+              "acrid": "52ce826b77067d34b4ca45d15a98651b",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Chasing The Moonlight (Feat. 김세황)",
+              "artist": "Jimi & Doma Studio",
+              "album": "던전 앤 파이터 OST (Chasing The Moonlight)",
+              "releaseDate": null,
+              "isrc": null,
+              "score": 43,
+              "label": null,
+              "durationMs": 210760,
+              "playOffsetMs": 180180,
+              "providerIds": {
+                "acrid": "52ce826b77067d34b4ca45d15a98651b",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 57,
+          "sample": "tmp/music-recognition/samples/8Pf2pGqKMXk_0057.webm",
+          "status": "Success",
+          "score": 46,
+          "match": {
+            "title": "Chasing The Moonlight (Feat. 김세황)",
+            "artist": "Jimi & Doma Studio",
+            "album": "던전 앤 파이터 OST (Chasing The Moonlight)",
+            "releaseDate": null,
+            "isrc": null,
+            "score": 46,
+            "label": null,
+            "durationMs": 210760,
+            "playOffsetMs": 190680,
+            "providerIds": {
+              "acrid": "52ce826b77067d34b4ca45d15a98651b",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Chasing The Moonlight (Feat. 김세황)",
+              "artist": "Jimi & Doma Studio",
+              "album": "던전 앤 파이터 OST (Chasing The Moonlight)",
+              "releaseDate": null,
+              "isrc": null,
+              "score": 46,
+              "label": null,
+              "durationMs": 210760,
+              "playOffsetMs": 190680,
+              "providerIds": {
+                "acrid": "52ce826b77067d34b4ca45d15a98651b",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "music",
+        "count": 5,
+        "score": 41.8,
+        "title": "Chasing The Moonlight (Feat. 김세황)",
+        "artist": "Jimi & Doma Studio",
+        "album": "던전 앤 파이터 OST (Chasing The Moonlight)",
+        "releaseDate": null,
+        "isrc": null,
+        "providerIds": {
+          "acrid": "52ce826b77067d34b4ca45d15a98651b",
+          "spotify": null,
+          "youtube": null
+        }
+      }
+    },
+    {
+      "playlistIndex": 38,
+      "videoId": "RtJ0g8bd2k8",
+      "title": "18moonmassgame interval",
+      "url": "https://www.youtube.com/watch?v=RtJ0g8bd2k8",
+      "duration": 51,
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 10,
+          "sample": "tmp/music-recognition/samples/RtJ0g8bd2k8_0010.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Blue Water Blue Sky (May's Theme)",
+              "artist": "Daisuke Ishiwatari",
+              "album": "Guilty Gear X Heavey Rock Tracks (The Original Soundtrack of Dreamcast!!)",
+              "releaseDate": "2001-01-17",
+              "isrc": "JPV200500495",
+              "score": 0.67,
+              "label": "℗ Sammy / ARC SYSTEM WORKS Co.,Ltd.",
+              "durationMs": "165573",
+              "playOffsetMs": 30000,
+              "providerIds": {
+                "acrid": "c99d53032f4720cc79ac6ba0a5e386e3",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Blue Water Blue Sky -May's Theme-",
+              "artist": "Arc System Works",
+              "album": "Guilty Gear Sound Complete Box (4)",
+              "releaseDate": "2001-01-17",
+              "isrc": "TCJPN2194378",
+              "score": 0.67,
+              "label": "℗ 2005 ARC SYSTEM WORKS",
+              "durationMs": "165573",
+              "playOffsetMs": 100000,
+              "providerIds": {
+                "acrid": "d8ef87284627c1a014f0754a8c184281",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Intro (Instrumental)",
+              "artist": "Bizzy Montana",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "DEMN91400251",
+              "score": 0.53,
+              "label": "Wolfpack Entertainment",
+              "durationMs": 147000,
+              "playOffsetMs": 25000,
+              "providerIds": {
+                "acrid": "a19339de5c161761b56b5a70454f10d7",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Kablammo",
+              "artist": "The Resignators",
+              "album": "Offbeat Time",
+              "releaseDate": "2009-03-03",
+              "isrc": "CASE10900005",
+              "score": 0.37,
+              "label": "Warner Music Canada",
+              "durationMs": 160000,
+              "playOffsetMs": 152000,
+              "providerIds": {
+                "acrid": "57ab48bfee94144bea39762829016a58",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 17,
+          "sample": "tmp/music-recognition/samples/RtJ0g8bd2k8_0017.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 25,
+          "sample": "tmp/music-recognition/samples/RtJ0g8bd2k8_0025.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Blue Water Blue Sky -May's Theme-",
+              "artist": "Arc System Works",
+              "album": "Guilty Gear Sound Complete Box (5)",
+              "releaseDate": "2021-03-25",
+              "isrc": "TCJPN2194537",
+              "score": 0.85,
+              "label": "℗ 2021 ARC SYSTEM WORKS",
+              "durationMs": "181120",
+              "playOffsetMs": 50000,
+              "providerIds": {
+                "acrid": "d8ef87284627c1a014f0754a8c184281",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Fait Accompli",
+              "artist": "John Powell",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "USKLP2100223",
+              "score": 0.67,
+              "label": "Varese Sarabande Records",
+              "durationMs": 399000,
+              "playOffsetMs": 310000,
+              "providerIds": {
+                "acrid": "b35a74afc99a86d8eefeaf7630b9b65c",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "When We Rock (It Feels Like Thunder)",
+              "artist": "Kuni",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "JPPO01801514",
+              "score": 0.53,
+              "label": "Universal Music LLC",
+              "durationMs": 260000,
+              "playOffsetMs": 240000,
+              "providerIds": {
+                "acrid": "869c9d456f80b035b855d933bccb26a7",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "I'm an 80'S Kid!",
+              "artist": "Math 1984",
+              "album": "Imagine",
+              "releaseDate": "2021-10-14",
+              "isrc": "UKR6V2177990",
+              "score": 0.47,
+              "label": "℗ 2021 Math 1984",
+              "durationMs": "330353",
+              "playOffsetMs": 140000,
+              "providerIds": {
+                "acrid": "a6fea4ca797567cad943d894e44f0471",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Judgment Day (From Webtoon ‘Return Your Soul’)",
+              "artist": "LA POEM",
+              "album": "Webtoon ‘Return Your Soul’ Part. 1 (Original Soundtrack) - EP",
+              "releaseDate": "2025-05-18",
+              "isrc": "KSB022501285",
+              "score": 0.43,
+              "label": "℗ 2025 Sherpa Music, STUDIO LICO, under license to VOSTOK",
+              "durationMs": "225093",
+              "playOffsetMs": 120000,
+              "providerIds": {
+                "acrid": "a08c009b451f5d69ce4a599b8eb1778e",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 33,
+          "sample": "tmp/music-recognition/samples/RtJ0g8bd2k8_0033.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Blue Water Blue Sky -May's Theme-",
+              "artist": "Arc System Works",
+              "album": "Guilty Gear Sound Complete Box (5)",
+              "releaseDate": "2021-03-25",
+              "isrc": "TCJPN2194537",
+              "score": 0.51,
+              "label": "℗ 2021 ARC SYSTEM WORKS",
+              "durationMs": "181120",
+              "playOffsetMs": 60000,
+              "providerIds": {
+                "acrid": "d8ef87284627c1a014f0754a8c184281",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Спасибо, не надо",
+              "artist": "ЩЕНКИ",
+              "album": "Спасибо, не надо - Single",
+              "releaseDate": "2025-01-10",
+              "isrc": "RUAH62428473",
+              "score": 0.36,
+              "label": "℗ 2025 We are communa",
+              "durationMs": "199375",
+              "playOffsetMs": 185000,
+              "providerIds": {
+                "acrid": "11c28ea0ce9b99835083a84b24f24ac8",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "EKG (feat. Kala)",
+              "artist": "Praktis, Kala",
+              "album": "Syzyf",
+              "releaseDate": "2016-03-01",
+              "isrc": "PLF241401466",
+              "score": 0.32,
+              "label": "Step Records",
+              "durationMs": 177000,
+              "playOffsetMs": 152000,
+              "providerIds": {
+                "acrid": "00798d757c9ee1c3c0a235e9d5ec991a",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 38,
+          "sample": "tmp/music-recognition/samples/RtJ0g8bd2k8_0038.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        }
+      ],
+      "bestMatch": null
+    },
+    {
+      "playlistIndex": 44,
+      "videoId": "uBfJ8XBCfy0",
+      "title": "17moonmassgame inter",
+      "url": "https://www.youtube.com/watch?v=uBfJ8XBCfy0",
+      "duration": 52,
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 10,
+          "sample": "tmp/music-recognition/samples/uBfJ8XBCfy0_0010.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 18,
+          "sample": "tmp/music-recognition/samples/uBfJ8XBCfy0_0018.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 26,
+          "sample": "tmp/music-recognition/samples/uBfJ8XBCfy0_0026.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 33,
+          "sample": "tmp/music-recognition/samples/uBfJ8XBCfy0_0033.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 39,
+          "sample": "tmp/music-recognition/samples/uBfJ8XBCfy0_0039.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        }
+      ],
+      "bestMatch": null
+    },
+    {
+      "playlistIndex": 50,
+      "videoId": "nCZ4ql9qhHQ",
+      "title": "16moonmassgame  inter",
+      "url": "https://www.youtube.com/watch?v=nCZ4ql9qhHQ",
+      "duration": 62,
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 12,
+          "sample": "tmp/music-recognition/samples/nCZ4ql9qhHQ_0012.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Till Next Time -Staff Roll 1-",
+            "artist": "アークシステムワークス",
+            "album": "ギルティギア サウンドコンプリートBOX (6)",
+            "releaseDate": "2005-11-23",
+            "isrc": null,
+            "score": 100,
+            "label": "TEAM ENTERTAINMENT",
+            "durationMs": 184000,
+            "playOffsetMs": 95560,
+            "providerIds": {
+              "acrid": "11a38679b1fb0090adfc24e401b81a9f",
+              "spotify": "4J7W2MUKYiAOR3Z3a6l4zW",
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Till Next Time -Staff Roll 1-",
+              "artist": "アークシステムワークス",
+              "album": "ギルティギア サウンドコンプリートBOX (6)",
+              "releaseDate": "2005-11-23",
+              "isrc": null,
+              "score": 100,
+              "label": "TEAM ENTERTAINMENT",
+              "durationMs": 184000,
+              "playOffsetMs": 95560,
+              "providerIds": {
+                "acrid": "11a38679b1fb0090adfc24e401b81a9f",
+                "spotify": "4J7W2MUKYiAOR3Z3a6l4zW",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 21,
+          "sample": "tmp/music-recognition/samples/nCZ4ql9qhHQ_0021.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Till Next Time -Staff Roll 1-",
+            "artist": "アークシステムワークス",
+            "album": "ギルティギア サウンドコンプリートBOX (6)",
+            "releaseDate": "2005-11-23",
+            "isrc": null,
+            "score": 100,
+            "label": "TEAM ENTERTAINMENT",
+            "durationMs": 184000,
+            "playOffsetMs": 115240,
+            "providerIds": {
+              "acrid": "11a38679b1fb0090adfc24e401b81a9f",
+              "spotify": "4J7W2MUKYiAOR3Z3a6l4zW",
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Till Next Time -Staff Roll 1-",
+              "artist": "アークシステムワークス",
+              "album": "ギルティギア サウンドコンプリートBOX (6)",
+              "releaseDate": "2005-11-23",
+              "isrc": null,
+              "score": 100,
+              "label": "TEAM ENTERTAINMENT",
+              "durationMs": 184000,
+              "playOffsetMs": 115240,
+              "providerIds": {
+                "acrid": "11a38679b1fb0090adfc24e401b81a9f",
+                "spotify": "4J7W2MUKYiAOR3Z3a6l4zW",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 31,
+          "sample": "tmp/music-recognition/samples/nCZ4ql9qhHQ_0031.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Till Next Time -Staff Roll 1-",
+            "artist": "アークシステムワークス",
+            "album": "ギルティギア サウンドコンプリートBOX (6)",
+            "releaseDate": "2005-11-23",
+            "isrc": null,
+            "score": 100,
+            "label": "TEAM ENTERTAINMENT",
+            "durationMs": 184000,
+            "playOffsetMs": 125240,
+            "providerIds": {
+              "acrid": "11a38679b1fb0090adfc24e401b81a9f",
+              "spotify": "4J7W2MUKYiAOR3Z3a6l4zW",
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Till Next Time -Staff Roll 1-",
+              "artist": "アークシステムワークス",
+              "album": "ギルティギア サウンドコンプリートBOX (6)",
+              "releaseDate": "2005-11-23",
+              "isrc": null,
+              "score": 100,
+              "label": "TEAM ENTERTAINMENT",
+              "durationMs": 184000,
+              "playOffsetMs": 125240,
+              "providerIds": {
+                "acrid": "11a38679b1fb0090adfc24e401b81a9f",
+                "spotify": "4J7W2MUKYiAOR3Z3a6l4zW",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 40,
+          "sample": "tmp/music-recognition/samples/nCZ4ql9qhHQ_0040.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Till Next Time -Staff Roll 1-",
+            "artist": "アークシステムワークス",
+            "album": "ギルティギア サウンドコンプリートBOX (6)",
+            "releaseDate": "2005-11-23",
+            "isrc": null,
+            "score": 100,
+            "label": "TEAM ENTERTAINMENT",
+            "durationMs": 184000,
+            "playOffsetMs": 134240,
+            "providerIds": {
+              "acrid": "11a38679b1fb0090adfc24e401b81a9f",
+              "spotify": "4J7W2MUKYiAOR3Z3a6l4zW",
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Till Next Time -Staff Roll 1-",
+              "artist": "アークシステムワークス",
+              "album": "ギルティギア サウンドコンプリートBOX (6)",
+              "releaseDate": "2005-11-23",
+              "isrc": null,
+              "score": 100,
+              "label": "TEAM ENTERTAINMENT",
+              "durationMs": 184000,
+              "playOffsetMs": 134240,
+              "providerIds": {
+                "acrid": "11a38679b1fb0090adfc24e401b81a9f",
+                "spotify": "4J7W2MUKYiAOR3Z3a6l4zW",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 49,
+          "sample": "tmp/music-recognition/samples/nCZ4ql9qhHQ_0049.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Till Next Time -Staff Roll 1-",
+            "artist": "アークシステムワークス",
+            "album": "ギルティギア サウンドコンプリートBOX (6)",
+            "releaseDate": "2005-11-23",
+            "isrc": null,
+            "score": 100,
+            "label": "TEAM ENTERTAINMENT",
+            "durationMs": 184000,
+            "playOffsetMs": 143240,
+            "providerIds": {
+              "acrid": "11a38679b1fb0090adfc24e401b81a9f",
+              "spotify": "4J7W2MUKYiAOR3Z3a6l4zW",
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Till Next Time -Staff Roll 1-",
+              "artist": "アークシステムワークス",
+              "album": "ギルティギア サウンドコンプリートBOX (6)",
+              "releaseDate": "2005-11-23",
+              "isrc": null,
+              "score": 100,
+              "label": "TEAM ENTERTAINMENT",
+              "durationMs": 184000,
+              "playOffsetMs": 143240,
+              "providerIds": {
+                "acrid": "11a38679b1fb0090adfc24e401b81a9f",
+                "spotify": "4J7W2MUKYiAOR3Z3a6l4zW",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "music",
+        "count": 5,
+        "score": 100,
+        "title": "Till Next Time -Staff Roll 1-",
+        "artist": "アークシステムワークス",
+        "album": "ギルティギア サウンドコンプリートBOX (6)",
+        "releaseDate": "2005-11-23",
+        "isrc": null,
+        "providerIds": {
+          "acrid": "11a38679b1fb0090adfc24e401b81a9f",
+          "spotify": "4J7W2MUKYiAOR3Z3a6l4zW",
+          "youtube": null
+        }
+      }
+    },
+    {
+      "playlistIndex": 56,
+      "videoId": "Bj8oP2xUFmw",
+      "title": "2015MoonMassGame-interval",
+      "url": "https://www.youtube.com/watch?v=Bj8oP2xUFmw",
+      "duration": 54,
+      "parsed": {
+        "year": 2015,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 10,
+          "sample": "tmp/music-recognition/samples/Bj8oP2xUFmw_0010.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "All Night Long (Live, Graham Central Station, New Mexico, 1984)",
+              "artist": "Alcatrazz",
+              "album": "The Official Bootleg Box Set, Vol. 2 (1983-1984)",
+              "releaseDate": "2022-08-26",
+              "isrc": "GBBLY2203838",
+              "score": 0.8,
+              "label": "HNE",
+              "durationMs": 354000,
+              "playOffsetMs": 115000,
+              "providerIds": {
+                "acrid": "19695ea34d7393088e96c81457f1dd17",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Muzwile",
+              "artist": "Mokoomba",
+              "album": "Luyando",
+              "releaseDate": "2017-03-10",
+              "isrc": "DECQ11703007",
+              "score": 0.56,
+              "label": "℗ Outhere Records 2017",
+              "durationMs": "273813",
+              "playOffsetMs": 135000,
+              "providerIds": {
+                "acrid": "c4e875c5c3a7b2cbc762582bc609bb45",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Everything's Gonna Be Alright",
+              "artist": "Paul Thorn",
+              "album": "Too Blessed to Be Stressed",
+              "releaseDate": "2014-08-19",
+              "isrc": "USFNU1400001",
+              "score": 0.51,
+              "label": "℗ 2014 Perpetual Obscurity",
+              "durationMs": "284253",
+              "playOffsetMs": 120000,
+              "providerIds": {
+                "acrid": "f348a08ca9659a210d1489ed96d63998",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Rocket",
+              "artist": "Goldfrapp",
+              "album": "Rocket",
+              "releaseDate": "2010-03-23",
+              "isrc": "GBAJH0901615",
+              "score": 0.47,
+              "label": "℗ 2010 Mute Records Ltd., a BMG Company",
+              "durationMs": "231667",
+              "playOffsetMs": 215000,
+              "providerIds": {
+                "acrid": "8824c2f41d342771d153c103f0aa7fca",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "FIRESTORM",
+              "artist": "LOUDNESS",
+              "album": "LOUDNESS",
+              "releaseDate": "1992-02-25",
+              "isrc": "JPWP09204070",
+              "score": 0.4,
+              "label": "WM Japan",
+              "durationMs": 269000,
+              "playOffsetMs": 50000,
+              "providerIds": {
+                "acrid": "f32da0d6c09d865c7eddf28688e8c1ec",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 18,
+          "sample": "tmp/music-recognition/samples/Bj8oP2xUFmw_0018.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 27,
+          "sample": "tmp/music-recognition/samples/Bj8oP2xUFmw_0027.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 35,
+          "sample": "tmp/music-recognition/samples/Bj8oP2xUFmw_0035.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 41,
+          "sample": "tmp/music-recognition/samples/Bj8oP2xUFmw_0041.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Murky Waters",
+              "artist": "Testament",
+              "album": "Murky Waters",
+              "releaseDate": "",
+              "isrc": "DED831701451",
+              "score": 0.8,
+              "label": "Nuclear Blast Records GmbH",
+              "durationMs": 180000,
+              "playOffsetMs": 20000,
+              "providerIds": {
+                "acrid": "206de165119699b42feccd1e16b3317d",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Organic Flesh Terrene",
+              "artist": "Omnioid",
+              "album": "Womb of Infirmity",
+              "releaseDate": "2015-03-10",
+              "isrc": "USY251403792",
+              "score": 0.56,
+              "label": "℗ 2015 Ghastly Music",
+              "durationMs": "232556",
+              "playOffsetMs": 220000,
+              "providerIds": {
+                "acrid": "0cb4912733d9b804a063d5dc2c7ae34e",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Drown",
+              "artist": "Don Barredo, Mask, Shino Mundal, Don Luis",
+              "album": "Drown - Single",
+              "releaseDate": "2023-10-13",
+              "isrc": "TCAHL2396783",
+              "score": 0.32,
+              "label": "℗ 2023 Don Barredo, Mask, Shino Mundal & Don Luis",
+              "durationMs": "226321",
+              "playOffsetMs": 170000,
+              "providerIds": {
+                "acrid": "8c2c61c99c66eb522cf1c9965f18d04a",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Génesis (MTV Unplugged)",
+              "artist": "Soda Stereo",
+              "album": "Comfort y Música Para Volar",
+              "releaseDate": "2008-01-22",
+              "isrc": "ARFSB0701328",
+              "score": 0.3,
+              "label": "SME",
+              "durationMs": 515000,
+              "playOffsetMs": 402000,
+              "providerIds": {
+                "acrid": "d5f7bdf11db345293b65dad39c61fc90",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        }
+      ],
+      "bestMatch": null
+    },
+    {
+      "playlistIndex": 57,
+      "videoId": "IIKxi2fG0jE",
+      "title": "2015MoonMassGame-2nd stage",
+      "url": "https://www.youtube.com/watch?v=IIKxi2fG0jE",
+      "duration": 254,
+      "parsed": {
+        "year": 2015,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "二部"
+        ],
+        "matchedScene": "二部"
+      },
+      "samples": [
+        {
+          "offset": 50,
+          "sample": "tmp/music-recognition/samples/IIKxi2fG0jE_0050.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "マジック フィーチャリング カナ",
+            "artist": "ｉ−ｄｅｐ",
+            "album": "パラダイス・キス オリジナル・サウンドトラック",
+            "releaseDate": "2011-05-31",
+            "isrc": null,
+            "score": 100,
+            "label": "Warner Music Japan",
+            "durationMs": 315640,
+            "playOffsetMs": 77420,
+            "providerIds": {
+              "acrid": "4259ddc990609ee4449184fe821bf523",
+              "spotify": "6dVH8jPhqsr3bLJjlkkFsf",
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "マジック フィーチャリング カナ",
+              "artist": "ｉ−ｄｅｐ",
+              "album": "パラダイス・キス オリジナル・サウンドトラック",
+              "releaseDate": "2011-05-31",
+              "isrc": null,
+              "score": 100,
+              "label": "Warner Music Japan",
+              "durationMs": 315640,
+              "playOffsetMs": 77420,
+              "providerIds": {
+                "acrid": "4259ddc990609ee4449184fe821bf523",
+                "spotify": "6dVH8jPhqsr3bLJjlkkFsf",
+                "youtube": null
+              }
+            },
+            {
+              "title": "Hilang Rasa",
+              "artist": "Maharani/Alzahrani",
+              "album": "Hilang Rasa",
+              "releaseDate": "2026-04-05",
+              "isrc": null,
+              "score": 34,
+              "label": "Maharani",
+              "durationMs": 319440,
+              "playOffsetMs": 265940,
+              "providerIds": {
+                "acrid": "cb3f521c117db9bc6557786008d145d7",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 88,
+          "sample": "tmp/music-recognition/samples/IIKxi2fG0jE_0088.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "マジック フィーチャリング カナ",
+            "artist": "ｉ−ｄｅｐ",
+            "album": "パラダイス・キス オリジナル・サウンドトラック",
+            "releaseDate": "2011-05-31",
+            "isrc": null,
+            "score": 100,
+            "label": "Warner Music Japan",
+            "durationMs": 315640,
+            "playOffsetMs": 115420,
+            "providerIds": {
+              "acrid": "4259ddc990609ee4449184fe821bf523",
+              "spotify": "6dVH8jPhqsr3bLJjlkkFsf",
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "マジック フィーチャリング カナ",
+              "artist": "ｉ−ｄｅｐ",
+              "album": "パラダイス・キス オリジナル・サウンドトラック",
+              "releaseDate": "2011-05-31",
+              "isrc": null,
+              "score": 100,
+              "label": "Warner Music Japan",
+              "durationMs": 315640,
+              "playOffsetMs": 115420,
+              "providerIds": {
+                "acrid": "4259ddc990609ee4449184fe821bf523",
+                "spotify": "6dVH8jPhqsr3bLJjlkkFsf",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 127,
+          "sample": "tmp/music-recognition/samples/IIKxi2fG0jE_0127.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "マジック フィーチャリング カナ",
+            "artist": "ｉ−ｄｅｐ",
+            "album": "パラダイス・キス オリジナル・サウンドトラック",
+            "releaseDate": "2011-05-31",
+            "isrc": null,
+            "score": 100,
+            "label": "Warner Music Japan",
+            "durationMs": 315640,
+            "playOffsetMs": 161800,
+            "providerIds": {
+              "acrid": "4259ddc990609ee4449184fe821bf523",
+              "spotify": "6dVH8jPhqsr3bLJjlkkFsf",
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "マジック フィーチャリング カナ",
+              "artist": "ｉ−ｄｅｐ",
+              "album": "パラダイス・キス オリジナル・サウンドトラック",
+              "releaseDate": "2011-05-31",
+              "isrc": null,
+              "score": 100,
+              "label": "Warner Music Japan",
+              "durationMs": 315640,
+              "playOffsetMs": 161800,
+              "providerIds": {
+                "acrid": "4259ddc990609ee4449184fe821bf523",
+                "spotify": "6dVH8jPhqsr3bLJjlkkFsf",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 165,
+          "sample": "tmp/music-recognition/samples/IIKxi2fG0jE_0165.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "マジック フィーチャリング カナ",
+            "artist": "ｉ−ｄｅｐ",
+            "album": "パラダイス・キス オリジナル・サウンドトラック",
+            "releaseDate": "2011-05-31",
+            "isrc": null,
+            "score": 100,
+            "label": "Warner Music Japan",
+            "durationMs": 315640,
+            "playOffsetMs": 229300,
+            "providerIds": {
+              "acrid": "4259ddc990609ee4449184fe821bf523",
+              "spotify": "6dVH8jPhqsr3bLJjlkkFsf",
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "マジック フィーチャリング カナ",
+              "artist": "ｉ−ｄｅｐ",
+              "album": "パラダイス・キス オリジナル・サウンドトラック",
+              "releaseDate": "2011-05-31",
+              "isrc": null,
+              "score": 100,
+              "label": "Warner Music Japan",
+              "durationMs": 315640,
+              "playOffsetMs": 229300,
+              "providerIds": {
+                "acrid": "4259ddc990609ee4449184fe821bf523",
+                "spotify": "6dVH8jPhqsr3bLJjlkkFsf",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 203,
+          "sample": "tmp/music-recognition/samples/IIKxi2fG0jE_0203.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "マジック フィーチャリング カナ",
+            "artist": "ｉ−ｄｅｐ",
+            "album": "パラダイス・キス オリジナル・サウンドトラック",
+            "releaseDate": "2011-05-31",
+            "isrc": null,
+            "score": 100,
+            "label": "Warner Music Japan",
+            "durationMs": 315640,
+            "playOffsetMs": 267300,
+            "providerIds": {
+              "acrid": "4259ddc990609ee4449184fe821bf523",
+              "spotify": "6dVH8jPhqsr3bLJjlkkFsf",
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "マジック フィーチャリング カナ",
+              "artist": "ｉ−ｄｅｐ",
+              "album": "パラダイス・キス オリジナル・サウンドトラック",
+              "releaseDate": "2011-05-31",
+              "isrc": null,
+              "score": 100,
+              "label": "Warner Music Japan",
+              "durationMs": 315640,
+              "playOffsetMs": 267300,
+              "providerIds": {
+                "acrid": "4259ddc990609ee4449184fe821bf523",
+                "spotify": "6dVH8jPhqsr3bLJjlkkFsf",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "music",
+        "count": 5,
+        "score": 100,
+        "title": "マジック フィーチャリング カナ",
+        "artist": "ｉ−ｄｅｐ",
+        "album": "パラダイス・キス オリジナル・サウンドトラック",
+        "releaseDate": "2011-05-31",
+        "isrc": null,
+        "providerIds": {
+          "acrid": "4259ddc990609ee4449184fe821bf523",
+          "spotify": "6dVH8jPhqsr3bLJjlkkFsf",
+          "youtube": null
+        }
+      }
+    },
+    {
+      "playlistIndex": 63,
+      "videoId": "DyzmN-zRJOo",
+      "title": "2014 moonmass 2nd stage",
+      "url": "https://www.youtube.com/watch?v=DyzmN-zRJOo",
+      "duration": 258,
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "二部"
+        ],
+        "matchedScene": "二部"
+      },
+      "samples": [
+        {
+          "offset": 51,
+          "sample": "tmp/music-recognition/samples/DyzmN-zRJOo_0051.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 90,
+          "sample": "tmp/music-recognition/samples/DyzmN-zRJOo_0090.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Tears Dry on Their Own (Acoustic)",
+              "artist": "Gallant, Dua Lipa",
+              "album": "Live Acoustic - EP",
+              "releaseDate": "2017-12-08",
+              "isrc": "GBAHT1700772",
+              "score": 0.3,
+              "label": "℗ 2017 Dua Lipa Limited under exclusive license to Warner Music UK Limited",
+              "durationMs": "196632",
+              "playOffsetMs": 135000,
+              "providerIds": {
+                "acrid": "5cce7240a832d5c50c3cd76e1f229b58",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 129,
+          "sample": "tmp/music-recognition/samples/DyzmN-zRJOo_0129.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 167,
+          "sample": "tmp/music-recognition/samples/DyzmN-zRJOo_0167.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 206,
+          "sample": "tmp/music-recognition/samples/DyzmN-zRJOo_0206.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Christmas Lights",
+              "artist": "NOA",
+              "album": "Christmas Lights - Single",
+              "releaseDate": "2024-12-06",
+              "isrc": "JPPO02405382",
+              "score": 0.34,
+              "label": "A Virgin Music release; ℗ 2024 UNIVERSAL MUSIC LLC",
+              "durationMs": "164897",
+              "playOffsetMs": 110000,
+              "providerIds": {
+                "acrid": "99fa926d6d89e306429f862235ba709e",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        }
+      ],
+      "bestMatch": null
+    },
+    {
+      "playlistIndex": 71,
+      "videoId": "StQGOVzEtUE",
+      "title": "2012massgame white-Opening",
+      "url": "https://www.youtube.com/watch?v=StQGOVzEtUE",
+      "duration": 158,
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "入場"
+        ],
+        "matchedScene": "入場"
+      },
+      "samples": [
+        {
+          "offset": 31,
+          "sample": "tmp/music-recognition/samples/StQGOVzEtUE_0031.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "After the Nine O'clock News",
+            "artist": "Wig Wam",
+            "album": "Live in Tokyo",
+            "releaseDate": "2007-06-11",
+            "isrc": null,
+            "score": 100,
+            "label": "Voices Of Wonder",
+            "durationMs": 213000,
+            "playOffsetMs": 50860,
+            "providerIds": {
+              "acrid": "3bc194f228411fc0595b208fe62495e6",
+              "spotify": null,
+              "youtube": "730QMfAcTvg"
+            }
+          },
+          "music": [
+            {
+              "title": "After the Nine O'clock News",
+              "artist": "Wig Wam",
+              "album": "Live in Tokyo",
+              "releaseDate": "2007-06-11",
+              "isrc": null,
+              "score": 100,
+              "label": "Voices Of Wonder",
+              "durationMs": 213000,
+              "playOffsetMs": 50860,
+              "providerIds": {
+                "acrid": "3bc194f228411fc0595b208fe62495e6",
+                "spotify": null,
+                "youtube": "730QMfAcTvg"
+              }
+            },
+            {
+              "title": "After the Nine O'Clock News (Live) (Live)",
+              "artist": "Wig Wam",
+              "album": "Live in Tokyo",
+              "releaseDate": "2007-06-11",
+              "isrc": null,
+              "score": 100,
+              "label": "Voices Of Wonder",
+              "durationMs": 213413,
+              "playOffsetMs": 50940,
+              "providerIds": {
+                "acrid": "61a9734d5a7b6703ca76e2561aaa09e3",
+                "spotify": "0CWpzsWB4NTUa6h3IZoUfH",
+                "youtube": "730QMfAcTvg"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 55,
+          "sample": "tmp/music-recognition/samples/StQGOVzEtUE_0055.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "After the Nine O'clock News",
+            "artist": "Wig Wam",
+            "album": "Live in Tokyo",
+            "releaseDate": "2007-06-11",
+            "isrc": null,
+            "score": 100,
+            "label": "Voices Of Wonder",
+            "durationMs": 213000,
+            "playOffsetMs": 74880,
+            "providerIds": {
+              "acrid": "3bc194f228411fc0595b208fe62495e6",
+              "spotify": null,
+              "youtube": "730QMfAcTvg"
+            }
+          },
+          "music": [
+            {
+              "title": "After the Nine O'clock News",
+              "artist": "Wig Wam",
+              "album": "Live in Tokyo",
+              "releaseDate": "2007-06-11",
+              "isrc": null,
+              "score": 100,
+              "label": "Voices Of Wonder",
+              "durationMs": 213000,
+              "playOffsetMs": 74880,
+              "providerIds": {
+                "acrid": "3bc194f228411fc0595b208fe62495e6",
+                "spotify": null,
+                "youtube": "730QMfAcTvg"
+              }
+            },
+            {
+              "title": "After the Nine O'Clock News (Live) (Live)",
+              "artist": "Wig Wam",
+              "album": "Live in Tokyo",
+              "releaseDate": "2007-06-11",
+              "isrc": null,
+              "score": 82,
+              "label": "Voices Of Wonder",
+              "durationMs": 213413,
+              "playOffsetMs": 74940,
+              "providerIds": {
+                "acrid": "61a9734d5a7b6703ca76e2561aaa09e3",
+                "spotify": "0CWpzsWB4NTUa6h3IZoUfH",
+                "youtube": "730QMfAcTvg"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 79,
+          "sample": "tmp/music-recognition/samples/StQGOVzEtUE_0079.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "After the Nine O'clock News",
+            "artist": "Wig Wam",
+            "album": "Live in Tokyo",
+            "releaseDate": "2007-06-11",
+            "isrc": null,
+            "score": 100,
+            "label": "Voices Of Wonder",
+            "durationMs": 213000,
+            "playOffsetMs": 98840,
+            "providerIds": {
+              "acrid": "3bc194f228411fc0595b208fe62495e6",
+              "spotify": null,
+              "youtube": "730QMfAcTvg"
+            }
+          },
+          "music": [
+            {
+              "title": "After the Nine O'clock News",
+              "artist": "Wig Wam",
+              "album": "Live in Tokyo",
+              "releaseDate": "2007-06-11",
+              "isrc": null,
+              "score": 100,
+              "label": "Voices Of Wonder",
+              "durationMs": 213000,
+              "playOffsetMs": 98840,
+              "providerIds": {
+                "acrid": "3bc194f228411fc0595b208fe62495e6",
+                "spotify": null,
+                "youtube": "730QMfAcTvg"
+              }
+            },
+            {
+              "title": "After the Nine O'Clock News (Live) (Live)",
+              "artist": "Wig Wam",
+              "album": "Live in Tokyo",
+              "releaseDate": "2007-06-11",
+              "isrc": null,
+              "score": 55,
+              "label": "Voices Of Wonder",
+              "durationMs": 213413,
+              "playOffsetMs": 98940,
+              "providerIds": {
+                "acrid": "61a9734d5a7b6703ca76e2561aaa09e3",
+                "spotify": "0CWpzsWB4NTUa6h3IZoUfH",
+                "youtube": "730QMfAcTvg"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 102,
+          "sample": "tmp/music-recognition/samples/StQGOVzEtUE_0102.webm",
+          "status": "Success",
+          "score": 70,
+          "match": {
+            "title": "After the Nine O'clock News",
+            "artist": "Wig Wam",
+            "album": "Live in Tokyo",
+            "releaseDate": "2007-06-11",
+            "isrc": null,
+            "score": 70,
+            "label": "Voices Of Wonder",
+            "durationMs": 213000,
+            "playOffsetMs": 121860,
+            "providerIds": {
+              "acrid": "3bc194f228411fc0595b208fe62495e6",
+              "spotify": null,
+              "youtube": "730QMfAcTvg"
+            }
+          },
+          "music": [
+            {
+              "title": "After the Nine O'clock News",
+              "artist": "Wig Wam",
+              "album": "Live in Tokyo",
+              "releaseDate": "2007-06-11",
+              "isrc": null,
+              "score": 70,
+              "label": "Voices Of Wonder",
+              "durationMs": 213000,
+              "playOffsetMs": 121860,
+              "providerIds": {
+                "acrid": "3bc194f228411fc0595b208fe62495e6",
+                "spotify": null,
+                "youtube": "730QMfAcTvg"
+              }
+            },
+            {
+              "title": "After the Nine O'Clock News (Live) (Live)",
+              "artist": "Wig Wam",
+              "album": "Live in Tokyo",
+              "releaseDate": "2007-06-11",
+              "isrc": null,
+              "score": 40,
+              "label": "Voices Of Wonder",
+              "durationMs": 213413,
+              "playOffsetMs": 121880,
+              "providerIds": {
+                "acrid": "61a9734d5a7b6703ca76e2561aaa09e3",
+                "spotify": "0CWpzsWB4NTUa6h3IZoUfH",
+                "youtube": "730QMfAcTvg"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 126,
+          "sample": "tmp/music-recognition/samples/StQGOVzEtUE_0126.webm",
+          "status": "Success",
+          "score": 43,
+          "match": {
+            "title": "After the Nine O'clock News",
+            "artist": "Wig Wam",
+            "album": "Live in Tokyo",
+            "releaseDate": "2007-06-11",
+            "isrc": null,
+            "score": 43,
+            "label": "Voices Of Wonder",
+            "durationMs": 213000,
+            "playOffsetMs": 193060,
+            "providerIds": {
+              "acrid": "3bc194f228411fc0595b208fe62495e6",
+              "spotify": null,
+              "youtube": "730QMfAcTvg"
+            }
+          },
+          "music": [
+            {
+              "title": "After the Nine O'clock News",
+              "artist": "Wig Wam",
+              "album": "Live in Tokyo",
+              "releaseDate": "2007-06-11",
+              "isrc": null,
+              "score": 43,
+              "label": "Voices Of Wonder",
+              "durationMs": 213000,
+              "playOffsetMs": 193060,
+              "providerIds": {
+                "acrid": "3bc194f228411fc0595b208fe62495e6",
+                "spotify": null,
+                "youtube": "730QMfAcTvg"
+              }
+            },
+            {
+              "title": "After the Nine O'Clock News (Live) (Live)",
+              "artist": "Wig Wam",
+              "album": "Live in Tokyo",
+              "releaseDate": "2007-06-11",
+              "isrc": null,
+              "score": 37,
+              "label": "Voices Of Wonder",
+              "durationMs": 213413,
+              "playOffsetMs": 208860,
+              "providerIds": {
+                "acrid": "61a9734d5a7b6703ca76e2561aaa09e3",
+                "spotify": "0CWpzsWB4NTUa6h3IZoUfH",
+                "youtube": "730QMfAcTvg"
+              }
+            }
+          ],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "music",
+        "count": 5,
+        "score": 82.6,
+        "title": "After the Nine O'clock News",
+        "artist": "Wig Wam",
+        "album": "Live in Tokyo",
+        "releaseDate": "2007-06-11",
+        "isrc": null,
+        "providerIds": {
+          "acrid": "3bc194f228411fc0595b208fe62495e6",
+          "spotify": null,
+          "youtube": "730QMfAcTvg"
+        }
+      }
+    },
+    {
+      "playlistIndex": 73,
+      "videoId": "TpQLbCQKOww",
+      "title": "2012massgame white-Interval",
+      "url": "https://www.youtube.com/watch?v=TpQLbCQKOww",
+      "duration": 62,
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 12,
+          "sample": "tmp/music-recognition/samples/TpQLbCQKOww_0012.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 21,
+          "sample": "tmp/music-recognition/samples/TpQLbCQKOww_0021.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 31,
+          "sample": "tmp/music-recognition/samples/TpQLbCQKOww_0031.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 40,
+          "sample": "tmp/music-recognition/samples/TpQLbCQKOww_0040.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 49,
+          "sample": "tmp/music-recognition/samples/TpQLbCQKOww_0049.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        }
+      ],
+      "bestMatch": null
+    }
+  ]
+}

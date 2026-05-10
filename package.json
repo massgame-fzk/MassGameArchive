@@ -8,6 +8,7 @@
     "build": "astro check && astro build",
     "preview": "astro preview",
     "extract:fc2": "node scripts/extract-fc2-data.mjs",
+    "recognize:music": "node scripts/recognize-youtube-playlist-music.mjs",
     "normalize:music": "node scripts/normalize-music-data.mjs",
     "validate:data": "node scripts/validate-data.mjs"
   },

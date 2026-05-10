@@ -1,0 +1,5200 @@
+{
+  "provider": "acrcloud",
+  "playlist": {
+    "id": "PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "title": "太陽マス☀️",
+    "url": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+    "count": 133
+  },
+  "options": {
+    "offsets": [
+      0.2,
+      0.35,
+      0.5,
+      0.65,
+      0.8
+    ],
+    "sampleLength": 12,
+    "filterUnknown": true,
+    "includeEmptyScenes": true,
+    "hummingMinScore": 0.9,
+    "topN": 5,
+    "dryRun": false
+  },
+  "generatedAt": "2026-05-09T15:50:44.263Z",
+  "skipped": [
+    {
+      "playlistIndex": 1,
+      "videoId": "s5qZrI8zT-4",
+      "title": "25sunmassgame opening",
+      "url": "https://www.youtube.com/watch?v=s5qZrI8zT-4",
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 2,
+      "videoId": "BPtx_YLTKbw",
+      "title": "25sunmassgame 1st",
+      "url": "https://www.youtube.com/watch?v=BPtx_YLTKbw",
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 4,
+      "videoId": "6dmONEwIB7M",
+      "title": "25sunmassgame 2nd",
+      "url": "https://www.youtube.com/watch?v=6dmONEwIB7M",
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 5,
+      "videoId": "-sCO6p5e_sg",
+      "title": "25sunmassgame 3rd",
+      "url": "https://www.youtube.com/watch?v=-sCO6p5e_sg",
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 6,
+      "videoId": "0wTFXRUQv1k",
+      "title": "25sunmassgame ending",
+      "url": "https://www.youtube.com/watch?v=0wTFXRUQv1k",
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 8,
+      "videoId": "09mgaZXLZSI",
+      "title": "2024sunmassgame 1st",
+      "url": "https://www.youtube.com/watch?v=09mgaZXLZSI",
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 10,
+      "videoId": "H8YP7bKkG8o",
+      "title": "24sunmassgame 2nd",
+      "url": "https://www.youtube.com/watch?v=H8YP7bKkG8o",
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 11,
+      "videoId": "SoOU9H6kvZc",
+      "title": "24sunmassgame 3rd",
+      "url": "https://www.youtube.com/watch?v=SoOU9H6kvZc",
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 12,
+      "videoId": "RvjFrM47Dvs",
+      "title": "24sunmassgame ending",
+      "url": "https://www.youtube.com/watch?v=RvjFrM47Dvs",
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 13,
+      "videoId": "z0t2lUwUr6E",
+      "title": "23sunmassgame opening",
+      "url": "https://www.youtube.com/watch?v=z0t2lUwUr6E",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 14,
+      "videoId": "P8ugLWNBA-o",
+      "title": "23sunmassgame 1st",
+      "url": "https://www.youtube.com/watch?v=P8ugLWNBA-o",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 16,
+      "videoId": "KglxvNDzkBs",
+      "title": "23sunmassgame 2nd",
+      "url": "https://www.youtube.com/watch?v=KglxvNDzkBs",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 17,
+      "videoId": "WhKEqo1w-aA",
+      "title": "23sunmassgame 3rd",
+      "url": "https://www.youtube.com/watch?v=WhKEqo1w-aA",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 18,
+      "videoId": "RTA-NwLv0xQ",
+      "title": "23sunmassgame ending",
+      "url": "https://www.youtube.com/watch?v=RTA-NwLv0xQ",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 19,
+      "videoId": "fVP_tVXGLXU",
+      "title": "広大附属 太陽マスゲーム 2022 入場",
+      "url": "https://www.youtube.com/watch?v=fVP_tVXGLXU",
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 20,
+      "videoId": "7kdhgm_tjJU",
+      "title": "広大附属 太陽マスゲーム 2022 I部",
+      "url": "https://www.youtube.com/watch?v=7kdhgm_tjJU",
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 22,
+      "videoId": "xK4B7SbpWbI",
+      "title": "広大附属 太陽マスゲーム 2022 II部",
+      "url": "https://www.youtube.com/watch?v=xK4B7SbpWbI",
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 23,
+      "videoId": "gQ0ZPjgE1JE",
+      "title": "広大附属 太陽マスゲーム 2022 Ⅲ部",
+      "url": "https://www.youtube.com/watch?v=gQ0ZPjgE1JE",
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 25,
+      "videoId": "ULmvPN9Mtno",
+      "title": "21sunmassgame opening",
+      "url": "https://www.youtube.com/watch?v=ULmvPN9Mtno",
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 26,
+      "videoId": "YJZtFSeIC0k",
+      "title": "21sunmassgame 1st",
+      "url": "https://www.youtube.com/watch?v=YJZtFSeIC0k",
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 28,
+      "videoId": "WESm-Oaf5pI",
+      "title": "21sunmassgame 2nd",
+      "url": "https://www.youtube.com/watch?v=WESm-Oaf5pI",
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 29,
+      "videoId": "-2QtPKlrDOI",
+      "title": "21sunmassgame 3rd",
+      "url": "https://www.youtube.com/watch?v=-2QtPKlrDOI",
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 30,
+      "videoId": "1shp-XSLsm4",
+      "title": "21sunmassgame ending",
+      "url": "https://www.youtube.com/watch?v=1shp-XSLsm4",
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 31,
+      "videoId": "RrTyEi5T3Og",
+      "title": "19sunmassgame opening",
+      "url": "https://www.youtube.com/watch?v=RrTyEi5T3Og",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 32,
+      "videoId": "KPCi3QFkdpE",
+      "title": "19sunmassgame 1st",
+      "url": "https://www.youtube.com/watch?v=KPCi3QFkdpE",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 34,
+      "videoId": "pMB0GWxFoD0",
+      "title": "19sunmassgame 2nd",
+      "url": "https://www.youtube.com/watch?v=pMB0GWxFoD0",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 35,
+      "videoId": "cMiDm0DUXig",
+      "title": "19sunmassgame 3rd",
+      "url": "https://www.youtube.com/watch?v=cMiDm0DUXig",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 36,
+      "videoId": "z4LcT5qYImI",
+      "title": "19sunmassgame ending",
+      "url": "https://www.youtube.com/watch?v=z4LcT5qYImI",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 37,
+      "videoId": "1NmTpMX0PEU",
+      "title": "18sunmassgame opening",
+      "url": "https://www.youtube.com/watch?v=1NmTpMX0PEU",
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 40,
+      "videoId": "FwVHwTpmzbA",
+      "title": "18sunmassgame 2nd stage",
+      "url": "https://www.youtube.com/watch?v=FwVHwTpmzbA",
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 41,
+      "videoId": "DiB-ePR2Crs",
+      "title": "18sunmassgame 3rd stage",
+      "url": "https://www.youtube.com/watch?v=DiB-ePR2Crs",
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 42,
+      "videoId": "f1KWe9S9Jtk",
+      "title": "18sunmassgame ending",
+      "url": "https://www.youtube.com/watch?v=f1KWe9S9Jtk",
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 44,
+      "videoId": "de-CRJMSvwI",
+      "title": "17sunmassgame 1st stage",
+      "url": "https://www.youtube.com/watch?v=de-CRJMSvwI",
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 46,
+      "videoId": "IIIj72WDnvI",
+      "title": "17sunmassgame 2nd stage",
+      "url": "https://www.youtube.com/watch?v=IIIj72WDnvI",
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 47,
+      "videoId": "CAQFNPI0N00",
+      "title": "17sunmassgame 3rd stage",
+      "url": "https://www.youtube.com/watch?v=CAQFNPI0N00",
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 48,
+      "videoId": "wW5hsQR7nuE",
+      "title": "17sunmassgame ending",
+      "url": "https://www.youtube.com/watch?v=wW5hsQR7nuE",
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 49,
+      "videoId": "cyhWKktFiqc",
+      "title": "16sunmassgame  entrance",
+      "url": "https://www.youtube.com/watch?v=cyhWKktFiqc",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 50,
+      "videoId": "nAEEbDs7Ohk",
+      "title": "16sunmassgame  1st",
+      "url": "https://www.youtube.com/watch?v=nAEEbDs7Ohk",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 51,
+      "videoId": "PU0qiQm7B0o",
+      "title": "16sunmassgame  inter",
+      "url": "https://www.youtube.com/watch?v=PU0qiQm7B0o",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 52,
+      "videoId": "tABnz0SoV8o",
+      "title": "16sunmassgame  2nd",
+      "url": "https://www.youtube.com/watch?v=tABnz0SoV8o",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 53,
+      "videoId": "kKJAHrvbOu8",
+      "title": "16sunmassgame  3rd",
+      "url": "https://www.youtube.com/watch?v=kKJAHrvbOu8",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 54,
+      "videoId": "0hD17A1Eo9I",
+      "title": "16sunmassgame  ending",
+      "url": "https://www.youtube.com/watch?v=0hD17A1Eo9I",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 56,
+      "videoId": "_rHg-fPLLcU",
+      "title": "2014 sunmass 1st stage",
+      "url": "https://www.youtube.com/watch?v=_rHg-fPLLcU",
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 57,
+      "videoId": "OuzqRYT8nDU",
+      "title": "2014 sunmass interval",
+      "url": "https://www.youtube.com/watch?v=OuzqRYT8nDU",
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 58,
+      "videoId": "e2bKUL9uNKU",
+      "title": "2014 sunmass 2nd stage",
+      "url": "https://www.youtube.com/watch?v=e2bKUL9uNKU",
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 60,
+      "videoId": "XXNOWSc3mNg",
+      "title": "2014 sunmass ending",
+      "url": "https://www.youtube.com/watch?v=XXNOWSc3mNg",
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 61,
+      "videoId": "jcy4AQzAyEg",
+      "title": "2013 sunmassgame opening",
+      "url": "https://www.youtube.com/watch?v=jcy4AQzAyEg",
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 62,
+      "videoId": "oGMlZUj3LUs",
+      "title": "2013 sunmassgame 1st stage",
+      "url": "https://www.youtube.com/watch?v=oGMlZUj3LUs",
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 64,
+      "videoId": "tbZL6yEd2JE",
+      "title": "2013 sunmassgame 2nd stage",
+      "url": "https://www.youtube.com/watch?v=tbZL6yEd2JE",
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 65,
+      "videoId": "s6w5jmgDbDI",
+      "title": "2013 sunmassgame 3rd stage",
+      "url": "https://www.youtube.com/watch?v=s6w5jmgDbDI",
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 66,
+      "videoId": "t4YEamZ33k4",
+      "title": "2013 sunmassgame ending",
+      "url": "https://www.youtube.com/watch?v=t4YEamZ33k4",
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 67,
+      "videoId": "fviVfl_aIeo",
+      "title": "2012 massgame Red-Opening",
+      "url": "https://www.youtube.com/watch?v=fviVfl_aIeo",
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 68,
+      "videoId": "vhMdWSG6C4U",
+      "title": "2012massgame Red-1st stage",
+      "url": "https://www.youtube.com/watch?v=vhMdWSG6C4U",
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 70,
+      "videoId": "1AQHKo31UCU",
+      "title": "2012massgame Red-2nd stage",
+      "url": "https://www.youtube.com/watch?v=1AQHKo31UCU",
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 73,
+      "videoId": "2yBpcJFH9Jo",
+      "title": "11massgame red-opening",
+      "url": "https://www.youtube.com/watch?v=2yBpcJFH9Jo",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 74,
+      "videoId": "Mrv1R83LTpo",
+      "title": "11massgame red-scene1",
+      "url": "https://www.youtube.com/watch?v=Mrv1R83LTpo",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 75,
+      "videoId": "1Idx4UF37nI",
+      "title": "11massgame red-interval",
+      "url": "https://www.youtube.com/watch?v=1Idx4UF37nI",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 76,
+      "videoId": "p_sjHVGKasg",
+      "title": "11massgame red-scene2",
+      "url": "https://www.youtube.com/watch?v=p_sjHVGKasg",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 77,
+      "videoId": "qKxLoDQHneU",
+      "title": "11massgame red-scene3",
+      "url": "https://www.youtube.com/watch?v=qKxLoDQHneU",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 78,
+      "videoId": "ns5LOlf81d4",
+      "title": "11massgame red-ending",
+      "url": "https://www.youtube.com/watch?v=ns5LOlf81d4",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 79,
+      "videoId": "YpuZxZ4VFTM",
+      "title": "10massgame red-opening",
+      "url": "https://www.youtube.com/watch?v=YpuZxZ4VFTM",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 80,
+      "videoId": "QuHqrcVWaQs",
+      "title": "10massgame red-scene1",
+      "url": "https://www.youtube.com/watch?v=QuHqrcVWaQs",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 81,
+      "videoId": "CN4VMI3XLXg",
+      "title": "10massgame red-interval",
+      "url": "https://www.youtube.com/watch?v=CN4VMI3XLXg",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 82,
+      "videoId": "isLyGSQ26t0",
+      "title": "10massgame red-scene2",
+      "url": "https://www.youtube.com/watch?v=isLyGSQ26t0",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 83,
+      "videoId": "JRwMu7pO1f4",
+      "title": "10massgame red-scene3",
+      "url": "https://www.youtube.com/watch?v=JRwMu7pO1f4",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 84,
+      "videoId": "29DQI3WB0ZM",
+      "title": "10massgame red-ending",
+      "url": "https://www.youtube.com/watch?v=29DQI3WB0ZM",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 85,
+      "videoId": "equpjfBak00",
+      "title": "09massgame red-opening",
+      "url": "https://www.youtube.com/watch?v=equpjfBak00",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 86,
+      "videoId": "NFDTvZqfqwY",
+      "title": "09massgame red-scene1",
+      "url": "https://www.youtube.com/watch?v=NFDTvZqfqwY",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 87,
+      "videoId": "hvznduYZaJE",
+      "title": "09massgame red-interval",
+      "url": "https://www.youtube.com/watch?v=hvznduYZaJE",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 88,
+      "videoId": "rpqYm3sPdxI",
+      "title": "09massgame red-scene2",
+      "url": "https://www.youtube.com/watch?v=rpqYm3sPdxI",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 89,
+      "videoId": "FVmwDUE6tFU",
+      "title": "09massgame red-scene3",
+      "url": "https://www.youtube.com/watch?v=FVmwDUE6tFU",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 90,
+      "videoId": "_Y8HiMN3hWU",
+      "title": "09massgame red-ending",
+      "url": "https://www.youtube.com/watch?v=_Y8HiMN3hWU",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 91,
+      "videoId": "8MGQ6Jm1Xv0",
+      "title": "08R-0",
+      "url": "https://www.youtube.com/watch?v=8MGQ6Jm1Xv0",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": null
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 92,
+      "videoId": "czBgMBiJiJk",
+      "title": "08R-1",
+      "url": "https://www.youtube.com/watch?v=czBgMBiJiJk",
+      "parsed": {
+        "year": 2008,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 93,
+      "videoId": "TJKDzS83DTg",
+      "title": "08R-1.5",
+      "url": "https://www.youtube.com/watch?v=TJKDzS83DTg",
+      "parsed": {
+        "year": 2008,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 94,
+      "videoId": "x-YV3vgclwE",
+      "title": "08R-2",
+      "url": "https://www.youtube.com/watch?v=x-YV3vgclwE",
+      "parsed": {
+        "year": 2008,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 95,
+      "videoId": "QGdgHyxEsfY",
+      "title": "08R-3",
+      "url": "https://www.youtube.com/watch?v=QGdgHyxEsfY",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 96,
+      "videoId": "5RleyEEqcYs",
+      "title": "08R-E",
+      "url": "https://www.youtube.com/watch?v=5RleyEEqcYs",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 97,
+      "videoId": "E610bSjuCLA",
+      "title": "07R-0",
+      "url": "https://www.youtube.com/watch?v=E610bSjuCLA",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": null
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 98,
+      "videoId": "cYQJhlhfy8w",
+      "title": "07R-1",
+      "url": "https://www.youtube.com/watch?v=cYQJhlhfy8w",
+      "parsed": {
+        "year": 2007,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 99,
+      "videoId": "oYmfB262vwc",
+      "title": "07R-1.5",
+      "url": "https://www.youtube.com/watch?v=oYmfB262vwc",
+      "parsed": {
+        "year": 2007,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 100,
+      "videoId": "cYi8pCkIWLE",
+      "title": "07R-2",
+      "url": "https://www.youtube.com/watch?v=cYi8pCkIWLE",
+      "parsed": {
+        "year": 2007,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 101,
+      "videoId": "kD_EoKZ4Tck",
+      "title": "07R-3",
+      "url": "https://www.youtube.com/watch?v=kD_EoKZ4Tck",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 102,
+      "videoId": "DmjWQpoxtD0",
+      "title": "07R-E",
+      "url": "https://www.youtube.com/watch?v=DmjWQpoxtD0",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 103,
+      "videoId": "GqU1qoOl_d0",
+      "title": "06REDMASSGAME 1stStage",
+      "url": "https://www.youtube.com/watch?v=GqU1qoOl_d0",
+      "parsed": {
+        "year": 2006,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 104,
+      "videoId": "pZ7B5IlSlpY",
+      "title": "06REDMASSGAME 2ndStage",
+      "url": "https://www.youtube.com/watch?v=pZ7B5IlSlpY",
+      "parsed": {
+        "year": 2006,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 105,
+      "videoId": "6B3fGg7Q-rA",
+      "title": "06R-3",
+      "url": "https://www.youtube.com/watch?v=6B3fGg7Q-rA",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 106,
+      "videoId": "ta9bsH6ibLQ",
+      "title": "05REDMASSGAME entrance",
+      "url": "https://www.youtube.com/watch?v=ta9bsH6ibLQ",
+      "parsed": {
+        "year": 2005,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 107,
+      "videoId": "o9yXXRtT5cg",
+      "title": "05REDMassGame １stStage",
+      "url": "https://www.youtube.com/watch?v=o9yXXRtT5cg",
+      "parsed": {
+        "year": 2005,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 108,
+      "videoId": "ImwfQ56iOto",
+      "title": "05REDMASSGAME interval",
+      "url": "https://www.youtube.com/watch?v=ImwfQ56iOto",
+      "parsed": {
+        "year": 2005,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 109,
+      "videoId": "qS1ZrAWLjtI",
+      "title": "05R 2",
+      "url": "https://www.youtube.com/watch?v=qS1ZrAWLjtI",
+      "parsed": {
+        "year": 2005,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 110,
+      "videoId": "OYczahTg0IU",
+      "title": "05REDMASSGAME 3rdStage",
+      "url": "https://www.youtube.com/watch?v=OYczahTg0IU",
+      "parsed": {
+        "year": 2005,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 111,
+      "videoId": "RxeqjS2u374",
+      "title": "05REDMASSGAME ending",
+      "url": "https://www.youtube.com/watch?v=RxeqjS2u374",
+      "parsed": {
+        "year": 2005,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 112,
+      "videoId": "Anm-2bJPw7U",
+      "title": "2004Red Entrance",
+      "url": "https://www.youtube.com/watch?v=Anm-2bJPw7U",
+      "parsed": {
+        "year": 2004,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 113,
+      "videoId": "rCyyucdyqOs",
+      "title": "2004Red 1st_stage",
+      "url": "https://www.youtube.com/watch?v=rCyyucdyqOs",
+      "parsed": {
+        "year": 2004,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 114,
+      "videoId": "HqRNkeJDw0o",
+      "title": "2004Red Interbal",
+      "url": "https://www.youtube.com/watch?v=HqRNkeJDw0o",
+      "parsed": {
+        "year": 2004,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 115,
+      "videoId": "UJPkR-k1F3o",
+      "title": "2004Red 2nd_stage",
+      "url": "https://www.youtube.com/watch?v=UJPkR-k1F3o",
+      "parsed": {
+        "year": 2004,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 116,
+      "videoId": "ElZXC1fi4k4",
+      "title": "2004Red 3rd_stage",
+      "url": "https://www.youtube.com/watch?v=ElZXC1fi4k4",
+      "parsed": {
+        "year": 2004,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 117,
+      "videoId": "oR2LU0Bxp8o",
+      "title": "03R-0",
+      "url": "https://www.youtube.com/watch?v=oR2LU0Bxp8o",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": null
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 118,
+      "videoId": "DO_T8Oj-whw",
+      "title": "03REDMassGame １stStage",
+      "url": "https://www.youtube.com/watch?v=DO_T8Oj-whw",
+      "parsed": {
+        "year": 2003,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 119,
+      "videoId": "xTXKwMf1dzI",
+      "title": "03R-1.5",
+      "url": "https://www.youtube.com/watch?v=xTXKwMf1dzI",
+      "parsed": {
+        "year": 2003,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 120,
+      "videoId": "9szH1BbNdSY",
+      "title": "03REDMassGame 2ndStage",
+      "url": "https://www.youtube.com/watch?v=9szH1BbNdSY",
+      "parsed": {
+        "year": 2003,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 121,
+      "videoId": "I1pM3w-HvQI",
+      "title": "03R-3",
+      "url": "https://www.youtube.com/watch?v=I1pM3w-HvQI",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 122,
+      "videoId": "0VG32TSopdo",
+      "title": "03R-E",
+      "url": "https://www.youtube.com/watch?v=0VG32TSopdo",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 123,
+      "videoId": "SU7WYPbsZsM",
+      "title": "02REDMassGame １stStage",
+      "url": "https://www.youtube.com/watch?v=SU7WYPbsZsM",
+      "parsed": {
+        "year": 2002,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 124,
+      "videoId": "2ML8WUIgV6s",
+      "title": "02REDMassGame 2ndStage",
+      "url": "https://www.youtube.com/watch?v=2ML8WUIgV6s",
+      "parsed": {
+        "year": 2002,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 125,
+      "videoId": "AWoZcAoDqCQ",
+      "title": "01R 0",
+      "url": "https://www.youtube.com/watch?v=AWoZcAoDqCQ",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": null
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 126,
+      "videoId": "4LPLoBnZIVs",
+      "title": "01R 1",
+      "url": "https://www.youtube.com/watch?v=4LPLoBnZIVs",
+      "parsed": {
+        "year": 2001,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 127,
+      "videoId": "bZBd2vRPmJA",
+      "title": "01REDMassGame 2ndStage",
+      "url": "https://www.youtube.com/watch?v=bZBd2vRPmJA",
+      "parsed": {
+        "year": 2001,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 128,
+      "videoId": "b9dZG58ukLk",
+      "title": "00R-0",
+      "url": "https://www.youtube.com/watch?v=b9dZG58ukLk",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": null
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 129,
+      "videoId": "n2AJEWaMB0g",
+      "title": "00REDMassGame １stStage",
+      "url": "https://www.youtube.com/watch?v=n2AJEWaMB0g",
+      "parsed": {
+        "year": 2000,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 130,
+      "videoId": "IftaSjIwt8E",
+      "title": "00R-1.5",
+      "url": "https://www.youtube.com/watch?v=IftaSjIwt8E",
+      "parsed": {
+        "year": 2000,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 131,
+      "videoId": "K0CV2iDXkKU",
+      "title": "00REDMassGame 2ndStage",
+      "url": "https://www.youtube.com/watch?v=K0CV2iDXkKU",
+      "parsed": {
+        "year": 2000,
+        "legacyGroup": "Red",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 132,
+      "videoId": "42F7_s8lDAo",
+      "title": "00R 3",
+      "url": "https://www.youtube.com/watch?v=42F7_s8lDAo",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 133,
+      "videoId": "3tRNO8PqC7I",
+      "title": "00R E",
+      "url": "https://www.youtube.com/watch?v=3tRNO8PqC7I",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "unparsed-title"
+    }
+  ],
+  "results": [
+    {
+      "playlistIndex": 3,
+      "videoId": "toEAWfdjndE",
+      "title": "25sunmassgame inter",
+      "url": "https://www.youtube.com/watch?v=toEAWfdjndE",
+      "duration": 49,
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 9,
+          "sample": "tmp/music-recognition/samples/toEAWfdjndE_0009.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "BUMP!",
+            "artist": "土屋裕一",
+            "album": "アナザーエデン オリジナル･サウンドトラック 3",
+            "releaseDate": "2019-07-10",
+            "isrc": null,
+            "score": 100,
+            "label": "WFRecords",
+            "durationMs": 151800,
+            "playOffsetMs": 19420,
+            "providerIds": {
+              "acrid": "b37e455bf7f84481a140222da10ba15b",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "BUMP!",
+              "artist": "土屋裕一",
+              "album": "アナザーエデン オリジナル･サウンドトラック 3",
+              "releaseDate": "2019-07-10",
+              "isrc": null,
+              "score": 100,
+              "label": "WFRecords",
+              "durationMs": 151800,
+              "playOffsetMs": 19420,
+              "providerIds": {
+                "acrid": "b37e455bf7f84481a140222da10ba15b",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 17,
+          "sample": "tmp/music-recognition/samples/toEAWfdjndE_0017.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "BUMP!",
+            "artist": "土屋裕一",
+            "album": "アナザーエデン オリジナル･サウンドトラック 3",
+            "releaseDate": "2019-07-10",
+            "isrc": null,
+            "score": 100,
+            "label": "WFRecords",
+            "durationMs": 151800,
+            "playOffsetMs": 27420,
+            "providerIds": {
+              "acrid": "b37e455bf7f84481a140222da10ba15b",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "BUMP!",
+              "artist": "土屋裕一",
+              "album": "アナザーエデン オリジナル･サウンドトラック 3",
+              "releaseDate": "2019-07-10",
+              "isrc": null,
+              "score": 100,
+              "label": "WFRecords",
+              "durationMs": 151800,
+              "playOffsetMs": 27420,
+              "providerIds": {
+                "acrid": "b37e455bf7f84481a140222da10ba15b",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 24,
+          "sample": "tmp/music-recognition/samples/toEAWfdjndE_0024.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "BUMP!",
+            "artist": "土屋裕一",
+            "album": "アナザーエデン オリジナル･サウンドトラック 3",
+            "releaseDate": "2019-07-10",
+            "isrc": null,
+            "score": 100,
+            "label": "WFRecords",
+            "durationMs": 151800,
+            "playOffsetMs": 50440,
+            "providerIds": {
+              "acrid": "b37e455bf7f84481a140222da10ba15b",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "BUMP!",
+              "artist": "土屋裕一",
+              "album": "アナザーエデン オリジナル･サウンドトラック 3",
+              "releaseDate": "2019-07-10",
+              "isrc": null,
+              "score": 100,
+              "label": "WFRecords",
+              "durationMs": 151800,
+              "playOffsetMs": 50440,
+              "providerIds": {
+                "acrid": "b37e455bf7f84481a140222da10ba15b",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 31,
+          "sample": "tmp/music-recognition/samples/toEAWfdjndE_0031.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "BUMP!",
+            "artist": "土屋裕一",
+            "album": "アナザーエデン オリジナル･サウンドトラック 3",
+            "releaseDate": "2019-07-10",
+            "isrc": null,
+            "score": 100,
+            "label": "WFRecords",
+            "durationMs": 151800,
+            "playOffsetMs": 9420,
+            "providerIds": {
+              "acrid": "b37e455bf7f84481a140222da10ba15b",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "BUMP!",
+              "artist": "土屋裕一",
+              "album": "アナザーエデン オリジナル･サウンドトラック 3",
+              "releaseDate": "2019-07-10",
+              "isrc": null,
+              "score": 100,
+              "label": "WFRecords",
+              "durationMs": 151800,
+              "playOffsetMs": 9420,
+              "providerIds": {
+                "acrid": "b37e455bf7f84481a140222da10ba15b",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 36,
+          "sample": "tmp/music-recognition/samples/toEAWfdjndE_0036.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "BUMP!",
+            "artist": "土屋裕一",
+            "album": "アナザーエデン オリジナル･サウンドトラック 3",
+            "releaseDate": "2019-07-10",
+            "isrc": null,
+            "score": 100,
+            "label": "WFRecords",
+            "durationMs": 151800,
+            "playOffsetMs": 14420,
+            "providerIds": {
+              "acrid": "b37e455bf7f84481a140222da10ba15b",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "BUMP!",
+              "artist": "土屋裕一",
+              "album": "アナザーエデン オリジナル･サウンドトラック 3",
+              "releaseDate": "2019-07-10",
+              "isrc": null,
+              "score": 100,
+              "label": "WFRecords",
+              "durationMs": 151800,
+              "playOffsetMs": 14420,
+              "providerIds": {
+                "acrid": "b37e455bf7f84481a140222da10ba15b",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "music",
+        "count": 5,
+        "score": 100,
+        "title": "BUMP!",
+        "artist": "土屋裕一",
+        "album": "アナザーエデン オリジナル･サウンドトラック 3",
+        "releaseDate": "2019-07-10",
+        "isrc": null,
+        "providerIds": {
+          "acrid": "b37e455bf7f84481a140222da10ba15b",
+          "spotify": null,
+          "youtube": null
+        }
+      }
+    },
+    {
+      "playlistIndex": 7,
+      "videoId": "PwR0vZzBEpc",
+      "title": "24sunmassgame opening",
+      "url": "https://www.youtube.com/watch?v=PwR0vZzBEpc",
+      "duration": 132,
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "入場"
+        ],
+        "matchedScene": "入場"
+      },
+      "samples": [
+        {
+          "offset": 26,
+          "sample": "tmp/music-recognition/samples/PwR0vZzBEpc_0026.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Rock Ain't Dead",
+              "artist": "Onlap",
+              "album": "Fifteen",
+              "releaseDate": "2020-11-06",
+              "isrc": "TCAEU2015441",
+              "score": 0.8,
+              "label": "℗ 2021 Onlap",
+              "durationMs": "229836",
+              "playOffsetMs": 20000,
+              "providerIds": {
+                "acrid": "dbe65d3d6dd5ebdbe748f4d595ee5737",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 46,
+          "sample": "tmp/music-recognition/samples/PwR0vZzBEpc_0046.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Rock Ain't Dead",
+              "artist": "Onlap",
+              "album": "Fifteen",
+              "releaseDate": "2020-11-06",
+              "isrc": "TCAEU2015441",
+              "score": 0.8,
+              "label": "℗ 2021 Onlap",
+              "durationMs": "229836",
+              "playOffsetMs": 45000,
+              "providerIds": {
+                "acrid": "dbe65d3d6dd5ebdbe748f4d595ee5737",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 66,
+          "sample": "tmp/music-recognition/samples/PwR0vZzBEpc_0066.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Rock Ain't Dead",
+              "artist": "Onlap",
+              "album": "Fifteen",
+              "releaseDate": "2020-11-06",
+              "isrc": "TCAEU2015441",
+              "score": 0.8,
+              "label": "℗ 2021 Onlap",
+              "durationMs": "229836",
+              "playOffsetMs": 70000,
+              "providerIds": {
+                "acrid": "dbe65d3d6dd5ebdbe748f4d595ee5737",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "¡Fuera! (Remasterizado)",
+              "artist": "Los Moluscos",
+              "album": "Música Española de los 90",
+              "releaseDate": "2023-03-17",
+              "isrc": "ES5022102176",
+              "score": 0.47,
+              "label": "SME",
+              "durationMs": 165000,
+              "playOffsetMs": 97000,
+              "providerIds": {
+                "acrid": "b27c8131210cdb8219ce4d9c172112a5",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Mix It Up",
+              "artist": "Dragon Ash",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "JPVI01701540",
+              "score": 0.46,
+              "label": "Universal Music Taiwan",
+              "durationMs": 228000,
+              "playOffsetMs": 90000,
+              "providerIds": {
+                "acrid": "789bf73baa3f8a0c74ca9de273c49301",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Rize No Show Time",
+              "artist": "RIZE",
+              "album": "Natural Vibes",
+              "releaseDate": "2003-02-05",
+              "isrc": "JPES00201425",
+              "score": 0.38,
+              "label": "SME",
+              "durationMs": 221000,
+              "playOffsetMs": 52000,
+              "providerIds": {
+                "acrid": "43c271dfa0ab714e2d69ca0804b37312",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Underwhelmed (Live)",
+              "artist": "Sloan",
+              "album": "4 Nights at the Palais Royale",
+              "releaseDate": "1999-04-20",
+              "isrc": "QM6MZ1945150",
+              "score": 0.36,
+              "label": "℗ 1999 murderecords",
+              "durationMs": "410933",
+              "playOffsetMs": 305000,
+              "providerIds": {
+                "acrid": "96771e672a0dc2924e1bf2d9deaa2ac1",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 85,
+          "sample": "tmp/music-recognition/samples/PwR0vZzBEpc_0085.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 105,
+          "sample": "tmp/music-recognition/samples/PwR0vZzBEpc_0105.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Alive (Live)",
+              "artist": "Pearl Jam",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "USSM10310385",
+              "score": 0.43,
+              "label": "Pearl Jam Live P&D",
+              "durationMs": 409000,
+              "playOffsetMs": 344000,
+              "providerIds": {
+                "acrid": "a5437d5cf04e6838daeeb2bcdb825708",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        }
+      ],
+      "bestMatch": null
+    },
+    {
+      "playlistIndex": 9,
+      "videoId": "HOe9kIPFLRE",
+      "title": "24sunmassgame inter",
+      "url": "https://www.youtube.com/watch?v=HOe9kIPFLRE",
+      "duration": 71,
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 14,
+          "sample": "tmp/music-recognition/samples/HOe9kIPFLRE_0014.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "The Ultimate (Naked mix)",
+            "artist": "目黒将司",
+            "album": "P4U アレンジサウンドトラックCD",
+            "releaseDate": "2012-07-26",
+            "isrc": null,
+            "score": 100,
+            "label": "Atlus",
+            "durationMs": 240000,
+            "playOffsetMs": 31360,
+            "providerIds": {
+              "acrid": "d02e61143d2b60196d6af1bc326fdf3a",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "The Ultimate (Naked mix)",
+              "artist": "目黒将司",
+              "album": "P4U アレンジサウンドトラックCD",
+              "releaseDate": "2012-07-26",
+              "isrc": null,
+              "score": 100,
+              "label": "Atlus",
+              "durationMs": 240000,
+              "playOffsetMs": 31360,
+              "providerIds": {
+                "acrid": "d02e61143d2b60196d6af1bc326fdf3a",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 24,
+          "sample": "tmp/music-recognition/samples/HOe9kIPFLRE_0024.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "The Ultimate (Naked mix)",
+            "artist": "目黒将司",
+            "album": "P4U アレンジサウンドトラックCD",
+            "releaseDate": "2012-07-26",
+            "isrc": null,
+            "score": 100,
+            "label": "Atlus",
+            "durationMs": 240000,
+            "playOffsetMs": 93480,
+            "providerIds": {
+              "acrid": "d02e61143d2b60196d6af1bc326fdf3a",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "The Ultimate (Naked mix)",
+              "artist": "目黒将司",
+              "album": "P4U アレンジサウンドトラックCD",
+              "releaseDate": "2012-07-26",
+              "isrc": null,
+              "score": 100,
+              "label": "Atlus",
+              "durationMs": 240000,
+              "playOffsetMs": 93480,
+              "providerIds": {
+                "acrid": "d02e61143d2b60196d6af1bc326fdf3a",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 35,
+          "sample": "tmp/music-recognition/samples/HOe9kIPFLRE_0035.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "The Ultimate (Naked mix)",
+            "artist": "目黒将司",
+            "album": "P4U アレンジサウンドトラックCD",
+            "releaseDate": "2012-07-26",
+            "isrc": null,
+            "score": 100,
+            "label": "Atlus",
+            "durationMs": 240000,
+            "playOffsetMs": 104460,
+            "providerIds": {
+              "acrid": "d02e61143d2b60196d6af1bc326fdf3a",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "The Ultimate (Naked mix)",
+              "artist": "目黒将司",
+              "album": "P4U アレンジサウンドトラックCD",
+              "releaseDate": "2012-07-26",
+              "isrc": null,
+              "score": 100,
+              "label": "Atlus",
+              "durationMs": 240000,
+              "playOffsetMs": 104460,
+              "providerIds": {
+                "acrid": "d02e61143d2b60196d6af1bc326fdf3a",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 46,
+          "sample": "tmp/music-recognition/samples/HOe9kIPFLRE_0046.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "The Ultimate (Naked mix)",
+            "artist": "目黒将司",
+            "album": "P4U アレンジサウンドトラックCD",
+            "releaseDate": "2012-07-26",
+            "isrc": null,
+            "score": 100,
+            "label": "Atlus",
+            "durationMs": 240000,
+            "playOffsetMs": 115480,
+            "providerIds": {
+              "acrid": "d02e61143d2b60196d6af1bc326fdf3a",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "The Ultimate (Naked mix)",
+              "artist": "目黒将司",
+              "album": "P4U アレンジサウンドトラックCD",
+              "releaseDate": "2012-07-26",
+              "isrc": null,
+              "score": 100,
+              "label": "Atlus",
+              "durationMs": 240000,
+              "playOffsetMs": 115480,
+              "providerIds": {
+                "acrid": "d02e61143d2b60196d6af1bc326fdf3a",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 56,
+          "sample": "tmp/music-recognition/samples/HOe9kIPFLRE_0056.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "The Ultimate (Naked mix)",
+            "artist": "目黒将司",
+            "album": "P4U アレンジサウンドトラックCD",
+            "releaseDate": "2012-07-26",
+            "isrc": null,
+            "score": 100,
+            "label": "Atlus",
+            "durationMs": 240000,
+            "playOffsetMs": 229860,
+            "providerIds": {
+              "acrid": "d02e61143d2b60196d6af1bc326fdf3a",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "The Ultimate (Naked mix)",
+              "artist": "目黒将司",
+              "album": "P4U アレンジサウンドトラックCD",
+              "releaseDate": "2012-07-26",
+              "isrc": null,
+              "score": 100,
+              "label": "Atlus",
+              "durationMs": 240000,
+              "playOffsetMs": 229860,
+              "providerIds": {
+                "acrid": "d02e61143d2b60196d6af1bc326fdf3a",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "music",
+        "count": 5,
+        "score": 100,
+        "title": "The Ultimate (Naked mix)",
+        "artist": "目黒将司",
+        "album": "P4U アレンジサウンドトラックCD",
+        "releaseDate": "2012-07-26",
+        "isrc": null,
+        "providerIds": {
+          "acrid": "d02e61143d2b60196d6af1bc326fdf3a",
+          "spotify": null,
+          "youtube": null
+        }
+      }
+    },
+    {
+      "playlistIndex": 15,
+      "videoId": "3IwG1BJ_rdY",
+      "title": "23sunmassgame inter",
+      "url": "https://www.youtube.com/watch?v=3IwG1BJ_rdY",
+      "duration": 53,
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 10,
+          "sample": "tmp/music-recognition/samples/3IwG1BJ_rdY_0010.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 18,
+          "sample": "tmp/music-recognition/samples/3IwG1BJ_rdY_0018.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "dolce (Wien Margarete Version)",
+              "artist": "Wien Margaret (CV: Yuina)",
+              "album": "Liella! no Uta 3 - EP",
+              "releaseDate": "2025-01-29",
+              "isrc": "JPI102403638",
+              "score": 0.44,
+              "label": "℗ 2025 Lantis",
+              "durationMs": "238820",
+              "playOffsetMs": 140000,
+              "providerIds": {
+                "acrid": "41777ddfca0e94daa2e59d0aff850861",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 26,
+          "sample": "tmp/music-recognition/samples/3IwG1BJ_rdY_0026.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Welcome to Tally Hall",
+              "artist": "Tally Hall",
+              "album": "Marvin's Marvelous Mechanical Museum",
+              "releaseDate": "2005-10-23",
+              "isrc": "TCAAY1150080",
+              "score": 0.31,
+              "label": "℗ 2011 Tally Hall",
+              "durationMs": "310560",
+              "playOffsetMs": 230000,
+              "providerIds": {
+                "acrid": "fafaf14c738b114b6c5e3f1ab081eaca",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 34,
+          "sample": "tmp/music-recognition/samples/3IwG1BJ_rdY_0034.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 40,
+          "sample": "tmp/music-recognition/samples/3IwG1BJ_rdY_0040.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Xenoblade Chronicles 3 (You Will Know Our Names ~ Finale) [Metal Version]",
+              "artist": "Lame Genie",
+              "album": "Xenoblade Chronicles 3 (You Will Know Our Names ~ Finale) [Metal Version] - Single",
+              "releaseDate": "2022-08-28",
+              "isrc": "QZNWW2232410",
+              "score": 0.8,
+              "label": "℗ 2022 VGM Agency",
+              "durationMs": "212667",
+              "playOffsetMs": 85000,
+              "providerIds": {
+                "acrid": "d79b5410d50aa6a54310fdf2be0bde5c",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "El Mundo (Versión Serie TV El Príncipe)",
+              "artist": "Pablo López",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "ES5701500304",
+              "score": 0.43,
+              "label": "Universal Music Spain S.L.",
+              "durationMs": 215000,
+              "playOffsetMs": 170000,
+              "providerIds": {
+                "acrid": "14b86819949d7180d7de1fb596613fb6",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        }
+      ],
+      "bestMatch": null
+    },
+    {
+      "playlistIndex": 21,
+      "videoId": "qSujD_7EYSE",
+      "title": "広大附属 太陽マスゲーム 2022 インター",
+      "url": "https://www.youtube.com/watch?v=qSujD_7EYSE",
+      "duration": 78,
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 15,
+          "sample": "tmp/music-recognition/samples/qSujD_7EYSE_0015.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Mounting The V-Watch",
+            "artist": "V.A",
+            "album": "Mounting The V-Watch",
+            "releaseDate": "2014-07-03",
+            "isrc": null,
+            "score": 100,
+            "label": null,
+            "durationMs": 212000,
+            "playOffsetMs": 37320,
+            "providerIds": {
+              "acrid": "10879ec1797dae2091105602065e3e24",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Mounting The V-Watch",
+              "artist": "V.A",
+              "album": "Mounting The V-Watch",
+              "releaseDate": "2014-07-03",
+              "isrc": null,
+              "score": 100,
+              "label": null,
+              "durationMs": 212000,
+              "playOffsetMs": 37320,
+              "providerIds": {
+                "acrid": "10879ec1797dae2091105602065e3e24",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 27,
+          "sample": "tmp/music-recognition/samples/qSujD_7EYSE_0027.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Mounting The V-Watch",
+            "artist": "V.A",
+            "album": "Mounting The V-Watch",
+            "releaseDate": "2014-07-03",
+            "isrc": null,
+            "score": 100,
+            "label": null,
+            "durationMs": 212000,
+            "playOffsetMs": 111720,
+            "providerIds": {
+              "acrid": "10879ec1797dae2091105602065e3e24",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Mounting The V-Watch",
+              "artist": "V.A",
+              "album": "Mounting The V-Watch",
+              "releaseDate": "2014-07-03",
+              "isrc": null,
+              "score": 100,
+              "label": null,
+              "durationMs": 212000,
+              "playOffsetMs": 111720,
+              "providerIds": {
+                "acrid": "10879ec1797dae2091105602065e3e24",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 39,
+          "sample": "tmp/music-recognition/samples/qSujD_7EYSE_0039.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Mounting The V-Watch",
+            "artist": "V.A",
+            "album": "Mounting The V-Watch",
+            "releaseDate": "2014-07-03",
+            "isrc": null,
+            "score": 100,
+            "label": null,
+            "durationMs": 212000,
+            "playOffsetMs": 129400,
+            "providerIds": {
+              "acrid": "10879ec1797dae2091105602065e3e24",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Mounting The V-Watch",
+              "artist": "V.A",
+              "album": "Mounting The V-Watch",
+              "releaseDate": "2014-07-03",
+              "isrc": null,
+              "score": 100,
+              "label": null,
+              "durationMs": 212000,
+              "playOffsetMs": 129400,
+              "providerIds": {
+                "acrid": "10879ec1797dae2091105602065e3e24",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 50,
+          "sample": "tmp/music-recognition/samples/qSujD_7EYSE_0050.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Mounting The V-Watch",
+            "artist": "V.A",
+            "album": "Mounting The V-Watch",
+            "releaseDate": "2014-07-03",
+            "isrc": null,
+            "score": 100,
+            "label": null,
+            "durationMs": 212000,
+            "playOffsetMs": 140400,
+            "providerIds": {
+              "acrid": "10879ec1797dae2091105602065e3e24",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Mounting The V-Watch",
+              "artist": "V.A",
+              "album": "Mounting The V-Watch",
+              "releaseDate": "2014-07-03",
+              "isrc": null,
+              "score": 100,
+              "label": null,
+              "durationMs": 212000,
+              "playOffsetMs": 140400,
+              "providerIds": {
+                "acrid": "10879ec1797dae2091105602065e3e24",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 62,
+          "sample": "tmp/music-recognition/samples/qSujD_7EYSE_0062.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Mounting The V-Watch",
+            "artist": "V.A",
+            "album": "Mounting The V-Watch",
+            "releaseDate": "2014-07-03",
+            "isrc": null,
+            "score": 100,
+            "label": null,
+            "durationMs": 212000,
+            "playOffsetMs": 152360,
+            "providerIds": {
+              "acrid": "10879ec1797dae2091105602065e3e24",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Mounting The V-Watch",
+              "artist": "V.A",
+              "album": "Mounting The V-Watch",
+              "releaseDate": "2014-07-03",
+              "isrc": null,
+              "score": 100,
+              "label": null,
+              "durationMs": 212000,
+              "playOffsetMs": 152360,
+              "providerIds": {
+                "acrid": "10879ec1797dae2091105602065e3e24",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "music",
+        "count": 5,
+        "score": 100,
+        "title": "Mounting The V-Watch",
+        "artist": "V.A",
+        "album": "Mounting The V-Watch",
+        "releaseDate": "2014-07-03",
+        "isrc": null,
+        "providerIds": {
+          "acrid": "10879ec1797dae2091105602065e3e24",
+          "spotify": null,
+          "youtube": null
+        }
+      }
+    },
+    {
+      "playlistIndex": 24,
+      "videoId": "FDU7WP2YUrw",
+      "title": "広大附属 太陽マスゲーム 2022 退場",
+      "url": "https://www.youtube.com/watch?v=FDU7WP2YUrw",
+      "duration": 202,
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "退場"
+        ],
+        "matchedScene": "退場"
+      },
+      "samples": [
+        {
+          "offset": 40,
+          "sample": "tmp/music-recognition/samples/FDU7WP2YUrw_0040.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "The Antidote",
+              "artist": "Simple Plan",
+              "album": "The Kids In The Crowd - Music From The Documentary Soundtrack",
+              "releaseDate": "2025-07-08",
+              "isrc": "QMDA62152122",
+              "score": 0.96,
+              "label": "Rhino Atlantic",
+              "durationMs": "195662",
+              "playOffsetMs": 140000,
+              "providerIds": {
+                "acrid": "e73d941d7ff372f2e1fe76e845a8e9a4",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Stop Standing There (Made Popular By Avril Lavigne) [Karaoke Version]",
+              "artist": "Party Tyme Karaoke",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "USSYS1003599",
+              "score": 0.4,
+              "label": "Sybersound Records",
+              "durationMs": 207000,
+              "playOffsetMs": 95000,
+              "providerIds": {
+                "acrid": "e81f6e3863972353a5beb2784bfddcd5",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 70,
+          "sample": "tmp/music-recognition/samples/FDU7WP2YUrw_0070.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "The Antidote",
+              "artist": "Simple Plan",
+              "album": "The Kids In The Crowd - Music From The Documentary Soundtrack",
+              "releaseDate": "2021-11-05",
+              "isrc": "QMDA62152122",
+              "score": 0.96,
+              "label": "℗ 2025 Atlantic Record Corporation",
+              "durationMs": 195000,
+              "playOffsetMs": 65000,
+              "providerIds": {
+                "acrid": "e73d941d7ff372f2e1fe76e845a8e9a4",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 101,
+          "sample": "tmp/music-recognition/samples/FDU7WP2YUrw_0101.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "The Antidote",
+              "artist": "Simple Plan",
+              "album": "The Kids In The Crowd - Music From The Documentary Soundtrack",
+              "releaseDate": "2025-07-08",
+              "isrc": "QMDA62152122",
+              "score": 0.96,
+              "label": "Rhino Atlantic",
+              "durationMs": "195662",
+              "playOffsetMs": 95000,
+              "providerIds": {
+                "acrid": "e73d941d7ff372f2e1fe76e845a8e9a4",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 131,
+          "sample": "tmp/music-recognition/samples/FDU7WP2YUrw_0131.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "The Antidote",
+              "artist": "Simple Plan",
+              "album": "The Kids In The Crowd - Music From The Documentary Soundtrack",
+              "releaseDate": "2025-07-08",
+              "isrc": "QMDA62152122",
+              "score": 0.96,
+              "label": "Rhino Atlantic",
+              "durationMs": 195000,
+              "playOffsetMs": 137000,
+              "providerIds": {
+                "acrid": "e73d941d7ff372f2e1fe76e845a8e9a4",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 161,
+          "sample": "tmp/music-recognition/samples/FDU7WP2YUrw_0161.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "humming",
+        "count": 4,
+        "score": 0.96,
+        "title": "The Antidote",
+        "artist": "Simple Plan",
+        "album": "The Kids In The Crowd - Music From The Documentary Soundtrack",
+        "releaseDate": "2025-07-08",
+        "isrc": "QMDA62152122",
+        "providerIds": {
+          "acrid": "e73d941d7ff372f2e1fe76e845a8e9a4",
+          "spotify": null,
+          "youtube": null
+        }
+      }
+    },
+    {
+      "playlistIndex": 27,
+      "videoId": "Hh3ex7DezYY",
+      "title": "21sunmassgame inter",
+      "url": "https://www.youtube.com/watch?v=Hh3ex7DezYY",
+      "duration": 62,
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 12,
+          "sample": "tmp/music-recognition/samples/Hh3ex7DezYY_0012.webm",
+          "status": "Success",
+          "score": 58,
+          "match": {
+            "title": "Ignition",
+            "artist": "Aragon",
+            "album": "Ignition",
+            "releaseDate": "2015-03-07",
+            "isrc": null,
+            "score": 58,
+            "label": null,
+            "durationMs": 259000,
+            "playOffsetMs": 38740,
+            "providerIds": {
+              "acrid": "d305d5566937ef69a2bd520cc6702f69",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Ignition",
+              "artist": "Aragon",
+              "album": "Ignition",
+              "releaseDate": "2015-03-07",
+              "isrc": null,
+              "score": 58,
+              "label": null,
+              "durationMs": 259000,
+              "playOffsetMs": 38740,
+              "providerIds": {
+                "acrid": "d305d5566937ef69a2bd520cc6702f69",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 21,
+          "sample": "tmp/music-recognition/samples/Hh3ex7DezYY_0021.webm",
+          "status": "Success",
+          "score": 46,
+          "match": {
+            "title": "Ignition",
+            "artist": "Aragon",
+            "album": "Ignition",
+            "releaseDate": "2015-03-07",
+            "isrc": null,
+            "score": 46,
+            "label": null,
+            "durationMs": 259000,
+            "playOffsetMs": 57340,
+            "providerIds": {
+              "acrid": "d305d5566937ef69a2bd520cc6702f69",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Ignition",
+              "artist": "Aragon",
+              "album": "Ignition",
+              "releaseDate": "2015-03-07",
+              "isrc": null,
+              "score": 46,
+              "label": null,
+              "durationMs": 259000,
+              "playOffsetMs": 57340,
+              "providerIds": {
+                "acrid": "d305d5566937ef69a2bd520cc6702f69",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 31,
+          "sample": "tmp/music-recognition/samples/Hh3ex7DezYY_0031.webm",
+          "status": "Success",
+          "score": 88,
+          "match": {
+            "title": "Ignition",
+            "artist": "Aragon",
+            "album": "Ignition",
+            "releaseDate": "2015-03-07",
+            "isrc": null,
+            "score": 88,
+            "label": null,
+            "durationMs": 259000,
+            "playOffsetMs": 66940,
+            "providerIds": {
+              "acrid": "d305d5566937ef69a2bd520cc6702f69",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Ignition",
+              "artist": "Aragon",
+              "album": "Ignition",
+              "releaseDate": "2015-03-07",
+              "isrc": null,
+              "score": 88,
+              "label": null,
+              "durationMs": 259000,
+              "playOffsetMs": 66940,
+              "providerIds": {
+                "acrid": "d305d5566937ef69a2bd520cc6702f69",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 40,
+          "sample": "tmp/music-recognition/samples/Hh3ex7DezYY_0040.webm",
+          "status": "Success",
+          "score": 94,
+          "match": {
+            "title": "Ignition",
+            "artist": "Aragon",
+            "album": "Ignition",
+            "releaseDate": "2015-03-07",
+            "isrc": null,
+            "score": 94,
+            "label": null,
+            "durationMs": 259000,
+            "playOffsetMs": 75880,
+            "providerIds": {
+              "acrid": "d305d5566937ef69a2bd520cc6702f69",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Ignition",
+              "artist": "Aragon",
+              "album": "Ignition",
+              "releaseDate": "2015-03-07",
+              "isrc": null,
+              "score": 94,
+              "label": null,
+              "durationMs": 259000,
+              "playOffsetMs": 75880,
+              "providerIds": {
+                "acrid": "d305d5566937ef69a2bd520cc6702f69",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Can't Wait",
+              "artist": "L.I Freeze",
+              "album": "Hush",
+              "releaseDate": "2020-03-24",
+              "isrc": null,
+              "score": 37,
+              "label": "L.I Freeze Publishing",
+              "durationMs": 156000,
+              "playOffsetMs": 75820,
+              "providerIds": {
+                "acrid": "f833eda67e76aa6f582956dbc7c05d83",
+                "spotify": "52WGIa6gcvTDxA3KuYhjLd",
+                "youtube": "eWPcA5jYirQ"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 49,
+          "sample": "tmp/music-recognition/samples/Hh3ex7DezYY_0049.webm",
+          "status": "Success",
+          "score": 91,
+          "match": {
+            "title": "Ignition",
+            "artist": "Aragon",
+            "album": "Ignition",
+            "releaseDate": "2015-03-07",
+            "isrc": null,
+            "score": 91,
+            "label": null,
+            "durationMs": 259000,
+            "playOffsetMs": 252960,
+            "providerIds": {
+              "acrid": "d305d5566937ef69a2bd520cc6702f69",
+              "spotify": null,
+              "youtube": null
+            }
+          },
+          "music": [
+            {
+              "title": "Ignition",
+              "artist": "Aragon",
+              "album": "Ignition",
+              "releaseDate": "2015-03-07",
+              "isrc": null,
+              "score": 91,
+              "label": null,
+              "durationMs": 259000,
+              "playOffsetMs": 252960,
+              "providerIds": {
+                "acrid": "d305d5566937ef69a2bd520cc6702f69",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "music",
+        "count": 5,
+        "score": 75.4,
+        "title": "Ignition",
+        "artist": "Aragon",
+        "album": "Ignition",
+        "releaseDate": "2015-03-07",
+        "isrc": null,
+        "providerIds": {
+          "acrid": "d305d5566937ef69a2bd520cc6702f69",
+          "spotify": null,
+          "youtube": null
+        }
+      }
+    },
+    {
+      "playlistIndex": 33,
+      "videoId": "mn2A8uk8UY0",
+      "title": "19sunmassgame inter",
+      "url": "https://www.youtube.com/watch?v=mn2A8uk8UY0",
+      "duration": 69,
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 13,
+          "sample": "tmp/music-recognition/samples/mn2A8uk8UY0_0013.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Sailing Alone",
+              "artist": "Casiopea",
+              "album": "SUPER FLIGHT",
+              "releaseDate": "2016-07-27",
+              "isrc": "JPAL00900440",
+              "score": 0.67,
+              "label": "SME",
+              "durationMs": "282800",
+              "playOffsetMs": 195000,
+              "providerIds": {
+                "acrid": "33e7aa6a6f507eb896223b15ed3dd001",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "明明都是月亮的错",
+              "artist": "冷漠",
+              "album": "小三",
+              "releaseDate": "2023-09-20",
+              "isrc": "DGA0L2367647",
+              "score": 0.53,
+              "label": "启韵传媒",
+              "durationMs": 284600,
+              "playOffsetMs": 30000,
+              "providerIds": {
+                "acrid": "40402f591f2469f3f6724e4ee4e3c237",
+                "spotify": "2qztEie7K6zwNoRKgfnVL9",
+                "youtube": null
+              }
+            },
+            {
+              "title": "Outra Vez Você Zangou",
+              "artist": "Roberto Müller",
+              "album": "Tua Lembrança",
+              "releaseDate": "2024-03-15",
+              "isrc": "BRSME2102073",
+              "score": 0.49,
+              "label": "Sony Music Entertainment",
+              "durationMs": 217000,
+              "playOffsetMs": 130000,
+              "providerIds": {
+                "acrid": "d43d11b36200d5a16e6e11b5608e8f89",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Phakade",
+              "artist": "Lira",
+              "album": "Return To Love",
+              "releaseDate": "2011-02-07",
+              "isrc": "ZAA011000576",
+              "score": 0.3,
+              "label": "SME",
+              "durationMs": 227000,
+              "playOffsetMs": 167000,
+              "providerIds": {
+                "acrid": "52d78c6e4a479840e67271ee1fb60479",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 24,
+          "sample": "tmp/music-recognition/samples/mn2A8uk8UY0_0024.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 34,
+          "sample": "tmp/music-recognition/samples/mn2A8uk8UY0_0034.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 44,
+          "sample": "tmp/music-recognition/samples/mn2A8uk8UY0_0044.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 55,
+          "sample": "tmp/music-recognition/samples/mn2A8uk8UY0_0055.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        }
+      ],
+      "bestMatch": null
+    },
+    {
+      "playlistIndex": 38,
+      "videoId": "jP7BzIdPaZY",
+      "title": "18sunmassgame 1st stage",
+      "url": "https://www.youtube.com/watch?v=jP7BzIdPaZY",
+      "duration": 311,
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "Red",
+        "part": 1,
+        "scene": "一部"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "一部"
+        ],
+        "matchedScene": "一部"
+      },
+      "samples": [
+        {
+          "offset": 62,
+          "sample": "tmp/music-recognition/samples/jP7BzIdPaZY_0062.webm",
+          "status": "Success",
+          "score": 58,
+          "match": {
+            "title": "Burn  feat. Henning Basse",
+            "artist": "Derdian featuring Henning Basse",
+            "album": "Revolution Era",
+            "releaseDate": "2016-06-03",
+            "isrc": null,
+            "score": 58,
+            "label": "Derdian",
+            "durationMs": 292000,
+            "playOffsetMs": 57380,
+            "providerIds": {
+              "acrid": "506d87e7e6a2081e0aa0aa739f8ff137",
+              "spotify": "3hqjQQvyFp07vZgkQ6y2fh",
+              "youtube": "kO_tEoUPQ2w"
+            }
+          },
+          "music": [
+            {
+              "title": "Burn  feat. Henning Basse",
+              "artist": "Derdian featuring Henning Basse",
+              "album": "Revolution Era",
+              "releaseDate": "2016-06-03",
+              "isrc": null,
+              "score": 58,
+              "label": "Derdian",
+              "durationMs": 292000,
+              "playOffsetMs": 57380,
+              "providerIds": {
+                "acrid": "506d87e7e6a2081e0aa0aa739f8ff137",
+                "spotify": "3hqjQQvyFp07vZgkQ6y2fh",
+                "youtube": "kO_tEoUPQ2w"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 108,
+          "sample": "tmp/music-recognition/samples/jP7BzIdPaZY_0108.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 155,
+          "sample": "tmp/music-recognition/samples/jP7BzIdPaZY_0155.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Homicidal Suicidal (2013 Remaster)",
+              "artist": "Budgie",
+              "album": "Budgie (2013 Remaster)",
+              "releaseDate": "1971-01-01",
+              "isrc": "GBBWX7100341",
+              "score": 0.56,
+              "label": "℗ 1971 Onward Music Ltd / Fly Records",
+              "durationMs": "401693",
+              "playOffsetMs": 170000,
+              "providerIds": {
+                "acrid": "ae6f84a552d373661480be2eabb95c8d",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "La Chica Ye-Ye (Versión Alternativa)",
+              "artist": "Conchita Velasco",
+              "album": "Las Canciones de Conchita Velasco",
+              "releaseDate": "1965-04-22",
+              "isrc": "DEXN92264766",
+              "score": 0.38,
+              "label": "℗ 1965 RCA Victor Records",
+              "durationMs": "142240",
+              "playOffsetMs": 120000,
+              "providerIds": {
+                "acrid": "f5ef8a2dc95ce5794d34b8bc87537cf4",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Pretty Belinda / My Boy Lollipop / Zwei Mädchen aus Germany",
+              "artist": "Zuckermund",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "DER419800118",
+              "score": 0.33,
+              "label": "Delta Music Entertainment GmbH & Co. KG",
+              "durationMs": 261000,
+              "playOffsetMs": 142000,
+              "providerIds": {
+                "acrid": "954b26f6aa2b5139561da2d4fb6f47a5",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Eu Sei",
+              "artist": "Roberto Ribeiro",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "BRUM72000023",
+              "score": 0.33,
+              "label": "Universal Music Ltda.",
+              "durationMs": 146000,
+              "playOffsetMs": 97000,
+              "providerIds": {
+                "acrid": "7bf125c6d263fa081a64a71685025a47",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 202,
+          "sample": "tmp/music-recognition/samples/jP7BzIdPaZY_0202.webm",
+          "status": "Success",
+          "score": 37,
+          "match": {
+            "title": "Burn  feat. Henning Basse",
+            "artist": "Derdian featuring Henning Basse",
+            "album": "Revolution Era",
+            "releaseDate": "2016-06-03",
+            "isrc": null,
+            "score": 37,
+            "label": "Derdian",
+            "durationMs": 292000,
+            "playOffsetMs": 193260,
+            "providerIds": {
+              "acrid": "506d87e7e6a2081e0aa0aa739f8ff137",
+              "spotify": "3hqjQQvyFp07vZgkQ6y2fh",
+              "youtube": "kO_tEoUPQ2w"
+            }
+          },
+          "music": [
+            {
+              "title": "Burn  feat. Henning Basse",
+              "artist": "Derdian featuring Henning Basse",
+              "album": "Revolution Era",
+              "releaseDate": "2016-06-03",
+              "isrc": null,
+              "score": 37,
+              "label": "Derdian",
+              "durationMs": 292000,
+              "playOffsetMs": 193260,
+              "providerIds": {
+                "acrid": "506d87e7e6a2081e0aa0aa739f8ff137",
+                "spotify": "3hqjQQvyFp07vZgkQ6y2fh",
+                "youtube": "kO_tEoUPQ2w"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 248,
+          "sample": "tmp/music-recognition/samples/jP7BzIdPaZY_0248.webm",
+          "status": "Success",
+          "score": 94,
+          "match": {
+            "title": "Burn  feat. Henning Basse",
+            "artist": "Derdian featuring Henning Basse",
+            "album": "Revolution Era",
+            "releaseDate": "2016-06-03",
+            "isrc": null,
+            "score": 94,
+            "label": "Derdian",
+            "durationMs": 292000,
+            "playOffsetMs": 243240,
+            "providerIds": {
+              "acrid": "506d87e7e6a2081e0aa0aa739f8ff137",
+              "spotify": "3hqjQQvyFp07vZgkQ6y2fh",
+              "youtube": "kO_tEoUPQ2w"
+            }
+          },
+          "music": [
+            {
+              "title": "Burn  feat. Henning Basse",
+              "artist": "Derdian featuring Henning Basse",
+              "album": "Revolution Era",
+              "releaseDate": "2016-06-03",
+              "isrc": null,
+              "score": 94,
+              "label": "Derdian",
+              "durationMs": 292000,
+              "playOffsetMs": 243240,
+              "providerIds": {
+                "acrid": "506d87e7e6a2081e0aa0aa739f8ff137",
+                "spotify": "3hqjQQvyFp07vZgkQ6y2fh",
+                "youtube": "kO_tEoUPQ2w"
+              }
+            }
+          ],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "music",
+        "count": 3,
+        "score": 63,
+        "title": "Burn  feat. Henning Basse",
+        "artist": "Derdian featuring Henning Basse",
+        "album": "Revolution Era",
+        "releaseDate": "2016-06-03",
+        "isrc": null,
+        "providerIds": {
+          "acrid": "506d87e7e6a2081e0aa0aa739f8ff137",
+          "spotify": "3hqjQQvyFp07vZgkQ6y2fh",
+          "youtube": "kO_tEoUPQ2w"
+        }
+      }
+    },
+    {
+      "playlistIndex": 39,
+      "videoId": "GWvg91GhT9g",
+      "title": "18sunmassgame interval",
+      "url": "https://www.youtube.com/watch?v=GWvg91GhT9g",
+      "duration": 64,
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 12,
+          "sample": "tmp/music-recognition/samples/GWvg91GhT9g_0012.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 22,
+          "sample": "tmp/music-recognition/samples/GWvg91GhT9g_0022.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 32,
+          "sample": "tmp/music-recognition/samples/GWvg91GhT9g_0032.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Believe (Instrumental)",
+              "artist": "Kalafina",
+              "album": "Believe",
+              "releaseDate": "2014-11-19",
+              "isrc": "JPU901401792",
+              "score": 0.47,
+              "label": "SME",
+              "durationMs": 289000,
+              "playOffsetMs": 62000,
+              "providerIds": {
+                "acrid": "f632fd509031f0e907fed2ea1fb67e6f",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 41,
+          "sample": "tmp/music-recognition/samples/GWvg91GhT9g_0041.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Strange Kind Of Woman (Live In Osaka, Japan / 16th August 1972 / 2014 Remaster)",
+              "artist": "Deep Purple",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "CHUM71300392",
+              "score": 0.3,
+              "label": "Universal Music",
+              "durationMs": 592000,
+              "playOffsetMs": 247000,
+              "providerIds": {
+                "acrid": "a1c38e3249d37a1dff94cb9905836d3a",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 51,
+          "sample": "tmp/music-recognition/samples/GWvg91GhT9g_0051.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        }
+      ],
+      "bestMatch": null
+    },
+    {
+      "playlistIndex": 43,
+      "videoId": "W8yZB1PbJwk",
+      "title": "17sunmassgame opening",
+      "url": "https://www.youtube.com/watch?v=W8yZB1PbJwk",
+      "duration": 185,
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "入場"
+        ],
+        "matchedScene": "入場"
+      },
+      "samples": [
+        {
+          "offset": 37,
+          "sample": "tmp/music-recognition/samples/W8yZB1PbJwk_0037.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 64,
+          "sample": "tmp/music-recognition/samples/W8yZB1PbJwk_0064.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Land Of Broken Dreams",
+              "artist": "Dynazty",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "SEPEL1202001",
+              "score": 0.96,
+              "label": "Capitol Music Group AB",
+              "durationMs": 185000,
+              "playOffsetMs": 10000,
+              "providerIds": {
+                "acrid": "1a76c1077ec06c4ebb22375cd95e08b4",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Lost (Extended Mix)",
+              "artist": "Peter Gelderblom",
+              "album": "Lost",
+              "releaseDate": "2009-03-23",
+              "isrc": "NLC280910036",
+              "score": 0.53,
+              "label": "℗ 2009 Spinnin Records",
+              "durationMs": "376508",
+              "playOffsetMs": 255000,
+              "providerIds": {
+                "acrid": "3f21c79764a5a281ee05702d2a08238d",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "I Want That",
+              "artist": "i-dle",
+              "album": "HEAT - EP",
+              "releaseDate": "2023-10-05",
+              "isrc": "USWB12303558",
+              "score": 0.31,
+              "label": "℗ 2023 CUBE ENTERTAINMENT INC./88rising Records LLC",
+              "durationMs": "171667",
+              "playOffsetMs": 120000,
+              "providerIds": {
+                "acrid": "66746473401be09bfb6d599885480065",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "I Want That",
+              "artist": "(G)I-DLE",
+              "album": "I Want That",
+              "releaseDate": "",
+              "isrc": "USWB12303558",
+              "score": 0.31,
+              "label": "88Rising Music",
+              "durationMs": 171000,
+              "playOffsetMs": 120000,
+              "providerIds": {
+                "acrid": "0155cf987449ba661c36b1ca7e29fcc9",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 92,
+          "sample": "tmp/music-recognition/samples/W8yZB1PbJwk_0092.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Dangerous",
+              "artist": "Da Buzz",
+              "album": "Dangerous - EP",
+              "releaseDate": "2004-03-01",
+              "isrc": "SEVGT0400801",
+              "score": 0.8,
+              "label": "a division of Cosmos Music under exclusive license from Warner/Chappell Music Scandinavia",
+              "durationMs": "203639",
+              "playOffsetMs": 60000,
+              "providerIds": {
+                "acrid": "4160a19416be487c6bc9b64aca4e3493",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Land Of Broken Dreams",
+              "artist": "Dynazty",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "SEPEL1202001",
+              "score": 0.8,
+              "label": "Capitol Music Group AB",
+              "durationMs": 185000,
+              "playOffsetMs": 40000,
+              "providerIds": {
+                "acrid": "1a76c1077ec06c4ebb22375cd95e08b4",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 120,
+          "sample": "tmp/music-recognition/samples/W8yZB1PbJwk_0120.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Land Of Broken Dreams",
+              "artist": "Dynazty",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "SEPEL1202001",
+              "score": 0.8,
+              "label": "Capitol Music Group AB",
+              "durationMs": 185000,
+              "playOffsetMs": 67000,
+              "providerIds": {
+                "acrid": "1a76c1077ec06c4ebb22375cd95e08b4",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 148,
+          "sample": "tmp/music-recognition/samples/W8yZB1PbJwk_0148.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Land Of Broken Dreams",
+              "artist": "Dynazty",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "SEPEL1202001",
+              "score": 0.8,
+              "label": "Capitol Music Group AB",
+              "durationMs": 185000,
+              "playOffsetMs": 95000,
+              "providerIds": {
+                "acrid": "1a76c1077ec06c4ebb22375cd95e08b4",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        }
+      ],
+      "bestMatch": {
+        "source": "humming",
+        "count": 1,
+        "score": 0.96,
+        "title": "Land Of Broken Dreams",
+        "artist": "Dynazty",
+        "album": "",
+        "releaseDate": "",
+        "isrc": "SEPEL1202001",
+        "providerIds": {
+          "acrid": "1a76c1077ec06c4ebb22375cd95e08b4",
+          "spotify": null,
+          "youtube": null
+        }
+      }
+    },
+    {
+      "playlistIndex": 45,
+      "videoId": "y3XCzJP3rRQ",
+      "title": "17sunmassgame inter",
+      "url": "https://www.youtube.com/watch?v=y3XCzJP3rRQ",
+      "duration": 73,
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 14,
+          "sample": "tmp/music-recognition/samples/y3XCzJP3rRQ_0014.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 25,
+          "sample": "tmp/music-recognition/samples/y3XCzJP3rRQ_0025.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 36,
+          "sample": "tmp/music-recognition/samples/y3XCzJP3rRQ_0036.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "You Will Know Our Names",
+              "artist": "RichaadEB",
+              "album": "You Will Know Our Names - Single",
+              "releaseDate": "2023-12-21",
+              "isrc": "QZVEM2383372",
+              "score": 0.96,
+              "label": "℗ 2023 RichaadEB",
+              "durationMs": "143352",
+              "playOffsetMs": 75000,
+              "providerIds": {
+                "acrid": "6b4e76b3fe862722c662dbd00c0172c4",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Sustainable (Off Vocal Version)",
+              "artist": "AKB48",
+              "album": "Sustainable (Type B)",
+              "releaseDate": "2019-09-18",
+              "isrc": "JPKI01915123",
+              "score": 0.8,
+              "label": "WM Taiwan",
+              "durationMs": 264000,
+              "playOffsetMs": 185000,
+              "providerIds": {
+                "acrid": "2d00639eb3e97278f2e6ea89bf85420a",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Guantanamera",
+              "artist": "Lesley Lay",
+              "album": "Golden Hammond Evergreens",
+              "releaseDate": "2011-02-21",
+              "isrc": "DER411000431",
+              "score": 0.4,
+              "label": "Delta Music Entertainment",
+              "durationMs": 105000,
+              "playOffsetMs": 92000,
+              "providerIds": {
+                "acrid": "5dc2156773de920d35cf0192d59c0e49",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Merciless Times (Karaoke Version)",
+              "artist": "Myrath",
+              "album": "Reflections",
+              "releaseDate": "2025-10-24",
+              "isrc": "DEH842501410",
+              "score": 0.4,
+              "label": "WM FR Affiliated/Verycords",
+              "durationMs": 205000,
+              "playOffsetMs": 122000,
+              "providerIds": {
+                "acrid": "86b106a4ba3c4585a9239eab49c6ccfa",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Last Dance (Studio Rough Guide Vocal - 11/88)",
+              "artist": "The Cure",
+              "album": "Disintegration (Deluxe Edition)",
+              "releaseDate": "2010-05-25",
+              "isrc": "USEE10901467",
+              "score": 0.31,
+              "label": "Rhino/Elektra",
+              "durationMs": 282000,
+              "playOffsetMs": 95000,
+              "providerIds": {
+                "acrid": "d5bd4e82e92570452b248ef93e5f023e",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 47,
+          "sample": "tmp/music-recognition/samples/y3XCzJP3rRQ_0047.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Fang Yan Hua",
+              "artist": "Miriam Yeung",
+              "album": "Play It Loud Kiss Music Soft",
+              "releaseDate": "2013-07-01",
+              "isrc": "HKE050030909",
+              "score": 0.37,
+              "label": "Capital Artists Music Limited",
+              "durationMs": 222000,
+              "playOffsetMs": 122000,
+              "providerIds": {
+                "acrid": "3f763752203edc8cd12f71d6d81407d8",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 58,
+          "sample": "tmp/music-recognition/samples/y3XCzJP3rRQ_0058.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "humming",
+        "count": 1,
+        "score": 0.96,
+        "title": "You Will Know Our Names",
+        "artist": "RichaadEB",
+        "album": "You Will Know Our Names - Single",
+        "releaseDate": "2023-12-21",
+        "isrc": "QZVEM2383372",
+        "providerIds": {
+          "acrid": "6b4e76b3fe862722c662dbd00c0172c4",
+          "spotify": null,
+          "youtube": null
+        }
+      }
+    },
+    {
+      "playlistIndex": 55,
+      "videoId": "lvled2vYTPA",
+      "title": "2014 sunmass opening",
+      "url": "https://www.youtube.com/watch?v=lvled2vYTPA",
+      "duration": 143,
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "入場"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "入場"
+        ],
+        "matchedScene": "入場"
+      },
+      "samples": [
+        {
+          "offset": 28,
+          "sample": "tmp/music-recognition/samples/lvled2vYTPA_0028.m4a",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "I Burn For You",
+            "artist": "トリート",
+            "album": "Weapons Of Choice",
+            "releaseDate": "2006-04-19",
+            "isrc": null,
+            "score": 100,
+            "label": "Universal Music AB",
+            "durationMs": 211000,
+            "playOffsetMs": 40300,
+            "providerIds": {
+              "acrid": "ba37f725c091418aaf12bac3a28cbfc6",
+              "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+              "youtube": "mYjyKOViRuo"
+            }
+          },
+          "music": [
+            {
+              "title": "I Burn For You",
+              "artist": "トリート",
+              "album": "Weapons Of Choice",
+              "releaseDate": "2006-04-19",
+              "isrc": null,
+              "score": 100,
+              "label": "Universal Music AB",
+              "durationMs": 211000,
+              "playOffsetMs": 40300,
+              "providerIds": {
+                "acrid": "ba37f725c091418aaf12bac3a28cbfc6",
+                "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+                "youtube": "mYjyKOViRuo"
+              }
+            },
+            {
+              "title": "I Burn For You",
+              "artist": "トリート",
+              "album": "Weapons Of Choice",
+              "releaseDate": "2006-04-19",
+              "isrc": null,
+              "score": 100,
+              "label": "Universal Music AB",
+              "durationMs": 210587,
+              "playOffsetMs": 40300,
+              "providerIds": {
+                "acrid": "4abcd7c4317a4f0de142b01a5f8c8300",
+                "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 50,
+          "sample": "tmp/music-recognition/samples/lvled2vYTPA_0050.m4a",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "I Burn For You",
+            "artist": "トリート",
+            "album": "Weapons Of Choice",
+            "releaseDate": "2006-04-19",
+            "isrc": null,
+            "score": 100,
+            "label": "Universal Music AB",
+            "durationMs": 211000,
+            "playOffsetMs": 62360,
+            "providerIds": {
+              "acrid": "ba37f725c091418aaf12bac3a28cbfc6",
+              "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+              "youtube": "mYjyKOViRuo"
+            }
+          },
+          "music": [
+            {
+              "title": "I Burn For You",
+              "artist": "トリート",
+              "album": "Weapons Of Choice",
+              "releaseDate": "2006-04-19",
+              "isrc": null,
+              "score": 100,
+              "label": "Universal Music AB",
+              "durationMs": 211000,
+              "playOffsetMs": 62360,
+              "providerIds": {
+                "acrid": "ba37f725c091418aaf12bac3a28cbfc6",
+                "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+                "youtube": "mYjyKOViRuo"
+              }
+            },
+            {
+              "title": "I Burn For You",
+              "artist": "トリート",
+              "album": "Weapons Of Choice",
+              "releaseDate": "2006-04-19",
+              "isrc": null,
+              "score": 100,
+              "label": "Universal Music AB",
+              "durationMs": 210587,
+              "playOffsetMs": 62380,
+              "providerIds": {
+                "acrid": "4abcd7c4317a4f0de142b01a5f8c8300",
+                "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 71,
+          "sample": "tmp/music-recognition/samples/lvled2vYTPA_0071.m4a",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "I Burn For You",
+            "artist": "トリート",
+            "album": "Weapons Of Choice",
+            "releaseDate": "2006-04-19",
+            "isrc": null,
+            "score": 100,
+            "label": "Universal Music AB",
+            "durationMs": 211000,
+            "playOffsetMs": 83380,
+            "providerIds": {
+              "acrid": "ba37f725c091418aaf12bac3a28cbfc6",
+              "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+              "youtube": "mYjyKOViRuo"
+            }
+          },
+          "music": [
+            {
+              "title": "I Burn For You",
+              "artist": "トリート",
+              "album": "Weapons Of Choice",
+              "releaseDate": "2006-04-19",
+              "isrc": null,
+              "score": 100,
+              "label": "Universal Music AB",
+              "durationMs": 211000,
+              "playOffsetMs": 83380,
+              "providerIds": {
+                "acrid": "ba37f725c091418aaf12bac3a28cbfc6",
+                "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+                "youtube": "mYjyKOViRuo"
+              }
+            },
+            {
+              "title": "I Burn For You",
+              "artist": "トリート",
+              "album": "Weapons Of Choice",
+              "releaseDate": "2006-04-19",
+              "isrc": null,
+              "score": 100,
+              "label": "Universal Music AB",
+              "durationMs": 210587,
+              "playOffsetMs": 83380,
+              "providerIds": {
+                "acrid": "4abcd7c4317a4f0de142b01a5f8c8300",
+                "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 92,
+          "sample": "tmp/music-recognition/samples/lvled2vYTPA_0092.m4a",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "I Burn For You",
+            "artist": "トリート",
+            "album": "Weapons Of Choice",
+            "releaseDate": "2006-04-19",
+            "isrc": null,
+            "score": 100,
+            "label": "Universal Music AB",
+            "durationMs": 211000,
+            "playOffsetMs": 104360,
+            "providerIds": {
+              "acrid": "ba37f725c091418aaf12bac3a28cbfc6",
+              "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+              "youtube": "mYjyKOViRuo"
+            }
+          },
+          "music": [
+            {
+              "title": "I Burn For You",
+              "artist": "トリート",
+              "album": "Weapons Of Choice",
+              "releaseDate": "2006-04-19",
+              "isrc": null,
+              "score": 100,
+              "label": "Universal Music AB",
+              "durationMs": 211000,
+              "playOffsetMs": 104360,
+              "providerIds": {
+                "acrid": "ba37f725c091418aaf12bac3a28cbfc6",
+                "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+                "youtube": "mYjyKOViRuo"
+              }
+            },
+            {
+              "title": "I Burn For You",
+              "artist": "トリート",
+              "album": "Weapons Of Choice",
+              "releaseDate": "2006-04-19",
+              "isrc": null,
+              "score": 100,
+              "label": "Universal Music AB",
+              "durationMs": 210587,
+              "playOffsetMs": 104360,
+              "providerIds": {
+                "acrid": "4abcd7c4317a4f0de142b01a5f8c8300",
+                "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 114,
+          "sample": "tmp/music-recognition/samples/lvled2vYTPA_0114.m4a",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "I Burn For You",
+            "artist": "トリート",
+            "album": "Weapons Of Choice",
+            "releaseDate": "2006-04-19",
+            "isrc": null,
+            "score": 100,
+            "label": "Universal Music AB",
+            "durationMs": 211000,
+            "playOffsetMs": 188800,
+            "providerIds": {
+              "acrid": "ba37f725c091418aaf12bac3a28cbfc6",
+              "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+              "youtube": "mYjyKOViRuo"
+            }
+          },
+          "music": [
+            {
+              "title": "I Burn For You",
+              "artist": "トリート",
+              "album": "Weapons Of Choice",
+              "releaseDate": "2006-04-19",
+              "isrc": null,
+              "score": 100,
+              "label": "Universal Music AB",
+              "durationMs": 211000,
+              "playOffsetMs": 188800,
+              "providerIds": {
+                "acrid": "ba37f725c091418aaf12bac3a28cbfc6",
+                "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+                "youtube": "mYjyKOViRuo"
+              }
+            },
+            {
+              "title": "I Burn For You",
+              "artist": "トリート",
+              "album": "Weapons Of Choice",
+              "releaseDate": "2006-04-19",
+              "isrc": null,
+              "score": 100,
+              "label": "Universal Music AB",
+              "durationMs": 210587,
+              "playOffsetMs": 188800,
+              "providerIds": {
+                "acrid": "4abcd7c4317a4f0de142b01a5f8c8300",
+                "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+                "youtube": null
+              }
+            }
+          ],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "music",
+        "count": 10,
+        "score": 100,
+        "title": "I Burn For You",
+        "artist": "トリート",
+        "album": "Weapons Of Choice",
+        "releaseDate": "2006-04-19",
+        "isrc": null,
+        "providerIds": {
+          "acrid": "ba37f725c091418aaf12bac3a28cbfc6",
+          "spotify": "27TFw8ZrZeKx8yzEnaDSkn",
+          "youtube": "mYjyKOViRuo"
+        }
+      }
+    },
+    {
+      "playlistIndex": 59,
+      "videoId": "yoxZn3rewt8",
+      "title": "2014 sunmass 3rd stage",
+      "url": "https://www.youtube.com/watch?v=yoxZn3rewt8",
+      "duration": 190,
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "三部"
+        ],
+        "matchedScene": "三部"
+      },
+      "samples": [
+        {
+          "offset": 38,
+          "sample": "tmp/music-recognition/samples/yoxZn3rewt8_0038.m4a",
+          "status": "Success",
+          "score": 76,
+          "match": {
+            "title": "Any Way You Want It / Lovin' Touchin' Squeezin' (Glee Cast Version)",
+            "artist": "Glee Cast",
+            "album": "Glee: The Music, Journey To Regionals",
+            "releaseDate": "2010-06-08",
+            "isrc": null,
+            "score": 76,
+            "label": "Columbia",
+            "durationMs": 187000,
+            "playOffsetMs": 43820,
+            "providerIds": {
+              "acrid": "cb01b9d08cd705c06d86ebedabe0281e",
+              "spotify": "7cHROTw8JRjEaO3hDf1GZN",
+              "youtube": "W5wDNXgZplw"
+            }
+          },
+          "music": [
+            {
+              "title": "Any Way You Want It / Lovin' Touchin' Squeezin' (Glee Cast Version)",
+              "artist": "Glee Cast",
+              "album": "Glee: The Music, Journey To Regionals",
+              "releaseDate": "2010-06-08",
+              "isrc": null,
+              "score": 76,
+              "label": "Columbia",
+              "durationMs": 187000,
+              "playOffsetMs": 43820,
+              "providerIds": {
+                "acrid": "cb01b9d08cd705c06d86ebedabe0281e",
+                "spotify": "7cHROTw8JRjEaO3hDf1GZN",
+                "youtube": "W5wDNXgZplw"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 66,
+          "sample": "tmp/music-recognition/samples/yoxZn3rewt8_0066.m4a",
+          "status": "Success",
+          "score": 82,
+          "match": {
+            "title": "Any Way You Want It / Lovin' Touchin' Squeezin' (Glee Cast Version)",
+            "artist": "Glee Cast",
+            "album": "Glee: The Music, Journey To Regionals",
+            "releaseDate": "2010-06-08",
+            "isrc": null,
+            "score": 82,
+            "label": "Columbia",
+            "durationMs": 187000,
+            "playOffsetMs": 72800,
+            "providerIds": {
+              "acrid": "cb01b9d08cd705c06d86ebedabe0281e",
+              "spotify": "7cHROTw8JRjEaO3hDf1GZN",
+              "youtube": "W5wDNXgZplw"
+            }
+          },
+          "music": [
+            {
+              "title": "Any Way You Want It / Lovin' Touchin' Squeezin' (Glee Cast Version)",
+              "artist": "Glee Cast",
+              "album": "Glee: The Music, Journey To Regionals",
+              "releaseDate": "2010-06-08",
+              "isrc": null,
+              "score": 82,
+              "label": "Columbia",
+              "durationMs": 187000,
+              "playOffsetMs": 72800,
+              "providerIds": {
+                "acrid": "cb01b9d08cd705c06d86ebedabe0281e",
+                "spotify": "7cHROTw8JRjEaO3hDf1GZN",
+                "youtube": "W5wDNXgZplw"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 95,
+          "sample": "tmp/music-recognition/samples/yoxZn3rewt8_0095.m4a",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Any Way You Want It / Lovin' Touchin' Squeezin' (Glee Cast Version)",
+              "artist": "Glee Cast",
+              "album": "Glee: The Music, The Complete Season One",
+              "releaseDate": "2010-06-08",
+              "isrc": "USQX91000382",
+              "score": 0.96,
+              "label": "℗ 2010 Twentieth Century Fox Film Corporation",
+              "durationMs": 187000,
+              "playOffsetMs": 42000,
+              "providerIds": {
+                "acrid": "5f944f3921c630e9256b1580932d3fef",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 123,
+          "sample": "tmp/music-recognition/samples/yoxZn3rewt8_0123.m4a",
+          "status": "Success",
+          "score": 88,
+          "match": {
+            "title": "Any Way You Want It / Lovin' Touchin' Squeezin' (Glee Cast Version)",
+            "artist": "Glee Cast",
+            "album": "Glee: The Music, Journey To Regionals",
+            "releaseDate": "2010-06-08",
+            "isrc": null,
+            "score": 88,
+            "label": "Columbia",
+            "durationMs": 187000,
+            "playOffsetMs": 131200,
+            "providerIds": {
+              "acrid": "cb01b9d08cd705c06d86ebedabe0281e",
+              "spotify": "7cHROTw8JRjEaO3hDf1GZN",
+              "youtube": "W5wDNXgZplw"
+            }
+          },
+          "music": [
+            {
+              "title": "Any Way You Want It / Lovin' Touchin' Squeezin' (Glee Cast Version)",
+              "artist": "Glee Cast",
+              "album": "Glee: The Music, Journey To Regionals",
+              "releaseDate": "2010-06-08",
+              "isrc": null,
+              "score": 88,
+              "label": "Columbia",
+              "durationMs": 187000,
+              "playOffsetMs": 131200,
+              "providerIds": {
+                "acrid": "cb01b9d08cd705c06d86ebedabe0281e",
+                "spotify": "7cHROTw8JRjEaO3hDf1GZN",
+                "youtube": "W5wDNXgZplw"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 152,
+          "sample": "tmp/music-recognition/samples/yoxZn3rewt8_0152.m4a",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Any Way You Want It / Lovin' Touchin' Squeezin' (Glee Cast Version)",
+            "artist": "Glee Cast",
+            "album": "Glee: The Music, Journey To Regionals",
+            "releaseDate": "2010-06-08",
+            "isrc": null,
+            "score": 100,
+            "label": "Columbia",
+            "durationMs": 187000,
+            "playOffsetMs": 161080,
+            "providerIds": {
+              "acrid": "cb01b9d08cd705c06d86ebedabe0281e",
+              "spotify": "7cHROTw8JRjEaO3hDf1GZN",
+              "youtube": "W5wDNXgZplw"
+            }
+          },
+          "music": [
+            {
+              "title": "Any Way You Want It / Lovin' Touchin' Squeezin' (Glee Cast Version)",
+              "artist": "Glee Cast",
+              "album": "Glee: The Music, Journey To Regionals",
+              "releaseDate": "2010-06-08",
+              "isrc": null,
+              "score": 100,
+              "label": "Columbia",
+              "durationMs": 187000,
+              "playOffsetMs": 161080,
+              "providerIds": {
+                "acrid": "cb01b9d08cd705c06d86ebedabe0281e",
+                "spotify": "7cHROTw8JRjEaO3hDf1GZN",
+                "youtube": "W5wDNXgZplw"
+              }
+            }
+          ],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "music",
+        "count": 4,
+        "score": 86.5,
+        "title": "Any Way You Want It / Lovin' Touchin' Squeezin' (Glee Cast Version)",
+        "artist": "Glee Cast",
+        "album": "Glee: The Music, Journey To Regionals",
+        "releaseDate": "2010-06-08",
+        "isrc": null,
+        "providerIds": {
+          "acrid": "cb01b9d08cd705c06d86ebedabe0281e",
+          "spotify": "7cHROTw8JRjEaO3hDf1GZN",
+          "youtube": "W5wDNXgZplw"
+        }
+      }
+    },
+    {
+      "playlistIndex": 63,
+      "videoId": "nips7NGWF_I",
+      "title": "2013 sunmassgame interval",
+      "url": "https://www.youtube.com/watch?v=nips7NGWF_I",
+      "duration": 97,
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 19,
+          "sample": "tmp/music-recognition/samples/nips7NGWF_I_0019.m4a",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 33,
+          "sample": "tmp/music-recognition/samples/nips7NGWF_I_0033.m4a",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 48,
+          "sample": "tmp/music-recognition/samples/nips7NGWF_I_0048.m4a",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 63,
+          "sample": "tmp/music-recognition/samples/nips7NGWF_I_0063.m4a",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 77,
+          "sample": "tmp/music-recognition/samples/nips7NGWF_I_0077.m4a",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Holiday",
+              "artist": "The Get Up Kids",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "USVR90234001",
+              "score": 0.56,
+              "label": "BMG Rights Management",
+              "durationMs": 209000,
+              "playOffsetMs": 165000,
+              "providerIds": {
+                "acrid": "363aa5625965c4f376cb6eea09e491a1",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "For the Good of Mankind",
+              "artist": "Geoffplaysguitar",
+              "album": "Atomic Heart, Vol. 1 (Original Game Soundtrack)",
+              "releaseDate": "2023-02-21",
+              "isrc": "RUA1D2311875",
+              "score": 0.53,
+              "label": "℗ 2023 Mundfish Music",
+              "durationMs": "309878",
+              "playOffsetMs": 100000,
+              "providerIds": {
+                "acrid": "1b5141f58561364dad1326e4bac4b180",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Cosmic Keys To My Creations And Times",
+              "artist": "Emperor",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "GBADD1433604",
+              "score": 0.46,
+              "label": "",
+              "durationMs": 366000,
+              "playOffsetMs": 85000,
+              "providerIds": {
+                "acrid": "525a53159e1f363eb971bb3560d8ce44",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Wasting Away",
+              "artist": "HER NAME IN BLOOD",
+              "album": "BAKEMONO",
+              "releaseDate": "2016-09-14",
+              "isrc": "JPWP01671180",
+              "score": 0.35,
+              "label": "WM Japan",
+              "durationMs": 253000,
+              "playOffsetMs": 5000,
+              "providerIds": {
+                "acrid": "c0cf7871838ca4cdbb1940a46cddd4a8",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Caustic Prayer (Instrumental)",
+              "artist": "Eidola",
+              "album": "The Architect (Instrumental)",
+              "releaseDate": "2021-01-01",
+              "isrc": "QMRSZ2500876",
+              "score": 0.33,
+              "label": "℗ 2021 Blue Swan Records, LLC under exclusive license to Rise Records, Inc.",
+              "durationMs": "218683",
+              "playOffsetMs": 15000,
+              "providerIds": {
+                "acrid": "b2a5328a50b74edd6316b2f09c0150aa",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        }
+      ],
+      "bestMatch": null
+    },
+    {
+      "playlistIndex": 69,
+      "videoId": "kHiENfANObQ",
+      "title": "2012massgame Red-Interval",
+      "url": "https://www.youtube.com/watch?v=kHiENfANObQ",
+      "duration": 78,
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "インター"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "インター"
+        ],
+        "matchedScene": "インター"
+      },
+      "samples": [
+        {
+          "offset": 15,
+          "sample": "tmp/music-recognition/samples/kHiENfANObQ_0015.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 27,
+          "sample": "tmp/music-recognition/samples/kHiENfANObQ_0027.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "消えない宙(Instrumental)",
+              "artist": "Natsumi Kon",
+              "album": "『劇場版 マジェスティックプリンス』主題歌 消えない宙 - EP",
+              "releaseDate": "2016-11-09",
+              "isrc": "JPZ921612674",
+              "score": 0.8,
+              "label": "",
+              "durationMs": "273240",
+              "playOffsetMs": 150000,
+              "providerIds": {
+                "acrid": "9d0d0025fcd799066122759ed55d5e8e",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 39,
+          "sample": "tmp/music-recognition/samples/kHiENfANObQ_0039.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 50,
+          "sample": "tmp/music-recognition/samples/kHiENfANObQ_0050.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 62,
+          "sample": "tmp/music-recognition/samples/kHiENfANObQ_0062.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Speaking Louder Than Before",
+              "artist": "Jeremy Camp",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "USBR20900029",
+              "score": 0.3,
+              "label": "BEC (BEC)",
+              "durationMs": 206000,
+              "playOffsetMs": 182000,
+              "providerIds": {
+                "acrid": "62434cd94478dd01756ec08b444dc10c",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        }
+      ],
+      "bestMatch": null
+    },
+    {
+      "playlistIndex": 71,
+      "videoId": "55uBcmcWjLM",
+      "title": "2012massgame Red-3rd stage",
+      "url": "https://www.youtube.com/watch?v=55uBcmcWjLM",
+      "duration": 201,
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "三部"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "三部"
+        ],
+        "matchedScene": "三部"
+      },
+      "samples": [
+        {
+          "offset": 40,
+          "sample": "tmp/music-recognition/samples/55uBcmcWjLM_0040.m4a",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Fair Warning",
+            "artist": "Departure",
+            "album": "Open Your Mind",
+            "releaseDate": "2022-12-15",
+            "isrc": null,
+            "score": 100,
+            "label": "Escape Music Ltd",
+            "durationMs": 282000,
+            "playOffsetMs": 51140,
+            "providerIds": {
+              "acrid": "cca1402a94cb5ba2d4e4b4052c7715b0",
+              "spotify": "6kBgssCgJdL0VxEAwvsFtL",
+              "youtube": "egUr-x5Bptk"
+            }
+          },
+          "music": [
+            {
+              "title": "Fair Warning",
+              "artist": "Departure",
+              "album": "Open Your Mind",
+              "releaseDate": "2022-12-15",
+              "isrc": null,
+              "score": 100,
+              "label": "Escape Music Ltd",
+              "durationMs": 282000,
+              "playOffsetMs": 51140,
+              "providerIds": {
+                "acrid": "cca1402a94cb5ba2d4e4b4052c7715b0",
+                "spotify": "6kBgssCgJdL0VxEAwvsFtL",
+                "youtube": "egUr-x5Bptk"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 70,
+          "sample": "tmp/music-recognition/samples/55uBcmcWjLM_0070.m4a",
+          "status": "Success",
+          "score": 97,
+          "match": {
+            "title": "Fair Warning",
+            "artist": "Departure",
+            "album": "Open Your Mind",
+            "releaseDate": "2022-12-15",
+            "isrc": null,
+            "score": 97,
+            "label": "Escape Music Ltd",
+            "durationMs": 282000,
+            "playOffsetMs": 149160,
+            "providerIds": {
+              "acrid": "cca1402a94cb5ba2d4e4b4052c7715b0",
+              "spotify": "6kBgssCgJdL0VxEAwvsFtL",
+              "youtube": "egUr-x5Bptk"
+            }
+          },
+          "music": [
+            {
+              "title": "Fair Warning",
+              "artist": "Departure",
+              "album": "Open Your Mind",
+              "releaseDate": "2022-12-15",
+              "isrc": null,
+              "score": 97,
+              "label": "Escape Music Ltd",
+              "durationMs": 282000,
+              "playOffsetMs": 149160,
+              "providerIds": {
+                "acrid": "cca1402a94cb5ba2d4e4b4052c7715b0",
+                "spotify": "6kBgssCgJdL0VxEAwvsFtL",
+                "youtube": "egUr-x5Bptk"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 100,
+          "sample": "tmp/music-recognition/samples/55uBcmcWjLM_0100.m4a",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Fair Warning",
+            "artist": "Departure",
+            "album": "Open Your Mind",
+            "releaseDate": "2022-12-15",
+            "isrc": null,
+            "score": 100,
+            "label": "Escape Music Ltd",
+            "durationMs": 282000,
+            "playOffsetMs": 185620,
+            "providerIds": {
+              "acrid": "cca1402a94cb5ba2d4e4b4052c7715b0",
+              "spotify": "6kBgssCgJdL0VxEAwvsFtL",
+              "youtube": "egUr-x5Bptk"
+            }
+          },
+          "music": [
+            {
+              "title": "Fair Warning",
+              "artist": "Departure",
+              "album": "Open Your Mind",
+              "releaseDate": "2022-12-15",
+              "isrc": null,
+              "score": 100,
+              "label": "Escape Music Ltd",
+              "durationMs": 282000,
+              "playOffsetMs": 185620,
+              "providerIds": {
+                "acrid": "cca1402a94cb5ba2d4e4b4052c7715b0",
+                "spotify": "6kBgssCgJdL0VxEAwvsFtL",
+                "youtube": "egUr-x5Bptk"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 130,
+          "sample": "tmp/music-recognition/samples/55uBcmcWjLM_0130.m4a",
+          "status": "Success",
+          "score": 46,
+          "match": {
+            "title": "Fair Warning",
+            "artist": "Departure",
+            "album": "Open Your Mind",
+            "releaseDate": "2022-12-15",
+            "isrc": null,
+            "score": 46,
+            "label": "Escape Music Ltd",
+            "durationMs": 282000,
+            "playOffsetMs": 222160,
+            "providerIds": {
+              "acrid": "cca1402a94cb5ba2d4e4b4052c7715b0",
+              "spotify": "6kBgssCgJdL0VxEAwvsFtL",
+              "youtube": "egUr-x5Bptk"
+            }
+          },
+          "music": [
+            {
+              "title": "Fair Warning",
+              "artist": "Departure",
+              "album": "Open Your Mind",
+              "releaseDate": "2022-12-15",
+              "isrc": null,
+              "score": 46,
+              "label": "Escape Music Ltd",
+              "durationMs": 282000,
+              "playOffsetMs": 222160,
+              "providerIds": {
+                "acrid": "cca1402a94cb5ba2d4e4b4052c7715b0",
+                "spotify": "6kBgssCgJdL0VxEAwvsFtL",
+                "youtube": "egUr-x5Bptk"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 160,
+          "sample": "tmp/music-recognition/samples/55uBcmcWjLM_0160.m4a",
+          "status": "Success",
+          "score": 76,
+          "match": {
+            "title": "Fair Warning",
+            "artist": "Departure",
+            "album": "Open Your Mind",
+            "releaseDate": "2022-12-15",
+            "isrc": null,
+            "score": 76,
+            "label": "Escape Music Ltd",
+            "durationMs": 282000,
+            "playOffsetMs": 252040,
+            "providerIds": {
+              "acrid": "cca1402a94cb5ba2d4e4b4052c7715b0",
+              "spotify": "6kBgssCgJdL0VxEAwvsFtL",
+              "youtube": "egUr-x5Bptk"
+            }
+          },
+          "music": [
+            {
+              "title": "Fair Warning",
+              "artist": "Departure",
+              "album": "Open Your Mind",
+              "releaseDate": "2022-12-15",
+              "isrc": null,
+              "score": 76,
+              "label": "Escape Music Ltd",
+              "durationMs": 282000,
+              "playOffsetMs": 252040,
+              "providerIds": {
+                "acrid": "cca1402a94cb5ba2d4e4b4052c7715b0",
+                "spotify": "6kBgssCgJdL0VxEAwvsFtL",
+                "youtube": "egUr-x5Bptk"
+              }
+            }
+          ],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "music",
+        "count": 5,
+        "score": 83.8,
+        "title": "Fair Warning",
+        "artist": "Departure",
+        "album": "Open Your Mind",
+        "releaseDate": "2022-12-15",
+        "isrc": null,
+        "providerIds": {
+          "acrid": "cca1402a94cb5ba2d4e4b4052c7715b0",
+          "spotify": "6kBgssCgJdL0VxEAwvsFtL",
+          "youtube": "egUr-x5Bptk"
+        }
+      }
+    },
+    {
+      "playlistIndex": 72,
+      "videoId": "yZ03aCsyyiI",
+      "title": "2012massgame Red-Ending",
+      "url": "https://www.youtube.com/watch?v=yZ03aCsyyiI",
+      "duration": 312,
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "unknownInfo": {
+        "hasUnknown": true,
+        "reason": "scene-target",
+        "unknownScenes": [
+          "退場"
+        ],
+        "matchedScene": "退場"
+      },
+      "samples": [
+        {
+          "offset": 62,
+          "sample": "tmp/music-recognition/samples/yZ03aCsyyiI_0062.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Stand Beside You",
+            "artist": "91 Suite",
+            "album": "Times They Change",
+            "releaseDate": "2006-08-29",
+            "isrc": null,
+            "score": 100,
+            "label": "Vicious Records",
+            "durationMs": 264000,
+            "playOffsetMs": 68040,
+            "providerIds": {
+              "acrid": "d5528e7d8382a91f6ab2c64d51bdf305",
+              "spotify": "64EuL6fEPV8DyjneAE4h4i",
+              "youtube": "JgYjQAeislw"
+            }
+          },
+          "music": [
+            {
+              "title": "Stand Beside You",
+              "artist": "91 Suite",
+              "album": "Times They Change",
+              "releaseDate": "2006-08-29",
+              "isrc": null,
+              "score": 100,
+              "label": "Vicious Records",
+              "durationMs": 264000,
+              "playOffsetMs": 68040,
+              "providerIds": {
+                "acrid": "d5528e7d8382a91f6ab2c64d51bdf305",
+                "spotify": "64EuL6fEPV8DyjneAE4h4i",
+                "youtube": "JgYjQAeislw"
+              }
+            },
+            {
+              "title": "Stand Beside You",
+              "artist": "91 Suite",
+              "album": "Times They Change",
+              "releaseDate": "2006-08-29",
+              "isrc": null,
+              "score": 100,
+              "label": "Vicious Records",
+              "durationMs": 264800,
+              "playOffsetMs": 68140,
+              "providerIds": {
+                "acrid": "92174d95b26e6eb6263276c6f1daff34",
+                "spotify": "64EuL6fEPV8DyjneAE4h4i",
+                "youtube": "JgYjQAeislw"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 109,
+          "sample": "tmp/music-recognition/samples/yZ03aCsyyiI_0109.webm",
+          "status": "Success",
+          "score": 82,
+          "match": {
+            "title": "Stand Beside You",
+            "artist": "91 Suite",
+            "album": "Times They Change",
+            "releaseDate": "2006-08-29",
+            "isrc": null,
+            "score": 82,
+            "label": "Vicious Records",
+            "durationMs": 264000,
+            "playOffsetMs": 121660,
+            "providerIds": {
+              "acrid": "d5528e7d8382a91f6ab2c64d51bdf305",
+              "spotify": "64EuL6fEPV8DyjneAE4h4i",
+              "youtube": "JgYjQAeislw"
+            }
+          },
+          "music": [
+            {
+              "title": "Stand Beside You",
+              "artist": "91 Suite",
+              "album": "Times They Change",
+              "releaseDate": "2006-08-29",
+              "isrc": null,
+              "score": 82,
+              "label": "Vicious Records",
+              "durationMs": 264000,
+              "playOffsetMs": 121660,
+              "providerIds": {
+                "acrid": "d5528e7d8382a91f6ab2c64d51bdf305",
+                "spotify": "64EuL6fEPV8DyjneAE4h4i",
+                "youtube": "JgYjQAeislw"
+              }
+            },
+            {
+              "title": "Stand Beside You",
+              "artist": "91 Suite",
+              "album": "Times They Change",
+              "releaseDate": "2006-08-29",
+              "isrc": null,
+              "score": 55,
+              "label": "Vicious Records",
+              "durationMs": 264800,
+              "playOffsetMs": 121660,
+              "providerIds": {
+                "acrid": "92174d95b26e6eb6263276c6f1daff34",
+                "spotify": "64EuL6fEPV8DyjneAE4h4i",
+                "youtube": "JgYjQAeislw"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 156,
+          "sample": "tmp/music-recognition/samples/yZ03aCsyyiI_0156.webm",
+          "status": "Success",
+          "score": 100,
+          "match": {
+            "title": "Stand Beside You",
+            "artist": "91 Suite",
+            "album": "Times They Change",
+            "releaseDate": "2006-08-29",
+            "isrc": null,
+            "score": 100,
+            "label": "Vicious Records",
+            "durationMs": 264800,
+            "playOffsetMs": 189920,
+            "providerIds": {
+              "acrid": "92174d95b26e6eb6263276c6f1daff34",
+              "spotify": "64EuL6fEPV8DyjneAE4h4i",
+              "youtube": "JgYjQAeislw"
+            }
+          },
+          "music": [
+            {
+              "title": "Stand Beside You",
+              "artist": "91 Suite",
+              "album": "Times They Change",
+              "releaseDate": "2006-08-29",
+              "isrc": null,
+              "score": 100,
+              "label": "Vicious Records",
+              "durationMs": 264800,
+              "playOffsetMs": 189920,
+              "providerIds": {
+                "acrid": "92174d95b26e6eb6263276c6f1daff34",
+                "spotify": "64EuL6fEPV8DyjneAE4h4i",
+                "youtube": "JgYjQAeislw"
+              }
+            },
+            {
+              "title": "Stand Beside You",
+              "artist": "91 Suite",
+              "album": "Times They Change",
+              "releaseDate": "2006-08-29",
+              "isrc": null,
+              "score": 76,
+              "label": "Vicious Records",
+              "durationMs": 264000,
+              "playOffsetMs": 190040,
+              "providerIds": {
+                "acrid": "d5528e7d8382a91f6ab2c64d51bdf305",
+                "spotify": "64EuL6fEPV8DyjneAE4h4i",
+                "youtube": "JgYjQAeislw"
+              }
+            }
+          ],
+          "humming": []
+        },
+        {
+          "offset": 202,
+          "sample": "tmp/music-recognition/samples/yZ03aCsyyiI_0202.webm",
+          "status": "Success",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": [
+            {
+              "title": "Nini (Claude Monnet Remix)",
+              "artist": "Sumo",
+              "album": "Nini (feat. Clarisse Muvemba) - Single",
+              "releaseDate": "2006-04-03",
+              "isrc": "SEWIP0600103",
+              "score": 0.43,
+              "label": "℗ 2006 Heya Hifi",
+              "durationMs": "331200",
+              "playOffsetMs": 145000,
+              "providerIds": {
+                "acrid": "59153303303a5a3e79c63c4a530634a9",
+                "spotify": null,
+                "youtube": null
+              }
+            },
+            {
+              "title": "Live And Let Die",
+              "artist": "Salt-N-Pepa",
+              "album": "",
+              "releaseDate": "",
+              "isrc": "USWWW0126077",
+              "score": 0.43,
+              "label": "Island Mercury",
+              "durationMs": 187000,
+              "playOffsetMs": 165000,
+              "providerIds": {
+                "acrid": "476e3dff0b60687d6ca5e93be0894a04",
+                "spotify": null,
+                "youtube": null
+              }
+            }
+          ]
+        },
+        {
+          "offset": 249,
+          "sample": "tmp/music-recognition/samples/yZ03aCsyyiI_0249.webm",
+          "status": "No result",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        }
+      ],
+      "bestMatch": {
+        "source": "music",
+        "count": 6,
+        "score": 85.5,
+        "title": "Stand Beside You",
+        "artist": "91 Suite",
+        "album": "Times They Change",
+        "releaseDate": "2006-08-29",
+        "isrc": null,
+        "providerIds": {
+          "acrid": "d5528e7d8382a91f6ab2c64d51bdf305",
+          "spotify": "64EuL6fEPV8DyjneAE4h4i",
+          "youtube": "JgYjQAeislw"
+        }
+      }
+    }
+  ]
+}

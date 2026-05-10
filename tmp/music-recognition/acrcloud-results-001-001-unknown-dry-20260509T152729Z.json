@@ -1,0 +1,1732 @@
+{
+  "provider": "acrcloud",
+  "playlist": {
+    "id": "PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "title": "月マス🌙",
+    "url": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "count": 131
+  },
+  "options": {
+    "offsets": [
+      30,
+      45,
+      60,
+      75,
+      90,
+      120
+    ],
+    "sampleLength": 12,
+    "filterUnknown": true,
+    "includeEmptyScenes": false,
+    "hummingMinScore": 0.9,
+    "topN": 5,
+    "dryRun": true
+  },
+  "generatedAt": "2026-05-09T15:27:29.433Z",
+  "skipped": [
+    {
+      "playlistIndex": 1,
+      "videoId": "lAmRsFDKres",
+      "title": "25moonmassgame opening",
+      "url": "https://www.youtube.com/watch?v=lAmRsFDKres",
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 2,
+      "videoId": "bb5yQmTyg2Y",
+      "title": "25moonmassgame 1st",
+      "url": "https://www.youtube.com/watch?v=bb5yQmTyg2Y",
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 3,
+      "videoId": "JjKwVU77g8g",
+      "title": "25moonmassgame inter",
+      "url": "https://www.youtube.com/watch?v=JjKwVU77g8g",
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 4,
+      "videoId": "j0Z51Jl7K88",
+      "title": "25moonmassgame 2nd",
+      "url": "https://www.youtube.com/watch?v=j0Z51Jl7K88",
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 5,
+      "videoId": "oqxhZH06Lt4",
+      "title": "25moonmassgame 3rd",
+      "url": "https://www.youtube.com/watch?v=oqxhZH06Lt4",
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 6,
+      "videoId": "Fx--R037dc8",
+      "title": "25moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=Fx--R037dc8",
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 7,
+      "videoId": "Jrm7VWKwsAc",
+      "title": "24moonmassgame opening",
+      "url": "https://www.youtube.com/watch?v=Jrm7VWKwsAc",
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 8,
+      "videoId": "JGmcQRVpDko",
+      "title": "24moonmassgame 1st",
+      "url": "https://www.youtube.com/watch?v=JGmcQRVpDko",
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 9,
+      "videoId": "HdAmClHPB14",
+      "title": "24moonmassgame inter",
+      "url": "https://www.youtube.com/watch?v=HdAmClHPB14",
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 10,
+      "videoId": "pdpNYyw_Snw",
+      "title": "24moonmassgame 2nd",
+      "url": "https://www.youtube.com/watch?v=pdpNYyw_Snw",
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 11,
+      "videoId": "PZ_cbfT65kQ",
+      "title": "24moonmassgame 3rd",
+      "url": "https://www.youtube.com/watch?v=PZ_cbfT65kQ",
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 12,
+      "videoId": "kRORkq2gy38",
+      "title": "24moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=kRORkq2gy38",
+      "parsed": {
+        "year": 2024,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 13,
+      "videoId": "NxlQ1nYqc0M",
+      "title": "23moonmassgame opening",
+      "url": "https://www.youtube.com/watch?v=NxlQ1nYqc0M",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 14,
+      "videoId": "KHWGTMmWGHE",
+      "title": "23moonmassgame 1st",
+      "url": "https://www.youtube.com/watch?v=KHWGTMmWGHE",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 15,
+      "videoId": "-bH8FqXPb7Y",
+      "title": "23moonmassgame inter",
+      "url": "https://www.youtube.com/watch?v=-bH8FqXPb7Y",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 16,
+      "videoId": "34dy0mWNSGU",
+      "title": "23moonmassgame 2nd",
+      "url": "https://www.youtube.com/watch?v=34dy0mWNSGU",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 17,
+      "videoId": "ciFmvoAZSb0",
+      "title": "23moonmassgame 3rd",
+      "url": "https://www.youtube.com/watch?v=ciFmvoAZSb0",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 18,
+      "videoId": "5FvA_8tGFv0",
+      "title": "23moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=5FvA_8tGFv0",
+      "parsed": {
+        "year": 2023,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 19,
+      "videoId": "0PYcF-zso0U",
+      "title": "広大附属 月マスゲーム 2022 入場",
+      "url": "https://www.youtube.com/watch?v=0PYcF-zso0U",
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 20,
+      "videoId": "D0vzwJcqJrc",
+      "title": "広大附属 月マスゲーム 2022 Ⅰ部",
+      "url": "https://www.youtube.com/watch?v=D0vzwJcqJrc",
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 21,
+      "videoId": "CVuxpJDaMlQ",
+      "title": "広大附属 月マスゲーム 2022 インター",
+      "url": "https://www.youtube.com/watch?v=CVuxpJDaMlQ",
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 22,
+      "videoId": "tQijBDBtLFg",
+      "title": "広大附属 月マスゲーム 2022 Ⅱ部",
+      "url": "https://www.youtube.com/watch?v=tQijBDBtLFg",
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 23,
+      "videoId": "hsBKKOyNkuA",
+      "title": "広大附属 月マスゲーム 2022 Ⅲ部",
+      "url": "https://www.youtube.com/watch?v=hsBKKOyNkuA",
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 24,
+      "videoId": "xQEnBdRXRz4",
+      "title": "広大附属 月マスゲーム 2022 退場",
+      "url": "https://www.youtube.com/watch?v=xQEnBdRXRz4",
+      "parsed": {
+        "year": 2022,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 25,
+      "videoId": "kRxXW_RkcYg",
+      "title": "21moonmassgame opening",
+      "url": "https://www.youtube.com/watch?v=kRxXW_RkcYg",
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 26,
+      "videoId": "MrkU8zkp0LE",
+      "title": "21moonmassgame 1st",
+      "url": "https://www.youtube.com/watch?v=MrkU8zkp0LE",
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 27,
+      "videoId": "Xjn7dTq6A_E",
+      "title": "21moonmassgame inter",
+      "url": "https://www.youtube.com/watch?v=Xjn7dTq6A_E",
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 28,
+      "videoId": "rzPeM499LVs",
+      "title": "21moonmassgame 2nd",
+      "url": "https://www.youtube.com/watch?v=rzPeM499LVs",
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 29,
+      "videoId": "716GWXbSr2U",
+      "title": "21moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=716GWXbSr2U",
+      "parsed": {
+        "year": 2021,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 30,
+      "videoId": "r2rwoZ6KbN0",
+      "title": "19moonmassgame opening",
+      "url": "https://www.youtube.com/watch?v=r2rwoZ6KbN0",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 31,
+      "videoId": "zdhDLasDRlo",
+      "title": "19moonmassgame 1st",
+      "url": "https://www.youtube.com/watch?v=zdhDLasDRlo",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 32,
+      "videoId": "8Pf2pGqKMXk",
+      "title": "19moonmassgame inter",
+      "url": "https://www.youtube.com/watch?v=8Pf2pGqKMXk",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 33,
+      "videoId": "OIDElyLimS0",
+      "title": "19moonmassgame 2nd",
+      "url": "https://www.youtube.com/watch?v=OIDElyLimS0",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 34,
+      "videoId": "AMH9Uv_6HdU",
+      "title": "19moonmassgame 3rd",
+      "url": "https://www.youtube.com/watch?v=AMH9Uv_6HdU",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 35,
+      "videoId": "sty_MWztmTU",
+      "title": "19moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=sty_MWztmTU",
+      "parsed": {
+        "year": 2019,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 36,
+      "videoId": "eVz395RlJMc",
+      "title": "18moonmassgame opening",
+      "url": "https://www.youtube.com/watch?v=eVz395RlJMc",
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 37,
+      "videoId": "r99vLtqBHNc",
+      "title": "18moonmassgame 1st stage",
+      "url": "https://www.youtube.com/watch?v=r99vLtqBHNc",
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 38,
+      "videoId": "RtJ0g8bd2k8",
+      "title": "18moonmassgame interval",
+      "url": "https://www.youtube.com/watch?v=RtJ0g8bd2k8",
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 39,
+      "videoId": "_-22AGfZxcY",
+      "title": "18moonmassgame 2nd stage",
+      "url": "https://www.youtube.com/watch?v=_-22AGfZxcY",
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 40,
+      "videoId": "jMPU0oRr_-8",
+      "title": "18moonmassgame 3rd stage",
+      "url": "https://www.youtube.com/watch?v=jMPU0oRr_-8",
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 41,
+      "videoId": "MskJD-YkSOA",
+      "title": "18moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=MskJD-YkSOA",
+      "parsed": {
+        "year": 2018,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 42,
+      "videoId": "JZxATg6v-7w",
+      "title": "17moonmassgame opening",
+      "url": "https://www.youtube.com/watch?v=JZxATg6v-7w",
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 43,
+      "videoId": "5ZhJdX1lfMQ",
+      "title": "17moonmassgame 1st stage",
+      "url": "https://www.youtube.com/watch?v=5ZhJdX1lfMQ",
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 44,
+      "videoId": "uBfJ8XBCfy0",
+      "title": "17moonmassgame inter",
+      "url": "https://www.youtube.com/watch?v=uBfJ8XBCfy0",
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 45,
+      "videoId": "hIuGkUa26nw",
+      "title": "17moonmassgame 2nd stage",
+      "url": "https://www.youtube.com/watch?v=hIuGkUa26nw",
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 46,
+      "videoId": "9OsloLSdK4Q",
+      "title": "17moonmassgame 3rd stage",
+      "url": "https://www.youtube.com/watch?v=9OsloLSdK4Q",
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 47,
+      "videoId": "Ue94QEd8KNI",
+      "title": "17moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=Ue94QEd8KNI",
+      "parsed": {
+        "year": 2017,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 48,
+      "videoId": "892QoVNLkY4",
+      "title": "16moonmassgame  entrance",
+      "url": "https://www.youtube.com/watch?v=892QoVNLkY4",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 49,
+      "videoId": "W5OAq7oI-aM",
+      "title": "16moonmassgame  1st",
+      "url": "https://www.youtube.com/watch?v=W5OAq7oI-aM",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 50,
+      "videoId": "nCZ4ql9qhHQ",
+      "title": "16moonmassgame  inter",
+      "url": "https://www.youtube.com/watch?v=nCZ4ql9qhHQ",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "インター"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 51,
+      "videoId": "s1d-0_C8LwM",
+      "title": "16moonmassgame  2nd",
+      "url": "https://www.youtube.com/watch?v=s1d-0_C8LwM",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 52,
+      "videoId": "XlvhMdLrHHg",
+      "title": "16moonmassgame  3rd",
+      "url": "https://www.youtube.com/watch?v=XlvhMdLrHHg",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 53,
+      "videoId": "oDKXHbCuzxI",
+      "title": "16moonmassgame  ending",
+      "url": "https://www.youtube.com/watch?v=oDKXHbCuzxI",
+      "parsed": {
+        "year": 2016,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 54,
+      "videoId": "eUEoCHrw9DU",
+      "title": "2015MoonMassGame-opening",
+      "url": "https://www.youtube.com/watch?v=eUEoCHrw9DU",
+      "parsed": {
+        "year": 2015,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 55,
+      "videoId": "PlIkqUH6cRQ",
+      "title": "2015MoonMassGame-1st stage",
+      "url": "https://www.youtube.com/watch?v=PlIkqUH6cRQ",
+      "parsed": {
+        "year": 2015,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 56,
+      "videoId": "Bj8oP2xUFmw",
+      "title": "2015MoonMassGame-interval",
+      "url": "https://www.youtube.com/watch?v=Bj8oP2xUFmw",
+      "parsed": {
+        "year": 2015,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 57,
+      "videoId": "IIKxi2fG0jE",
+      "title": "2015MoonMassGame-2nd stage",
+      "url": "https://www.youtube.com/watch?v=IIKxi2fG0jE",
+      "parsed": {
+        "year": 2015,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 58,
+      "videoId": "oeOgBQ3A4v0",
+      "title": "2015MoonMassGame-3rd stage",
+      "url": "https://www.youtube.com/watch?v=oeOgBQ3A4v0",
+      "parsed": {
+        "year": 2015,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 59,
+      "videoId": "jBYdpTGk-v4",
+      "title": "2015MoonMassGame-ending",
+      "url": "https://www.youtube.com/watch?v=jBYdpTGk-v4",
+      "parsed": {
+        "year": 2015,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 60,
+      "videoId": "6r_lPKYDdnQ",
+      "title": "2014 moonmass opening",
+      "url": "https://www.youtube.com/watch?v=6r_lPKYDdnQ",
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 61,
+      "videoId": "_oaI9YLLz5U",
+      "title": "2014 moonmass 1st stage",
+      "url": "https://www.youtube.com/watch?v=_oaI9YLLz5U",
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 62,
+      "videoId": "X4XneQuD5A4",
+      "title": "2014 moonmass interval",
+      "url": "https://www.youtube.com/watch?v=X4XneQuD5A4",
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 63,
+      "videoId": "DyzmN-zRJOo",
+      "title": "2014 moonmass 2nd stage",
+      "url": "https://www.youtube.com/watch?v=DyzmN-zRJOo",
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 64,
+      "videoId": "ukN4MPxGj8o",
+      "title": "2014 moonmass 3rd stage",
+      "url": "https://www.youtube.com/watch?v=ukN4MPxGj8o",
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 65,
+      "videoId": "RznpPeFDMh8",
+      "title": "2014 moonmass ending",
+      "url": "https://www.youtube.com/watch?v=RznpPeFDMh8",
+      "parsed": {
+        "year": 2014,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 66,
+      "videoId": "urLpV775ptU",
+      "title": "2013 moon massgame opening",
+      "url": "https://www.youtube.com/watch?v=urLpV775ptU",
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 67,
+      "videoId": "A3zJEYSnjbI",
+      "title": "2013 moonmassgame 1st stage",
+      "url": "https://www.youtube.com/watch?v=A3zJEYSnjbI",
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 68,
+      "videoId": "5fFkDszW0zk",
+      "title": "2013 moonmassgame 2nd stage",
+      "url": "https://www.youtube.com/watch?v=5fFkDszW0zk",
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 69,
+      "videoId": "3bwyekb72WI",
+      "title": "2013 moonmassgame 3rd stage",
+      "url": "https://www.youtube.com/watch?v=3bwyekb72WI",
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 70,
+      "videoId": "oEPrICXytl8",
+      "title": "2013 moonmassgame ending",
+      "url": "https://www.youtube.com/watch?v=oEPrICXytl8",
+      "parsed": {
+        "year": 2013,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 71,
+      "videoId": "StQGOVzEtUE",
+      "title": "2012massgame white-Opening",
+      "url": "https://www.youtube.com/watch?v=StQGOVzEtUE",
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 72,
+      "videoId": "Db5y3ciwOkw",
+      "title": "2012massgame white-1st stage",
+      "url": "https://www.youtube.com/watch?v=Db5y3ciwOkw",
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 73,
+      "videoId": "TpQLbCQKOww",
+      "title": "2012massgame white-Interval",
+      "url": "https://www.youtube.com/watch?v=TpQLbCQKOww",
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 74,
+      "videoId": "ZnhgUMKq_GU",
+      "title": "2012massgame white-2nd stage",
+      "url": "https://www.youtube.com/watch?v=ZnhgUMKq_GU",
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 75,
+      "videoId": "EAie0XFvkGY",
+      "title": "2012massgame white-3rd stage",
+      "url": "https://www.youtube.com/watch?v=EAie0XFvkGY",
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 76,
+      "videoId": "28L3XTnDhbs",
+      "title": "2012massgame white-Ending",
+      "url": "https://www.youtube.com/watch?v=28L3XTnDhbs",
+      "parsed": {
+        "year": 2012,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 77,
+      "videoId": "MrX3TG-G8Tc",
+      "title": "11massgame white-opening",
+      "url": "https://www.youtube.com/watch?v=MrX3TG-G8Tc",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 78,
+      "videoId": "NQABiiueY64",
+      "title": "11massgame white-scene1",
+      "url": "https://www.youtube.com/watch?v=NQABiiueY64",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 79,
+      "videoId": "H2tkLIEhrtU",
+      "title": "11massgame white-interval",
+      "url": "https://www.youtube.com/watch?v=H2tkLIEhrtU",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 80,
+      "videoId": "AzjbWOnhNZ0",
+      "title": "11massgame white-scene2",
+      "url": "https://www.youtube.com/watch?v=AzjbWOnhNZ0",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 81,
+      "videoId": "z6FhQtNdZcA",
+      "title": "11massgame white-scene3",
+      "url": "https://www.youtube.com/watch?v=z6FhQtNdZcA",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 82,
+      "videoId": "s8I8QDL6kx4",
+      "title": "11massgame white-ending",
+      "url": "https://www.youtube.com/watch?v=s8I8QDL6kx4",
+      "parsed": {
+        "year": 2011,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 83,
+      "videoId": "p-raHQbWGHM",
+      "title": "10massgame white-opening",
+      "url": "https://www.youtube.com/watch?v=p-raHQbWGHM",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 84,
+      "videoId": "xc0fVB05SOs",
+      "title": "10massgame white-scene1",
+      "url": "https://www.youtube.com/watch?v=xc0fVB05SOs",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 85,
+      "videoId": "k4GIvgF98g4",
+      "title": "10massgame white-interval",
+      "url": "https://www.youtube.com/watch?v=k4GIvgF98g4",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 86,
+      "videoId": "k24ME1th_rY",
+      "title": "10massgame white-scene2",
+      "url": "https://www.youtube.com/watch?v=k24ME1th_rY",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 87,
+      "videoId": "Bds5iWAbWPA",
+      "title": "10massgame white-scene3",
+      "url": "https://www.youtube.com/watch?v=Bds5iWAbWPA",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 88,
+      "videoId": "RPor6n6YC0Y",
+      "title": "10massgame white-ending",
+      "url": "https://www.youtube.com/watch?v=RPor6n6YC0Y",
+      "parsed": {
+        "year": 2010,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 89,
+      "videoId": "pAUKTpXAvwU",
+      "title": "09massgame white-opening",
+      "url": "https://www.youtube.com/watch?v=pAUKTpXAvwU",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 90,
+      "videoId": "DAi7E1VYNH4",
+      "title": "09massgame white-scene1",
+      "url": "https://www.youtube.com/watch?v=DAi7E1VYNH4",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 91,
+      "videoId": "bz1FqJZ4qJc",
+      "title": "09massgame white-interval",
+      "url": "https://www.youtube.com/watch?v=bz1FqJZ4qJc",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 92,
+      "videoId": "A4_EfdiBWkA",
+      "title": "09massgame white-scene2",
+      "url": "https://www.youtube.com/watch?v=A4_EfdiBWkA",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 93,
+      "videoId": "8i9VH9xvYDw",
+      "title": "09massgame white-scene3",
+      "url": "https://www.youtube.com/watch?v=8i9VH9xvYDw",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 94,
+      "videoId": "UDFRRKawR4Y",
+      "title": "09massgame white-ending",
+      "url": "https://www.youtube.com/watch?v=UDFRRKawR4Y",
+      "parsed": {
+        "year": 2009,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 95,
+      "videoId": "JxTtVLrK8ds",
+      "title": "08W-0",
+      "url": "https://www.youtube.com/watch?v=JxTtVLrK8ds",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 96,
+      "videoId": "1OBM9X7tak8",
+      "title": "08W-1",
+      "url": "https://www.youtube.com/watch?v=1OBM9X7tak8",
+      "parsed": {
+        "year": 2008,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 97,
+      "videoId": "Fk1DZMjxRLs",
+      "title": "08W-1.5",
+      "url": "https://www.youtube.com/watch?v=Fk1DZMjxRLs",
+      "parsed": {
+        "year": 2008,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 98,
+      "videoId": "kQ1aMx4Gvoc",
+      "title": "08W-2",
+      "url": "https://www.youtube.com/watch?v=kQ1aMx4Gvoc",
+      "parsed": {
+        "year": 2008,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 99,
+      "videoId": "pKfPNzuwUXY",
+      "title": "08W-3",
+      "url": "https://www.youtube.com/watch?v=pKfPNzuwUXY",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 100,
+      "videoId": "1UhD-_vRgZQ",
+      "title": "08W-E",
+      "url": "https://www.youtube.com/watch?v=1UhD-_vRgZQ",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 101,
+      "videoId": "tcCQkYhZmx0",
+      "title": "07W-0",
+      "url": "https://www.youtube.com/watch?v=tcCQkYhZmx0",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 102,
+      "videoId": "xWdgksyRfWE",
+      "title": "07W-1",
+      "url": "https://www.youtube.com/watch?v=xWdgksyRfWE",
+      "parsed": {
+        "year": 2007,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 103,
+      "videoId": "ERe14A4eadY",
+      "title": "07W-1.5",
+      "url": "https://www.youtube.com/watch?v=ERe14A4eadY",
+      "parsed": {
+        "year": 2007,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 104,
+      "videoId": "7ry5kSyoihg",
+      "title": "07W-2",
+      "url": "https://www.youtube.com/watch?v=7ry5kSyoihg",
+      "parsed": {
+        "year": 2007,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 105,
+      "videoId": "fxtk1ByJcwA",
+      "title": "07W-3",
+      "url": "https://www.youtube.com/watch?v=fxtk1ByJcwA",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 106,
+      "videoId": "iS2pA6W71fw",
+      "title": "07W-E",
+      "url": "https://www.youtube.com/watch?v=iS2pA6W71fw",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 107,
+      "videoId": "-POljhK3Ar4",
+      "title": "06WHITEMASSGAME Entrance",
+      "url": "https://www.youtube.com/watch?v=-POljhK3Ar4",
+      "parsed": {
+        "year": 2006,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 108,
+      "videoId": "xQSMyagaZyU",
+      "title": "06WHITEMASSGAME 1stStage",
+      "url": "https://www.youtube.com/watch?v=xQSMyagaZyU",
+      "parsed": {
+        "year": 2006,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 109,
+      "videoId": "ecCTFVBmTTQ",
+      "title": "06WHITEMASSGAME 2ndStage",
+      "url": "https://www.youtube.com/watch?v=ecCTFVBmTTQ",
+      "parsed": {
+        "year": 2006,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 110,
+      "videoId": "ymUFfyonzCk",
+      "title": "06WHITEMASSGAME 3rdStage",
+      "url": "https://www.youtube.com/watch?v=ymUFfyonzCk",
+      "parsed": {
+        "year": 2006,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 111,
+      "videoId": "JzGGhG3-rYw",
+      "title": "05W 1",
+      "url": "https://www.youtube.com/watch?v=JzGGhG3-rYw",
+      "parsed": {
+        "year": 2005,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 112,
+      "videoId": "2IcD3Nqkoa8",
+      "title": "05W-2",
+      "url": "https://www.youtube.com/watch?v=2IcD3Nqkoa8",
+      "parsed": {
+        "year": 2005,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 113,
+      "videoId": "VXJIPVx4CMU",
+      "title": "2004White　Entrance",
+      "url": "https://www.youtube.com/watch?v=VXJIPVx4CMU",
+      "parsed": {
+        "year": 2004,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 114,
+      "videoId": "_Q50pVtkh34",
+      "title": "2004White 1st_stage",
+      "url": "https://www.youtube.com/watch?v=_Q50pVtkh34",
+      "parsed": {
+        "year": 2004,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 115,
+      "videoId": "IWMy3_6EwpA",
+      "title": "2004White Interbal",
+      "url": "https://www.youtube.com/watch?v=IWMy3_6EwpA",
+      "parsed": {
+        "year": 2004,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "all-known"
+    },
+    {
+      "playlistIndex": 116,
+      "videoId": "XPtwRYGb-I0",
+      "title": "2004White 3rd_stage",
+      "url": "https://www.youtube.com/watch?v=XPtwRYGb-I0",
+      "parsed": {
+        "year": 2004,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 117,
+      "videoId": "Cfg_o5n8OOM",
+      "title": "03W-0",
+      "url": "https://www.youtube.com/watch?v=Cfg_o5n8OOM",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 118,
+      "videoId": "rvjoFVxPyPM",
+      "title": "03WHITEMassGame １stStage",
+      "url": "https://www.youtube.com/watch?v=rvjoFVxPyPM",
+      "parsed": {
+        "year": 2003,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 119,
+      "videoId": "StKxh2MgGLo",
+      "title": "03W-1.5",
+      "url": "https://www.youtube.com/watch?v=StKxh2MgGLo",
+      "parsed": {
+        "year": 2003,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 120,
+      "videoId": "Vacp7H_uR-M",
+      "title": "03W-2",
+      "url": "https://www.youtube.com/watch?v=Vacp7H_uR-M",
+      "parsed": {
+        "year": 2003,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 121,
+      "videoId": "cRyCv0iyT4g",
+      "title": "03W-3",
+      "url": "https://www.youtube.com/watch?v=cRyCv0iyT4g",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 122,
+      "videoId": "2NhMXi0BtL4",
+      "title": "03W-E",
+      "url": "https://www.youtube.com/watch?v=2NhMXi0BtL4",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 123,
+      "videoId": "BS6Sgg4CGMU",
+      "title": "02WHITEMassGame １stStage",
+      "url": "https://www.youtube.com/watch?v=BS6Sgg4CGMU",
+      "parsed": {
+        "year": 2002,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 124,
+      "videoId": "XB7wyFLM3EU",
+      "title": "02WHITEMassGame 2ndStage",
+      "url": "https://www.youtube.com/watch?v=XB7wyFLM3EU",
+      "parsed": {
+        "year": 2002,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 125,
+      "videoId": "t0q0OCfEBvg",
+      "title": "01WHITEMassGame 2ndStage",
+      "url": "https://www.youtube.com/watch?v=t0q0OCfEBvg",
+      "parsed": {
+        "year": 2001,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 126,
+      "videoId": "nfF3pr0FEcA",
+      "title": "00W 0",
+      "url": "https://www.youtube.com/watch?v=nfF3pr0FEcA",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": null
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 127,
+      "videoId": "Ts1xsSOiEfE",
+      "title": "00WHITEMassGame １stStage",
+      "url": "https://www.youtube.com/watch?v=Ts1xsSOiEfE",
+      "parsed": {
+        "year": 2000,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 128,
+      "videoId": "C3T4G6gOSQw",
+      "title": "00W 1 5",
+      "url": "https://www.youtube.com/watch?v=C3T4G6gOSQw",
+      "parsed": {
+        "year": 2000,
+        "legacyGroup": "White",
+        "part": 1,
+        "scene": "一部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 129,
+      "videoId": "ICC3nuHRPZw",
+      "title": "00WHITEMassGame 2ndStage",
+      "url": "https://www.youtube.com/watch?v=ICC3nuHRPZw",
+      "parsed": {
+        "year": 2000,
+        "legacyGroup": "White",
+        "part": 2,
+        "scene": "二部"
+      },
+      "reason": "scene-known"
+    },
+    {
+      "playlistIndex": 130,
+      "videoId": "h-61OuW6Vy8",
+      "title": "00W 3",
+      "url": "https://www.youtube.com/watch?v=h-61OuW6Vy8",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "三部"
+      },
+      "reason": "unparsed-title"
+    },
+    {
+      "playlistIndex": 131,
+      "videoId": "3tRNO8PqC7I",
+      "title": "00R E",
+      "url": "https://www.youtube.com/watch?v=3tRNO8PqC7I",
+      "parsed": {
+        "year": null,
+        "legacyGroup": "Red",
+        "part": null,
+        "scene": "退場"
+      },
+      "reason": "unparsed-title"
+    }
+  ],
+  "results": []
+}

@@ -126,6 +126,39 @@ npm run extract:fc2
 npm run normalize:music
 ```
 
+## YouTube楽曲照合
+
+YouTube再生リストの音声断片を `yt-dlp` と `ffmpeg` で切り出し、AudDまたはACRCloudで照合します。結果は公開データには直接反映せず、`tmp/music-recognition/` にJSONとMarkdownで出力します。
+
+AudD:
+
+```sh
+AUDD_API_TOKEN=... npm run recognize:music -- --provider audd --limit 5
+```
+
+ACRCloud:
+
+```sh
+ACRCLOUD_HOST=identify-ap-southeast-1.acrcloud.com \
+ACRCLOUD_ACCESS_KEY=... \
+ACRCLOUD_ACCESS_SECRET=... \
+npm run recognize:music -- --provider acrcloud --limit 5
+```
+
+対象の既定プレイリストは「広大附属 マスゲーム」です。全130本を一度に処理する前に、`--limit` や `--start-index` で小さく試してください。標準では各動画の30秒、45秒、60秒地点から最大12秒のサンプルを切り出します。短い動画では、動画の長さに収まる位置へ自動で丸めます。
+
+API照合を行わず、プレイリスト一覧だけを保存する場合:
+
+```sh
+npm run recognize:music -- --metadata-only
+```
+
+未検出が多い動画だけ再試行する場合は、サンプル位置を増やします。
+
+```sh
+npm run recognize:music -- --provider acrcloud --start-index 10 --limit 1 --offsets 30,45,60,75,90
+```
+
 ## 引き継ぎの流れ
 
 このサイトはGitHubで管理し、担当者が変更ブランチを作ってPull Requestを出し、レビュー後にマージすると公開サイトへ反映される運用を想定しています。

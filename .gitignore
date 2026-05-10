@@ -3,3 +3,7 @@ dist/
 .astro/
 .DS_Store
 npm-debug.log*
+
+# Music recognition: 音声サンプル（容量大・著作権配慮）と生APIレスポンス
+tmp/music-recognition/samples/
+tmp/music-recognition/raw/

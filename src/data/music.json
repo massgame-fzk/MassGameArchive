@@ -30,7 +30,15 @@
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Blue Lightning",
+            "artist": "Evan",
+            "source": "ACRCloud音源認識: 25moonmassgame inter",
+            "sourceUrl": "https://www.youtube.com/watch?v=JjKwVU77g8g",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
@@ -46,7 +54,15 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Where I Belong (feat. We the Kings)",
+            "artist": "Simple Plan, State Champs",
+            "source": "ACRCloud音源認識: 25moonmassgame 3rd",
+            "sourceUrl": "https://www.youtube.com/watch?v=oqxhZH06Lt4",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
@@ -94,7 +110,15 @@
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "BUMP!",
+            "artist": "土屋裕一",
+            "source": "ACRCloud音源認識: 25sunmassgame inter",
+            "sourceUrl": "https://www.youtube.com/watch?v=toEAWfdjndE",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
@@ -142,11 +166,27 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Everywhere I Go",
+            "artist": "Onlap",
+            "source": "ACRCloud音源認識: 24moonmassgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=Jrm7VWKwsAc",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Oak And Ash",
+            "artist": "Fellowship",
+            "source": "ACRCloud音源認識: 24moonmassgame 1st",
+            "sourceUrl": "https://www.youtube.com/watch?v=JGmcQRVpDko",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "インター",
@@ -198,7 +238,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Rock Ain't Dead",
+            "artist": "Onlap",
+            "source": "ACRCloud音源認識: 24sunmassgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=PwR0vZzBEpc",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -214,7 +262,15 @@
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "The Ultimate (Naked mix)",
+            "artist": "目黒将司",
+            "source": "ACRCloud音源認識: 24sunmassgame inter",
+            "sourceUrl": "https://www.youtube.com/watch?v=HOe9kIPFLRE",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
@@ -509,7 +565,15 @@
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Mounting The V-Watch",
+            "artist": "V.A",
+            "source": "ACRCloud音源認識: 広大附属 太陽マスゲーム 2022 インター",
+            "sourceUrl": "https://www.youtube.com/watch?v=qSujD_7EYSE",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
@@ -537,7 +601,15 @@
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "The Antidote",
+            "artist": "Simple Plan",
+            "source": "ACRCloud音源認識: 広大附属 太陽マスゲーム 2022 退場",
+            "sourceUrl": "https://www.youtube.com/watch?v=FDU7WP2YUrw",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true
@@ -637,7 +709,15 @@
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Ignition",
+            "artist": "Aragon",
+            "source": "ACRCloud音源認識: 21sunmassgame inter",
+            "sourceUrl": "https://www.youtube.com/watch?v=Hh3ex7DezYY",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
@@ -709,7 +789,15 @@
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Chasing The Moonlight (Feat. 김세황)",
+            "artist": "Jimi & Doma Studio",
+            "source": "ACRCloud音源認識: 19moonmassgame inter",
+            "sourceUrl": "https://www.youtube.com/watch?v=8Pf2pGqKMXk",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
@@ -853,7 +941,15 @@
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Blue Water Blue Sky -May's Theme-",
+            "artist": "Arc System Works",
+            "source": "ACRCloud音源認識: 18moonmassgame interval",
+            "sourceUrl": "https://www.youtube.com/watch?v=RtJ0g8bd2k8",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
@@ -913,7 +1009,15 @@
       },
       {
         "scene": "一部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Burn (feat. Henning Basse)",
+            "artist": "Derdian",
+            "source": "ACRCloud音源認識: 18sunmassgame 1st stage",
+            "sourceUrl": "https://www.youtube.com/watch?v=jP7BzIdPaZY",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "インター",
@@ -1051,7 +1155,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Land Of Broken Dreams",
+            "artist": "Dynazty",
+            "source": "ACRCloud音源認識: 17sunmassgame opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=W8yZB1PbJwk",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -1067,7 +1179,15 @@
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "You Will Know Our Names",
+            "artist": "ACE+",
+            "source": "ACRCloud音源認識: 17sunmassgame inter",
+            "sourceUrl": "https://www.youtube.com/watch?v=y3XCzJP3rRQ",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
@@ -1139,7 +1259,15 @@
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Till Next Time -Staff Roll 1-",
+            "artist": "アークシステムワークス",
+            "source": "ACRCloud音源認識: 16moonmassgame  inter",
+            "sourceUrl": "https://www.youtube.com/watch?v=nCZ4ql9qhHQ",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
@@ -1302,7 +1430,15 @@
       },
       {
         "scene": "二部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "マジック フィーチャリング カナ",
+            "artist": "i-dep",
+            "source": "ACRCloud音源認識: 2015MoonMassGame-2nd stage",
+            "sourceUrl": "https://www.youtube.com/watch?v=IIKxi2fG0jE",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "三部",
@@ -1458,7 +1594,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "I Burn For You",
+            "artist": "Treat",
+            "source": "ACRCloud音源認識: 2014 sunmass opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=lvled2vYTPA",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -1498,7 +1642,15 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Any Way You Want It / Lovin' Touchin' Squeezin' (Glee Cast Version)",
+            "artist": "Glee Cast",
+            "source": "ACRCloud音源認識: 2014 sunmass 3rd stage",
+            "sourceUrl": "https://www.youtube.com/watch?v=yoxZn3rewt8",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
@@ -1666,7 +1818,15 @@
     "scenes": [
       {
         "scene": "入場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "After the Nine O'clock News",
+            "artist": "Wig Wam",
+            "source": "ACRCloud音源認識: 2012massgame white-Opening",
+            "sourceUrl": "https://www.youtube.com/watch?v=StQGOVzEtUE",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "一部",
@@ -1770,11 +1930,27 @@
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Fair Warning",
+            "artist": "Departure",
+            "source": "ACRCloud音源認識: 2012massgame Red-3rd stage",
+            "sourceUrl": "https://www.youtube.com/watch?v=55uBcmcWjLM",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Stand Beside You",
+            "artist": "91 Suite",
+            "source": "ACRCloud音源認識: 2012massgame Red-Ending",
+            "sourceUrl": "https://www.youtube.com/watch?v=yZ03aCsyyiI",
+            "verified": true
+          }
+        ]
       }
     ],
     "verified": true

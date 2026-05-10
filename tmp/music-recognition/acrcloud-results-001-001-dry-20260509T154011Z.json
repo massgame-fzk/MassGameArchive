@@ -1,0 +1,89 @@
+{
+  "provider": "acrcloud",
+  "playlist": {
+    "id": "PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "title": "月マス🌙",
+    "url": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+    "count": 131
+  },
+  "options": {
+    "offsets": [
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.6
+    ],
+    "sampleLength": 12,
+    "filterUnknown": false,
+    "includeEmptyScenes": false,
+    "hummingMinScore": 0.9,
+    "topN": 5,
+    "dryRun": true
+  },
+  "generatedAt": "2026-05-09T15:40:11.770Z",
+  "results": [
+    {
+      "playlistIndex": 1,
+      "videoId": "lAmRsFDKres",
+      "title": "25moonmassgame opening",
+      "url": "https://www.youtube.com/watch?v=lAmRsFDKres",
+      "duration": 147,
+      "parsed": {
+        "year": 2025,
+        "legacyGroup": "White",
+        "part": null,
+        "scene": "入場"
+      },
+      "unknownInfo": null,
+      "samples": [
+        {
+          "offset": 29,
+          "sample": null,
+          "status": "ok",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 44,
+          "sample": null,
+          "status": "ok",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 58,
+          "sample": null,
+          "status": "ok",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 73,
+          "sample": null,
+          "status": "ok",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        },
+        {
+          "offset": 88,
+          "sample": null,
+          "status": "ok",
+          "score": 0,
+          "match": null,
+          "music": [],
+          "humming": []
+        }
+      ],
+      "bestMatch": null
+    }
+  ]
+}
