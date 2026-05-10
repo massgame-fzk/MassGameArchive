@@ -9,17 +9,18 @@ const sorted = [...years]
     eventDateLabel: formatEventDate(entry.eventDate),
   }));
 
-const yearsAsc = [...sorted].sort((a, b) => a.year - b.year);
-const minYear = yearsAsc.length > 0 ? yearsAsc[0].year : 0;
-const maxYear = yearsAsc.length > 0 ? yearsAsc[yearsAsc.length - 1].year : 0;
-const yearRange = Math.max(1, maxYear - minYear);
+type DecadeEntry = (typeof sorted)[number];
+const decadeMap = new Map<number, DecadeEntry[]>();
+for (const entry of sorted) {
+  const decade = Math.floor(entry.year / 10) * 10;
+  const list = decadeMap.get(decade) ?? [];
+  list.push(entry);
+  decadeMap.set(decade, list);
+}
 
-const tickXs = yearsAsc.map((entry) => ({
-  year: entry.year,
-  x: ((entry.year - minYear) / yearRange) * 1000,
-}));
-
-const labelStops = [minYear, minYear + Math.round(yearRange * 0.25), minYear + Math.round(yearRange * 0.5), minYear + Math.round(yearRange * 0.75), maxYear];
+const decades = [...decadeMap.entries()]
+  .sort((a, b) => b[0] - a[0])
+  .map(([decade, entries]) => ({ decade, entries }));
 ---
 
 <BaseLayout title="年度別" breadcrumbs={[{ label: "年度別" }]}>
@@ -29,134 +30,28 @@ const labelStops = [minYear, minYear + Math.round(yearRange * 0.25), minYear + M
     <p class="lead">曲またはYouTube動画が確認できる年度を中心に掲載しています。各年度ページで曲と動画を確認できます。</p>
   </section>
 
-  <section class="section wrap narrow year-timeline-section">
-    <div class="year-timeline" data-min-year={minYear} data-max-year={maxYear}>
-      <div class="year-timeline-labels" aria-hidden="true">
-        {labelStops.map((y) => <span>{y}</span>)}
-      </div>
-      <div class="year-timeline-track">
-        <svg class="year-timeline-ticks" viewBox="0 0 1000 24" preserveAspectRatio="none" aria-hidden="true">
-          <line class="year-timeline-axis" x1="0" y1="12" x2="1000" y2="12"></line>
-          {tickXs.map((tick) => (
-            <line class="year-timeline-tick" x1={tick.x} y1="4" x2={tick.x} y2="20"></line>
-          ))}
-        </svg>
-        <input
-          class="year-timeline-input"
-          type="range"
-          min={minYear}
-          max={maxYear}
-          step="1"
-          value={maxYear}
-          aria-label="年度を選んで一覧をスクロール"
-        />
-      </div>
-      <p class="year-timeline-readout" aria-live="polite">
-        <span class="year-timeline-readout-label">表示中</span>
-        <span class="year-timeline-readout-value" data-readout>{maxYear}年度</span>
-      </p>
-    </div>
-  </section>
-
-  <section class="section wrap narrow">
-    <div class="year-grid">
-      {sorted.map((entry) => (
-        <a class="year-card" href={`/years/${entry.year}/`} id={`year-${entry.year}`} data-year={entry.year}>
-          <span class="year-card-number">{entry.year}</span>
-          <span class="year-card-event">
-            {entry.eventDateLabel ? `体育祭: ${entry.eventDateLabel}` : "体育祭の日付は未確認"}
-          </span>
-          {entry.summary && <span class="year-card-summary">{entry.summary}</span>}
-        </a>
+  {decades.length > 0 && (
+    <nav class="year-decade-nav wrap narrow" aria-label="年代へジャンプ">
+      {decades.map(({ decade }) => (
+        <a class="year-decade-nav-item" href={`#decade-${decade}`}>{decade}年代</a>
       ))}
-    </div>
-  </section>
+    </nav>
+  )}
 
-  <script>
-    const timeline = document.querySelector<HTMLElement>(".year-timeline");
-    const input = document.querySelector<HTMLInputElement>(".year-timeline-input");
-    const readout = document.querySelector<HTMLElement>("[data-readout]");
-    const cards = Array.from(document.querySelectorAll<HTMLElement>(".year-card"));
-
-    if (timeline && input && readout && cards.length > 0) {
-      const minYear = Number(timeline.dataset.minYear ?? 0);
-      const maxYear = Number(timeline.dataset.maxYear ?? 0);
-      const cardByYear = new Map<number, HTMLElement>();
-      cards.forEach((card) => {
-        const y = Number(card.dataset.year);
-        if (!Number.isNaN(y)) cardByYear.set(y, card);
-      });
-
-      const setReadout = (year: number) => {
-        readout.textContent = `${year}年度`;
-      };
-
-      const findClosestYear = (year: number) => {
-        if (cardByYear.has(year)) return year;
-        let best = year;
-        let bestDist = Infinity;
-        cardByYear.forEach((_, y) => {
-          const d = Math.abs(y - year);
-          if (d < bestDist) {
-            bestDist = d;
-            best = y;
-          }
-        });
-        return best;
-      };
-
-      const scrollToYear = (year: number) => {
-        const target = cardByYear.get(year);
-        if (!target) return;
-        const headerHeightVar = getComputedStyle(document.documentElement).getPropertyValue("--site-header-height");
-        const headerHeight = parseFloat(headerHeightVar) || 64;
-        const rect = target.getBoundingClientRect();
-        const top = rect.top + window.scrollY - headerHeight - 16;
-        window.scrollTo({ top, behavior: "smooth" });
-      };
-
-      let userInteracting = false;
-      let interactingTimeout: number | undefined;
-
-      input.addEventListener("input", () => {
-        const requested = Number(input.value);
-        const target = findClosestYear(requested);
-        setReadout(target);
-        userInteracting = true;
-        if (interactingTimeout) window.clearTimeout(interactingTimeout);
-        interactingTimeout = window.setTimeout(() => {
-          userInteracting = false;
-        }, 1200);
-        scrollToYear(target);
-      });
-
-      // Update slider as the user scrolls the page (when not driving the slider)
-      const observer = new IntersectionObserver(
-        (entries) => {
-          if (userInteracting) return;
-          // Pick the entry with the highest intersection ratio that's intersecting
-          let best: IntersectionObserverEntry | undefined;
-          entries.forEach((entry) => {
-            if (!entry.isIntersecting) return;
-            if (!best || entry.intersectionRatio > best.intersectionRatio) {
-              best = entry;
-            }
-          });
-          if (!best) return;
-          const target = best.target as HTMLElement;
-          const y = Number(target.dataset.year);
-          if (Number.isNaN(y)) return;
-          if (y < minYear || y > maxYear) return;
-          input.value = String(y);
-          setReadout(y);
-        },
-        {
-          rootMargin: "-20% 0px -60% 0px",
-          threshold: [0, 0.25, 0.5, 0.75, 1],
-        }
-      );
-
-      cards.forEach((card) => observer.observe(card));
-    }
-  </script>
+  {decades.map(({ decade, entries }) => (
+    <section class="section wrap narrow year-decade-section" id={`decade-${decade}`}>
+      <h2 class="year-decade-heading">{decade}年代</h2>
+      <div class="year-grid">
+        {entries.map((entry) => (
+          <a class="year-card" href={`/years/${entry.year}/`}>
+            <span class="year-card-number">{entry.year}</span>
+            <span class="year-card-event">
+              {entry.eventDateLabel ? `体育祭: ${entry.eventDateLabel}` : "体育祭の日付は未確認"}
+            </span>
+            {entry.summary && <span class="year-card-summary">{entry.summary}</span>}
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
 </BaseLayout>
