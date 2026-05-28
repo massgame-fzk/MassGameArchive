@@ -322,8 +322,8 @@
           {
             "title": "Monster",
             "artist": "Skillet",
-            "source": "YouTube音源取得: 23moonmassgame opening",
-            "sourceUrl": "https://www.youtube.com/watch?v=NxlQ1nYqc0M",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -333,25 +333,33 @@
         "tracks": [
           {
             "title": "Distant Sky",
-            "artist": "Rhapsody of Fire",
-            "source": "YouTube音源取得: 23moonmassgame 1st",
-            "sourceUrl": "https://www.youtube.com/watch?v=KHWGTMmWGHE",
+            "artist": "Rhapsody of fire",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Low-altitude Flight",
+            "artist": "Jimi & Doma studio",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
         "tracks": [
           {
-            "title": "LOOKING AT THE STARS (THE STANDARD CLUB PIANO DANCE REMIX)",
-            "artist": "Q;indivi",
-            "source": "YouTube音源取得: 23moonmassgame 2nd",
-            "sourceUrl": "https://www.youtube.com/watch?v=34dy0mWNSGU",
+            "title": "Looking at the stars",
+            "artist": "Qindivi",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -360,10 +368,10 @@
         "scene": "三部",
         "tracks": [
           {
-            "title": "Lost In Stereo",
+            "title": "Lost in stereo",
             "artist": "All Time Low",
-            "source": "YouTube音源取得: 23moonmassgame 3rd",
-            "sourceUrl": "https://www.youtube.com/watch?v=ciFmvoAZSb0",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -372,10 +380,10 @@
         "scene": "退場",
         "tracks": [
           {
-            "title": "Last First Kiss",
+            "title": "Last first kiss",
             "artist": "One Direction",
-            "source": "YouTube音源取得: 23moonmassgame ending",
-            "sourceUrl": "https://www.youtube.com/watch?v=5FvA_8tGFv0",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -471,10 +479,10 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "Made For This",
+            "title": "Made for this",
             "artist": "The Phantoms",
-            "source": "YouTube音源取得: 広大附属 月マスゲーム 2022 入場",
-            "sourceUrl": "https://www.youtube.com/watch?v=0PYcF-zso0U",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -484,25 +492,33 @@
         "tracks": [
           {
             "title": "Shining Unity",
-            "artist": "Galderia",
-            "source": "YouTube音源取得: 広大附属 月マスゲーム 2022 Ⅰ部",
-            "sourceUrl": "https://www.youtube.com/watch?v=D0vzwJcqJrc",
+            "artist": "Majestica",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Metal Arrangement #1",
+            "artist": "Melogic instrument rock",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
         "tracks": [
           {
-            "title": "The Very First Night (Taylor's Version) (From The Vault)",
+            "title": "The very first night",
             "artist": "Taylor Swift",
-            "source": "YouTube音源取得: 広大附属 月マスゲーム 2022 Ⅱ部",
-            "sourceUrl": "https://www.youtube.com/watch?v=tQijBDBtLFg",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -511,10 +527,10 @@
         "scene": "三部",
         "tracks": [
           {
-            "title": "Contagious (Album Version)",
-            "artist": "Boys Like Girls",
-            "source": "YouTube音源取得: 広大附属 月マスゲーム 2022 Ⅲ部",
-            "sourceUrl": "https://www.youtube.com/watch?v=hsBKKOyNkuA",
+            "title": "Contagious",
+            "artist": "Boys like girls",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -523,10 +539,10 @@
         "scene": "退場",
         "tracks": [
           {
-            "title": "Demons at the Door",
-            "artist": "Sleeping Wolf",
-            "source": "YouTube音源取得: 広大附属 月マスゲーム 2022 退場",
-            "sourceUrl": "https://www.youtube.com/watch?v=xQEnBdRXRz4",
+            "title": "You're not you",
+            "artist": "DEMONS AT THE DOOR",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -623,10 +639,10 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "Still Worth Fighting For",
+            "title": "Still worth fighting",
             "artist": "My Darkest Days",
-            "source": "YouTube音源取得: 21moonmassgame opening",
-            "sourceUrl": "https://www.youtube.com/watch?v=kRxXW_RkcYg",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -635,42 +651,58 @@
         "scene": "一部",
         "tracks": [
           {
-            "title": "Symphony of the Night",
-            "artist": "Dragonforce",
-            "source": "YouTube音源取得: 21moonmassgame 1st",
-            "sourceUrl": "https://www.youtube.com/watch?v=MrkU8zkp0LE",
+            "title": "Symphony of the night",
+            "artist": "Dragon Force",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Metal Arrangement #68",
+            "artist": "Melodic instrument rock",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
         "tracks": [
           {
-            "title": "Starlight (Taylor's Version)",
+            "title": "Starlight",
             "artist": "Taylor Swift",
-            "source": "YouTube音源取得: 21moonmassgame 2nd",
-            "sourceUrl": "https://www.youtube.com/watch?v=rzPeM499LVs",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
       },
       {
         "scene": "三部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Contagious",
+            "artist": "Boys like girls",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "退場",
         "tracks": [
           {
-            "title": "You and I Tonight",
-            "artist": "Faber Drive",
-            "source": "YouTube音源取得: 21moonmassgame ending",
-            "sourceUrl": "https://www.youtube.com/watch?v=716GWXbSr2U",
+            "title": "You and I tonight",
+            "artist": "Fabre Drive",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -759,6 +791,86 @@
     "verified": true
   },
   {
+    "year": 2020,
+    "group": "月",
+    "legacyGroup": "White",
+    "scenes": [
+      {
+        "scene": "入場",
+        "tracks": [
+          {
+            "title": "Ghost of me",
+            "artist": "Daughtry",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
+            "verified": true
+          }
+        ]
+      },
+      {
+        "scene": "一部",
+        "tracks": [
+          {
+            "title": "Shelter from the rain",
+            "artist": "Avantasia",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
+            "verified": true
+          }
+        ]
+      },
+      {
+        "scene": "インター",
+        "tracks": [
+          {
+            "title": "Metal Arrangement #130",
+            "artist": "Melodic instrument rock",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
+            "verified": true
+          }
+        ]
+      },
+      {
+        "scene": "二部",
+        "tracks": [
+          {
+            "title": "Sweetie",
+            "artist": "Carly Rae Jensen",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
+            "verified": true
+          }
+        ]
+      },
+      {
+        "scene": "三部",
+        "tracks": [
+          {
+            "title": "Check yes juliet",
+            "artist": "We the kings",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
+            "verified": true
+          }
+        ]
+      },
+      {
+        "scene": "退場",
+        "tracks": [
+          {
+            "title": "All of me",
+            "artist": "Ashes remain",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
+            "verified": true
+          }
+        ]
+      }
+    ],
+    "verified": true
+  },
+  {
     "year": 2019,
     "group": "月",
     "legacyGroup": "White",
@@ -767,10 +879,10 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "Sweet True Lies",
-            "artist": "Beast in Black",
-            "source": "YouTube音源取得: 19moonmassgame opening",
-            "sourceUrl": "https://www.youtube.com/watch?v=r2rwoZ6KbN0",
+            "title": "Sweet ture lies",
+            "artist": "Beast in black",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -780,9 +892,9 @@
         "tracks": [
           {
             "title": "Fantasia",
-            "artist": "ReinXeed",
-            "source": "YouTube音源取得: 19moonmassgame 1st",
-            "sourceUrl": "https://www.youtube.com/watch?v=zdhDLasDRlo",
+            "artist": "Rein xeed",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -791,10 +903,10 @@
         "scene": "インター",
         "tracks": [
           {
-            "title": "Chasing The Moonlight (Feat. 김세황)",
-            "artist": "Jimi & Doma Studio",
-            "source": "ACRCloud音源認識: 19moonmassgame inter",
-            "sourceUrl": "https://www.youtube.com/watch?v=8Pf2pGqKMXk",
+            "title": "던전앤파이터(DnF) 2nd OST -",
+            "artist": "Chasing The Moonlight",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -803,10 +915,10 @@
         "scene": "二部",
         "tracks": [
           {
-            "title": "Still Dreaming",
-            "artist": "Q;indivi Starring Rin Oikawa",
-            "source": "YouTube音源取得: 19moonmassgame 2nd",
-            "sourceUrl": "https://www.youtube.com/watch?v=OIDElyLimS0",
+            "title": "Still dreaming",
+            "artist": "Indivi starring Rin Oikawa",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -815,10 +927,10 @@
         "scene": "三部",
         "tracks": [
           {
-            "title": "Five Minutes to Midnight (Album Version)",
-            "artist": "Boys Like Girls",
-            "source": "YouTube音源取得: 19moonmassgame 3rd",
-            "sourceUrl": "https://www.youtube.com/watch?v=AMH9Uv_6HdU",
+            "title": "Five minutes to midnight",
+            "artist": "Boys like girls",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -827,10 +939,10 @@
         "scene": "退場",
         "tracks": [
           {
-            "title": "Tongue Tied (Remastered)",
-            "artist": "Faber Drive",
-            "source": "YouTube音源取得: 19moonmassgame ending",
-            "sourceUrl": "https://www.youtube.com/watch?v=sty_MWztmTU",
+            "title": "Tounge tied",
+            "artist": "FabreDrive",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -919,10 +1031,10 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "New Divide",
+            "title": "New divide",
             "artist": "Linkin Park",
-            "source": "YouTube音源取得: 18moonmassgame opening",
-            "sourceUrl": "https://www.youtube.com/watch?v=eVz395RlJMc",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -933,8 +1045,8 @@
           {
             "title": "Arising Thunder",
             "artist": "Angra",
-            "source": "YouTube音源取得: 18moonmassgame 1st stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=r99vLtqBHNc",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -943,10 +1055,10 @@
         "scene": "インター",
         "tracks": [
           {
-            "title": "Blue Water Blue Sky -May's Theme-",
-            "artist": "Arc System Works",
-            "source": "ACRCloud音源認識: 18moonmassgame interval",
-            "sourceUrl": "https://www.youtube.com/watch?v=RtJ0g8bd2k8",
+            "title": "Mellow memories",
+            "artist": "Growlbittz",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -955,10 +1067,10 @@
         "scene": "二部",
         "tracks": [
           {
-            "title": "Connected (Album Version)",
+            "title": "Connected",
             "artist": "Sara Paxton",
-            "source": "YouTube音源取得: 18moonmassgame 2nd stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=_-22AGfZxcY",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -967,10 +1079,10 @@
         "scene": "三部",
         "tracks": [
           {
-            "title": "The Great Escape",
-            "artist": "Boys Like Girls",
-            "source": "YouTube音源取得: 18moonmassgame 3rd stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=jMPU0oRr_-8",
+            "title": "The great escape",
+            "artist": "Boys like girls",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -979,10 +1091,10 @@
         "scene": "退場",
         "tracks": [
           {
-            "title": "This Song Saved My Life",
-            "artist": "Simple Plan",
-            "source": "YouTube音源取得: 18moonmassgame ending",
-            "sourceUrl": "https://www.youtube.com/watch?v=MskJD-YkSOA",
+            "title": "This song save my life",
+            "artist": "Simple plan",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1085,10 +1197,10 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "On My Own",
-            "artist": "Ashes Remain",
-            "source": "YouTube音源取得: 17moonmassgame opening",
-            "sourceUrl": "https://www.youtube.com/watch?v=JZxATg6v-7w",
+            "title": "On my own",
+            "artist": "Ashes remain",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1097,10 +1209,10 @@
         "scene": "一部",
         "tracks": [
           {
-            "title": "Echoes Within",
+            "title": "Echoes within",
             "artist": "Age of Artemis",
-            "source": "YouTube音源取得: 17moonmassgame 1st stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=5ZhJdX1lfMQ",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1113,10 +1225,10 @@
         "scene": "二部",
         "tracks": [
           {
-            "title": "Magic Mirror",
+            "title": "Magic mirror",
             "artist": "Tiffany Thornton",
-            "source": "YouTube音源取得: 17moonmassgame 2nd stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=hIuGkUa26nw",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1125,10 +1237,10 @@
         "scene": "三部",
         "tracks": [
           {
-            "title": "Love Drunk",
-            "artist": "Boys Like Girls",
-            "source": "YouTube音源取得: 17moonmassgame 3rd stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=9OsloLSdK4Q",
+            "title": "Love drunk",
+            "artist": "Boys like girls",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1138,9 +1250,9 @@
         "tracks": [
           {
             "title": "Try",
-            "artist": "Simple Plan",
-            "source": "YouTube音源取得: 17moonmassgame ending",
-            "sourceUrl": "https://www.youtube.com/watch?v=Ue94QEd8KNI",
+            "artist": "Simple plan",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1237,10 +1349,10 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "The Phoenix",
-            "artist": "Fall Out Boy",
-            "source": "YouTube音源取得: 16moonmassgame  entrance",
-            "sourceUrl": "https://www.youtube.com/watch?v=892QoVNLkY4",
+            "title": "The phoenix",
+            "artist": "Fall out boy",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1249,10 +1361,10 @@
         "scene": "一部",
         "tracks": [
           {
-            "title": "Ode to Joy",
+            "title": "Ode to joy",
             "artist": "Heavenly",
-            "source": "YouTube音源取得: 16moonmassgame  1st",
-            "sourceUrl": "https://www.youtube.com/watch?v=W5OAq7oI-aM",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1261,10 +1373,10 @@
         "scene": "インター",
         "tracks": [
           {
-            "title": "Till Next Time -Staff Roll 1-",
+            "title": "Till Next Time staff roll 1",
             "artist": "アークシステムワークス",
-            "source": "ACRCloud音源認識: 16moonmassgame  inter",
-            "sourceUrl": "https://www.youtube.com/watch?v=nCZ4ql9qhHQ",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1273,10 +1385,10 @@
         "scene": "二部",
         "tracks": [
           {
-            "title": "More Than A Memory",
-            "artist": "Carly Rae Jepsen",
-            "source": "YouTube音源取得: 16moonmassgame  2nd",
-            "sourceUrl": "https://www.youtube.com/watch?v=s1d-0_C8LwM",
+            "title": "Twilight Skies",
+            "artist": "Victorius",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1285,10 +1397,10 @@
         "scene": "三部",
         "tracks": [
           {
-            "title": "She Takes Me High",
-            "artist": "We the Kings",
-            "source": "YouTube音源取得: 16moonmassgame  3rd",
-            "sourceUrl": "https://www.youtube.com/watch?v=XlvhMdLrHHg",
+            "title": "She takes me high",
+            "artist": "We the kings",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1297,10 +1409,10 @@
         "scene": "退場",
         "tracks": [
           {
-            "title": "With Me",
-            "artist": "Sum 41",
-            "source": "YouTube音源取得: 16moonmassgame  ending",
-            "sourceUrl": "https://www.youtube.com/watch?v=oDKXHbCuzxI",
+            "title": "With me",
+            "artist": "Sum41",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1397,17 +1509,10 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "See Who I Am",
-            "artist": "Within Temptation",
-            "source": "YouTube音源取得: 2015MoonMassGame-opening",
-            "sourceUrl": "https://www.youtube.com/watch?v=eUEoCHrw9DU",
-            "verified": true
-          },
-          {
-            "title": "Get Back",
-            "artist": "Nine Lashes",
-            "source": "YouTube音源取得: 2015MoonMassGame-opening",
-            "sourceUrl": "https://www.youtube.com/watch?v=eUEoCHrw9DU",
+            "title": "See who I am",
+            "artist": "Within temptation",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1416,10 +1521,10 @@
         "scene": "一部",
         "tracks": [
           {
-            "title": "Your Time Has Come",
+            "title": "Your times has gone",
             "artist": "Unisonic",
-            "source": "YouTube音源取得: 2015MoonMassGame-1st stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=PlIkqUH6cRQ",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1432,10 +1537,10 @@
         "scene": "二部",
         "tracks": [
           {
-            "title": "マジック フィーチャリング カナ",
-            "artist": "i-dep",
-            "source": "ACRCloud音源認識: 2015MoonMassGame-2nd stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=IIKxi2fG0jE",
+            "title": "Magic feat Cana",
+            "artist": "I dep",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1444,10 +1549,10 @@
         "scene": "三部",
         "tracks": [
           {
-            "title": "You Suck at Love",
-            "artist": "Simple Plan",
-            "source": "YouTube音源取得: 2015MoonMassGame-3rd stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=oeOgBQ3A4v0",
+            "title": "You suck at love",
+            "artist": "Simple plan",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1457,9 +1562,9 @@
         "tracks": [
           {
             "title": "Photograph",
-            "artist": "Nickelback",
-            "source": "YouTube音源取得: 2015MoonMassGame-ending",
-            "sourceUrl": "https://www.youtube.com/watch?v=jBYdpTGk-v4",
+            "artist": "Nickel back",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1524,10 +1629,10 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "Rebirthing",
+            "title": "Rebirting",
             "artist": "Skillet",
-            "source": "YouTube音源取得: 2014 moonmass opening",
-            "sourceUrl": "https://www.youtube.com/watch?v=6r_lPKYDdnQ",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1536,10 +1641,10 @@
         "scene": "一部",
         "tracks": [
           {
-            "title": "Into Eternity",
-            "artist": "Bloodbound",
-            "source": "YouTube音源取得: 2014 moonmass 1st stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=_oaI9YLLz5U",
+            "title": "Into eternity",
+            "artist": "Blood Bound",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1548,26 +1653,34 @@
         "scene": "インター",
         "tracks": [
           {
-            "title": "Triptych",
-            "artist": "Siam Shade",
-            "source": "YouTube音源取得: 2014 moonmass interval",
-            "sourceUrl": "https://www.youtube.com/watch?v=X4XneQuD5A4",
+            "title": "Melodic instrumental rock #69",
+            "artist": "Melodic instrument rock",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
       },
       {
         "scene": "二部",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Just a girl",
+            "artist": "Bexy",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "三部",
         "tracks": [
           {
-            "title": "I Found Love",
-            "artist": "Sunstorm",
-            "source": "YouTube音源取得: 2014 moonmass 3rd stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=ukN4MPxGj8o",
+            "title": "I found a love",
+            "artist": "Substorm",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1576,10 +1689,10 @@
         "scene": "退場",
         "tracks": [
           {
-            "title": "Without You",
+            "title": "Without you",
             "artist": "Hinder",
-            "source": "YouTube音源取得: 2014 moonmass ending",
-            "sourceUrl": "https://www.youtube.com/watch?v=RznpPeFDMh8",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1676,10 +1789,10 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "It's My Life",
+            "title": "It's My life",
             "artist": "Bon Jovi",
-            "source": "YouTube音源取得: 2013 moon massgame opening",
-            "sourceUrl": "https://www.youtube.com/watch?v=urLpV775ptU",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1688,26 +1801,34 @@
         "scene": "一部",
         "tracks": [
           {
-            "title": "Ready To Die Between Stars",
+            "title": "Ready to die between stars",
             "artist": "Pathfinder",
-            "source": "ウェブサイト情報提供",
-            "sourceUrl": "https://youtu.be/GPjAbyGkEjc?si=1FbxuKAMUpILZRUf",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Jagur'08",
+            "artist": "春畑道哉",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
         "tracks": [
           {
-            "title": "ACROSS THE STARLIGHT",
-            "artist": "Q;indivi",
-            "source": "YouTube音源取得: 2013 moonmassgame 2nd stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=5fFkDszW0zk",
+            "title": "Across the starlight",
+            "artist": "Qindivi",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1716,10 +1837,10 @@
         "scene": "三部",
         "tracks": [
           {
-            "title": "Never Love Again",
-            "artist": "Work Of Art",
-            "source": "YouTube音源取得: 2013 moonmassgame 3rd stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=3bwyekb72WI",
+            "title": "Never love again",
+            "artist": "Work of act",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1728,10 +1849,10 @@
         "scene": "退場",
         "tracks": [
           {
-            "title": "Over You",
+            "title": "Over you",
             "artist": "Daughtry",
-            "source": "YouTube音源取得: 2013 moonmassgame ending",
-            "sourceUrl": "https://www.youtube.com/watch?v=oEPrICXytl8",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1820,10 +1941,10 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "After the Nine O'clock News",
+            "title": "After The Nine O clock News",
             "artist": "Wig Wam",
-            "source": "ACRCloud音源認識: 2012massgame white-Opening",
-            "sourceUrl": "https://www.youtube.com/watch?v=StQGOVzEtUE",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1832,26 +1953,34 @@
         "scene": "一部",
         "tracks": [
           {
-            "title": "The Temple of Hate",
+            "title": "The Temple Of Hate",
             "artist": "Angra",
-            "source": "YouTube音源取得: 2012massgame white-1st stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=Db5y3ciwOkw",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "Sky",
+            "artist": "Matuhiko Izumi",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
         "tracks": [
           {
-            "title": "LOVE YOU",
-            "artist": "Q;indivi",
-            "source": "YouTube音源取得: 2012massgame white-2nd stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=ZnhgUMKq_GU",
+            "title": "Love you",
+            "artist": "Qindivi",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1861,9 +1990,9 @@
         "tracks": [
           {
             "title": "Better Days",
-            "artist": "Power Quest",
-            "source": "YouTube音源取得: 2012massgame white-3rd stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=EAie0XFvkGY",
+            "artist": "Power quest",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1872,10 +2001,10 @@
         "scene": "退場",
         "tracks": [
           {
-            "title": "I Can Wait Forever",
+            "title": "I can wait forever",
             "artist": "Simple Plan",
-            "source": "YouTube音源取得: 2012massgame white-Ending",
-            "sourceUrl": "https://www.youtube.com/watch?v=28L3XTnDhbs",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1964,10 +2093,10 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "King of Fools",
+            "title": "King Of Fools",
             "artist": "Edguy",
-            "source": "YouTube音源取得: 11massgame white-opening",
-            "sourceUrl": "https://www.youtube.com/watch?v=MrX3TG-G8Tc",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1976,10 +2105,10 @@
         "scene": "一部",
         "tracks": [
           {
-            "title": "Triumph for My Magic Steel",
+            "title": "Triumph For My Magic Steel",
             "artist": "Rhapsody",
-            "source": "YouTube音源取得: 11massgame white-scene1",
-            "sourceUrl": "https://www.youtube.com/watch?v=NQABiiueY64",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -1990,8 +2119,8 @@
           {
             "title": "Plastic Dracula",
             "artist": "Paul Gilbert",
-            "source": "YouTube音源取得: 11massgame white-interval",
-            "sourceUrl": "https://www.youtube.com/watch?v=H2tkLIEhrtU",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2000,10 +2129,10 @@
         "scene": "二部",
         "tracks": [
           {
-            "title": "Everything You Do",
+            "title": "Everything you do",
             "artist": "M2M",
-            "source": "YouTube音源取得: 11massgame white-scene2",
-            "sourceUrl": "https://www.youtube.com/watch?v=AzjbWOnhNZ0",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2014,8 +2143,8 @@
           {
             "title": "Believer",
             "artist": "Place Vendome",
-            "source": "YouTube音源取得: 11massgame white-scene3",
-            "sourceUrl": "https://www.youtube.com/watch?v=z6FhQtNdZcA",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2026,8 +2155,8 @@
           {
             "title": "Say Goodbye",
             "artist": "Skillet",
-            "source": "YouTube音源取得: 11massgame white-ending",
-            "sourceUrl": "https://www.youtube.com/watch?v=s8I8QDL6kx4",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2126,8 +2255,8 @@
           {
             "title": "Gonna Get You Someday",
             "artist": "Wig Wam",
-            "source": "YouTube音源取得: 10massgame white-opening",
-            "sourceUrl": "https://www.youtube.com/watch?v=p-raHQbWGHM",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2138,8 +2267,8 @@
           {
             "title": "The Star",
             "artist": "Dark Moor",
-            "source": "YouTube音源取得: 10massgame white-scene1",
-            "sourceUrl": "https://www.youtube.com/watch?v=xc0fVB05SOs",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2150,8 +2279,8 @@
           {
             "title": "Farewell",
             "artist": "Marco Sfogli",
-            "source": "YouTube音源取得: 10massgame white-interval",
-            "sourceUrl": "https://www.youtube.com/watch?v=k4GIvgF98g4",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2162,8 +2291,8 @@
           {
             "title": "Part of Your World",
             "artist": "Q;indivi",
-            "source": "YouTube音源取得: 10massgame white-scene2",
-            "sourceUrl": "https://www.youtube.com/watch?v=k24ME1th_rY",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2174,8 +2303,8 @@
           {
             "title": "Lavatory Love Machine",
             "artist": "Edguy",
-            "source": "YouTube音源取得: 10massgame white-scene3",
-            "sourceUrl": "https://www.youtube.com/watch?v=Bds5iWAbWPA",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2186,8 +2315,8 @@
           {
             "title": "No Love",
             "artist": "Simple Plan",
-            "source": "YouTube音源取得: 10massgame white-ending",
-            "sourceUrl": "https://www.youtube.com/watch?v=RPor6n6YC0Y",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2284,10 +2413,10 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "I Did It My Way",
+            "title": "I did it my way",
             "artist": "Revolution Renaissance",
-            "source": "YouTube音源取得: 09massgame white-opening",
-            "sourceUrl": "https://www.youtube.com/watch?v=pAUKTpXAvwU",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2296,10 +2425,10 @@
         "scene": "一部",
         "tracks": [
           {
-            "title": "WHISPER IN THE RED SKY",
-            "artist": "GALNERYUS",
-            "source": "YouTube音源取得: 09massgame white-scene1",
-            "sourceUrl": "https://www.youtube.com/watch?v=DAi7E1VYNH4",
+            "title": "Whisper in the red sky",
+            "artist": "Galneryus",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2310,8 +2439,8 @@
           {
             "title": "亡き王女の為のセプテット",
             "artist": "上海アリス幻楽団",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2320,10 +2449,10 @@
         "scene": "二部",
         "tracks": [
           {
-            "title": "I Wanna Be",
+            "title": "I wanna be",
             "artist": "Emma Roberts",
-            "source": "YouTube音源取得: 09massgame white-scene2",
-            "sourceUrl": "https://www.youtube.com/watch?v=A4_EfdiBWkA",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2332,17 +2461,10 @@
         "scene": "三部",
         "tracks": [
           {
-            "title": "Can't You Hear My Heartbeat",
-            "artist": "Pride Of Lions",
-            "source": "YouTube音源取得: 09massgame white-scene3",
-            "sourceUrl": "https://www.youtube.com/watch?v=8i9VH9xvYDw",
-            "verified": true
-          },
-          {
             "title": "The courage to love somebody",
             "artist": "Pride of lions",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2351,10 +2473,10 @@
         "scene": "退場",
         "tracks": [
           {
-            "title": "I Don't Want To Miss A Thing (From \"Armageddon\" Soundtrack)",
+            "title": "I don't want to miss a thing",
             "artist": "Aerosmith",
-            "source": "YouTube音源取得: 09massgame white-ending",
-            "sourceUrl": "https://www.youtube.com/watch?v=UDFRRKawR4Y",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2451,17 +2573,10 @@
         "scene": "入場",
         "tracks": [
           {
-            "title": "Pirates! Pirates! Pirates!/Storming the Castle (Medley)",
-            "artist": "Various Artists",
-            "source": "YouTube音源取得: 08W-0",
-            "sourceUrl": "https://www.youtube.com/watch?v=JxTtVLrK8ds",
-            "verified": true
-          },
-          {
             "title": "In My Dreams",
             "artist": "Wig Wam",
-            "source": "YouTube音源取得: 08W-0",
-            "sourceUrl": "https://www.youtube.com/watch?v=JxTtVLrK8ds",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2472,8 +2587,8 @@
           {
             "title": "Nova Era",
             "artist": "Angra",
-            "source": "YouTube音源取得: 08W-1",
-            "sourceUrl": "https://www.youtube.com/watch?v=1OBM9X7tak8",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2484,8 +2599,8 @@
           {
             "title": "Touch Operation",
             "artist": "松本 孝弘",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2494,10 +2609,10 @@
         "scene": "二部",
         "tracks": [
           {
-            "title": "Kiss the Girl",
+            "title": "Kiss The Girl",
             "artist": "Ashley Tisdale",
-            "source": "YouTube音源取得: 08W-2",
-            "sourceUrl": "https://www.youtube.com/watch?v=kQ1aMx4Gvoc",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2508,8 +2623,8 @@
           {
             "title": "Bless The Night",
             "artist": "Wig Wam",
-            "source": "YouTube音源取得: 08W-3",
-            "sourceUrl": "https://www.youtube.com/watch?v=pKfPNzuwUXY",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2520,8 +2635,8 @@
           {
             "title": "Welcome To Wherever You Are",
             "artist": "Bon Jovi",
-            "source": "YouTube音源取得: 08W-E",
-            "sourceUrl": "https://www.youtube.com/watch?v=1UhD-_vRgZQ",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2621,8 +2736,8 @@
           {
             "title": "Spill Blood On Fire",
             "artist": "Heavenly",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2631,10 +2746,10 @@
         "scene": "一部",
         "tracks": [
           {
-            "title": "Induction (30 Years - Live Version)",
-            "artist": "Gamma Ray",
-            "source": "YouTube音源取得: 07W-1",
-            "sourceUrl": "https://www.youtube.com/watch?v=xWdgksyRfWE",
+            "title": "Dethrone Tyranny",
+            "artist": "Gamma ray",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2645,8 +2760,8 @@
           {
             "title": "The Riddle",
             "artist": "Wig Wam",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2655,10 +2770,10 @@
         "scene": "二部",
         "tracks": [
           {
-            "title": "Mamma Mia (Spanish Version)",
-            "artist": "A*Teens",
-            "source": "YouTube音源取得: 07W-2",
-            "sourceUrl": "https://www.youtube.com/watch?v=7ry5kSyoihg",
+            "title": "Mamma Mia",
+            "artist": "A☆Teens",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2669,8 +2784,8 @@
           {
             "title": "In The Cage",
             "artist": "Galneryus",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2681,8 +2796,8 @@
           {
             "title": "The One",
             "artist": "Last Autumn's Dream",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2781,8 +2896,8 @@
           {
             "title": "Sailing Home",
             "artist": "Fair Warning",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2792,9 +2907,9 @@
         "tracks": [
           {
             "title": "Emerald Sword",
-            "artist": "Rhapsody",
-            "source": "YouTube音源取得: 06WHITEMASSGAME 1stStage",
-            "sourceUrl": "https://www.youtube.com/watch?v=xQSMyagaZyU",
+            "artist": "Rhapsody of fire",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2805,8 +2920,8 @@
           {
             "title": "The Gate to Legend",
             "artist": "Hiroo Ikeda",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2817,8 +2932,8 @@
           {
             "title": "Miracles Happen",
             "artist": "Myra",
-            "source": "YouTube音源取得: 06WHITEMASSGAME 2ndStage",
-            "sourceUrl": "https://www.youtube.com/watch?v=ecCTFVBmTTQ",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2829,8 +2944,8 @@
           {
             "title": "Come Alive",
             "artist": "Allen Lande",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -2841,8 +2956,8 @@
           {
             "title": "The Way You Smile",
             "artist": "Last Autumn's Dream",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3021,8 +3136,8 @@
           {
             "title": "Eden on Fire",
             "artist": "ZENO",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3033,8 +3148,8 @@
           {
             "title": "Nightmare",
             "artist": "Nocturnal Rites",
-            "source": "YouTube音源取得: 05W 1",
-            "sourceUrl": "https://www.youtube.com/watch?v=JzGGhG3-rYw",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3045,8 +3160,8 @@
           {
             "title": "Fighting Bull",
             "artist": "Tak Matsumoto",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3057,8 +3172,8 @@
           {
             "title": "Young Forever",
             "artist": "Rebbeca",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3069,8 +3184,8 @@
           {
             "title": "Standing on the Edge of Time",
             "artist": "Ten",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3081,8 +3196,8 @@
           {
             "title": "Do I have to cry for you",
             "artist": "Nick Cater",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3181,8 +3296,8 @@
           {
             "title": "Live And Let Live",
             "artist": "Dreamtide",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3191,10 +3306,10 @@
         "scene": "一部",
         "tracks": [
           {
-            "title": "The Pride of the Tyrant",
+            "title": "The Pride of The Tyrant",
             "artist": "Rhapsody",
-            "source": "YouTube音源取得: 2004White 1st_stage",
-            "sourceUrl": "https://www.youtube.com/watch?v=_Q50pVtkh34",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3205,8 +3320,8 @@
           {
             "title": "Didgedill",
             "artist": "Porno Graffitti",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3217,8 +3332,8 @@
           {
             "title": "Heal My Broken Heart",
             "artist": "Smile.DK",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3229,8 +3344,8 @@
           {
             "title": "Illusions",
             "artist": "Westworld",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3241,8 +3356,8 @@
           {
             "title": "What If",
             "artist": "Natural",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3341,8 +3456,8 @@
           {
             "title": "Forever",
             "artist": "Fair Warning",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3353,8 +3468,8 @@
           {
             "title": "Eyes of the Dead",
             "artist": "Nocturnal Rites",
-            "source": "YouTube音源取得: 03WHITEMassGame １stStage",
-            "sourceUrl": "https://www.youtube.com/watch?v=rvjoFVxPyPM",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3365,8 +3480,8 @@
           {
             "title": "Warning Line",
             "artist": "「Acecombat 2」より",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3377,8 +3492,8 @@
           {
             "title": "I Surrender",
             "artist": "Steps",
-            "source": "YouTube音源取得: 03W-2",
-            "sourceUrl": "https://www.youtube.com/watch?v=Vacp7H_uR-M",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3389,8 +3504,8 @@
           {
             "title": "Wouldn't Miss You",
             "artist": "Pretty Maids",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3401,8 +3516,8 @@
           {
             "title": "First Time in a Long Time",
             "artist": "Gotthard",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3501,8 +3616,8 @@
           {
             "title": "What you believe in",
             "artist": "Dreamtide",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3512,9 +3627,9 @@
         "tracks": [
           {
             "title": "High Tide",
-            "artist": "Ten",
-            "source": "YouTube音源取得: 02WHITEMassGame １stStage",
-            "sourceUrl": "https://www.youtube.com/watch?v=BS6Sgg4CGMU",
+            "artist": "TEN",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3525,8 +3640,8 @@
           {
             "title": "Sacred Field",
             "artist": "Tak Matsumoto",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3537,8 +3652,8 @@
           {
             "title": "An Apple A Day",
             "artist": "Aqua",
-            "source": "YouTube音源取得: 02WHITEMassGame 2ndStage",
-            "sourceUrl": "https://www.youtube.com/watch?v=XB7wyFLM3EU",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3549,8 +3664,8 @@
           {
             "title": "Dorianna",
             "artist": "Paul Laine",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3561,8 +3676,8 @@
           {
             "title": "Far Beyond The World",
             "artist": "TEN",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3661,8 +3776,8 @@
           {
             "title": "Avantasia",
             "artist": "Tobias Sammet",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3673,8 +3788,8 @@
           {
             "title": "Eye of the World",
             "artist": "Iron Savior",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3685,8 +3800,8 @@
           {
             "title": "Mass Gamer's Anthem PT.2",
             "artist": "Atsuhiko Fukuto",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3696,9 +3811,9 @@
         "tracks": [
           {
             "title": "Super Trouper",
-            "artist": "A*Teens",
-            "source": "YouTube音源取得: 01WHITEMassGame 2ndStage",
-            "sourceUrl": "https://www.youtube.com/watch?v=t0q0OCfEBvg",
+            "artist": "A☆Teens",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3709,8 +3824,8 @@
           {
             "title": "Against the Odds",
             "artist": "Balance of Power",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3721,8 +3836,8 @@
           {
             "title": "Can You Feel The Love Tonight",
             "artist": "Elton John",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3821,8 +3936,8 @@
           {
             "title": "Hiding Away From The World",
             "artist": "Damned Nation",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3833,8 +3948,8 @@
           {
             "title": "All For One, One For All",
             "artist": "At Vance",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3845,8 +3960,8 @@
           {
             "title": "Captain Nemo",
             "artist": "MSG",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3857,8 +3972,8 @@
           {
             "title": "What In This World",
             "artist": "Maarja",
-            "source": "YouTube音源取得: 00WHITEMassGame 2ndStage",
-            "sourceUrl": "https://www.youtube.com/watch?v=ICC3nuHRPZw",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3869,8 +3984,8 @@
           {
             "title": "Back On The Track",
             "artist": "Valentine",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
@@ -3881,8 +3996,8 @@
           {
             "title": "Wonderland",
             "artist": "TEN",
-            "source": "FC2「マスゲームの曲」",
-            "sourceUrl": "http://huzokumassgame.web.fc2.com/massgamemusic.html",
+            "source": "ユーザー提供PDF: _過去曲（月）.pdf",
+            "sourceUrl": "/Users/home/Downloads/_過去曲（月）.pdf",
             "verified": true
           }
         ]
