@@ -1,0 +1,5 @@
+Contact: https://massgame-archive.com/contribute/
+Expires: 2027-06-07T00:00:00.000Z
+Preferred-Languages: ja, en
+Canonical: https://massgame-archive.com/.well-known/security.txt
+Policy: https://massgame-archive.com/about/
