@@ -435,7 +435,7 @@ async function recognizeSample(provider, samplePath, entry, offset, args) {
 async function recognizeWithAudD(samplePath, entry, offset, args) {
   if (args.dryRun) {
     const cached = await readCachedRaw("audd", entry.id, offset);
-    return parseAudDResult(cached ?? {}, args);
+    return parseAudDResult(cached ?? {});
   }
 
   const form = new FormData();
@@ -447,10 +447,10 @@ async function recognizeWithAudD(samplePath, entry, offset, args) {
   const response = await fetch("https://api.audd.io/", { method: "POST", body: form });
   const raw = await response.json();
   await writeRaw("audd", entry.id, offset, raw);
-  return parseAudDResult(raw, args, response.ok);
+  return parseAudDResult(raw, response.ok);
 }
 
-function parseAudDResult(raw, args, responseOk = true) {
+function parseAudDResult(raw, responseOk = true) {
   const result = raw?.result;
   const candidate = result
     ? {

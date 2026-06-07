@@ -73,33 +73,4 @@ if (!record.year) {
       <p>この年度のYouTubeリンクは未確認です。</p>
     )}
   </section>
-  <script>
-    const buttons = document.querySelectorAll("[data-embed-url]");
-    buttons.forEach((button) => {
-      button.addEventListener("click", () => {
-        if (!(button instanceof HTMLButtonElement)) return;
-        const url = button.dataset.embedUrl;
-        if (!url) return;
-        const row = button.closest(".video-item");
-        const slot = row?.querySelector(".embed-slot");
-        if (!slot) return;
-
-        const existing = slot.querySelector("iframe");
-        if (existing) {
-          slot.replaceChildren();
-          button.textContent = "このページで再生";
-          return;
-        }
-
-        const iframe = document.createElement("iframe");
-        iframe.src = url;
-        iframe.title = button.dataset.embedTitle ?? "YouTube";
-        iframe.loading = "lazy";
-        iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
-        iframe.allowFullscreen = true;
-        slot.replaceChildren(iframe);
-        button.textContent = "閉じる";
-      });
-    });
-  </script>
 </BaseLayout>

@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro check && astro build",
+    "build": "node scripts/check-public-artifacts.mjs && astro check && astro build",
     "preview": "astro preview",
+    "check:public": "node scripts/check-public-artifacts.mjs",
     "extract:fc2": "node scripts/extract-fc2-data.mjs",
     "recognize:music": "node scripts/recognize-youtube-playlist-music.mjs",
     "normalize:music": "node scripts/normalize-music-data.mjs",

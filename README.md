@@ -133,15 +133,19 @@ YouTube再生リストの音声断片を `yt-dlp` と `ffmpeg` で切り出し�
 AudD:
 
 ```sh
-AUDD_API_TOKEN=... npm run recognize:music -- --provider audd --limit 5
+read -rs AUDD_API_TOKEN
+export AUDD_API_TOKEN
+npm run recognize:music -- --provider audd --limit 5
 ```
 
 ACRCloud:
 
 ```sh
-ACRCLOUD_HOST=identify-ap-southeast-1.acrcloud.com \
-ACRCLOUD_ACCESS_KEY=... \
-ACRCLOUD_ACCESS_SECRET=... \
+export ACRCLOUD_HOST=identify-ap-southeast-1.acrcloud.com
+read -rs ACRCLOUD_ACCESS_KEY
+export ACRCLOUD_ACCESS_KEY
+read -rs ACRCLOUD_ACCESS_SECRET
+export ACRCLOUD_ACCESS_SECRET
 npm run recognize:music -- --provider acrcloud --limit 5
 ```
 
