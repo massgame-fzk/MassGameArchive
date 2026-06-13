@@ -1,5 +1,85 @@
 [
   {
+    "year": 2026,
+    "group": "太陽",
+    "legacyGroup": "Red",
+    "scenes": [
+      {
+        "scene": "入場",
+        "tracks": [
+          {
+            "title": "Tides of Fire",
+            "artist": "ABANT",
+            "source": "ユーザー提供情報: 2026年度 太陽マスゲーム使用曲",
+            "sourceUrl": "sources/user-provided/2026-sun-music.md",
+            "verified": true
+          }
+        ]
+      },
+      {
+        "scene": "一部",
+        "tracks": [
+          {
+            "title": "The Unicorn Invasion of Dundee (Transcendent Empyrean Incantation Version)",
+            "artist": "Gloryhammer",
+            "source": "ユーザー提供情報: 2026年度 太陽マスゲーム使用曲",
+            "sourceUrl": "sources/user-provided/2026-sun-music.md",
+            "verified": true
+          }
+        ]
+      },
+      {
+        "scene": "インター",
+        "tracks": [
+          {
+            "title": "Missions for the Brilliant Executioner (2K Mix)",
+            "artist": "Persona 4 Arena",
+            "source": "ユーザー提供情報: 2026年度 太陽マスゲーム使用曲",
+            "sourceUrl": "sources/user-provided/2026-sun-music.md",
+            "verified": true
+          }
+        ]
+      },
+      {
+        "scene": "二部",
+        "tracks": [
+          {
+            "title": "Ashes of the Dawn",
+            "artist": "DragonForce",
+            "source": "ユーザー提供情報: 2026年度 太陽マスゲーム使用曲",
+            "sourceUrl": "sources/user-provided/2026-sun-music.md",
+            "verified": true
+          }
+        ]
+      },
+      {
+        "scene": "三部",
+        "tracks": [
+          {
+            "title": "The Perfect Mistake",
+            "artist": "Cartel",
+            "source": "ユーザー提供情報: 2026年度 太陽マスゲーム使用曲",
+            "sourceUrl": "sources/user-provided/2026-sun-music.md",
+            "verified": true
+          }
+        ]
+      },
+      {
+        "scene": "退場",
+        "tracks": [
+          {
+            "title": "Don't Stop Praying",
+            "artist": "Matthew West",
+            "source": "ユーザー提供情報: 2026年度 太陽マスゲーム使用曲",
+            "sourceUrl": "sources/user-provided/2026-sun-music.md",
+            "verified": true
+          }
+        ]
+      }
+    ],
+    "verified": true
+  },
+  {
     "year": 2025,
     "group": "月",
     "legacyGroup": "White",
