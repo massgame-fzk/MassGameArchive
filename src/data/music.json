@@ -1,6 +1,78 @@
 [
   {
     "year": 2026,
+    "group": "月",
+    "legacyGroup": "White",
+    "scenes": [
+      {
+        "scene": "入場",
+        "tracks": [
+          {
+            "title": "Legendary",
+            "artist": "Skillet",
+            "source": "ユーザー提供情報: 2026年度 月マスゲーム使用曲",
+            "sourceUrl": "sources/user-provided/2026-moon-music.md",
+            "verified": true
+          }
+        ]
+      },
+      {
+        "scene": "一部",
+        "tracks": []
+      },
+      {
+        "scene": "インター",
+        "tracks": [
+          {
+            "title": "Equivalent Exchange",
+            "artist": "Clayton King",
+            "source": "ユーザー提供情報: 2026年度 月マスゲーム使用曲",
+            "sourceUrl": "sources/user-provided/2026-moon-music.md",
+            "verified": true
+          }
+        ]
+      },
+      {
+        "scene": "二部",
+        "tracks": [
+          {
+            "title": "Shakespeare",
+            "artist": "Miranda Cosgrove",
+            "source": "ユーザー提供情報: 2026年度 月マスゲーム使用曲",
+            "sourceUrl": "sources/user-provided/2026-moon-music.md",
+            "verified": true
+          }
+        ]
+      },
+      {
+        "scene": "三部",
+        "tracks": [
+          {
+            "title": "Check Yes Juliet",
+            "artist": "We The Kings",
+            "source": "ユーザー提供情報: 2026年度 月マスゲーム使用曲",
+            "sourceUrl": "sources/user-provided/2026-moon-music.md",
+            "verified": true
+          }
+        ]
+      },
+      {
+        "scene": "退場",
+        "tracks": [
+          {
+            "title": "Easy On Me",
+            "artist": "Adele",
+            "source": "ユーザー提供情報: 2026年度 月マスゲーム使用曲",
+            "sourceUrl": "sources/user-provided/2026-moon-music.md",
+            "verified": true
+          }
+        ]
+      }
+    ],
+    "verified": true
+  },
+  {
+    "year": 2026,
     "group": "太陽",
     "legacyGroup": "Red",
     "scenes": [
