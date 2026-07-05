@@ -5,7 +5,7 @@
 | 場面 | 曲名 | アーティスト名 |
 | --- | --- | --- |
 | 入場 | Legendary | Skillet |
-| 一部 | 調査中 | 調査中 |
+| 一部 | The Mystery Revealed | Aldaria |
 | インター | Equivalent Exchange | Clayton King |
 | 二部 | Shakespeare | Miranda Cosgrove |
 | 三部 | Check Yes Juliet | We The Kings |
