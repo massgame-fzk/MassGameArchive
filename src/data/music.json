@@ -582,7 +582,15 @@
       },
       {
         "scene": "インター",
-        "tracks": []
+        "tracks": [
+          {
+            "title": "You Will Know Our Names ~Finale~",
+            "artist": "Kenji Hiramatsu",
+            "source": "情報提供（2026-10-31受付、パンフレット記載との報告）。作編曲者は公式サウンドトラック曲目で確認。詳細: sources/user-provided/2026-10-31-email-corrections.md",
+            "sourceUrl": "https://www.procyon-studio.co.jp/special/xbostportal/en/xbosttble.html",
+            "verified": true
+          }
+        ]
       },
       {
         "scene": "二部",
@@ -731,11 +739,11 @@
         "scene": "一部",
         "tracks": [
           {
-            "title": "Glory Days",
-            "artist": "Fellowship",
-            "source": "YouTube音源取得: 広大附属 太陽マスゲーム 2022 II部",
-            "sourceUrl": "https://www.youtube.com/watch?v=xK4B7SbpWbI",
-            "verified": true
+            "title": "THE COMING TRAGEDY",
+            "artist": "ILLUSION FORCE",
+            "source": "情報提供の訂正候補（2026-10-31受付、使用曲は未確認）。旧登録は二部動画を根拠にしたGlory Daysの誤登録のため撤回。詳細: sources/user-provided/2026-10-31-email-corrections.md",
+            "sourceUrl": "https://www.youtube.com/watch?v=vTvqa5vVywM",
+            "verified": false
           }
         ]
       },
