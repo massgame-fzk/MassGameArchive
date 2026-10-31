@@ -20,14 +20,15 @@
 - `/contribute/`: 情報提供・訂正・削除依頼の案内
 - `/years/`: 年度一覧
 - `/years/[year]/`: 年度別の曲とYouTube
-- `/records/music/`: 曲一覧。曲名・アーティスト検索、年度・部門絞り込み、列ソートに対応
+- `/records/music/`: 曲一覧。曲名・アーティスト検索、年度・部門・場面の絞り込み、列ソート、ページ切り替えに対応。検索条件はURLに保持
 - `/records/media/`: YouTube一覧。年度別に動画を並べ、必要な動画だけ埋め込み再生
 - `/groups/sun/`: 太陽・赤の曲一覧
 - `/groups/moon/`: 月・白の曲一覧
 
 ## 技術構成
 
-- Astro + TypeScript
+- Astro + TypeScript + React islands
+- shadcn/ui（New York）+ Tailwind CSS v4
 - 静的サイト出力
 - Cloudflare Pages想定
 - 公開データは `src/data/*.json` で管理
@@ -49,7 +50,11 @@ npm run build
 npm run preview
 ```
 
-`npm run build` は `astro check` と `astro build` を実行します。
+`npm run build` は公開ファイル確認、`astro check`、`astro build` を実行します。
+
+スマホでは下部ナビゲーションを表示し、曲一覧をカード形式に切り替えます。UIの構成・色・表示ルールは `design.md`、shadcn/uiの設定は `components.json` に記録しています。
+
+公開時のCSPはAstroがスクリプト・スタイルのハッシュ付きで生成します。HTTP専用の `frame-ancestors` などは `public/_headers` に残しています。
 
 ## データファイル
 

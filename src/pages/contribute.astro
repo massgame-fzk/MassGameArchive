@@ -40,7 +40,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
     <h2>連絡フォーム</h2>
     <p class="source-note">
       送信内容はFormspreeを通じて管理者宛のメールに転送されます。個人情報や公開を望まない内容は、必要な範囲だけ書いてください。
-      必須は返信先メールアドレスと内容だけです。Formspreeの扱いは
+      必須は用件、返信先メールアドレス、内容です。Formspreeの扱いは
       <a href="https://formspree.io/legal/privacy-policy/" target="_blank" rel="noopener noreferrer">プライバシーポリシー</a>
       を確認してください。
     </p>
@@ -48,7 +48,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
       <input type="hidden" name="subject" value="MassGame Archiveへの連絡" />
       <div class="form-grid">
         <label>
-          用件
+          用件（必須）
           <select name="topic" required>
             <option value="">選択してください</option>
             <option value="情報提供">情報提供</option>
@@ -59,12 +59,12 @@ import BaseLayout from "../layouts/BaseLayout.astro";
           </select>
         </label>
         <label>
-          名前
+          名前（任意）
           <input type="text" name="name" autocomplete="name" maxlength="80" />
         </label>
       </div>
       <label>
-        返信先メールアドレス
+        返信先メールアドレス（必須）
         <input type="email" name="email" autocomplete="email" maxlength="160" required />
       </label>
       <div class="form-grid">
@@ -86,7 +86,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
         <input type="url" name="url" inputmode="url" maxlength="500" placeholder="YouTubeなど、確認できるURLがあれば" />
       </label>
       <label>
-        内容
+        内容（必須）
         <textarea
           name="message"
           rows="8"

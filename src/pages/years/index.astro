@@ -1,12 +1,14 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { formatEventDate, years } from "../../data/archive";
+import { formatEventDate, years, entriesForYear } from "../../data/archive";
+import Icon from "../../components/Icon.astro";
 
 const sorted = [...years]
   .sort((a, b) => b.year - a.year)
   .map((entry) => ({
     ...entry,
     eventDateLabel: formatEventDate(entry.eventDate),
+    records: entriesForYear(entry.year),
   }));
 
 type DecadeEntry = (typeof sorted)[number];
@@ -26,8 +28,8 @@ const decades = [...decadeMap.entries()]
 <BaseLayout title="年度別" breadcrumbs={[{ label: "年度別" }]}>
   <section class="hero wrap narrow">
     <p class="eyebrow">Years</p>
-    <h1>年度別</h1>
-    <p class="lead">曲またはYouTube動画が確認できる年度を中心に掲載しています。各年度ページで曲と動画を確認できます。</p>
+    <h1>年度から探す</h1>
+    <p class="lead">あなたの思い出は、何年度ですか。<br />あの年の曲と演技を、ここからたどれます。</p>
   </section>
 
   {decades.length > 0 && (
@@ -44,11 +46,12 @@ const decades = [...decadeMap.entries()]
       <div class="year-grid">
         {entries.map((entry) => (
           <a class="year-card" href={`/years/${entry.year}/`}>
-            <span class="year-card-number">{entry.year}</span>
+            <span class="year-card-number">{entry.year}<small>年度</small></span>
             <span class="year-card-event">
               {entry.eventDateLabel ? `体育祭: ${entry.eventDateLabel}` : "体育祭の日付は未確認"}
             </span>
             {entry.summary && <span class="year-card-summary">{entry.summary}</span>}
+            <span class="year-card-records"><span><Icon name="music" />{entry.records.music.length}曲</span><span><Icon name="video" />{entry.records.media.length}件</span><Icon name="arrow" /></span>
           </a>
         ))}
       </div>

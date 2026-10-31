@@ -1,6 +1,10 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import { Image } from "astro:assets";
+import heroImage from "../assets/top.jpeg";
 import Icon from "../components/Icon.astro";
+import { Card } from "../components/ui/card";
+import { buttonVariants } from "../components/ui/button";
 import { site } from "../data/site";
 
 const featureLinks = [
@@ -33,39 +37,42 @@ const featureLinks = [
 
 <BaseLayout title="トップ" description={site.shareText}>
   <section class="landing-hero">
-    <img
+    <Image
       class="landing-hero-image"
-      src="/top.jpeg"
+      src={heroImage}
       alt="青空の下、校庭で整列するマスゲームの隊列"
+      widths={[480, 800, 1200, 1920]}
+      sizes="(max-width: 767px) 1100px, 100vw"
+      format="webp"
+      quality={80}
       fetchpriority="high"
+      loading="eager"
       decoding="async"
     />
     <div class="wrap landing-inner">
       <h1>{site.name}</h1>
-      <p class="landing-lead">
-        {site.lead}
-      </p>
+      <p class="landing-lead">{site.lead}</p>
       <div class="cta-row">
-        <a class="primary-cta" href="/years/"><Icon name="calendar" />年度から探す</a>
-        <a class="secondary-cta" href="/records/music/"><Icon name="music" />曲名で探す</a>
-        <a class="secondary-cta" href="/about/"><Icon name="book" />このサイトについて</a>
+        <a class={buttonVariants({ size: "lg", className: "hero-primary" })} href="/years/"><Icon name="calendar" />年度から探す</a>
+        <a class={buttonVariants({ size: "lg", variant: "outline", className: "hero-secondary" })} href="/records/music/"><Icon name="music" />曲名で探す</a>
+        <a class={buttonVariants({ size: "lg", variant: "outline", className: "hero-secondary" })} href="/about/"><Icon name="book" />このサイトについて</a>
       </div>
     </div>
   </section>
 
   <section class="landing-links wrap">
     {featureLinks.map((item) => (
-      <a class="feature-card" href={item.href}>
-        <span><Icon name={item.icon} />{item.label}</span>
-        <strong>{item.text}</strong>
-        <small>開く <Icon name="arrow" /></small>
+      <a class="feature-link" href={item.href}>
+        <Card className="feature-card">
+          <span class="feature-label"><Icon name={item.icon} />{item.label}</span>
+          <strong>{item.text}</strong>
+          <small>開く<Icon name="arrow" /></small>
+        </Card>
       </a>
     ))}
   </section>
 
   <section class="landing-note wrap narrow">
-    <p>
-      このサイトは学校公式サイトではありません。
-    </p>
+    <p>このサイトは学校公式サイトではありません。</p>
   </section>
 </BaseLayout>

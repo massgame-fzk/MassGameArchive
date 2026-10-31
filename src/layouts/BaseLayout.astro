@@ -1,7 +1,8 @@
 ---
 import "../styles/global.css";
 import Icon from "../components/Icon.astro";
-import ShareActions from "../components/ShareActions.astro";
+import ShareMenu from "../components/ShareMenu";
+import MobileMenu from "../components/MobileMenu";
 import { site } from "../data/site";
 
 type Props = {
@@ -22,12 +23,10 @@ const imageUrl = new URL(image, baseUrl).toString();
 const currentPath = Astro.url.pathname;
 const showFooterAboutLink = currentPath !== "/about/";
 const nav = [
-  { href: "/", label: "トップ", icon: "home" },
-  { href: "/about/", label: "このサイトについて", icon: "book" },
+  { href: "/", label: "ホーム", icon: "home" },
   { href: "/years/", label: "年度", icon: "calendar" },
   { href: "/records/music/", label: "曲", icon: "music" },
   { href: "/records/media/", label: "動画", icon: "video" },
-  { href: "/contribute/", label: "連絡・情報提供", icon: "info" },
 ] as const;
 ---
 
@@ -35,7 +34,7 @@ const nav = [
 <html lang="ja">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
     <meta property="og:site_name" content={site.name} />
@@ -48,7 +47,7 @@ const nav = [
     <meta name="twitter:title" content={pageTitle} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={imageUrl} />
-    <meta name="theme-color" content="#f8fafc" />
+    <meta name="theme-color" content="#fafaf8" />
     <meta name="apple-mobile-web-app-title" content={site.name} />
     <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
@@ -64,8 +63,8 @@ const nav = [
     <header class="site-header">
       <div class="wrap header-inner">
         <a class="brand" href="/">
-          <span class="brand-mark" aria-hidden="true"></span>
-          <span>{site.name}</span>
+          <span class="brand-mark" aria-hidden="true"><img src="/favicon.svg" width="24" height="24" alt="" /></span>
+          <span>{site.name}<small>広大附属マスゲーム</small></span>
         </a>
         <nav class="site-nav desktop-nav" aria-label="主要ナビゲーション">
           {nav.map((item) => {
@@ -77,22 +76,11 @@ const nav = [
             );
           })}
         </nav>
-        <details class="mobile-menu">
-          <summary>
-            <span class="menu-icon" aria-hidden="true"></span>
-            <span>メニュー</span>
-          </summary>
-          <nav class="site-nav mobile-nav" aria-label="主要ナビゲーション">
-            {nav.map((item) => {
-              const isCurrent = item.href === "/" ? currentPath === "/" : currentPath.startsWith(item.href);
-              return (
-                <a href={item.href} aria-current={isCurrent ? "page" : undefined}>
-                  <Icon name={item.icon} />{item.label}
-                </a>
-              );
-            })}
-          </nav>
-        </details>
+        <div class="header-actions">
+          <a class="header-about" href="/about/">このサイトについて</a>
+          <ShareMenu title={pageTitle} text={description} url={canonicalUrl} client:load />
+          <div class="mobile-menu"><MobileMenu currentPath={currentPath} client:load /></div>
+        </div>
       </div>
     </header>
     <main id="main">
@@ -114,20 +102,21 @@ const nav = [
       )}
       <slot />
     </main>
-    <ShareActions title={pageTitle} text={description} url={canonicalUrl} />
+    <nav class="bottom-nav" aria-label="スマートフォンのナビゲーション">
+      {nav.map((item) => {
+        const isCurrent = item.href === "/" ? currentPath === "/" : currentPath.startsWith(item.href);
+        return <a href={item.href} aria-current={isCurrent ? "page" : undefined}><Icon name={item.icon} /><span>{item.label}</span></a>;
+      })}
+    </nav>
     <footer class="site-footer">
       <div class="wrap footer-grid">
-        <p>
-          このサイトはOB/OGコミュニティ向けの非公式アーカイブです。広島大学附属中・高等学校の公式サイトではありません。
-        </p>
-        <p>
-          掲載対象は曲名、年度、部門、場面、YouTube動画です。個人名、本文レポート、写真資料は公開対象にしていません。
-        </p>
-        {showFooterAboutLink && (
-          <p>
-            <a href="/about/">このサイトについて</a>
-          </p>
-        )}
+        <div><a class="footer-brand" href="/">MassGame Archive<span>あの年の曲と演技を、もう一度。</span></a>
+          <p>広大附属マスゲームの非公式アーカイブ。<br />広島大学附属中・高等学校の公式サイトではありません。</p></div>
+        <div class="footer-links">
+          {showFooterAboutLink && <a href="/about/">このサイトについて</a>}
+          <a href="/contribute/">連絡・情報提供<Icon name="arrow" /></a>
+          <small>曲名・年度・部門・場面・YouTube動画を掲載しています。</small>
+        </div>
       </div>
     </footer>
   </body>

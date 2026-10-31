@@ -1,7 +1,7 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import RecordsTable from "../../components/RecordsTable.astro";
-import ShareActions from "../../components/ShareActions.astro";
+import Icon from "../../components/Icon.astro";
 import { entriesForYear, youtubeEmbedUrl, years } from "../../data/archive";
 
 export function getStaticPaths() {
@@ -13,6 +13,10 @@ const record = entriesForYear(yearParam);
 if (!record.year) {
   return Astro.redirect("/years/");
 }
+const sortedYears = [...years].sort((a, b) => a.year - b.year);
+const currentIndex = sortedYears.findIndex(({ year }) => year === yearParam);
+const previousYear = sortedYears[currentIndex - 1];
+const nextYear = sortedYears[currentIndex + 1];
 ---
 
 <BaseLayout
@@ -27,13 +31,10 @@ if (!record.year) {
     <p class="eyebrow">Year</p>
     <h1>{record.year.label}</h1>
     {record.eventDateLabel && <p class="lead">体育祭: {record.eventDateLabel}</p>}
-    <ShareActions
-      title={`${record.year.label} | MassGame Archive`}
-      text={`MassGame Archiveで${record.year.label}の曲と動画を見る`}
-    />
+    <nav class="year-sections" aria-label="この年度の記録"><a href="#music"><Icon name="music" />曲<span class="source-note">{record.music.length}</span></a><a href="#videos"><Icon name="video" />動画<span class="source-note">{record.media.length}</span></a></nav>
   </section>
 
-  <section class="section wrap narrow">
+  <section class="section wrap narrow" id="music">
     <h2>曲</h2>
     {record.missingMusicComment && <p class="data-comment">{record.missingMusicComment}</p>}
     {record.musicSlots.length > 0 ? (
@@ -43,7 +44,7 @@ if (!record.year) {
     )}
   </section>
 
-  <section class="section wrap narrow">
+  <section class="section wrap narrow" id="videos">
     <h2>YouTube</h2>
     {record.media.length > 0 ? (
       <div class="video-grid">
@@ -59,6 +60,7 @@ if (!record.year) {
                   data-embed-url={embedUrl}
                   data-embed-title={`${entry.label} YouTube`}
                   disabled={!embedUrl}
+                  aria-expanded="false"
                 >
                   このページで再生
                 </button>
@@ -73,4 +75,9 @@ if (!record.year) {
       <p>この年度のYouTubeリンクは未確認です。</p>
     )}
   </section>
+  <nav class="year-page-nav wrap narrow" aria-label="前後の年度">
+    {previousYear ? <a href={`/years/${previousYear.year}/`}><span class="previous-arrow"><Icon name="arrow" /></span>{previousYear.year}年度</a> : <span />}
+    <a href="/years/">年度一覧</a>
+    {nextYear ? <a href={`/years/${nextYear.year}/`}>{nextYear.year}年度<Icon name="arrow" /></a> : <span />}
+  </nav>
 </BaseLayout>
