@@ -1,0 +1,22 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import MusicInsights from "../../components/MusicInsights";
+import { musicEntries, musicRecords } from "../../data/archive";
+import { buildMusicInsights } from "../../lib/music-insights";
+import "../../styles/insights.css";
+
+const data = buildMusicInsights(musicEntries, musicRecords);
+---
+
+<BaseLayout title="数字で見るマスゲーム" description="選ばれ続けたアーティスト、世代ごとの定番、時を越えて再登場する曲。広大附属マスゲームの選曲の歴史を、数字とグラフでたどる特集です。" breadcrumbs={[{ label: "数字で見るマスゲーム" }]}>
+  <article class="wrap insights-page">
+    <header class="insights-hero">
+      <p class="eyebrow">Archive stories <span>選曲からたどる、マスゲームの歴史</span></p>
+      <h1>数字で見る<br /><span>マスゲーム。</span></h1>
+      <p class="lead">何世代にも選ばれたアーティスト。<br />あのシーンで流れた定番。そして、時を越えて再会する曲。<br class="insights-desktop-break" />積み重なった記録から、選曲の歴史をひもときます。</p>
+      <div class="insights-hero-footer"><span>曲名・アーティストが確認済みの記録を集計</span><a href="/records/music/">曲一覧を見る <span aria-hidden="true">↗</span></a></div>
+      <div class="insights-hero-art" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
+    </header>
+    <MusicInsights data={data} client:load />
+  </article>
+</BaseLayout>

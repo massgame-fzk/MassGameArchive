@@ -1,4 +1,4 @@
-import { Menu, ArrowUpRight, Home, CalendarDays, Music2, Play, BookOpen, MessageCircle } from "lucide-react";
+import { Menu, ArrowUpRight, Home, CalendarDays, Music2, Play, BookOpen, MessageCircle, ChartNoAxesCombined } from "lucide-react";
 import { Button } from "./ui/button";
 import { Sheet, SheetTrigger, SheetContent, SheetHeader, SheetTitle, SheetDescription, SheetClose } from "./ui/sheet";
 
@@ -7,6 +7,7 @@ const links = [
   { href: "/years/", label: "年度から探す", icon: CalendarDays },
   { href: "/records/music/", label: "曲を探す", icon: Music2 },
   { href: "/records/media/", label: "動画を見る", icon: Play },
+  { href: "/features/by-the-numbers/", label: "数字で見るマスゲーム", icon: ChartNoAxesCombined },
   { href: "/about/", label: "このサイトについて", icon: BookOpen },
   { href: "/contribute/", label: "連絡・情報提供", icon: MessageCircle },
 ];

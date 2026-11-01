@@ -3,7 +3,6 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import RecordsTable from "../../components/RecordsTable.astro";
 import { musicSlotEntries } from "../../data/archive";
 
-const sorted = [...musicSlotEntries].sort((a, b) => b.year - a.year || a.group.localeCompare(b.group, "ja"));
 ---
 
 <BaseLayout
@@ -14,9 +13,10 @@ const sorted = [...musicSlotEntries].sort((a, b) => b.year - a.year || a.group.l
   <section class="hero wrap narrow">
     <p class="eyebrow">Music</p>
     <h1>あの曲を、探そう。</h1>
-    <p class="lead">曲名やアーティストから、思い出の一曲を。<br />年度・部門・場面でも絞り込めます。未判明の曲は「調査中」と表示しています。</p>
+    <p class="lead">年度ごとに、入場から退場までの曲を。<br />曲名・アーティストで検索し、部門・シーンでも絞り込めます。未判明の曲は「調査中」と表示しています。</p>
+    <a class="text-link" href="/features/by-the-numbers/">特集：数字で見るマスゲーム <span aria-hidden="true">↗</span></a>
   </section>
   <section class="section wrap narrow">
-    <RecordsTable entries={sorted} searchable />
+    <RecordsTable entries={musicSlotEntries} searchable groupedByYear />
   </section>
 </BaseLayout>

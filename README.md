@@ -1,6 +1,6 @@
 # MassGame Archive
 
-広大附属マスゲームの曲とYouTube動画を整理する非公式アーカイブです。年度、部門、場面、曲名、アーティスト、YouTube動画を、OB/OGが参照しやすい静的サイトとして公開します。
+広大附属マスゲームの曲とYouTube動画を整理する非公式アーカイブです。年度、部門、シーン、曲名、アーティスト、YouTube動画を、OB/OGが参照しやすい静的サイトとして公開します。
 
 学校公式サイトではありません。本文レポート、写真、掲示板、メールアドレス、個人名、旧サイトへの公開リンクは掲載対象にしません。
 
@@ -15,12 +15,13 @@
 
 ## サイト構成
 
+- `/features/by-the-numbers/`: 特集「数字で見るマスゲーム」。アーティストランキング、シーン・部門・年代の比較、複数年度で採用された曲をグラフで紹介
 - `/`: トップページ
 - `/about/`: サイトの公開方針
 - `/contribute/`: 情報提供・訂正・削除依頼の案内
 - `/years/`: 年度一覧
 - `/years/[year]/`: 年度別の曲とYouTube
-- `/records/music/`: 曲一覧。曲名・アーティスト検索、年度・部門・場面の絞り込み、列ソート、ページ切り替えに対応。検索条件はURLに保持
+- `/records/music/`: 曲一覧。年度別・部門別に入場から退場までをページ切り替えなしで表示。年度へのジャンプ、曲名・アーティスト検索、部門・シーンの絞り込みに対応。検索条件はURLに保持
 - `/records/media/`: YouTube一覧。年度別に動画を並べ、必要な動画だけ埋め込み再生
 - `/groups/sun/`: 太陽・赤の曲一覧
 - `/groups/moon/`: 月・白の曲一覧
@@ -46,6 +47,7 @@ npm run dev
 
 ```sh
 npm run validate:data
+npm run test:insights
 npm run build
 npm run preview
 ```
@@ -59,7 +61,7 @@ npm run preview
 ## データファイル
 
 - `src/data/years.json`: 年度ページの基本情報
-- `src/data/music.json`: 年度、部門、場面ごとの曲情報
+- `src/data/music.json`: 年度、部門、シーンごとの曲情報
 - `src/data/media.json`: YouTubeプレイリスト・動画情報
 - `src/data/types.ts`: データ型定義
 - `src/data/archive.ts`: verifiedデータの抽出、年度別集約、YouTube埋め込みURL生成
@@ -96,7 +98,7 @@ npm run preview
 
 `group` は `太陽`、`月`、`赤`、`白`、`未整理`、`不明` を使います。`legacyGroup` は旧サイトの赤白表記に合わせて `Red` または `White` を使います。
 
-`src/data/media.json` の `kind` は `youtube-playlist` または `youtube-video` です。動画単体の `label` は `2026年度 太陽 一部` のように、年度、部門、場面が読み取れる形にします。
+`src/data/media.json` の `kind` は `youtube-playlist` または `youtube-video` です。動画単体の `label` は `2026年度 太陽 一部` のように、年度、部門、シーンが読み取れる形にします。
 
 ## 更新手順
 
@@ -112,7 +114,7 @@ npm run preview
 ## 新年度追加手順
 
 1. `src/data/years.json` に年度レコードを追加する。
-2. 曲が確認できる場合は `src/data/music.json` に年度・部門レコードを追加し、6つの場面枠に曲を入れる。
+2. 曲が確認できる場合は `src/data/music.json` に年度・部門レコードを追加し、6つのシーン枠に曲を入れる。
 3. YouTubeが確認できる場合は `src/data/media.json` に追加する。
 4. YouTube以外の外部リンクは公開データに入れない。
 5. `npm run validate:data` と `npm run build` を通す。

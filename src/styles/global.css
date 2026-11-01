@@ -115,6 +115,12 @@ p { margin: 0 0 14px; }
 .source-note { color: var(--muted); font-size: 12px; }
 
 /* Home: retain the original copy, with the photograph leading the first view. */
+.archive-feature-entry { margin-block: 28px; }
+.archive-feature-entry > a { display: flex; align-items: center; justify-content: space-between; gap: 24px; border-block: 1px solid var(--line); padding-block: 24px; text-decoration: none; }
+.archive-feature-entry > a > span { display: grid; gap: 7px; }
+.archive-feature-entry small { color: var(--primary); font-size: 10px; letter-spacing: .09em; }
+.archive-feature-entry strong { font-size: 22px; font-weight: 600; }
+.archive-feature-entry > a > span > span { color: var(--muted); font-size: 12px; }
 .landing-hero { position: relative; display: grid; align-items: end; min-height: clamp(520px, 70svh, 720px); padding: 80px 0 56px; overflow: hidden; background: #294d5c; color: #fff; }
 .landing-hero::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, transparent 25%, #10281f33 50%, #10281fcc 100%); pointer-events: none; }
 .landing-hero-image { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center 44%; }
@@ -167,6 +173,7 @@ p { margin: 0 0 14px; }
 .search-field > svg { position: absolute; left: 14px; top: 50%; transform: translateY(-50%); color: #7c877b; }
 .search-field input { height: 50px; min-height: 50px; padding-left: 43px; background: #fcfcfa; font-size: 14px; }
 .filter-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin-top: 17px; }
+.filter-grid-compact { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .filter-grid label { display: grid; gap: 6px; font-size: 11px; color: var(--muted); }
 input, select, textarea { width: 100%; max-width: 100%; min-width: 0; min-height: 44px; border: 1px solid #dcded8; border-radius: 6px; background: #fff; color: var(--ink); font-size: 14px; padding: 9px 12px; }
 select { padding-right: 22px; }
@@ -184,6 +191,7 @@ select { padding-right: 22px; }
 .records-table th[aria-sort="ascending"], .records-table th[aria-sort="descending"] { color: var(--primary); }
 .records-table th, .records-table td { padding: 12px 16px; border-bottom: 1px solid #edf0e9; vertical-align: middle; }
 .records-table th { padding-block: 0; }
+.music-year-records th { padding-block: 14px; }
 .records-table tr:last-child td { border-bottom: 0; }
 .records-table tbody tr:hover { background: #f8faf5; }
 .track-year a { display: inline-flex; align-items: center; min-height: 44px; font-size: 12px; color: var(--primary); font-weight: 600; text-decoration: none; }
@@ -208,8 +216,9 @@ select { padding-right: 22px; }
 .scroll-hint-shell { position: sticky; top: var(--site-header-height); z-index: 20; padding: 8px 0 14px; border-bottom: 1px solid var(--line); background: var(--bg); }
 .scroll-hint { font-size: 10px; color: var(--muted); margin-bottom: 8px; }
 .year-filter { display: flex; gap: 7px; overflow-x: auto; white-space: nowrap; padding-bottom: 3px; scrollbar-width: thin; }
-.video-years { display: grid; gap: 40px; padding-top: 28px; }
-.video-year { scroll-margin-top: calc(var(--site-header-height) + var(--scroll-hint-shell-height) + 18px); }
+.video-years, .music-years { display: grid; gap: 40px; padding-top: 28px; }
+.video-year, .music-year { scroll-margin-top: calc(var(--site-header-height) + var(--scroll-hint-shell-height) + 18px); }
+.music-year { scroll-margin-top: calc(var(--site-header-height) + var(--music-year-nav-height, 96px) + 18px); }
 .video-list, .playlist-list, .video-grid { display: grid; gap: 10px; }
 .video-row, .video-item, .playlist-row { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 14px 20px; padding: 18px 20px; background: #fff; border: 1px solid var(--line); border-radius: 8px; }
 .video-row h3, .video-item h3, .playlist-row h3 { font-size: 12px; font-weight: 500; margin: 0; }
@@ -343,6 +352,8 @@ select { padding-right: 22px; }
   .track-year a { font-size: 11px; min-height: 44px; }
   .mobile-year-label { display: inline; font-weight: 400; font-size: 9px; margin-left: 3px; }
   .track-group { grid-column: 2; grid-row: 1; }
+  .music-year-records .track-group { grid-column: 1; }
+  .music-year-records .track-scene { grid-column: 2 / -1; }
   .track-group [data-slot="badge"] { font-size: 9px; }
   .track-scene { grid-column: 3; grid-row: 1; font-size: 10px; }
   .track-title { grid-column: 1 / -1; grid-row: 2; font-size: 14px; line-height: 1.6; }

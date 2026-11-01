@@ -14,7 +14,7 @@ ready(() => {
 });
 
 function initArchiveNavigation() {
-  const nav = document.querySelector(".year-decade-nav, .year-filter");
+  const nav = document.querySelector(".year-decade-nav, .year-filter:not([data-music-navigation])");
   if (!nav || typeof IntersectionObserver !== "function") return;
   const links = [...nav.querySelectorAll('a[href^="#"]')];
   const setCurrent = (hash) => {

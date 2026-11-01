@@ -2,10 +2,10 @@
 import type { MusicEntry, MusicSlotEntry } from "../data/types";
 import MusicExplorer from "./MusicExplorer";
 
-type Props = { entries: (MusicEntry | MusicSlotEntry)[]; searchable?: boolean };
-const { entries, searchable = false } = Astro.props;
+type Props = { entries: (MusicEntry | MusicSlotEntry)[]; searchable?: boolean; groupedByYear?: boolean };
+const { entries, searchable = false, groupedByYear = false } = Astro.props;
 // Only public fields are serialized into the client island.
 const tracks = entries.map(({ year, group, scene, title, artist, status }) => ({ year, group, scene, title, artist, status }));
 ---
 
-<MusicExplorer entries={tracks} searchable={searchable} client:load />
+<MusicExplorer entries={tracks} searchable={searchable} groupedByYear={groupedByYear} client:load />
