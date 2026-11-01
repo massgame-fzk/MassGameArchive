@@ -2736,5 +2736,50 @@
     "sourceUrl": "https://www.youtube.com/@adoxajuin/videos",
     "verified": true,
     "note": "YouTubeチャンネルでタイトル確認: 94R-0 櫓版"
+  },
+  {
+    "label": "2026年度 太陽 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=JTx4HL-Ulyo",
+    "source": "情報提供フォーム（2026-10-31送信、2026-11-01受付）",
+    "sourceUrl": "https://www.youtube.com/watch?v=JTx4HL-Ulyo",
+    "verified": true,
+    "note": "提供メッセージ: opening。フォーム通知の添付プレビュータイトル: 26sunmassgame opening。"
+  },
+  {
+    "label": "2026年度 太陽 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=mTdG8zPxkPA",
+    "source": "情報提供フォーム（2026-10-31送信、2026-11-01受付）",
+    "sourceUrl": "https://www.youtube.com/watch?v=mTdG8zPxkPA",
+    "verified": true,
+    "note": "提供メッセージ: 1st。フォーム通知の添付プレビュータイトル: 26sunmassgame 1st。"
+  },
+  {
+    "label": "2026年度 太陽 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=DLkJq5rsyhg",
+    "source": "情報提供フォーム（2026-10-31送信、2026-11-01受付）",
+    "sourceUrl": "https://www.youtube.com/watch?v=DLkJq5rsyhg",
+    "verified": true,
+    "note": "提供メッセージ: inter。フォーム通知の添付プレビュータイトル: 26sunmassgame inter。"
+  },
+  {
+    "label": "2026年度 太陽 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=gxpNxYkF4yM",
+    "source": "情報提供フォーム（2026-10-31送信、2026-11-01受付）",
+    "sourceUrl": "https://www.youtube.com/watch?v=gxpNxYkF4yM",
+    "verified": true,
+    "note": "提供メッセージ: 2nd。フォーム通知の添付プレビュータイトル: 26sunmassgame 2nd。部門欄は空欄のため、添付プレビュータイトルのsunに基づき太陽に分類。"
+  },
+  {
+    "label": "2026年度 太陽 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Vd7WYCzPyFU",
+    "source": "情報提供フォーム（2026-10-31送信、2026-11-01受付）",
+    "sourceUrl": "https://www.youtube.com/watch?v=Vd7WYCzPyFU",
+    "verified": true,
+    "note": "提供メッセージ: 3rd。年度・部門はフォーム記載に基づく。通知抜粋に添付プレビュータイトルの記載なし。"
   }
 ]
