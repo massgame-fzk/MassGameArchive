@@ -48,6 +48,7 @@ npm run dev
 ```sh
 npm run validate:data
 npm run test:insights
+npm run test:navigation
 npm run build
 npm run preview
 ```

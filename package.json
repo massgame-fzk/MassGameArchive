@@ -12,7 +12,8 @@
     "recognize:music": "node scripts/recognize-youtube-playlist-music.mjs",
     "normalize:music": "node scripts/normalize-music-data.mjs",
     "validate:data": "node scripts/validate-data.mjs",
-    "test:insights": "node --experimental-strip-types --test scripts/test-music-insights.mjs"
+    "test:insights": "node --experimental-strip-types --test scripts/test-music-insights.mjs",
+    "test:navigation": "node --experimental-strip-types --test scripts/test-year-navigation.mjs"
   },
   "engines": {
     "node": ">=22.12.0"

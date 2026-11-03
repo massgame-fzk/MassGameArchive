@@ -152,3 +152,9 @@ const archivePlaylists = mediaEntries
     </section>
   )}
 </BaseLayout>
+
+<script>
+  import { setupYearNavigation } from "../../lib/year-navigation";
+  const nav = document.querySelector<HTMLElement>(".year-filter");
+  if (nav) setupYearNavigation(nav);
+</script>

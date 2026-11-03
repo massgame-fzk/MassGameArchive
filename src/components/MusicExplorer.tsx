@@ -3,6 +3,7 @@ import { Search, ArrowDownUp, ChevronLeft, ChevronRight, Music2, X } from "lucid
 import { Button } from "./ui/button";
 import { Input } from "./ui/input";
 import { Badge } from "./ui/badge";
+import { setupYearNavigation } from "../lib/year-navigation";
 
 export type PublicTrack = {
   year: number; group: string; scene: string; title: string; artist: string; status: "known" | "unknown";
@@ -90,24 +91,9 @@ export default function MusicExplorer({ entries, searchable = false, groupedByYe
   useEffect(() => {
     const navigation = yearNavigation.current;
     if (!groupedByYear || !navigation) return;
-    const updateNavigation = () => {
-      const height = navigation.getBoundingClientRect().height;
-      navigation.parentElement?.style.setProperty("--music-year-nav-height", `${height}px`);
-      const offset = (document.querySelector(".site-header")?.getBoundingClientRect().height ?? 80) + height + 40;
-      const current = tracksByYear.findLast(([year]) => {
-        const section = document.getElementById(`year-${year}`);
-        return section && section.getBoundingClientRect().top <= offset;
-      });
-      setActiveYear(current?.[0] ?? tracksByYear[0]?.[0]);
-    };
-    updateNavigation();
-    const observer = new ResizeObserver(updateNavigation);
-    observer.observe(navigation);
-    window.addEventListener("scroll", updateNavigation, { passive: true });
-    return () => {
-      observer.disconnect();
-      window.removeEventListener("scroll", updateNavigation);
-    };
+    const nav = navigation.querySelector<HTMLElement>(".year-filter");
+    if (!nav) return;
+    return setupYearNavigation(nav, (id) => setActiveYear(Number(id.replace("year-", ""))));
   }, [groupedByYear, tracksByYear]);
 
   const pageCount = groupedByYear ? 1 : Math.max(1, Math.ceil(filtered.length / pageSize));
