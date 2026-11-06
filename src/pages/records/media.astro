@@ -68,13 +68,6 @@ for (const entry of individualVideos) {
   groupedVideos.set(entry.year, [...(groupedVideos.get(entry.year) ?? []), entry]);
 }
 const videosByYear = [...groupedVideos].sort(([a], [b]) => b - a);
-const archivePlaylists = mediaEntries
-  .filter((entry) => entry.kind === "youtube-playlist")
-  .sort((a, b) => {
-    const aYear = Number(a.label.match(/\d{4}/)?.[0] ?? 0);
-    const bYear = Number(b.label.match(/\d{4}/)?.[0] ?? 0);
-    return bYear - aYear;
-  });
 ---
 
 <BaseLayout
@@ -92,7 +85,6 @@ const archivePlaylists = mediaEntries
       <p class="scroll-hint">年度は横にスクロールできます</p>
       <nav class="year-filter" aria-label="動画の年度">
         {videosByYear.map(([year]) => <a href={`#year-${year}`}>{year}</a>)}
-        {archivePlaylists.length > 0 && <a href="#archive-playlists">2011以前</a>}
       </nav>
     </div>
 
@@ -136,21 +128,6 @@ const archivePlaylists = mediaEntries
     </div>
   </section>
 
-  {archivePlaylists.length > 0 && (
-    <section class="section wrap narrow" id="archive-playlists">
-      <div class="section-heading">
-        <h2>2011年度以前のプレイリスト</h2>
-      </div>
-      <div class="playlist-list">
-        {archivePlaylists.map((entry) => (
-          <article class="playlist-row">
-            <h3>{entry.label}</h3>
-            <a class="youtube-link" href={entry.url}>YouTubeで見る</a>
-          </article>
-        ))}
-      </div>
-    </section>
-  )}
 </BaseLayout>
 
 <script>

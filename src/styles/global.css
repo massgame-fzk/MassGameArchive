@@ -219,9 +219,9 @@ select { padding-right: 22px; }
 .video-years, .music-years { display: grid; gap: 40px; padding-top: 28px; }
 .video-year, .music-year { scroll-margin-top: calc(var(--site-header-height) + var(--scroll-hint-shell-height) + 18px); }
 .music-year { scroll-margin-top: calc(var(--site-header-height) + var(--music-year-nav-height, 96px) + 18px); }
-.video-list, .playlist-list, .video-grid { display: grid; gap: 10px; }
-.video-row, .video-item, .playlist-row { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 14px 20px; padding: 18px 20px; background: #fff; border: 1px solid var(--line); border-radius: 8px; }
-.video-row h3, .video-item h3, .playlist-row h3 { font-size: 12px; font-weight: 500; margin: 0; }
+.video-list, .video-grid { display: grid; gap: 10px; }
+.video-row, .video-item { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 14px 20px; padding: 18px 20px; background: #fff; border: 1px solid var(--line); border-radius: 8px; }
+.video-row h3, .video-item h3 { font-size: 12px; font-weight: 500; margin: 0; }
 .video-meta { display: flex; flex-wrap: wrap; gap: 5px; margin-bottom: 6px; }
 .video-meta span { display: inline-flex; align-items: center; padding: 1px 7px; background: #f1f4ed; border-radius: 3px; color: #697562; font-size: 9px; }
 .video-actions { display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-end; gap: 9px; }
@@ -235,7 +235,6 @@ select { padding-right: 22px; }
 .embed-slot { grid-column: 1 / -1; }
 .embed-slot:empty { display: none; }
 .embed-slot iframe { width: 100%; aspect-ratio: 16 / 9; border: 0; border-radius: 5px; background: #171b18; }
-#archive-playlists { scroll-margin-top: calc(var(--site-header-height) + var(--scroll-hint-shell-height) + 18px); }
 
 /* Information and contact */
 .grid { display: grid; gap: 24px; }
@@ -360,11 +359,10 @@ select { padding-right: 22px; }
   .track-artist { grid-column: 1 / -1; grid-row: 3; font-size: 11px; line-height: 1.6; }
   .is-unknown .track-title { font-size: 13px; }
   .pagination { gap: 24px; }
-  .video-row, .video-item, .playlist-row { grid-template-columns: 1fr; padding: 17px; gap: 13px; }
-  .video-row h3, .video-item h3, .playlist-row h3 { font-size: 12px; }
+  .video-row, .video-item { grid-template-columns: 1fr; padding: 17px; gap: 13px; }
+  .video-row h3, .video-item h3 { font-size: 12px; }
   .video-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
   .embed-toggle, .youtube-link { font-size: 12px; padding: 9px 6px; }
-  .playlist-row .youtube-link { justify-self: start; padding-inline: 12px; }
   .video-years { gap: 30px; }
   .section-heading > a { min-height: 44px; }
   .grid.cols-2, .form-grid { grid-template-columns: 1fr; }

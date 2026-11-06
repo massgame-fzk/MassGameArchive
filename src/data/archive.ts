@@ -132,6 +132,31 @@ function mediaMatchesYear(entry: MediaEntry, year: number) {
   return entry.label.includes(String(year));
 }
 
+function hasCompleteIndividualVideos(entries: MediaEntry[], groups: YearRecord["groups"]) {
+  const groupAliases: Record<string, string> = { 太陽: "赤", 月: "白" };
+  const sceneAliases: Record<string, string> = { "1部": "一部", "2部": "二部", "3部": "三部" };
+  const scenesByGroup = new Map<string, Set<string>>();
+
+  for (const entry of entries) {
+    if (entry.kind !== "youtube-video") continue;
+    const match = entry.label.match(/^\d{4}年度\s+(\S+)\s+([^\s（(]+)/);
+    if (!match) continue;
+    const group = groupAliases[match[1]] ?? match[1];
+    const scene = sceneAliases[match[2]] ?? match[2];
+    const scenes = scenesByGroup.get(group) ?? new Set<string>();
+    scenes.add(scene);
+    scenesByGroup.set(group, scenes);
+  }
+
+  return groups.length > 0 && groups.every((group) => {
+    const scenes = scenesByGroup.get(groupAliases[group] ?? group);
+    // Older videos label the interval as 移動; retain their original labels.
+    return scenes && expectedMusicScenes.every((scene) =>
+      scenes.has(scene) || (scene === "インター" && scenes.has("移動")),
+    );
+  });
+}
+
 export function playlistId(url: string) {
   const parsed = parseYoutubeUrl(url);
   if (!parsed) return null;
@@ -177,13 +202,15 @@ export function youtubeEmbedUrl(entry: MediaEntry) {
 
 export function entriesForYear(year: number) {
   const yearRecord = years.find((entry) => entry.year === year);
+  const yearMedia = mediaEntries.filter((entry) => mediaMatchesYear(entry, year));
+  const completeVideos = hasCompleteIndividualVideos(yearMedia, yearRecord?.groups ?? []);
 
   return {
     year: yearRecord,
     musicRecords: musicRecords.filter((entry) => entry.year === year),
     music: musicEntries.filter((entry) => entry.year === year),
     musicSlots: musicSlotEntries.filter((entry) => entry.year === year),
-    media: mediaEntries.filter((entry) => mediaMatchesYear(entry, year)),
+    media: completeVideos ? yearMedia.filter((entry) => entry.kind === "youtube-video") : yearMedia,
     eventDateLabel: formatEventDate(yearRecord?.eventDate),
     missingMusicComment: missingMusicComment(year),
   };
