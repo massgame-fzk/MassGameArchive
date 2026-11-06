@@ -8,7 +8,7 @@
 
 - 年度データ: 1982-2026年度
 - 曲データ: 89レコード、494曲
-- YouTubeデータ: プレイリスト7件、動画395件
+- YouTubeデータ: プレイリスト7件、動画396件
 - 主な出典: 旧FC2サイトの保存HTML、YouTube検索・動画確認、卒業生からの情報提供
 
 公開UIでは `verified: true` のデータだけを使います。出典名、出典URL、確認メモは管理用データとして保持しますが、ページ上には表示しません。
@@ -102,6 +102,8 @@ npm run preview
 `src/data/media.json` の `kind` は `youtube-playlist` または `youtube-video` です。動画単体の `label` は `2026年度 太陽 一部` のように、年度、部門、シーンが読み取れる形にします。
 
 1999年度以前の個別動画は2026-11-06に再収集し、8年度・110本を登録しています。取得一覧と年度別件数は [sources/youtube/2026-11-06-pre-2000-playlists.md](sources/youtube/2026-11-06-pre-2000-playlists.md) に記録しています。
+
+2001年度以降の不足場面も共有済み・関連する6再生リストと照合し、2004年度の月・二部を1本追加しています。2020年度は開催中止の例外として扱います。残る不足場面と確認範囲は [sources/youtube/2026-11-06-post-2000-missing-videos.md](sources/youtube/2026-11-06-post-2000-missing-videos.md) に記録しています。
 
 ## 更新手順
 

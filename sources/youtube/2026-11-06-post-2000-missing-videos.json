@@ -1,0 +1,4834 @@
+{
+  "checkedAt": "2026-11-06",
+  "target": "2001〜2026年度の不足場面。2020年度はユーザー提供情報により開催中止の例外として除外。",
+  "method": "yt-dlp 2026.10.26 --ignore-config --flat-playlist --dump-single-json --skip-download",
+  "verification": "6再生リストの全件メタデータを取得して動画ID・タイトルを照合。追加動画はYouTube oEmbedでもタイトルを確認。動画本体のダウンロード・全編視聴・埋め込み再生確認は行っていない。",
+  "summary": {
+    "addedVideos": 1,
+    "addedByYear": {
+      "2004": 1
+    },
+    "totalVideosAfter": 396,
+    "remainingIncompleteYearsExcluding2020": [
+      2001,
+      2002,
+      2004,
+      2005,
+      2006,
+      2013,
+      2021
+    ],
+    "remainingMissingScenesExcluding2020": 28,
+    "exceptionYears": [
+      2020
+    ]
+  },
+  "before": [
+    {
+      "year": 2001,
+      "videoCount": 4,
+      "sceneCount": 4,
+      "missing": {
+        "赤": [
+          "インター",
+          "三部",
+          "退場"
+        ],
+        "白": [
+          "入場",
+          "一部",
+          "インター",
+          "三部",
+          "退場"
+        ]
+      },
+      "exception": null
+    },
+    {
+      "year": 2002,
+      "videoCount": 4,
+      "sceneCount": 4,
+      "missing": {
+        "赤": [
+          "入場",
+          "インター",
+          "三部",
+          "退場"
+        ],
+        "白": [
+          "入場",
+          "インター",
+          "三部",
+          "退場"
+        ]
+      },
+      "exception": null
+    },
+    {
+      "year": 2003,
+      "videoCount": 13,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2004,
+      "videoCount": 9,
+      "sceneCount": 9,
+      "missing": {
+        "赤": [
+          "退場"
+        ],
+        "白": [
+          "二部",
+          "退場"
+        ]
+      },
+      "exception": null
+    },
+    {
+      "year": 2005,
+      "videoCount": 9,
+      "sceneCount": 9,
+      "missing": {
+        "赤": [],
+        "白": [
+          "入場",
+          "インター",
+          "退場"
+        ]
+      },
+      "exception": null
+    },
+    {
+      "year": 2006,
+      "videoCount": 7,
+      "sceneCount": 7,
+      "missing": {
+        "赤": [
+          "入場",
+          "インター",
+          "退場"
+        ],
+        "白": [
+          "インター",
+          "退場"
+        ]
+      },
+      "exception": null
+    },
+    {
+      "year": 2007,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2008,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2009,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2010,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2011,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2012,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2013,
+      "videoCount": 11,
+      "sceneCount": 11,
+      "missing": {
+        "赤": [],
+        "白": [
+          "インター"
+        ]
+      },
+      "exception": null
+    },
+    {
+      "year": 2014,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2015,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2016,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2017,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2018,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2019,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2020,
+      "videoCount": 1,
+      "sceneCount": 1,
+      "missing": {
+        "赤": [
+          "入場",
+          "一部",
+          "インター",
+          "二部",
+          "三部",
+          "退場"
+        ],
+        "白": [
+          "入場",
+          "一部",
+          "インター",
+          "三部",
+          "退場"
+        ]
+      },
+      "exception": "ユーザー提供情報: 新型コロナウイルス流行により開催中止"
+    },
+    {
+      "year": 2021,
+      "videoCount": 11,
+      "sceneCount": 11,
+      "missing": {
+        "赤": [],
+        "白": [
+          "三部"
+        ]
+      },
+      "exception": null
+    },
+    {
+      "year": 2022,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2023,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2024,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2025,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2026,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    }
+  ],
+  "after": [
+    {
+      "year": 2001,
+      "videoCount": 4,
+      "sceneCount": 4,
+      "missing": {
+        "赤": [
+          "インター",
+          "三部",
+          "退場"
+        ],
+        "白": [
+          "入場",
+          "一部",
+          "インター",
+          "三部",
+          "退場"
+        ]
+      },
+      "exception": null
+    },
+    {
+      "year": 2002,
+      "videoCount": 4,
+      "sceneCount": 4,
+      "missing": {
+        "赤": [
+          "入場",
+          "インター",
+          "三部",
+          "退場"
+        ],
+        "白": [
+          "入場",
+          "インター",
+          "三部",
+          "退場"
+        ]
+      },
+      "exception": null
+    },
+    {
+      "year": 2003,
+      "videoCount": 13,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2004,
+      "videoCount": 10,
+      "sceneCount": 10,
+      "missing": {
+        "赤": [
+          "退場"
+        ],
+        "白": [
+          "退場"
+        ]
+      },
+      "exception": null
+    },
+    {
+      "year": 2005,
+      "videoCount": 9,
+      "sceneCount": 9,
+      "missing": {
+        "赤": [],
+        "白": [
+          "入場",
+          "インター",
+          "退場"
+        ]
+      },
+      "exception": null
+    },
+    {
+      "year": 2006,
+      "videoCount": 7,
+      "sceneCount": 7,
+      "missing": {
+        "赤": [
+          "入場",
+          "インター",
+          "退場"
+        ],
+        "白": [
+          "インター",
+          "退場"
+        ]
+      },
+      "exception": null
+    },
+    {
+      "year": 2007,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2008,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2009,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2010,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2011,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2012,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2013,
+      "videoCount": 11,
+      "sceneCount": 11,
+      "missing": {
+        "赤": [],
+        "白": [
+          "インター"
+        ]
+      },
+      "exception": null
+    },
+    {
+      "year": 2014,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2015,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2016,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2017,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2018,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2019,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2020,
+      "videoCount": 1,
+      "sceneCount": 1,
+      "missing": {
+        "赤": [
+          "入場",
+          "一部",
+          "インター",
+          "二部",
+          "三部",
+          "退場"
+        ],
+        "白": [
+          "入場",
+          "一部",
+          "インター",
+          "三部",
+          "退場"
+        ]
+      },
+      "exception": "ユーザー提供情報: 新型コロナウイルス流行により開催中止"
+    },
+    {
+      "year": 2021,
+      "videoCount": 11,
+      "sceneCount": 11,
+      "missing": {
+        "赤": [],
+        "白": [
+          "三部"
+        ]
+      },
+      "exception": null
+    },
+    {
+      "year": 2022,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2023,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2024,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2025,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    },
+    {
+      "year": 2026,
+      "videoCount": 12,
+      "sceneCount": 12,
+      "missing": {
+        "赤": [],
+        "白": []
+      },
+      "exception": null
+    }
+  ],
+  "playlists": [
+    {
+      "id": "PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+      "title": "広大附属 マスゲーム",
+      "url": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+      "reportedCount": 135,
+      "fetchedCount": 135,
+      "warning": null,
+      "entries": [
+        {
+          "playlistIndex": 1,
+          "id": "mTdG8zPxkPA",
+          "title": "26sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=mTdG8zPxkPA",
+          "duration": 310
+        },
+        {
+          "playlistIndex": 2,
+          "id": "gxpNxYkF4yM",
+          "title": "26sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=gxpNxYkF4yM",
+          "duration": 278
+        },
+        {
+          "playlistIndex": 3,
+          "id": "3cepfkXcfRk",
+          "title": "26moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=3cepfkXcfRk",
+          "duration": 284
+        },
+        {
+          "playlistIndex": 4,
+          "id": "mS5sLyU2Or4",
+          "title": "26moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=mS5sLyU2Or4",
+          "duration": 272
+        },
+        {
+          "playlistIndex": 5,
+          "id": "BPtx_YLTKbw",
+          "title": "25sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=BPtx_YLTKbw",
+          "duration": 331
+        },
+        {
+          "playlistIndex": 6,
+          "id": "6dmONEwIB7M",
+          "title": "25sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=6dmONEwIB7M",
+          "duration": 292
+        },
+        {
+          "playlistIndex": 7,
+          "id": "bb5yQmTyg2Y",
+          "title": "25moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=bb5yQmTyg2Y",
+          "duration": 301
+        },
+        {
+          "playlistIndex": 8,
+          "id": "j0Z51Jl7K88",
+          "title": "25moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=j0Z51Jl7K88",
+          "duration": 265
+        },
+        {
+          "playlistIndex": 9,
+          "id": "09mgaZXLZSI",
+          "title": "2024sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=09mgaZXLZSI",
+          "duration": 315
+        },
+        {
+          "playlistIndex": 10,
+          "id": "H8YP7bKkG8o",
+          "title": "24sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=H8YP7bKkG8o",
+          "duration": 280
+        },
+        {
+          "playlistIndex": 11,
+          "id": "JGmcQRVpDko",
+          "title": "24moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=JGmcQRVpDko",
+          "duration": 294
+        },
+        {
+          "playlistIndex": 12,
+          "id": "pdpNYyw_Snw",
+          "title": "24moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=pdpNYyw_Snw",
+          "duration": 259
+        },
+        {
+          "playlistIndex": 13,
+          "id": "P8ugLWNBA-o",
+          "title": "23sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=P8ugLWNBA-o",
+          "duration": 294
+        },
+        {
+          "playlistIndex": 14,
+          "id": "KglxvNDzkBs",
+          "title": "23sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=KglxvNDzkBs",
+          "duration": 293
+        },
+        {
+          "playlistIndex": 15,
+          "id": "KHWGTMmWGHE",
+          "title": "23moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=KHWGTMmWGHE",
+          "duration": 291
+        },
+        {
+          "playlistIndex": 16,
+          "id": "34dy0mWNSGU",
+          "title": "23moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=34dy0mWNSGU",
+          "duration": 257
+        },
+        {
+          "playlistIndex": 17,
+          "id": "7kdhgm_tjJU",
+          "title": "広大附属 太陽マスゲーム 2022 I部",
+          "url": "https://www.youtube.com/watch?v=7kdhgm_tjJU",
+          "duration": 303
+        },
+        {
+          "playlistIndex": 18,
+          "id": "xK4B7SbpWbI",
+          "title": "広大附属 太陽マスゲーム 2022 II部",
+          "url": "https://www.youtube.com/watch?v=xK4B7SbpWbI",
+          "duration": 279
+        },
+        {
+          "playlistIndex": 19,
+          "id": "D0vzwJcqJrc",
+          "title": "広大附属 月マスゲーム 2022 Ⅰ部",
+          "url": "https://www.youtube.com/watch?v=D0vzwJcqJrc",
+          "duration": 300
+        },
+        {
+          "playlistIndex": 20,
+          "id": "tQijBDBtLFg",
+          "title": "広大附属 月マスゲーム 2022 Ⅱ部",
+          "url": "https://www.youtube.com/watch?v=tQijBDBtLFg",
+          "duration": 256
+        },
+        {
+          "playlistIndex": 21,
+          "id": "YJZtFSeIC0k",
+          "title": "21sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=YJZtFSeIC0k",
+          "duration": 247
+        },
+        {
+          "playlistIndex": 22,
+          "id": "WESm-Oaf5pI",
+          "title": "21sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=WESm-Oaf5pI",
+          "duration": 243
+        },
+        {
+          "playlistIndex": 23,
+          "id": "MrkU8zkp0LE",
+          "title": "21moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=MrkU8zkp0LE",
+          "duration": 301
+        },
+        {
+          "playlistIndex": 24,
+          "id": "rzPeM499LVs",
+          "title": "21moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=rzPeM499LVs",
+          "duration": 240
+        },
+        {
+          "playlistIndex": 25,
+          "id": "djugV02c0zI",
+          "title": "'20 moonmassgame 2部('20returns)",
+          "url": "https://www.youtube.com/watch?v=djugV02c0zI",
+          "duration": 263
+        },
+        {
+          "playlistIndex": 26,
+          "id": "mFJlGZ-3qQc",
+          "title": "19sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=mFJlGZ-3qQc",
+          "duration": 299
+        },
+        {
+          "playlistIndex": 27,
+          "id": "pMB0GWxFoD0",
+          "title": "19sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=pMB0GWxFoD0",
+          "duration": 285
+        },
+        {
+          "playlistIndex": 28,
+          "id": "rCIJl6RVLr8",
+          "title": "19moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=rCIJl6RVLr8",
+          "duration": 284
+        },
+        {
+          "playlistIndex": 29,
+          "id": "iPaf2x8wRE8",
+          "title": "19moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=iPaf2x8wRE8",
+          "duration": 252
+        },
+        {
+          "playlistIndex": 30,
+          "id": "jP7BzIdPaZY",
+          "title": "18sunmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=jP7BzIdPaZY",
+          "duration": 311
+        },
+        {
+          "playlistIndex": 31,
+          "id": "FwVHwTpmzbA",
+          "title": "18sunmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=FwVHwTpmzbA",
+          "duration": 275
+        },
+        {
+          "playlistIndex": 32,
+          "id": "r99vLtqBHNc",
+          "title": "18moonmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=r99vLtqBHNc",
+          "duration": 294
+        },
+        {
+          "playlistIndex": 33,
+          "id": "_-22AGfZxcY",
+          "title": "18moonmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=_-22AGfZxcY",
+          "duration": 258
+        },
+        {
+          "playlistIndex": 34,
+          "id": "de-CRJMSvwI",
+          "title": "17sunmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=de-CRJMSvwI",
+          "duration": 274
+        },
+        {
+          "playlistIndex": 35,
+          "id": "IIIj72WDnvI",
+          "title": "17sunmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=IIIj72WDnvI",
+          "duration": 261
+        },
+        {
+          "playlistIndex": 36,
+          "id": "5ZhJdX1lfMQ",
+          "title": "17moonmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=5ZhJdX1lfMQ",
+          "duration": 294
+        },
+        {
+          "playlistIndex": 37,
+          "id": "hIuGkUa26nw",
+          "title": "17moonmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=hIuGkUa26nw",
+          "duration": 240
+        },
+        {
+          "playlistIndex": 38,
+          "id": "nAEEbDs7Ohk",
+          "title": "16sunmassgame  1st",
+          "url": "https://www.youtube.com/watch?v=nAEEbDs7Ohk",
+          "duration": 292
+        },
+        {
+          "playlistIndex": 39,
+          "id": "tABnz0SoV8o",
+          "title": "16sunmassgame  2nd",
+          "url": "https://www.youtube.com/watch?v=tABnz0SoV8o",
+          "duration": 245
+        },
+        {
+          "playlistIndex": 40,
+          "id": "W5OAq7oI-aM",
+          "title": "16moonmassgame  1st",
+          "url": "https://www.youtube.com/watch?v=W5OAq7oI-aM",
+          "duration": 312
+        },
+        {
+          "playlistIndex": 41,
+          "id": "s1d-0_C8LwM",
+          "title": "16moonmassgame  2nd",
+          "url": "https://www.youtube.com/watch?v=s1d-0_C8LwM",
+          "duration": 241
+        },
+        {
+          "playlistIndex": 42,
+          "id": "Cz6Hajxq0UA",
+          "title": "2015 Sunmassgame 1st stage櫓",
+          "url": "https://www.youtube.com/watch?v=Cz6Hajxq0UA",
+          "duration": 314
+        },
+        {
+          "playlistIndex": 43,
+          "id": "LgzTcZByz4A",
+          "title": "2015 Sunmassgame 2nd stage櫓",
+          "url": "https://www.youtube.com/watch?v=LgzTcZByz4A",
+          "duration": 286
+        },
+        {
+          "playlistIndex": 44,
+          "id": "PlIkqUH6cRQ",
+          "title": "2015MoonMassGame-1st stage",
+          "url": "https://www.youtube.com/watch?v=PlIkqUH6cRQ",
+          "duration": 330
+        },
+        {
+          "playlistIndex": 45,
+          "id": "IIKxi2fG0jE",
+          "title": "2015MoonMassGame-2nd stage",
+          "url": "https://www.youtube.com/watch?v=IIKxi2fG0jE",
+          "duration": 254
+        },
+        {
+          "playlistIndex": 46,
+          "id": "_rHg-fPLLcU",
+          "title": "2014 sunmass 1st stage",
+          "url": "https://www.youtube.com/watch?v=_rHg-fPLLcU",
+          "duration": 300
+        },
+        {
+          "playlistIndex": 47,
+          "id": "e2bKUL9uNKU",
+          "title": "2014 sunmass 2nd stage",
+          "url": "https://www.youtube.com/watch?v=e2bKUL9uNKU",
+          "duration": 267
+        },
+        {
+          "playlistIndex": 48,
+          "id": "_oaI9YLLz5U",
+          "title": "2014 moonmass 1st stage",
+          "url": "https://www.youtube.com/watch?v=_oaI9YLLz5U",
+          "duration": 307
+        },
+        {
+          "playlistIndex": 49,
+          "id": "DyzmN-zRJOo",
+          "title": "2014 moonmass 2nd stage",
+          "url": "https://www.youtube.com/watch?v=DyzmN-zRJOo",
+          "duration": 258
+        },
+        {
+          "playlistIndex": 50,
+          "id": "oGMlZUj3LUs",
+          "title": "2013 sunmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=oGMlZUj3LUs",
+          "duration": 315
+        },
+        {
+          "playlistIndex": 51,
+          "id": "tbZL6yEd2JE",
+          "title": "2013 sunmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=tbZL6yEd2JE",
+          "duration": 269
+        },
+        {
+          "playlistIndex": 52,
+          "id": "D5JLjDKytEg",
+          "title": "2013 MoonMassGame Pro 1st",
+          "url": "https://www.youtube.com/watch?v=D5JLjDKytEg",
+          "duration": 331
+        },
+        {
+          "playlistIndex": 53,
+          "id": "KwtNCMFgtCI",
+          "title": "2013 MoonMassGame Pro 2nd",
+          "url": "https://www.youtube.com/watch?v=KwtNCMFgtCI",
+          "duration": 258
+        },
+        {
+          "playlistIndex": 54,
+          "id": "vhMdWSG6C4U",
+          "title": "2012massgame Red-1st stage",
+          "url": "https://www.youtube.com/watch?v=vhMdWSG6C4U",
+          "duration": 311
+        },
+        {
+          "playlistIndex": 55,
+          "id": "1AQHKo31UCU",
+          "title": "2012massgame Red-2nd stage",
+          "url": "https://www.youtube.com/watch?v=1AQHKo31UCU",
+          "duration": 259
+        },
+        {
+          "playlistIndex": 56,
+          "id": "Db5y3ciwOkw",
+          "title": "2012massgame white-1st stage",
+          "url": "https://www.youtube.com/watch?v=Db5y3ciwOkw",
+          "duration": 309
+        },
+        {
+          "playlistIndex": 57,
+          "id": "ZnhgUMKq_GU",
+          "title": "2012massgame white-2nd stage",
+          "url": "https://www.youtube.com/watch?v=ZnhgUMKq_GU",
+          "duration": 245
+        },
+        {
+          "playlistIndex": 58,
+          "id": "Mrv1R83LTpo",
+          "title": "11massgame red-scene1",
+          "url": "https://www.youtube.com/watch?v=Mrv1R83LTpo",
+          "duration": 316
+        },
+        {
+          "playlistIndex": 59,
+          "id": "p_sjHVGKasg",
+          "title": "11massgame red-scene2",
+          "url": "https://www.youtube.com/watch?v=p_sjHVGKasg",
+          "duration": 272
+        },
+        {
+          "playlistIndex": 60,
+          "id": "NQABiiueY64",
+          "title": "11massgame white-scene1",
+          "url": "https://www.youtube.com/watch?v=NQABiiueY64",
+          "duration": 323
+        },
+        {
+          "playlistIndex": 61,
+          "id": "AzjbWOnhNZ0",
+          "title": "11massgame white-scene2",
+          "url": "https://www.youtube.com/watch?v=AzjbWOnhNZ0",
+          "duration": 253
+        },
+        {
+          "playlistIndex": 62,
+          "id": "QuHqrcVWaQs",
+          "title": "10massgame red-scene1",
+          "url": "https://www.youtube.com/watch?v=QuHqrcVWaQs",
+          "duration": 282
+        },
+        {
+          "playlistIndex": 63,
+          "id": "isLyGSQ26t0",
+          "title": "10massgame red-scene2",
+          "url": "https://www.youtube.com/watch?v=isLyGSQ26t0",
+          "duration": 248
+        },
+        {
+          "playlistIndex": 64,
+          "id": "xc0fVB05SOs",
+          "title": "10massgame white-scene1",
+          "url": "https://www.youtube.com/watch?v=xc0fVB05SOs",
+          "duration": 289
+        },
+        {
+          "playlistIndex": 65,
+          "id": "k24ME1th_rY",
+          "title": "10massgame white-scene2",
+          "url": "https://www.youtube.com/watch?v=k24ME1th_rY",
+          "duration": 237
+        },
+        {
+          "playlistIndex": 66,
+          "id": "NFDTvZqfqwY",
+          "title": "09massgame red-scene1",
+          "url": "https://www.youtube.com/watch?v=NFDTvZqfqwY",
+          "duration": 300
+        },
+        {
+          "playlistIndex": 67,
+          "id": "rpqYm3sPdxI",
+          "title": "09massgame red-scene2",
+          "url": "https://www.youtube.com/watch?v=rpqYm3sPdxI",
+          "duration": 264
+        },
+        {
+          "playlistIndex": 68,
+          "id": "DAi7E1VYNH4",
+          "title": "09massgame white-scene1",
+          "url": "https://www.youtube.com/watch?v=DAi7E1VYNH4",
+          "duration": 312
+        },
+        {
+          "playlistIndex": 69,
+          "id": "A4_EfdiBWkA",
+          "title": "09massgame white-scene2",
+          "url": "https://www.youtube.com/watch?v=A4_EfdiBWkA",
+          "duration": 249
+        },
+        {
+          "playlistIndex": 70,
+          "id": "czBgMBiJiJk",
+          "title": "08R-1",
+          "url": "https://www.youtube.com/watch?v=czBgMBiJiJk",
+          "duration": 346
+        },
+        {
+          "playlistIndex": 71,
+          "id": "x-YV3vgclwE",
+          "title": "08R-2",
+          "url": "https://www.youtube.com/watch?v=x-YV3vgclwE",
+          "duration": 259
+        },
+        {
+          "playlistIndex": 72,
+          "id": "1OBM9X7tak8",
+          "title": "08W-1",
+          "url": "https://www.youtube.com/watch?v=1OBM9X7tak8",
+          "duration": 346
+        },
+        {
+          "playlistIndex": 73,
+          "id": "kQ1aMx4Gvoc",
+          "title": "08W-2",
+          "url": "https://www.youtube.com/watch?v=kQ1aMx4Gvoc",
+          "duration": 274
+        },
+        {
+          "playlistIndex": 74,
+          "id": "cYQJhlhfy8w",
+          "title": "07R-1",
+          "url": "https://www.youtube.com/watch?v=cYQJhlhfy8w",
+          "duration": 331
+        },
+        {
+          "playlistIndex": 75,
+          "id": "cYi8pCkIWLE",
+          "title": "07R-2",
+          "url": "https://www.youtube.com/watch?v=cYi8pCkIWLE",
+          "duration": 296
+        },
+        {
+          "playlistIndex": 76,
+          "id": "xWdgksyRfWE",
+          "title": "07W-1",
+          "url": "https://www.youtube.com/watch?v=xWdgksyRfWE",
+          "duration": 334
+        },
+        {
+          "playlistIndex": 77,
+          "id": "7ry5kSyoihg",
+          "title": "07W-2",
+          "url": "https://www.youtube.com/watch?v=7ry5kSyoihg",
+          "duration": 255
+        },
+        {
+          "playlistIndex": 78,
+          "id": "GqU1qoOl_d0",
+          "title": "06REDMASSGAME 1stStage",
+          "url": "https://www.youtube.com/watch?v=GqU1qoOl_d0",
+          "duration": 311
+        },
+        {
+          "playlistIndex": 79,
+          "id": "pZ7B5IlSlpY",
+          "title": "06REDMASSGAME 2ndStage",
+          "url": "https://www.youtube.com/watch?v=pZ7B5IlSlpY",
+          "duration": 284
+        },
+        {
+          "playlistIndex": 80,
+          "id": "xQSMyagaZyU",
+          "title": "06WHITEMASSGAME 1stStage",
+          "url": "https://www.youtube.com/watch?v=xQSMyagaZyU",
+          "duration": 323
+        },
+        {
+          "playlistIndex": 81,
+          "id": "ecCTFVBmTTQ",
+          "title": "06WHITEMASSGAME 2ndStage",
+          "url": "https://www.youtube.com/watch?v=ecCTFVBmTTQ",
+          "duration": 275
+        },
+        {
+          "playlistIndex": 82,
+          "id": "o9yXXRtT5cg",
+          "title": "05REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=o9yXXRtT5cg",
+          "duration": 303
+        },
+        {
+          "playlistIndex": 83,
+          "id": "qS1ZrAWLjtI",
+          "title": "05R 2",
+          "url": "https://www.youtube.com/watch?v=qS1ZrAWLjtI",
+          "duration": 295
+        },
+        {
+          "playlistIndex": 84,
+          "id": "JzGGhG3-rYw",
+          "title": "05W 1",
+          "url": "https://www.youtube.com/watch?v=JzGGhG3-rYw",
+          "duration": 286
+        },
+        {
+          "playlistIndex": 85,
+          "id": "2IcD3Nqkoa8",
+          "title": "05W-2",
+          "url": "https://www.youtube.com/watch?v=2IcD3Nqkoa8",
+          "duration": 266
+        },
+        {
+          "playlistIndex": 86,
+          "id": "rCyyucdyqOs",
+          "title": "2004Red 1st_stage",
+          "url": "https://www.youtube.com/watch?v=rCyyucdyqOs",
+          "duration": 286
+        },
+        {
+          "playlistIndex": 87,
+          "id": "UJPkR-k1F3o",
+          "title": "2004Red 2nd_stage",
+          "url": "https://www.youtube.com/watch?v=UJPkR-k1F3o",
+          "duration": 256
+        },
+        {
+          "playlistIndex": 88,
+          "id": "_Q50pVtkh34",
+          "title": "2004White 1st_stage",
+          "url": "https://www.youtube.com/watch?v=_Q50pVtkh34",
+          "duration": 317
+        },
+        {
+          "playlistIndex": 89,
+          "id": "DO_T8Oj-whw",
+          "title": "03REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=DO_T8Oj-whw",
+          "duration": 315
+        },
+        {
+          "playlistIndex": 90,
+          "id": "9szH1BbNdSY",
+          "title": "03REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=9szH1BbNdSY",
+          "duration": 287
+        },
+        {
+          "playlistIndex": 91,
+          "id": "rvjoFVxPyPM",
+          "title": "03WHITEMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=rvjoFVxPyPM",
+          "duration": 274
+        },
+        {
+          "playlistIndex": 92,
+          "id": "Vacp7H_uR-M",
+          "title": "03W-2",
+          "url": "https://www.youtube.com/watch?v=Vacp7H_uR-M",
+          "duration": 241
+        },
+        {
+          "playlistIndex": 93,
+          "id": "SU7WYPbsZsM",
+          "title": "02REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=SU7WYPbsZsM",
+          "duration": 292
+        },
+        {
+          "playlistIndex": 94,
+          "id": "2ML8WUIgV6s",
+          "title": "02REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=2ML8WUIgV6s",
+          "duration": 270
+        },
+        {
+          "playlistIndex": 95,
+          "id": "BS6Sgg4CGMU",
+          "title": "02WHITEMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=BS6Sgg4CGMU",
+          "duration": 309
+        },
+        {
+          "playlistIndex": 96,
+          "id": "XB7wyFLM3EU",
+          "title": "02WHITEMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=XB7wyFLM3EU",
+          "duration": 257
+        },
+        {
+          "playlistIndex": 97,
+          "id": "4LPLoBnZIVs",
+          "title": "01R 1",
+          "url": "https://www.youtube.com/watch?v=4LPLoBnZIVs",
+          "duration": 308
+        },
+        {
+          "playlistIndex": 98,
+          "id": "bZBd2vRPmJA",
+          "title": "01REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=bZBd2vRPmJA",
+          "duration": 264
+        },
+        {
+          "playlistIndex": 99,
+          "id": "t0q0OCfEBvg",
+          "title": "01WHITEMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=t0q0OCfEBvg",
+          "duration": 264
+        },
+        {
+          "playlistIndex": 100,
+          "id": "n2AJEWaMB0g",
+          "title": "00REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=n2AJEWaMB0g",
+          "duration": 319
+        },
+        {
+          "playlistIndex": 101,
+          "id": "K0CV2iDXkKU",
+          "title": "00REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=K0CV2iDXkKU",
+          "duration": 278
+        },
+        {
+          "playlistIndex": 102,
+          "id": "Ts1xsSOiEfE",
+          "title": "00WHITEMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=Ts1xsSOiEfE",
+          "duration": 287
+        },
+        {
+          "playlistIndex": 103,
+          "id": "ICC3nuHRPZw",
+          "title": "00WHITEMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=ICC3nuHRPZw",
+          "duration": 241
+        },
+        {
+          "playlistIndex": 104,
+          "id": "kfRzT9etOCo",
+          "title": "広島大学附属高校マスゲーム1999年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=kfRzT9etOCo",
+          "duration": 276
+        },
+        {
+          "playlistIndex": 105,
+          "id": "41EOjcapZTg",
+          "title": "広島大学附属高校マスゲーム1999年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=41EOjcapZTg",
+          "duration": 258
+        },
+        {
+          "playlistIndex": 106,
+          "id": "B7ZN10fk3DU",
+          "title": "広島大学附属高校マスゲーム1999年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=B7ZN10fk3DU",
+          "duration": 276
+        },
+        {
+          "playlistIndex": 107,
+          "id": "u7Rrbc8ny2s",
+          "title": "広島大学附属高校マスゲーム1999年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=u7Rrbc8ny2s",
+          "duration": 240
+        },
+        {
+          "playlistIndex": 108,
+          "id": "Pvd-M26Q4wQ",
+          "title": "広島大学附属高校マスゲーム1998年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=Pvd-M26Q4wQ",
+          "duration": 237
+        },
+        {
+          "playlistIndex": 109,
+          "id": "U0PWB0o0lXA",
+          "title": "広島大学附属高校マスゲーム1998年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=U0PWB0o0lXA",
+          "duration": 241
+        },
+        {
+          "playlistIndex": 110,
+          "id": "YSM6sMcMfek",
+          "title": "【集団行動】広島大学附属高校マスゲーム1998年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=YSM6sMcMfek",
+          "duration": 279
+        },
+        {
+          "playlistIndex": 111,
+          "id": "WlNB4ys6tLY",
+          "title": "【集団行動】広島大学附属高校マスゲーム1998年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=WlNB4ys6tLY",
+          "duration": 248
+        },
+        {
+          "playlistIndex": 112,
+          "id": "ysronlHdGzE",
+          "title": "広島大学附属高校マスゲーム1997年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=ysronlHdGzE",
+          "duration": 269
+        },
+        {
+          "playlistIndex": 113,
+          "id": "6k5s7RovZqo",
+          "title": "広島大学附属高校マスゲーム1997年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=6k5s7RovZqo",
+          "duration": 274
+        },
+        {
+          "playlistIndex": 114,
+          "id": "qbVzrSvYM1Y",
+          "title": "広島大学附属高校マスゲーム1997年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=qbVzrSvYM1Y",
+          "duration": 132
+        },
+        {
+          "playlistIndex": 115,
+          "id": "i-gGNrTl8FU",
+          "title": "広島大学附属高校マスゲーム1997年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=i-gGNrTl8FU",
+          "duration": 237
+        },
+        {
+          "playlistIndex": 116,
+          "id": "YxgAub21JcU",
+          "title": "広島大学附属高校マスゲーム1996年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=YxgAub21JcU",
+          "duration": 280
+        },
+        {
+          "playlistIndex": 117,
+          "id": "oZbdejiN1WM",
+          "title": "広島大学附属高校マスゲーム1996年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=oZbdejiN1WM",
+          "duration": 278
+        },
+        {
+          "playlistIndex": 118,
+          "id": "IMJocLst4Cg",
+          "title": "【集団行動】広島大学附属高校マスゲーム1996年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=IMJocLst4Cg",
+          "duration": 261
+        },
+        {
+          "playlistIndex": 119,
+          "id": "ntr-DByrpQU",
+          "title": "【集団行動】広島大学附属高校マスゲーム1996年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=ntr-DByrpQU",
+          "duration": 239
+        },
+        {
+          "playlistIndex": 120,
+          "id": "vZ0AjJnVyjU",
+          "title": "広島大学附属高校マスゲーム1995年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=vZ0AjJnVyjU",
+          "duration": 250
+        },
+        {
+          "playlistIndex": 121,
+          "id": "Xyvbbeft2UA",
+          "title": "広島大学附属高校マスゲーム1995年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=Xyvbbeft2UA",
+          "duration": 249
+        },
+        {
+          "playlistIndex": 122,
+          "id": "3WUaoefSMzM",
+          "title": "広島大学附属高校マスゲーム1995年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=3WUaoefSMzM",
+          "duration": 297
+        },
+        {
+          "playlistIndex": 123,
+          "id": "MjeOxAtVyfs",
+          "title": "広島大学附属高校マスゲーム1995年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=MjeOxAtVyfs",
+          "duration": 226
+        },
+        {
+          "playlistIndex": 124,
+          "id": "CfDJl9GgPco",
+          "title": "94R-1 櫓版",
+          "url": "https://www.youtube.com/watch?v=CfDJl9GgPco",
+          "duration": 292
+        },
+        {
+          "playlistIndex": 125,
+          "id": "q7yNgPwQm9M",
+          "title": "94R-2",
+          "url": "https://www.youtube.com/watch?v=q7yNgPwQm9M",
+          "duration": 261
+        },
+        {
+          "playlistIndex": 126,
+          "id": "6-tpAusmowo",
+          "title": "94W-1",
+          "url": "https://www.youtube.com/watch?v=6-tpAusmowo",
+          "duration": 280
+        },
+        {
+          "playlistIndex": 127,
+          "id": "aWcms4Un2RM",
+          "title": "94W-2",
+          "url": "https://www.youtube.com/watch?v=aWcms4Un2RM",
+          "duration": 261
+        },
+        {
+          "playlistIndex": 128,
+          "id": "KIgLVBmwE9Q",
+          "title": "広島大学附属高校マスゲーム1992年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=KIgLVBmwE9Q",
+          "duration": 257
+        },
+        {
+          "playlistIndex": 129,
+          "id": "vo8OjVe7nEA",
+          "title": "広島大学附属高校マスゲーム1992年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=vo8OjVe7nEA",
+          "duration": 243
+        },
+        {
+          "playlistIndex": 130,
+          "id": "CnOTqJeTVrQ",
+          "title": "【集団行動】広島大学附属高校マスゲーム1992年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=CnOTqJeTVrQ",
+          "duration": 256
+        },
+        {
+          "playlistIndex": 131,
+          "id": "dmwmFZgynN0",
+          "title": "【集団行動】広島大学附属高校マスゲーム1992年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=dmwmFZgynN0",
+          "duration": 234
+        },
+        {
+          "playlistIndex": 132,
+          "id": "ynEivcbbNos",
+          "title": "広島大学附属高校マスゲーム1989年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=ynEivcbbNos",
+          "duration": 196
+        },
+        {
+          "playlistIndex": 133,
+          "id": "FgRaOYMLULs",
+          "title": "広島大学附属高校マスゲーム1989年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=FgRaOYMLULs",
+          "duration": 243
+        },
+        {
+          "playlistIndex": 134,
+          "id": "tqxZfa7EeR8",
+          "title": "【集団行動】広島大学附属高校マスゲーム1989年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=tqxZfa7EeR8",
+          "duration": 228
+        },
+        {
+          "playlistIndex": 135,
+          "id": "HUUzadSzhM4",
+          "title": "【集団行動】広島大学附属高校マスゲーム1989年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=HUUzadSzhM4",
+          "duration": 253
+        }
+      ]
+    },
+    {
+      "id": "PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+      "title": "太陽マス☀️",
+      "url": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+      "reportedCount": 139,
+      "fetchedCount": 139,
+      "warning": null,
+      "entries": [
+        {
+          "playlistIndex": 1,
+          "id": "JTx4HL-Ulyo",
+          "title": "26sunmassgame opening",
+          "url": "https://www.youtube.com/watch?v=JTx4HL-Ulyo",
+          "duration": 106
+        },
+        {
+          "playlistIndex": 2,
+          "id": "mTdG8zPxkPA",
+          "title": "26sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=mTdG8zPxkPA",
+          "duration": 310
+        },
+        {
+          "playlistIndex": 3,
+          "id": "DLkJq5rsyhg",
+          "title": "26sunmassgame inter",
+          "url": "https://www.youtube.com/watch?v=DLkJq5rsyhg",
+          "duration": 54
+        },
+        {
+          "playlistIndex": 4,
+          "id": "gxpNxYkF4yM",
+          "title": "26sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=gxpNxYkF4yM",
+          "duration": 278
+        },
+        {
+          "playlistIndex": 5,
+          "id": "Vd7WYCzPyFU",
+          "title": "26sunmassgame 3rd",
+          "url": "https://www.youtube.com/watch?v=Vd7WYCzPyFU",
+          "duration": 199
+        },
+        {
+          "playlistIndex": 6,
+          "id": "mhcvO_FDNLo",
+          "title": "26sunmassgame ending",
+          "url": "https://www.youtube.com/watch?v=mhcvO_FDNLo",
+          "duration": 141
+        },
+        {
+          "playlistIndex": 7,
+          "id": "s5qZrI8zT-4",
+          "title": "25sunmassgame opening",
+          "url": "https://www.youtube.com/watch?v=s5qZrI8zT-4",
+          "duration": 96
+        },
+        {
+          "playlistIndex": 8,
+          "id": "BPtx_YLTKbw",
+          "title": "25sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=BPtx_YLTKbw",
+          "duration": 331
+        },
+        {
+          "playlistIndex": 9,
+          "id": "toEAWfdjndE",
+          "title": "25sunmassgame inter",
+          "url": "https://www.youtube.com/watch?v=toEAWfdjndE",
+          "duration": 49
+        },
+        {
+          "playlistIndex": 10,
+          "id": "6dmONEwIB7M",
+          "title": "25sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=6dmONEwIB7M",
+          "duration": 292
+        },
+        {
+          "playlistIndex": 11,
+          "id": "-sCO6p5e_sg",
+          "title": "25sunmassgame 3rd",
+          "url": "https://www.youtube.com/watch?v=-sCO6p5e_sg",
+          "duration": 194
+        },
+        {
+          "playlistIndex": 12,
+          "id": "0wTFXRUQv1k",
+          "title": "25sunmassgame ending",
+          "url": "https://www.youtube.com/watch?v=0wTFXRUQv1k",
+          "duration": 145
+        },
+        {
+          "playlistIndex": 13,
+          "id": "PwR0vZzBEpc",
+          "title": "24sunmassgame opening",
+          "url": "https://www.youtube.com/watch?v=PwR0vZzBEpc",
+          "duration": 132
+        },
+        {
+          "playlistIndex": 14,
+          "id": "09mgaZXLZSI",
+          "title": "2024sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=09mgaZXLZSI",
+          "duration": 315
+        },
+        {
+          "playlistIndex": 15,
+          "id": "HOe9kIPFLRE",
+          "title": "24sunmassgame inter",
+          "url": "https://www.youtube.com/watch?v=HOe9kIPFLRE",
+          "duration": 71
+        },
+        {
+          "playlistIndex": 16,
+          "id": "H8YP7bKkG8o",
+          "title": "24sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=H8YP7bKkG8o",
+          "duration": 280
+        },
+        {
+          "playlistIndex": 17,
+          "id": "SoOU9H6kvZc",
+          "title": "24sunmassgame 3rd",
+          "url": "https://www.youtube.com/watch?v=SoOU9H6kvZc",
+          "duration": 201
+        },
+        {
+          "playlistIndex": 18,
+          "id": "RvjFrM47Dvs",
+          "title": "24sunmassgame ending",
+          "url": "https://www.youtube.com/watch?v=RvjFrM47Dvs",
+          "duration": 165
+        },
+        {
+          "playlistIndex": 19,
+          "id": "z0t2lUwUr6E",
+          "title": "23sunmassgame opening",
+          "url": "https://www.youtube.com/watch?v=z0t2lUwUr6E",
+          "duration": 79
+        },
+        {
+          "playlistIndex": 20,
+          "id": "P8ugLWNBA-o",
+          "title": "23sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=P8ugLWNBA-o",
+          "duration": 294
+        },
+        {
+          "playlistIndex": 21,
+          "id": "3IwG1BJ_rdY",
+          "title": "23sunmassgame inter",
+          "url": "https://www.youtube.com/watch?v=3IwG1BJ_rdY",
+          "duration": 53
+        },
+        {
+          "playlistIndex": 22,
+          "id": "KglxvNDzkBs",
+          "title": "23sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=KglxvNDzkBs",
+          "duration": 293
+        },
+        {
+          "playlistIndex": 23,
+          "id": "WhKEqo1w-aA",
+          "title": "23sunmassgame 3rd",
+          "url": "https://www.youtube.com/watch?v=WhKEqo1w-aA",
+          "duration": 181
+        },
+        {
+          "playlistIndex": 24,
+          "id": "RTA-NwLv0xQ",
+          "title": "23sunmassgame ending",
+          "url": "https://www.youtube.com/watch?v=RTA-NwLv0xQ",
+          "duration": 189
+        },
+        {
+          "playlistIndex": 25,
+          "id": "fVP_tVXGLXU",
+          "title": "広大附属 太陽マスゲーム 2022 入場",
+          "url": "https://www.youtube.com/watch?v=fVP_tVXGLXU",
+          "duration": 165
+        },
+        {
+          "playlistIndex": 26,
+          "id": "7kdhgm_tjJU",
+          "title": "広大附属 太陽マスゲーム 2022 I部",
+          "url": "https://www.youtube.com/watch?v=7kdhgm_tjJU",
+          "duration": 303
+        },
+        {
+          "playlistIndex": 27,
+          "id": "qSujD_7EYSE",
+          "title": "広大附属 太陽マスゲーム 2022 インター",
+          "url": "https://www.youtube.com/watch?v=qSujD_7EYSE",
+          "duration": 78
+        },
+        {
+          "playlistIndex": 28,
+          "id": "xK4B7SbpWbI",
+          "title": "広大附属 太陽マスゲーム 2022 II部",
+          "url": "https://www.youtube.com/watch?v=xK4B7SbpWbI",
+          "duration": 279
+        },
+        {
+          "playlistIndex": 29,
+          "id": "gQ0ZPjgE1JE",
+          "title": "広大附属 太陽マスゲーム 2022 Ⅲ部",
+          "url": "https://www.youtube.com/watch?v=gQ0ZPjgE1JE",
+          "duration": 196
+        },
+        {
+          "playlistIndex": 30,
+          "id": "FDU7WP2YUrw",
+          "title": "広大附属 太陽マスゲーム 2022 退場",
+          "url": "https://www.youtube.com/watch?v=FDU7WP2YUrw",
+          "duration": 202
+        },
+        {
+          "playlistIndex": 31,
+          "id": "ULmvPN9Mtno",
+          "title": "21sunmassgame opening",
+          "url": "https://www.youtube.com/watch?v=ULmvPN9Mtno",
+          "duration": 82
+        },
+        {
+          "playlistIndex": 32,
+          "id": "YJZtFSeIC0k",
+          "title": "21sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=YJZtFSeIC0k",
+          "duration": 247
+        },
+        {
+          "playlistIndex": 33,
+          "id": "Hh3ex7DezYY",
+          "title": "21sunmassgame inter",
+          "url": "https://www.youtube.com/watch?v=Hh3ex7DezYY",
+          "duration": 62
+        },
+        {
+          "playlistIndex": 34,
+          "id": "WESm-Oaf5pI",
+          "title": "21sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=WESm-Oaf5pI",
+          "duration": 243
+        },
+        {
+          "playlistIndex": 35,
+          "id": "-2QtPKlrDOI",
+          "title": "21sunmassgame 3rd",
+          "url": "https://www.youtube.com/watch?v=-2QtPKlrDOI",
+          "duration": 203
+        },
+        {
+          "playlistIndex": 36,
+          "id": "1shp-XSLsm4",
+          "title": "21sunmassgame ending",
+          "url": "https://www.youtube.com/watch?v=1shp-XSLsm4",
+          "duration": 82
+        },
+        {
+          "playlistIndex": 37,
+          "id": "RrTyEi5T3Og",
+          "title": "19sunmassgame opening",
+          "url": "https://www.youtube.com/watch?v=RrTyEi5T3Og",
+          "duration": 148
+        },
+        {
+          "playlistIndex": 38,
+          "id": "KPCi3QFkdpE",
+          "title": "19sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=KPCi3QFkdpE",
+          "duration": 301
+        },
+        {
+          "playlistIndex": 39,
+          "id": "mn2A8uk8UY0",
+          "title": "19sunmassgame inter",
+          "url": "https://www.youtube.com/watch?v=mn2A8uk8UY0",
+          "duration": 69
+        },
+        {
+          "playlistIndex": 40,
+          "id": "pMB0GWxFoD0",
+          "title": "19sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=pMB0GWxFoD0",
+          "duration": 285
+        },
+        {
+          "playlistIndex": 41,
+          "id": "cMiDm0DUXig",
+          "title": "19sunmassgame 3rd",
+          "url": "https://www.youtube.com/watch?v=cMiDm0DUXig",
+          "duration": 209
+        },
+        {
+          "playlistIndex": 42,
+          "id": "z4LcT5qYImI",
+          "title": "19sunmassgame ending",
+          "url": "https://www.youtube.com/watch?v=z4LcT5qYImI",
+          "duration": 180
+        },
+        {
+          "playlistIndex": 43,
+          "id": "1NmTpMX0PEU",
+          "title": "18sunmassgame opening",
+          "url": "https://www.youtube.com/watch?v=1NmTpMX0PEU",
+          "duration": 143
+        },
+        {
+          "playlistIndex": 44,
+          "id": "jP7BzIdPaZY",
+          "title": "18sunmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=jP7BzIdPaZY",
+          "duration": 311
+        },
+        {
+          "playlistIndex": 45,
+          "id": "GWvg91GhT9g",
+          "title": "18sunmassgame interval",
+          "url": "https://www.youtube.com/watch?v=GWvg91GhT9g",
+          "duration": 64
+        },
+        {
+          "playlistIndex": 46,
+          "id": "FwVHwTpmzbA",
+          "title": "18sunmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=FwVHwTpmzbA",
+          "duration": 275
+        },
+        {
+          "playlistIndex": 47,
+          "id": "DiB-ePR2Crs",
+          "title": "18sunmassgame 3rd stage",
+          "url": "https://www.youtube.com/watch?v=DiB-ePR2Crs",
+          "duration": 210
+        },
+        {
+          "playlistIndex": 48,
+          "id": "f1KWe9S9Jtk",
+          "title": "18sunmassgame ending",
+          "url": "https://www.youtube.com/watch?v=f1KWe9S9Jtk",
+          "duration": 190
+        },
+        {
+          "playlistIndex": 49,
+          "id": "W8yZB1PbJwk",
+          "title": "17sunmassgame opening",
+          "url": "https://www.youtube.com/watch?v=W8yZB1PbJwk",
+          "duration": 185
+        },
+        {
+          "playlistIndex": 50,
+          "id": "de-CRJMSvwI",
+          "title": "17sunmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=de-CRJMSvwI",
+          "duration": 274
+        },
+        {
+          "playlistIndex": 51,
+          "id": "y3XCzJP3rRQ",
+          "title": "17sunmassgame inter",
+          "url": "https://www.youtube.com/watch?v=y3XCzJP3rRQ",
+          "duration": 73
+        },
+        {
+          "playlistIndex": 52,
+          "id": "IIIj72WDnvI",
+          "title": "17sunmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=IIIj72WDnvI",
+          "duration": 261
+        },
+        {
+          "playlistIndex": 53,
+          "id": "CAQFNPI0N00",
+          "title": "17sunmassgame 3rd stage",
+          "url": "https://www.youtube.com/watch?v=CAQFNPI0N00",
+          "duration": 213
+        },
+        {
+          "playlistIndex": 54,
+          "id": "wW5hsQR7nuE",
+          "title": "17sunmassgame ending",
+          "url": "https://www.youtube.com/watch?v=wW5hsQR7nuE",
+          "duration": 191
+        },
+        {
+          "playlistIndex": 55,
+          "id": "cyhWKktFiqc",
+          "title": "16sunmassgame  entrance",
+          "url": "https://www.youtube.com/watch?v=cyhWKktFiqc",
+          "duration": 165
+        },
+        {
+          "playlistIndex": 56,
+          "id": "nAEEbDs7Ohk",
+          "title": "16sunmassgame  1st",
+          "url": "https://www.youtube.com/watch?v=nAEEbDs7Ohk",
+          "duration": 292
+        },
+        {
+          "playlistIndex": 57,
+          "id": "PU0qiQm7B0o",
+          "title": "16sunmassgame  inter",
+          "url": "https://www.youtube.com/watch?v=PU0qiQm7B0o",
+          "duration": 71
+        },
+        {
+          "playlistIndex": 58,
+          "id": "tABnz0SoV8o",
+          "title": "16sunmassgame  2nd",
+          "url": "https://www.youtube.com/watch?v=tABnz0SoV8o",
+          "duration": 245
+        },
+        {
+          "playlistIndex": 59,
+          "id": "kKJAHrvbOu8",
+          "title": "16sunmassgame  3rd",
+          "url": "https://www.youtube.com/watch?v=kKJAHrvbOu8",
+          "duration": 219
+        },
+        {
+          "playlistIndex": 60,
+          "id": "0hD17A1Eo9I",
+          "title": "16sunmassgame  ending",
+          "url": "https://www.youtube.com/watch?v=0hD17A1Eo9I",
+          "duration": 317
+        },
+        {
+          "playlistIndex": 61,
+          "id": "lvled2vYTPA",
+          "title": "2014 sunmass opening",
+          "url": "https://www.youtube.com/watch?v=lvled2vYTPA",
+          "duration": 143
+        },
+        {
+          "playlistIndex": 62,
+          "id": "_rHg-fPLLcU",
+          "title": "2014 sunmass 1st stage",
+          "url": "https://www.youtube.com/watch?v=_rHg-fPLLcU",
+          "duration": 300
+        },
+        {
+          "playlistIndex": 63,
+          "id": "OuzqRYT8nDU",
+          "title": "2014 sunmass interval",
+          "url": "https://www.youtube.com/watch?v=OuzqRYT8nDU",
+          "duration": 102
+        },
+        {
+          "playlistIndex": 64,
+          "id": "e2bKUL9uNKU",
+          "title": "2014 sunmass 2nd stage",
+          "url": "https://www.youtube.com/watch?v=e2bKUL9uNKU",
+          "duration": 267
+        },
+        {
+          "playlistIndex": 65,
+          "id": "yoxZn3rewt8",
+          "title": "2014 sunmass 3rd stage",
+          "url": "https://www.youtube.com/watch?v=yoxZn3rewt8",
+          "duration": 190
+        },
+        {
+          "playlistIndex": 66,
+          "id": "XXNOWSc3mNg",
+          "title": "2014 sunmass ending",
+          "url": "https://www.youtube.com/watch?v=XXNOWSc3mNg",
+          "duration": 169
+        },
+        {
+          "playlistIndex": 67,
+          "id": "jcy4AQzAyEg",
+          "title": "2013 sunmassgame opening",
+          "url": "https://www.youtube.com/watch?v=jcy4AQzAyEg",
+          "duration": 151
+        },
+        {
+          "playlistIndex": 68,
+          "id": "oGMlZUj3LUs",
+          "title": "2013 sunmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=oGMlZUj3LUs",
+          "duration": 315
+        },
+        {
+          "playlistIndex": 69,
+          "id": "nips7NGWF_I",
+          "title": "2013 sunmassgame interval",
+          "url": "https://www.youtube.com/watch?v=nips7NGWF_I",
+          "duration": 97
+        },
+        {
+          "playlistIndex": 70,
+          "id": "tbZL6yEd2JE",
+          "title": "2013 sunmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=tbZL6yEd2JE",
+          "duration": 269
+        },
+        {
+          "playlistIndex": 71,
+          "id": "s6w5jmgDbDI",
+          "title": "2013 sunmassgame 3rd stage",
+          "url": "https://www.youtube.com/watch?v=s6w5jmgDbDI",
+          "duration": 202
+        },
+        {
+          "playlistIndex": 72,
+          "id": "t4YEamZ33k4",
+          "title": "2013 sunmassgame ending",
+          "url": "https://www.youtube.com/watch?v=t4YEamZ33k4",
+          "duration": 220
+        },
+        {
+          "playlistIndex": 73,
+          "id": "fviVfl_aIeo",
+          "title": "2012 massgame Red-Opening",
+          "url": "https://www.youtube.com/watch?v=fviVfl_aIeo",
+          "duration": 194
+        },
+        {
+          "playlistIndex": 74,
+          "id": "vhMdWSG6C4U",
+          "title": "2012massgame Red-1st stage",
+          "url": "https://www.youtube.com/watch?v=vhMdWSG6C4U",
+          "duration": 311
+        },
+        {
+          "playlistIndex": 75,
+          "id": "kHiENfANObQ",
+          "title": "2012massgame Red-Interval",
+          "url": "https://www.youtube.com/watch?v=kHiENfANObQ",
+          "duration": 78
+        },
+        {
+          "playlistIndex": 76,
+          "id": "1AQHKo31UCU",
+          "title": "2012massgame Red-2nd stage",
+          "url": "https://www.youtube.com/watch?v=1AQHKo31UCU",
+          "duration": 259
+        },
+        {
+          "playlistIndex": 77,
+          "id": "55uBcmcWjLM",
+          "title": "2012massgame Red-3rd stage",
+          "url": "https://www.youtube.com/watch?v=55uBcmcWjLM",
+          "duration": 201
+        },
+        {
+          "playlistIndex": 78,
+          "id": "yZ03aCsyyiI",
+          "title": "2012massgame Red-Ending",
+          "url": "https://www.youtube.com/watch?v=yZ03aCsyyiI",
+          "duration": 312
+        },
+        {
+          "playlistIndex": 79,
+          "id": "2yBpcJFH9Jo",
+          "title": "11massgame red-opening",
+          "url": "https://www.youtube.com/watch?v=2yBpcJFH9Jo",
+          "duration": 162
+        },
+        {
+          "playlistIndex": 80,
+          "id": "Mrv1R83LTpo",
+          "title": "11massgame red-scene1",
+          "url": "https://www.youtube.com/watch?v=Mrv1R83LTpo",
+          "duration": 316
+        },
+        {
+          "playlistIndex": 81,
+          "id": "1Idx4UF37nI",
+          "title": "11massgame red-interval",
+          "url": "https://www.youtube.com/watch?v=1Idx4UF37nI",
+          "duration": 92
+        },
+        {
+          "playlistIndex": 82,
+          "id": "p_sjHVGKasg",
+          "title": "11massgame red-scene2",
+          "url": "https://www.youtube.com/watch?v=p_sjHVGKasg",
+          "duration": 272
+        },
+        {
+          "playlistIndex": 83,
+          "id": "qKxLoDQHneU",
+          "title": "11massgame red-scene3",
+          "url": "https://www.youtube.com/watch?v=qKxLoDQHneU",
+          "duration": 187
+        },
+        {
+          "playlistIndex": 84,
+          "id": "ns5LOlf81d4",
+          "title": "11massgame red-ending",
+          "url": "https://www.youtube.com/watch?v=ns5LOlf81d4",
+          "duration": 340
+        },
+        {
+          "playlistIndex": 85,
+          "id": "YpuZxZ4VFTM",
+          "title": "10massgame red-opening",
+          "url": "https://www.youtube.com/watch?v=YpuZxZ4VFTM",
+          "duration": 153
+        },
+        {
+          "playlistIndex": 86,
+          "id": "QuHqrcVWaQs",
+          "title": "10massgame red-scene1",
+          "url": "https://www.youtube.com/watch?v=QuHqrcVWaQs",
+          "duration": 282
+        },
+        {
+          "playlistIndex": 87,
+          "id": "CN4VMI3XLXg",
+          "title": "10massgame red-interval",
+          "url": "https://www.youtube.com/watch?v=CN4VMI3XLXg",
+          "duration": 82
+        },
+        {
+          "playlistIndex": 88,
+          "id": "isLyGSQ26t0",
+          "title": "10massgame red-scene2",
+          "url": "https://www.youtube.com/watch?v=isLyGSQ26t0",
+          "duration": 248
+        },
+        {
+          "playlistIndex": 89,
+          "id": "JRwMu7pO1f4",
+          "title": "10massgame red-scene3",
+          "url": "https://www.youtube.com/watch?v=JRwMu7pO1f4",
+          "duration": 247
+        },
+        {
+          "playlistIndex": 90,
+          "id": "29DQI3WB0ZM",
+          "title": "10massgame red-ending",
+          "url": "https://www.youtube.com/watch?v=29DQI3WB0ZM",
+          "duration": 310
+        },
+        {
+          "playlistIndex": 91,
+          "id": "equpjfBak00",
+          "title": "09massgame red-opening",
+          "url": "https://www.youtube.com/watch?v=equpjfBak00",
+          "duration": 165
+        },
+        {
+          "playlistIndex": 92,
+          "id": "NFDTvZqfqwY",
+          "title": "09massgame red-scene1",
+          "url": "https://www.youtube.com/watch?v=NFDTvZqfqwY",
+          "duration": 300
+        },
+        {
+          "playlistIndex": 93,
+          "id": "hvznduYZaJE",
+          "title": "09massgame red-interval",
+          "url": "https://www.youtube.com/watch?v=hvznduYZaJE",
+          "duration": 80
+        },
+        {
+          "playlistIndex": 94,
+          "id": "rpqYm3sPdxI",
+          "title": "09massgame red-scene2",
+          "url": "https://www.youtube.com/watch?v=rpqYm3sPdxI",
+          "duration": 264
+        },
+        {
+          "playlistIndex": 95,
+          "id": "FVmwDUE6tFU",
+          "title": "09massgame red-scene3",
+          "url": "https://www.youtube.com/watch?v=FVmwDUE6tFU",
+          "duration": 179
+        },
+        {
+          "playlistIndex": 96,
+          "id": "_Y8HiMN3hWU",
+          "title": "09massgame red-ending",
+          "url": "https://www.youtube.com/watch?v=_Y8HiMN3hWU",
+          "duration": 186
+        },
+        {
+          "playlistIndex": 97,
+          "id": "8MGQ6Jm1Xv0",
+          "title": "08R-0",
+          "url": "https://www.youtube.com/watch?v=8MGQ6Jm1Xv0",
+          "duration": 162
+        },
+        {
+          "playlistIndex": 98,
+          "id": "czBgMBiJiJk",
+          "title": "08R-1",
+          "url": "https://www.youtube.com/watch?v=czBgMBiJiJk",
+          "duration": 346
+        },
+        {
+          "playlistIndex": 99,
+          "id": "TJKDzS83DTg",
+          "title": "08R-1.5",
+          "url": "https://www.youtube.com/watch?v=TJKDzS83DTg",
+          "duration": 87
+        },
+        {
+          "playlistIndex": 100,
+          "id": "x-YV3vgclwE",
+          "title": "08R-2",
+          "url": "https://www.youtube.com/watch?v=x-YV3vgclwE",
+          "duration": 259
+        },
+        {
+          "playlistIndex": 101,
+          "id": "QGdgHyxEsfY",
+          "title": "08R-3",
+          "url": "https://www.youtube.com/watch?v=QGdgHyxEsfY",
+          "duration": 136
+        },
+        {
+          "playlistIndex": 102,
+          "id": "5RleyEEqcYs",
+          "title": "08R-E",
+          "url": "https://www.youtube.com/watch?v=5RleyEEqcYs",
+          "duration": 359
+        },
+        {
+          "playlistIndex": 103,
+          "id": "E610bSjuCLA",
+          "title": "07R-0",
+          "url": "https://www.youtube.com/watch?v=E610bSjuCLA",
+          "duration": 289
+        },
+        {
+          "playlistIndex": 104,
+          "id": "cYQJhlhfy8w",
+          "title": "07R-1",
+          "url": "https://www.youtube.com/watch?v=cYQJhlhfy8w",
+          "duration": 331
+        },
+        {
+          "playlistIndex": 105,
+          "id": "oYmfB262vwc",
+          "title": "07R-1.5",
+          "url": "https://www.youtube.com/watch?v=oYmfB262vwc",
+          "duration": 120
+        },
+        {
+          "playlistIndex": 106,
+          "id": "cYi8pCkIWLE",
+          "title": "07R-2",
+          "url": "https://www.youtube.com/watch?v=cYi8pCkIWLE",
+          "duration": 296
+        },
+        {
+          "playlistIndex": 107,
+          "id": "kD_EoKZ4Tck",
+          "title": "07R-3",
+          "url": "https://www.youtube.com/watch?v=kD_EoKZ4Tck",
+          "duration": 276
+        },
+        {
+          "playlistIndex": 108,
+          "id": "DmjWQpoxtD0",
+          "title": "07R-E",
+          "url": "https://www.youtube.com/watch?v=DmjWQpoxtD0",
+          "duration": 749
+        },
+        {
+          "playlistIndex": 109,
+          "id": "GqU1qoOl_d0",
+          "title": "06REDMASSGAME 1stStage",
+          "url": "https://www.youtube.com/watch?v=GqU1qoOl_d0",
+          "duration": 311
+        },
+        {
+          "playlistIndex": 110,
+          "id": "pZ7B5IlSlpY",
+          "title": "06REDMASSGAME 2ndStage",
+          "url": "https://www.youtube.com/watch?v=pZ7B5IlSlpY",
+          "duration": 284
+        },
+        {
+          "playlistIndex": 111,
+          "id": "6B3fGg7Q-rA",
+          "title": "06R-3",
+          "url": "https://www.youtube.com/watch?v=6B3fGg7Q-rA",
+          "duration": 307
+        },
+        {
+          "playlistIndex": 112,
+          "id": "ta9bsH6ibLQ",
+          "title": "05REDMASSGAME entrance",
+          "url": "https://www.youtube.com/watch?v=ta9bsH6ibLQ",
+          "duration": 293
+        },
+        {
+          "playlistIndex": 113,
+          "id": "o9yXXRtT5cg",
+          "title": "05REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=o9yXXRtT5cg",
+          "duration": 303
+        },
+        {
+          "playlistIndex": 114,
+          "id": "ImwfQ56iOto",
+          "title": "05REDMASSGAME interval",
+          "url": "https://www.youtube.com/watch?v=ImwfQ56iOto",
+          "duration": 105
+        },
+        {
+          "playlistIndex": 115,
+          "id": "qS1ZrAWLjtI",
+          "title": "05R 2",
+          "url": "https://www.youtube.com/watch?v=qS1ZrAWLjtI",
+          "duration": 295
+        },
+        {
+          "playlistIndex": 116,
+          "id": "OYczahTg0IU",
+          "title": "05REDMASSGAME 3rdStage",
+          "url": "https://www.youtube.com/watch?v=OYczahTg0IU",
+          "duration": 312
+        },
+        {
+          "playlistIndex": 117,
+          "id": "RxeqjS2u374",
+          "title": "05REDMASSGAME ending",
+          "url": "https://www.youtube.com/watch?v=RxeqjS2u374",
+          "duration": 515
+        },
+        {
+          "playlistIndex": 118,
+          "id": "Anm-2bJPw7U",
+          "title": "2004Red Entrance",
+          "url": "https://www.youtube.com/watch?v=Anm-2bJPw7U",
+          "duration": 249
+        },
+        {
+          "playlistIndex": 119,
+          "id": "rCyyucdyqOs",
+          "title": "2004Red 1st_stage",
+          "url": "https://www.youtube.com/watch?v=rCyyucdyqOs",
+          "duration": 286
+        },
+        {
+          "playlistIndex": 120,
+          "id": "HqRNkeJDw0o",
+          "title": "2004Red Interbal",
+          "url": "https://www.youtube.com/watch?v=HqRNkeJDw0o",
+          "duration": 105
+        },
+        {
+          "playlistIndex": 121,
+          "id": "UJPkR-k1F3o",
+          "title": "2004Red 2nd_stage",
+          "url": "https://www.youtube.com/watch?v=UJPkR-k1F3o",
+          "duration": 256
+        },
+        {
+          "playlistIndex": 122,
+          "id": "ElZXC1fi4k4",
+          "title": "2004Red 3rd_stage",
+          "url": "https://www.youtube.com/watch?v=ElZXC1fi4k4",
+          "duration": 283
+        },
+        {
+          "playlistIndex": 123,
+          "id": "oR2LU0Bxp8o",
+          "title": "03R-0",
+          "url": "https://www.youtube.com/watch?v=oR2LU0Bxp8o",
+          "duration": 194
+        },
+        {
+          "playlistIndex": 124,
+          "id": "DO_T8Oj-whw",
+          "title": "03REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=DO_T8Oj-whw",
+          "duration": 315
+        },
+        {
+          "playlistIndex": 125,
+          "id": "xTXKwMf1dzI",
+          "title": "03R-1.5",
+          "url": "https://www.youtube.com/watch?v=xTXKwMf1dzI",
+          "duration": 93
+        },
+        {
+          "playlistIndex": 126,
+          "id": "9szH1BbNdSY",
+          "title": "03REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=9szH1BbNdSY",
+          "duration": 287
+        },
+        {
+          "playlistIndex": 127,
+          "id": "I1pM3w-HvQI",
+          "title": "03R-3",
+          "url": "https://www.youtube.com/watch?v=I1pM3w-HvQI",
+          "duration": 273
+        },
+        {
+          "playlistIndex": 128,
+          "id": "0VG32TSopdo",
+          "title": "03R-E",
+          "url": "https://www.youtube.com/watch?v=0VG32TSopdo",
+          "duration": 255
+        },
+        {
+          "playlistIndex": 129,
+          "id": "SU7WYPbsZsM",
+          "title": "02REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=SU7WYPbsZsM",
+          "duration": 292
+        },
+        {
+          "playlistIndex": 130,
+          "id": "2ML8WUIgV6s",
+          "title": "02REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=2ML8WUIgV6s",
+          "duration": 270
+        },
+        {
+          "playlistIndex": 131,
+          "id": "AWoZcAoDqCQ",
+          "title": "01R 0",
+          "url": "https://www.youtube.com/watch?v=AWoZcAoDqCQ",
+          "duration": 300
+        },
+        {
+          "playlistIndex": 132,
+          "id": "4LPLoBnZIVs",
+          "title": "01R 1",
+          "url": "https://www.youtube.com/watch?v=4LPLoBnZIVs",
+          "duration": 308
+        },
+        {
+          "playlistIndex": 133,
+          "id": "bZBd2vRPmJA",
+          "title": "01REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=bZBd2vRPmJA",
+          "duration": 264
+        },
+        {
+          "playlistIndex": 134,
+          "id": "b9dZG58ukLk",
+          "title": "00R-0",
+          "url": "https://www.youtube.com/watch?v=b9dZG58ukLk",
+          "duration": 220
+        },
+        {
+          "playlistIndex": 135,
+          "id": "n2AJEWaMB0g",
+          "title": "00REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=n2AJEWaMB0g",
+          "duration": 319
+        },
+        {
+          "playlistIndex": 136,
+          "id": "IftaSjIwt8E",
+          "title": "00R-1.5",
+          "url": "https://www.youtube.com/watch?v=IftaSjIwt8E",
+          "duration": 107
+        },
+        {
+          "playlistIndex": 137,
+          "id": "K0CV2iDXkKU",
+          "title": "00REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=K0CV2iDXkKU",
+          "duration": 278
+        },
+        {
+          "playlistIndex": 138,
+          "id": "42F7_s8lDAo",
+          "title": "00R 3",
+          "url": "https://www.youtube.com/watch?v=42F7_s8lDAo",
+          "duration": 234
+        },
+        {
+          "playlistIndex": 139,
+          "id": "3tRNO8PqC7I",
+          "title": "00R E",
+          "url": "https://www.youtube.com/watch?v=3tRNO8PqC7I",
+          "duration": 255
+        }
+      ]
+    },
+    {
+      "id": "PLnOxQXsNjVVYZpRXUfpyt-VA3fZt9-VAA",
+      "title": "月マス🌙",
+      "url": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYZpRXUfpyt-VA3fZt9-VAA",
+      "reportedCount": 137,
+      "fetchedCount": 137,
+      "warning": null,
+      "entries": [
+        {
+          "playlistIndex": 1,
+          "id": "KfPBIyMhIGg",
+          "title": "26moonmassgame opening",
+          "url": "https://www.youtube.com/watch?v=KfPBIyMhIGg",
+          "duration": 141
+        },
+        {
+          "playlistIndex": 2,
+          "id": "3cepfkXcfRk",
+          "title": "26moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=3cepfkXcfRk",
+          "duration": 284
+        },
+        {
+          "playlistIndex": 3,
+          "id": "leqO2WmrVPg",
+          "title": "26moonmassgame inter",
+          "url": "https://www.youtube.com/watch?v=leqO2WmrVPg",
+          "duration": 61
+        },
+        {
+          "playlistIndex": 4,
+          "id": "mS5sLyU2Or4",
+          "title": "26moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=mS5sLyU2Or4",
+          "duration": 272
+        },
+        {
+          "playlistIndex": 5,
+          "id": "uJvdxC6xf9A",
+          "title": "26moonmassgame 3rd",
+          "url": "https://www.youtube.com/watch?v=uJvdxC6xf9A",
+          "duration": 195
+        },
+        {
+          "playlistIndex": 6,
+          "id": "2cSeyTAZR50",
+          "title": "26moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=2cSeyTAZR50",
+          "duration": 157
+        },
+        {
+          "playlistIndex": 7,
+          "id": "lAmRsFDKres",
+          "title": "25moonmassgame opening",
+          "url": "https://www.youtube.com/watch?v=lAmRsFDKres",
+          "duration": 147
+        },
+        {
+          "playlistIndex": 8,
+          "id": "bb5yQmTyg2Y",
+          "title": "25moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=bb5yQmTyg2Y",
+          "duration": 301
+        },
+        {
+          "playlistIndex": 9,
+          "id": "JjKwVU77g8g",
+          "title": "25moonmassgame inter",
+          "url": "https://www.youtube.com/watch?v=JjKwVU77g8g",
+          "duration": 54
+        },
+        {
+          "playlistIndex": 10,
+          "id": "j0Z51Jl7K88",
+          "title": "25moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=j0Z51Jl7K88",
+          "duration": 265
+        },
+        {
+          "playlistIndex": 11,
+          "id": "oqxhZH06Lt4",
+          "title": "25moonmassgame 3rd",
+          "url": "https://www.youtube.com/watch?v=oqxhZH06Lt4",
+          "duration": 193
+        },
+        {
+          "playlistIndex": 12,
+          "id": "Fx--R037dc8",
+          "title": "25moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=Fx--R037dc8",
+          "duration": 148
+        },
+        {
+          "playlistIndex": 13,
+          "id": "Jrm7VWKwsAc",
+          "title": "24moonmassgame opening",
+          "url": "https://www.youtube.com/watch?v=Jrm7VWKwsAc",
+          "duration": 142
+        },
+        {
+          "playlistIndex": 14,
+          "id": "JGmcQRVpDko",
+          "title": "24moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=JGmcQRVpDko",
+          "duration": 294
+        },
+        {
+          "playlistIndex": 15,
+          "id": "HdAmClHPB14",
+          "title": "24moonmassgame inter",
+          "url": "https://www.youtube.com/watch?v=HdAmClHPB14",
+          "duration": 60
+        },
+        {
+          "playlistIndex": 16,
+          "id": "pdpNYyw_Snw",
+          "title": "24moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=pdpNYyw_Snw",
+          "duration": 259
+        },
+        {
+          "playlistIndex": 17,
+          "id": "PZ_cbfT65kQ",
+          "title": "24moonmassgame 3rd",
+          "url": "https://www.youtube.com/watch?v=PZ_cbfT65kQ",
+          "duration": 196
+        },
+        {
+          "playlistIndex": 18,
+          "id": "kRORkq2gy38",
+          "title": "24moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=kRORkq2gy38",
+          "duration": 180
+        },
+        {
+          "playlistIndex": 19,
+          "id": "NxlQ1nYqc0M",
+          "title": "23moonmassgame opening",
+          "url": "https://www.youtube.com/watch?v=NxlQ1nYqc0M",
+          "duration": 140
+        },
+        {
+          "playlistIndex": 20,
+          "id": "KHWGTMmWGHE",
+          "title": "23moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=KHWGTMmWGHE",
+          "duration": 291
+        },
+        {
+          "playlistIndex": 21,
+          "id": "-bH8FqXPb7Y",
+          "title": "23moonmassgame inter",
+          "url": "https://www.youtube.com/watch?v=-bH8FqXPb7Y",
+          "duration": 57
+        },
+        {
+          "playlistIndex": 22,
+          "id": "34dy0mWNSGU",
+          "title": "23moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=34dy0mWNSGU",
+          "duration": 257
+        },
+        {
+          "playlistIndex": 23,
+          "id": "ciFmvoAZSb0",
+          "title": "23moonmassgame 3rd",
+          "url": "https://www.youtube.com/watch?v=ciFmvoAZSb0",
+          "duration": 182
+        },
+        {
+          "playlistIndex": 24,
+          "id": "5FvA_8tGFv0",
+          "title": "23moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=5FvA_8tGFv0",
+          "duration": 136
+        },
+        {
+          "playlistIndex": 25,
+          "id": "0PYcF-zso0U",
+          "title": "広大附属 月マスゲーム 2022 入場",
+          "url": "https://www.youtube.com/watch?v=0PYcF-zso0U",
+          "duration": 171
+        },
+        {
+          "playlistIndex": 26,
+          "id": "D0vzwJcqJrc",
+          "title": "広大附属 月マスゲーム 2022 Ⅰ部",
+          "url": "https://www.youtube.com/watch?v=D0vzwJcqJrc",
+          "duration": 300
+        },
+        {
+          "playlistIndex": 27,
+          "id": "CVuxpJDaMlQ",
+          "title": "広大附属 月マスゲーム 2022 インター",
+          "url": "https://www.youtube.com/watch?v=CVuxpJDaMlQ",
+          "duration": 69
+        },
+        {
+          "playlistIndex": 28,
+          "id": "tQijBDBtLFg",
+          "title": "広大附属 月マスゲーム 2022 Ⅱ部",
+          "url": "https://www.youtube.com/watch?v=tQijBDBtLFg",
+          "duration": 256
+        },
+        {
+          "playlistIndex": 29,
+          "id": "hsBKKOyNkuA",
+          "title": "広大附属 月マスゲーム 2022 Ⅲ部",
+          "url": "https://www.youtube.com/watch?v=hsBKKOyNkuA",
+          "duration": 223
+        },
+        {
+          "playlistIndex": 30,
+          "id": "xQEnBdRXRz4",
+          "title": "広大附属 月マスゲーム 2022 退場",
+          "url": "https://www.youtube.com/watch?v=xQEnBdRXRz4",
+          "duration": 188
+        },
+        {
+          "playlistIndex": 31,
+          "id": "kRxXW_RkcYg",
+          "title": "21moonmassgame opening",
+          "url": "https://www.youtube.com/watch?v=kRxXW_RkcYg",
+          "duration": 132
+        },
+        {
+          "playlistIndex": 32,
+          "id": "MrkU8zkp0LE",
+          "title": "21moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=MrkU8zkp0LE",
+          "duration": 301
+        },
+        {
+          "playlistIndex": 33,
+          "id": "Xjn7dTq6A_E",
+          "title": "21moonmassgame inter",
+          "url": "https://www.youtube.com/watch?v=Xjn7dTq6A_E",
+          "duration": 69
+        },
+        {
+          "playlistIndex": 34,
+          "id": "rzPeM499LVs",
+          "title": "21moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=rzPeM499LVs",
+          "duration": 240
+        },
+        {
+          "playlistIndex": 35,
+          "id": "716GWXbSr2U",
+          "title": "21moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=716GWXbSr2U",
+          "duration": 174
+        },
+        {
+          "playlistIndex": 36,
+          "id": "djugV02c0zI",
+          "title": "'20 moonmassgame 2部('20returns)",
+          "url": "https://www.youtube.com/watch?v=djugV02c0zI",
+          "duration": 263
+        },
+        {
+          "playlistIndex": 37,
+          "id": "r2rwoZ6KbN0",
+          "title": "19moonmassgame opening",
+          "url": "https://www.youtube.com/watch?v=r2rwoZ6KbN0",
+          "duration": 139
+        },
+        {
+          "playlistIndex": 38,
+          "id": "zdhDLasDRlo",
+          "title": "19moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=zdhDLasDRlo",
+          "duration": 295
+        },
+        {
+          "playlistIndex": 39,
+          "id": "8Pf2pGqKMXk",
+          "title": "19moonmassgame inter",
+          "url": "https://www.youtube.com/watch?v=8Pf2pGqKMXk",
+          "duration": 72
+        },
+        {
+          "playlistIndex": 40,
+          "id": "OIDElyLimS0",
+          "title": "19moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=OIDElyLimS0",
+          "duration": 255
+        },
+        {
+          "playlistIndex": 41,
+          "id": "AMH9Uv_6HdU",
+          "title": "19moonmassgame 3rd",
+          "url": "https://www.youtube.com/watch?v=AMH9Uv_6HdU",
+          "duration": 224
+        },
+        {
+          "playlistIndex": 42,
+          "id": "sty_MWztmTU",
+          "title": "19moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=sty_MWztmTU",
+          "duration": 183
+        },
+        {
+          "playlistIndex": 43,
+          "id": "eVz395RlJMc",
+          "title": "18moonmassgame opening",
+          "url": "https://www.youtube.com/watch?v=eVz395RlJMc",
+          "duration": 145
+        },
+        {
+          "playlistIndex": 44,
+          "id": "r99vLtqBHNc",
+          "title": "18moonmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=r99vLtqBHNc",
+          "duration": 294
+        },
+        {
+          "playlistIndex": 45,
+          "id": "RtJ0g8bd2k8",
+          "title": "18moonmassgame interval",
+          "url": "https://www.youtube.com/watch?v=RtJ0g8bd2k8",
+          "duration": 51
+        },
+        {
+          "playlistIndex": 46,
+          "id": "_-22AGfZxcY",
+          "title": "18moonmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=_-22AGfZxcY",
+          "duration": 258
+        },
+        {
+          "playlistIndex": 47,
+          "id": "jMPU0oRr_-8",
+          "title": "18moonmassgame 3rd stage",
+          "url": "https://www.youtube.com/watch?v=jMPU0oRr_-8",
+          "duration": 231
+        },
+        {
+          "playlistIndex": 48,
+          "id": "MskJD-YkSOA",
+          "title": "18moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=MskJD-YkSOA",
+          "duration": 208
+        },
+        {
+          "playlistIndex": 49,
+          "id": "JZxATg6v-7w",
+          "title": "17moonmassgame opening",
+          "url": "https://www.youtube.com/watch?v=JZxATg6v-7w",
+          "duration": 171
+        },
+        {
+          "playlistIndex": 50,
+          "id": "5ZhJdX1lfMQ",
+          "title": "17moonmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=5ZhJdX1lfMQ",
+          "duration": 294
+        },
+        {
+          "playlistIndex": 51,
+          "id": "uBfJ8XBCfy0",
+          "title": "17moonmassgame inter",
+          "url": "https://www.youtube.com/watch?v=uBfJ8XBCfy0",
+          "duration": 52
+        },
+        {
+          "playlistIndex": 52,
+          "id": "hIuGkUa26nw",
+          "title": "17moonmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=hIuGkUa26nw",
+          "duration": 240
+        },
+        {
+          "playlistIndex": 53,
+          "id": "9OsloLSdK4Q",
+          "title": "17moonmassgame 3rd stage",
+          "url": "https://www.youtube.com/watch?v=9OsloLSdK4Q",
+          "duration": 219
+        },
+        {
+          "playlistIndex": 54,
+          "id": "Ue94QEd8KNI",
+          "title": "17moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=Ue94QEd8KNI",
+          "duration": 214
+        },
+        {
+          "playlistIndex": 55,
+          "id": "892QoVNLkY4",
+          "title": "16moonmassgame  entrance",
+          "url": "https://www.youtube.com/watch?v=892QoVNLkY4",
+          "duration": 159
+        },
+        {
+          "playlistIndex": 56,
+          "id": "W5OAq7oI-aM",
+          "title": "16moonmassgame  1st",
+          "url": "https://www.youtube.com/watch?v=W5OAq7oI-aM",
+          "duration": 312
+        },
+        {
+          "playlistIndex": 57,
+          "id": "nCZ4ql9qhHQ",
+          "title": "16moonmassgame  inter",
+          "url": "https://www.youtube.com/watch?v=nCZ4ql9qhHQ",
+          "duration": 62
+        },
+        {
+          "playlistIndex": 58,
+          "id": "s1d-0_C8LwM",
+          "title": "16moonmassgame  2nd",
+          "url": "https://www.youtube.com/watch?v=s1d-0_C8LwM",
+          "duration": 241
+        },
+        {
+          "playlistIndex": 59,
+          "id": "XlvhMdLrHHg",
+          "title": "16moonmassgame  3rd",
+          "url": "https://www.youtube.com/watch?v=XlvhMdLrHHg",
+          "duration": 239
+        },
+        {
+          "playlistIndex": 60,
+          "id": "oDKXHbCuzxI",
+          "title": "16moonmassgame  ending",
+          "url": "https://www.youtube.com/watch?v=oDKXHbCuzxI",
+          "duration": 378
+        },
+        {
+          "playlistIndex": 61,
+          "id": "eUEoCHrw9DU",
+          "title": "2015MoonMassGame-opening",
+          "url": "https://www.youtube.com/watch?v=eUEoCHrw9DU",
+          "duration": 157
+        },
+        {
+          "playlistIndex": 62,
+          "id": "PlIkqUH6cRQ",
+          "title": "2015MoonMassGame-1st stage",
+          "url": "https://www.youtube.com/watch?v=PlIkqUH6cRQ",
+          "duration": 330
+        },
+        {
+          "playlistIndex": 63,
+          "id": "Bj8oP2xUFmw",
+          "title": "2015MoonMassGame-interval",
+          "url": "https://www.youtube.com/watch?v=Bj8oP2xUFmw",
+          "duration": 54
+        },
+        {
+          "playlistIndex": 64,
+          "id": "IIKxi2fG0jE",
+          "title": "2015MoonMassGame-2nd stage",
+          "url": "https://www.youtube.com/watch?v=IIKxi2fG0jE",
+          "duration": 254
+        },
+        {
+          "playlistIndex": 65,
+          "id": "oeOgBQ3A4v0",
+          "title": "2015MoonMassGame-3rd stage",
+          "url": "https://www.youtube.com/watch?v=oeOgBQ3A4v0",
+          "duration": 208
+        },
+        {
+          "playlistIndex": 66,
+          "id": "jBYdpTGk-v4",
+          "title": "2015MoonMassGame-ending",
+          "url": "https://www.youtube.com/watch?v=jBYdpTGk-v4",
+          "duration": 345
+        },
+        {
+          "playlistIndex": 67,
+          "id": "6r_lPKYDdnQ",
+          "title": "2014 moonmass opening",
+          "url": "https://www.youtube.com/watch?v=6r_lPKYDdnQ",
+          "duration": 184
+        },
+        {
+          "playlistIndex": 68,
+          "id": "_oaI9YLLz5U",
+          "title": "2014 moonmass 1st stage",
+          "url": "https://www.youtube.com/watch?v=_oaI9YLLz5U",
+          "duration": 307
+        },
+        {
+          "playlistIndex": 69,
+          "id": "X4XneQuD5A4",
+          "title": "2014 moonmass interval",
+          "url": "https://www.youtube.com/watch?v=X4XneQuD5A4",
+          "duration": 81
+        },
+        {
+          "playlistIndex": 70,
+          "id": "DyzmN-zRJOo",
+          "title": "2014 moonmass 2nd stage",
+          "url": "https://www.youtube.com/watch?v=DyzmN-zRJOo",
+          "duration": 258
+        },
+        {
+          "playlistIndex": 71,
+          "id": "ukN4MPxGj8o",
+          "title": "2014 moonmass 3rd stage",
+          "url": "https://www.youtube.com/watch?v=ukN4MPxGj8o",
+          "duration": 208
+        },
+        {
+          "playlistIndex": 72,
+          "id": "RznpPeFDMh8",
+          "title": "2014 moonmass ending",
+          "url": "https://www.youtube.com/watch?v=RznpPeFDMh8",
+          "duration": 215
+        },
+        {
+          "playlistIndex": 73,
+          "id": "urLpV775ptU",
+          "title": "2013 moon massgame opening",
+          "url": "https://www.youtube.com/watch?v=urLpV775ptU",
+          "duration": 186
+        },
+        {
+          "playlistIndex": 74,
+          "id": "A3zJEYSnjbI",
+          "title": "2013 moonmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=A3zJEYSnjbI",
+          "duration": 328
+        },
+        {
+          "playlistIndex": 75,
+          "id": "5fFkDszW0zk",
+          "title": "2013 moonmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=5fFkDszW0zk",
+          "duration": 260
+        },
+        {
+          "playlistIndex": 76,
+          "id": "3bwyekb72WI",
+          "title": "2013 moonmassgame 3rd stage",
+          "url": "https://www.youtube.com/watch?v=3bwyekb72WI",
+          "duration": 199
+        },
+        {
+          "playlistIndex": 77,
+          "id": "oEPrICXytl8",
+          "title": "2013 moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=oEPrICXytl8",
+          "duration": 212
+        },
+        {
+          "playlistIndex": 78,
+          "id": "StQGOVzEtUE",
+          "title": "2012massgame white-Opening",
+          "url": "https://www.youtube.com/watch?v=StQGOVzEtUE",
+          "duration": 158
+        },
+        {
+          "playlistIndex": 79,
+          "id": "Db5y3ciwOkw",
+          "title": "2012massgame white-1st stage",
+          "url": "https://www.youtube.com/watch?v=Db5y3ciwOkw",
+          "duration": 309
+        },
+        {
+          "playlistIndex": 80,
+          "id": "TpQLbCQKOww",
+          "title": "2012massgame white-Interval",
+          "url": "https://www.youtube.com/watch?v=TpQLbCQKOww",
+          "duration": 62
+        },
+        {
+          "playlistIndex": 81,
+          "id": "ZnhgUMKq_GU",
+          "title": "2012massgame white-2nd stage",
+          "url": "https://www.youtube.com/watch?v=ZnhgUMKq_GU",
+          "duration": 245
+        },
+        {
+          "playlistIndex": 82,
+          "id": "EAie0XFvkGY",
+          "title": "2012massgame white-3rd stage",
+          "url": "https://www.youtube.com/watch?v=EAie0XFvkGY",
+          "duration": 236
+        },
+        {
+          "playlistIndex": 83,
+          "id": "28L3XTnDhbs",
+          "title": "2012massgame white-Ending",
+          "url": "https://www.youtube.com/watch?v=28L3XTnDhbs",
+          "duration": 296
+        },
+        {
+          "playlistIndex": 84,
+          "id": "MrX3TG-G8Tc",
+          "title": "11massgame white-opening",
+          "url": "https://www.youtube.com/watch?v=MrX3TG-G8Tc",
+          "duration": 177
+        },
+        {
+          "playlistIndex": 85,
+          "id": "NQABiiueY64",
+          "title": "11massgame white-scene1",
+          "url": "https://www.youtube.com/watch?v=NQABiiueY64",
+          "duration": 323
+        },
+        {
+          "playlistIndex": 86,
+          "id": "H2tkLIEhrtU",
+          "title": "11massgame white-interval",
+          "url": "https://www.youtube.com/watch?v=H2tkLIEhrtU",
+          "duration": 66
+        },
+        {
+          "playlistIndex": 87,
+          "id": "AzjbWOnhNZ0",
+          "title": "11massgame white-scene2",
+          "url": "https://www.youtube.com/watch?v=AzjbWOnhNZ0",
+          "duration": 253
+        },
+        {
+          "playlistIndex": 88,
+          "id": "z6FhQtNdZcA",
+          "title": "11massgame white-scene3",
+          "url": "https://www.youtube.com/watch?v=z6FhQtNdZcA",
+          "duration": 188
+        },
+        {
+          "playlistIndex": 89,
+          "id": "s8I8QDL6kx4",
+          "title": "11massgame white-ending",
+          "url": "https://www.youtube.com/watch?v=s8I8QDL6kx4",
+          "duration": 332
+        },
+        {
+          "playlistIndex": 90,
+          "id": "p-raHQbWGHM",
+          "title": "10massgame white-opening",
+          "url": "https://www.youtube.com/watch?v=p-raHQbWGHM",
+          "duration": 182
+        },
+        {
+          "playlistIndex": 91,
+          "id": "xc0fVB05SOs",
+          "title": "10massgame white-scene1",
+          "url": "https://www.youtube.com/watch?v=xc0fVB05SOs",
+          "duration": 289
+        },
+        {
+          "playlistIndex": 92,
+          "id": "k4GIvgF98g4",
+          "title": "10massgame white-interval",
+          "url": "https://www.youtube.com/watch?v=k4GIvgF98g4",
+          "duration": 83
+        },
+        {
+          "playlistIndex": 93,
+          "id": "k24ME1th_rY",
+          "title": "10massgame white-scene2",
+          "url": "https://www.youtube.com/watch?v=k24ME1th_rY",
+          "duration": 237
+        },
+        {
+          "playlistIndex": 94,
+          "id": "Bds5iWAbWPA",
+          "title": "10massgame white-scene3",
+          "url": "https://www.youtube.com/watch?v=Bds5iWAbWPA",
+          "duration": 186
+        },
+        {
+          "playlistIndex": 95,
+          "id": "RPor6n6YC0Y",
+          "title": "10massgame white-ending",
+          "url": "https://www.youtube.com/watch?v=RPor6n6YC0Y",
+          "duration": 382
+        },
+        {
+          "playlistIndex": 96,
+          "id": "pAUKTpXAvwU",
+          "title": "09massgame white-opening",
+          "url": "https://www.youtube.com/watch?v=pAUKTpXAvwU",
+          "duration": 157
+        },
+        {
+          "playlistIndex": 97,
+          "id": "DAi7E1VYNH4",
+          "title": "09massgame white-scene1",
+          "url": "https://www.youtube.com/watch?v=DAi7E1VYNH4",
+          "duration": 312
+        },
+        {
+          "playlistIndex": 98,
+          "id": "bz1FqJZ4qJc",
+          "title": "09massgame white-interval",
+          "url": "https://www.youtube.com/watch?v=bz1FqJZ4qJc",
+          "duration": 78
+        },
+        {
+          "playlistIndex": 99,
+          "id": "A4_EfdiBWkA",
+          "title": "09massgame white-scene2",
+          "url": "https://www.youtube.com/watch?v=A4_EfdiBWkA",
+          "duration": 249
+        },
+        {
+          "playlistIndex": 100,
+          "id": "8i9VH9xvYDw",
+          "title": "09massgame white-scene3",
+          "url": "https://www.youtube.com/watch?v=8i9VH9xvYDw",
+          "duration": 151
+        },
+        {
+          "playlistIndex": 101,
+          "id": "UDFRRKawR4Y",
+          "title": "09massgame white-ending",
+          "url": "https://www.youtube.com/watch?v=UDFRRKawR4Y",
+          "duration": 220
+        },
+        {
+          "playlistIndex": 102,
+          "id": "JxTtVLrK8ds",
+          "title": "08W-0",
+          "url": "https://www.youtube.com/watch?v=JxTtVLrK8ds",
+          "duration": 244
+        },
+        {
+          "playlistIndex": 103,
+          "id": "1OBM9X7tak8",
+          "title": "08W-1",
+          "url": "https://www.youtube.com/watch?v=1OBM9X7tak8",
+          "duration": 346
+        },
+        {
+          "playlistIndex": 104,
+          "id": "Fk1DZMjxRLs",
+          "title": "08W-1.5",
+          "url": "https://www.youtube.com/watch?v=Fk1DZMjxRLs",
+          "duration": 95
+        },
+        {
+          "playlistIndex": 105,
+          "id": "kQ1aMx4Gvoc",
+          "title": "08W-2",
+          "url": "https://www.youtube.com/watch?v=kQ1aMx4Gvoc",
+          "duration": 274
+        },
+        {
+          "playlistIndex": 106,
+          "id": "pKfPNzuwUXY",
+          "title": "08W-3",
+          "url": "https://www.youtube.com/watch?v=pKfPNzuwUXY",
+          "duration": 115
+        },
+        {
+          "playlistIndex": 107,
+          "id": "1UhD-_vRgZQ",
+          "title": "08W-E",
+          "url": "https://www.youtube.com/watch?v=1UhD-_vRgZQ",
+          "duration": 305
+        },
+        {
+          "playlistIndex": 108,
+          "id": "tcCQkYhZmx0",
+          "title": "07W-0",
+          "url": "https://www.youtube.com/watch?v=tcCQkYhZmx0",
+          "duration": 279
+        },
+        {
+          "playlistIndex": 109,
+          "id": "xWdgksyRfWE",
+          "title": "07W-1",
+          "url": "https://www.youtube.com/watch?v=xWdgksyRfWE",
+          "duration": 334
+        },
+        {
+          "playlistIndex": 110,
+          "id": "ERe14A4eadY",
+          "title": "07W-1.5",
+          "url": "https://www.youtube.com/watch?v=ERe14A4eadY",
+          "duration": 128
+        },
+        {
+          "playlistIndex": 111,
+          "id": "7ry5kSyoihg",
+          "title": "07W-2",
+          "url": "https://www.youtube.com/watch?v=7ry5kSyoihg",
+          "duration": 255
+        },
+        {
+          "playlistIndex": 112,
+          "id": "fxtk1ByJcwA",
+          "title": "07W-3",
+          "url": "https://www.youtube.com/watch?v=fxtk1ByJcwA",
+          "duration": 325
+        },
+        {
+          "playlistIndex": 113,
+          "id": "iS2pA6W71fw",
+          "title": "07W-E",
+          "url": "https://www.youtube.com/watch?v=iS2pA6W71fw",
+          "duration": 618
+        },
+        {
+          "playlistIndex": 114,
+          "id": "-POljhK3Ar4",
+          "title": "06WHITEMASSGAME Entrance",
+          "url": "https://www.youtube.com/watch?v=-POljhK3Ar4",
+          "duration": 285
+        },
+        {
+          "playlistIndex": 115,
+          "id": "xQSMyagaZyU",
+          "title": "06WHITEMASSGAME 1stStage",
+          "url": "https://www.youtube.com/watch?v=xQSMyagaZyU",
+          "duration": 323
+        },
+        {
+          "playlistIndex": 116,
+          "id": "ecCTFVBmTTQ",
+          "title": "06WHITEMASSGAME 2ndStage",
+          "url": "https://www.youtube.com/watch?v=ecCTFVBmTTQ",
+          "duration": 275
+        },
+        {
+          "playlistIndex": 117,
+          "id": "ymUFfyonzCk",
+          "title": "06WHITEMASSGAME 3rdStage",
+          "url": "https://www.youtube.com/watch?v=ymUFfyonzCk",
+          "duration": 389
+        },
+        {
+          "playlistIndex": 118,
+          "id": "JzGGhG3-rYw",
+          "title": "05W 1",
+          "url": "https://www.youtube.com/watch?v=JzGGhG3-rYw",
+          "duration": 286
+        },
+        {
+          "playlistIndex": 119,
+          "id": "2IcD3Nqkoa8",
+          "title": "05W-2",
+          "url": "https://www.youtube.com/watch?v=2IcD3Nqkoa8",
+          "duration": 266
+        },
+        {
+          "playlistIndex": 120,
+          "id": "VXJIPVx4CMU",
+          "title": "2004White　Entrance",
+          "url": "https://www.youtube.com/watch?v=VXJIPVx4CMU",
+          "duration": 231
+        },
+        {
+          "playlistIndex": 121,
+          "id": "_Q50pVtkh34",
+          "title": "2004White 1st_stage",
+          "url": "https://www.youtube.com/watch?v=_Q50pVtkh34",
+          "duration": 317
+        },
+        {
+          "playlistIndex": 122,
+          "id": "IWMy3_6EwpA",
+          "title": "2004White Interbal",
+          "url": "https://www.youtube.com/watch?v=IWMy3_6EwpA",
+          "duration": 114
+        },
+        {
+          "playlistIndex": 123,
+          "id": "XPtwRYGb-I0",
+          "title": "2004White 3rd_stage",
+          "url": "https://www.youtube.com/watch?v=XPtwRYGb-I0",
+          "duration": 284
+        },
+        {
+          "playlistIndex": 124,
+          "id": "Cfg_o5n8OOM",
+          "title": "03W-0",
+          "url": "https://www.youtube.com/watch?v=Cfg_o5n8OOM",
+          "duration": 245
+        },
+        {
+          "playlistIndex": 125,
+          "id": "rvjoFVxPyPM",
+          "title": "03WHITEMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=rvjoFVxPyPM",
+          "duration": 274
+        },
+        {
+          "playlistIndex": 126,
+          "id": "StKxh2MgGLo",
+          "title": "03W-1.5",
+          "url": "https://www.youtube.com/watch?v=StKxh2MgGLo",
+          "duration": 114
+        },
+        {
+          "playlistIndex": 127,
+          "id": "Vacp7H_uR-M",
+          "title": "03W-2",
+          "url": "https://www.youtube.com/watch?v=Vacp7H_uR-M",
+          "duration": 241
+        },
+        {
+          "playlistIndex": 128,
+          "id": "cRyCv0iyT4g",
+          "title": "03W-3",
+          "url": "https://www.youtube.com/watch?v=cRyCv0iyT4g",
+          "duration": 260
+        },
+        {
+          "playlistIndex": 129,
+          "id": "2NhMXi0BtL4",
+          "title": "03W-E",
+          "url": "https://www.youtube.com/watch?v=2NhMXi0BtL4",
+          "duration": 277
+        },
+        {
+          "playlistIndex": 130,
+          "id": "BS6Sgg4CGMU",
+          "title": "02WHITEMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=BS6Sgg4CGMU",
+          "duration": 309
+        },
+        {
+          "playlistIndex": 131,
+          "id": "XB7wyFLM3EU",
+          "title": "02WHITEMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=XB7wyFLM3EU",
+          "duration": 257
+        },
+        {
+          "playlistIndex": 132,
+          "id": "t0q0OCfEBvg",
+          "title": "01WHITEMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=t0q0OCfEBvg",
+          "duration": 264
+        },
+        {
+          "playlistIndex": 133,
+          "id": "nfF3pr0FEcA",
+          "title": "00W 0",
+          "url": "https://www.youtube.com/watch?v=nfF3pr0FEcA",
+          "duration": 258
+        },
+        {
+          "playlistIndex": 134,
+          "id": "Ts1xsSOiEfE",
+          "title": "00WHITEMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=Ts1xsSOiEfE",
+          "duration": 287
+        },
+        {
+          "playlistIndex": 135,
+          "id": "C3T4G6gOSQw",
+          "title": "00W 1 5",
+          "url": "https://www.youtube.com/watch?v=C3T4G6gOSQw",
+          "duration": 135
+        },
+        {
+          "playlistIndex": 136,
+          "id": "ICC3nuHRPZw",
+          "title": "00WHITEMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=ICC3nuHRPZw",
+          "duration": 241
+        },
+        {
+          "playlistIndex": 137,
+          "id": "h-61OuW6Vy8",
+          "title": "00W 3",
+          "url": "https://www.youtube.com/watch?v=h-61OuW6Vy8",
+          "duration": 293
+        }
+      ]
+    },
+    {
+      "id": "PL2FAE01B6B87B132B",
+      "title": "【集団行動】広島大学附属高校マスゲーム（2000年以降）",
+      "url": "https://www.youtube.com/playlist?list=PL2FAE01B6B87B132B",
+      "reportedCount": 31,
+      "fetchedCount": 31,
+      "warning": "YouTube said: INFO - 1 unavailable video is hidden",
+      "entries": [
+        {
+          "playlistIndex": 1,
+          "id": "pZ7B5IlSlpY",
+          "title": "06REDMASSGAME 2ndStage",
+          "url": "https://www.youtube.com/watch?v=pZ7B5IlSlpY",
+          "duration": 284
+        },
+        {
+          "playlistIndex": 2,
+          "id": "-POljhK3Ar4",
+          "title": "06WHITEMASSGAME Entrance",
+          "url": "https://www.youtube.com/watch?v=-POljhK3Ar4",
+          "duration": 285
+        },
+        {
+          "playlistIndex": 3,
+          "id": "ymUFfyonzCk",
+          "title": "06WHITEMASSGAME 3rdStage",
+          "url": "https://www.youtube.com/watch?v=ymUFfyonzCk",
+          "duration": 389
+        },
+        {
+          "playlistIndex": 4,
+          "id": "ecCTFVBmTTQ",
+          "title": "06WHITEMASSGAME 2ndStage",
+          "url": "https://www.youtube.com/watch?v=ecCTFVBmTTQ",
+          "duration": 275
+        },
+        {
+          "playlistIndex": 5,
+          "id": "GqU1qoOl_d0",
+          "title": "06REDMASSGAME 1stStage",
+          "url": "https://www.youtube.com/watch?v=GqU1qoOl_d0",
+          "duration": 311
+        },
+        {
+          "playlistIndex": 6,
+          "id": "xQSMyagaZyU",
+          "title": "06WHITEMASSGAME 1stStage",
+          "url": "https://www.youtube.com/watch?v=xQSMyagaZyU",
+          "duration": 323
+        },
+        {
+          "playlistIndex": 7,
+          "id": "o9yXXRtT5cg",
+          "title": "05REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=o9yXXRtT5cg",
+          "duration": 303
+        },
+        {
+          "playlistIndex": 8,
+          "id": "t0q0OCfEBvg",
+          "title": "01WHITEMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=t0q0OCfEBvg",
+          "duration": 264
+        },
+        {
+          "playlistIndex": 9,
+          "id": "bZBd2vRPmJA",
+          "title": "01REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=bZBd2vRPmJA",
+          "duration": 264
+        },
+        {
+          "playlistIndex": 10,
+          "id": "K0CV2iDXkKU",
+          "title": "00REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=K0CV2iDXkKU",
+          "duration": 278
+        },
+        {
+          "playlistIndex": 11,
+          "id": "ICC3nuHRPZw",
+          "title": "00WHITEMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=ICC3nuHRPZw",
+          "duration": 241
+        },
+        {
+          "playlistIndex": 12,
+          "id": "XB7wyFLM3EU",
+          "title": "02WHITEMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=XB7wyFLM3EU",
+          "duration": 257
+        },
+        {
+          "playlistIndex": 13,
+          "id": "2ML8WUIgV6s",
+          "title": "02REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=2ML8WUIgV6s",
+          "duration": 270
+        },
+        {
+          "playlistIndex": 14,
+          "id": "BS6Sgg4CGMU",
+          "title": "02WHITEMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=BS6Sgg4CGMU",
+          "duration": 309
+        },
+        {
+          "playlistIndex": 15,
+          "id": "SU7WYPbsZsM",
+          "title": "02REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=SU7WYPbsZsM",
+          "duration": 292
+        },
+        {
+          "playlistIndex": 16,
+          "id": "Ts1xsSOiEfE",
+          "title": "00WHITEMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=Ts1xsSOiEfE",
+          "duration": 287
+        },
+        {
+          "playlistIndex": 17,
+          "id": "n2AJEWaMB0g",
+          "title": "00REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=n2AJEWaMB0g",
+          "duration": 319
+        },
+        {
+          "playlistIndex": 18,
+          "id": "rvjoFVxPyPM",
+          "title": "03WHITEMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=rvjoFVxPyPM",
+          "duration": 274
+        },
+        {
+          "playlistIndex": 19,
+          "id": "9szH1BbNdSY",
+          "title": "03REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=9szH1BbNdSY",
+          "duration": 287
+        },
+        {
+          "playlistIndex": 20,
+          "id": "DO_T8Oj-whw",
+          "title": "03REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=DO_T8Oj-whw",
+          "duration": 315
+        },
+        {
+          "playlistIndex": 21,
+          "id": "UJPkR-k1F3o",
+          "title": "2004Red 2nd_stage",
+          "url": "https://www.youtube.com/watch?v=UJPkR-k1F3o",
+          "duration": 256
+        },
+        {
+          "playlistIndex": 22,
+          "id": "ElZXC1fi4k4",
+          "title": "2004Red 3rd_stage",
+          "url": "https://www.youtube.com/watch?v=ElZXC1fi4k4",
+          "duration": 283
+        },
+        {
+          "playlistIndex": 23,
+          "id": "HqRNkeJDw0o",
+          "title": "2004Red Interbal",
+          "url": "https://www.youtube.com/watch?v=HqRNkeJDw0o",
+          "duration": 105
+        },
+        {
+          "playlistIndex": 24,
+          "id": "rCyyucdyqOs",
+          "title": "2004Red 1st_stage",
+          "url": "https://www.youtube.com/watch?v=rCyyucdyqOs",
+          "duration": 286
+        },
+        {
+          "playlistIndex": 25,
+          "id": "Anm-2bJPw7U",
+          "title": "2004Red Entrance",
+          "url": "https://www.youtube.com/watch?v=Anm-2bJPw7U",
+          "duration": 249
+        },
+        {
+          "playlistIndex": 26,
+          "id": "XPtwRYGb-I0",
+          "title": "2004White 3rd_stage",
+          "url": "https://www.youtube.com/watch?v=XPtwRYGb-I0",
+          "duration": 284
+        },
+        {
+          "playlistIndex": 27,
+          "id": "lv03ogUsmtQ",
+          "title": "2004White 2nd_stage",
+          "url": "https://www.youtube.com/watch?v=lv03ogUsmtQ",
+          "duration": 281
+        },
+        {
+          "playlistIndex": 28,
+          "id": "IWMy3_6EwpA",
+          "title": "2004White Interbal",
+          "url": "https://www.youtube.com/watch?v=IWMy3_6EwpA",
+          "duration": 114
+        },
+        {
+          "playlistIndex": 29,
+          "id": "_Q50pVtkh34",
+          "title": "2004White 1st_stage",
+          "url": "https://www.youtube.com/watch?v=_Q50pVtkh34",
+          "duration": 317
+        },
+        {
+          "playlistIndex": 30,
+          "id": "VXJIPVx4CMU",
+          "title": "2004White　Entrance",
+          "url": "https://www.youtube.com/watch?v=VXJIPVx4CMU",
+          "duration": 231
+        },
+        {
+          "playlistIndex": 31,
+          "id": "qjPFocC5Yhg",
+          "title": "1999WHITE MASSGAME",
+          "url": "https://www.youtube.com/watch?v=qjPFocC5Yhg",
+          "duration": 276
+        }
+      ]
+    },
+    {
+      "id": "PLnOxQXsNjVVbpCunpny33w5n76WvFvmGG",
+      "title": "Blu-ray/DVD",
+      "url": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbpCunpny33w5n76WvFvmGG",
+      "reportedCount": 8,
+      "fetchedCount": 8,
+      "warning": null,
+      "entries": [
+        {
+          "playlistIndex": 1,
+          "id": "0IqFNemy7z4",
+          "title": "2026 sunmassgame Blu-ray",
+          "url": "https://www.youtube.com/watch?v=0IqFNemy7z4",
+          "duration": 1668
+        },
+        {
+          "playlistIndex": 2,
+          "id": "jbOO1EaHADo",
+          "title": "2026 moonmassgame Blu-ray",
+          "url": "https://www.youtube.com/watch?v=jbOO1EaHADo",
+          "duration": 1709
+        },
+        {
+          "playlistIndex": 3,
+          "id": "R8Y79Be5Eo8",
+          "title": "2025 sunmassgame Blu-ray",
+          "url": "https://www.youtube.com/watch?v=R8Y79Be5Eo8",
+          "duration": 1788
+        },
+        {
+          "playlistIndex": 4,
+          "id": "3nmoBmBRfyg",
+          "title": "2025 moonmassgame Blu-ray",
+          "url": "https://www.youtube.com/watch?v=3nmoBmBRfyg",
+          "duration": 1696
+        },
+        {
+          "playlistIndex": 5,
+          "id": "rkwfYkYik9g",
+          "title": "2024 sunnmassgame Blu-ray",
+          "url": "https://www.youtube.com/watch?v=rkwfYkYik9g",
+          "duration": 1573
+        },
+        {
+          "playlistIndex": 6,
+          "id": "ydo56bLIqVU",
+          "title": "2024 moonmassgame Blu-ray",
+          "url": "https://www.youtube.com/watch?v=ydo56bLIqVU",
+          "duration": 1578
+        },
+        {
+          "playlistIndex": 7,
+          "id": "QyQlX3UAsZw",
+          "title": "2023 sun massgame Blu-ray",
+          "url": "https://www.youtube.com/watch?v=QyQlX3UAsZw",
+          "duration": 1649
+        },
+        {
+          "playlistIndex": 8,
+          "id": "KwPYHdSeqAo",
+          "title": "2023 moon massgame Blu-ray",
+          "url": "https://www.youtube.com/watch?v=KwPYHdSeqAo",
+          "duration": 1653
+        }
+      ]
+    },
+    {
+      "id": "PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+      "title": "月マス🌙 ※更新停止",
+      "url": "https://www.youtube.com/playlist?list=PLu5LzDMFS4kEXDq9nl1lPBS5O49CYFzdO",
+      "reportedCount": 132,
+      "fetchedCount": 132,
+      "warning": null,
+      "entries": [
+        {
+          "playlistIndex": 1,
+          "id": "lAmRsFDKres",
+          "title": "25moonmassgame opening",
+          "url": "https://www.youtube.com/watch?v=lAmRsFDKres",
+          "duration": 147
+        },
+        {
+          "playlistIndex": 2,
+          "id": "bb5yQmTyg2Y",
+          "title": "25moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=bb5yQmTyg2Y",
+          "duration": 301
+        },
+        {
+          "playlistIndex": 3,
+          "id": "JjKwVU77g8g",
+          "title": "25moonmassgame inter",
+          "url": "https://www.youtube.com/watch?v=JjKwVU77g8g",
+          "duration": 54
+        },
+        {
+          "playlistIndex": 4,
+          "id": "j0Z51Jl7K88",
+          "title": "25moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=j0Z51Jl7K88",
+          "duration": 265
+        },
+        {
+          "playlistIndex": 5,
+          "id": "oqxhZH06Lt4",
+          "title": "25moonmassgame 3rd",
+          "url": "https://www.youtube.com/watch?v=oqxhZH06Lt4",
+          "duration": 193
+        },
+        {
+          "playlistIndex": 6,
+          "id": "Fx--R037dc8",
+          "title": "25moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=Fx--R037dc8",
+          "duration": 148
+        },
+        {
+          "playlistIndex": 7,
+          "id": "Jrm7VWKwsAc",
+          "title": "24moonmassgame opening",
+          "url": "https://www.youtube.com/watch?v=Jrm7VWKwsAc",
+          "duration": 142
+        },
+        {
+          "playlistIndex": 8,
+          "id": "JGmcQRVpDko",
+          "title": "24moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=JGmcQRVpDko",
+          "duration": 294
+        },
+        {
+          "playlistIndex": 9,
+          "id": "HdAmClHPB14",
+          "title": "24moonmassgame inter",
+          "url": "https://www.youtube.com/watch?v=HdAmClHPB14",
+          "duration": 60
+        },
+        {
+          "playlistIndex": 10,
+          "id": "pdpNYyw_Snw",
+          "title": "24moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=pdpNYyw_Snw",
+          "duration": 259
+        },
+        {
+          "playlistIndex": 11,
+          "id": "PZ_cbfT65kQ",
+          "title": "24moonmassgame 3rd",
+          "url": "https://www.youtube.com/watch?v=PZ_cbfT65kQ",
+          "duration": 196
+        },
+        {
+          "playlistIndex": 12,
+          "id": "kRORkq2gy38",
+          "title": "24moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=kRORkq2gy38",
+          "duration": 180
+        },
+        {
+          "playlistIndex": 13,
+          "id": "NxlQ1nYqc0M",
+          "title": "23moonmassgame opening",
+          "url": "https://www.youtube.com/watch?v=NxlQ1nYqc0M",
+          "duration": 140
+        },
+        {
+          "playlistIndex": 14,
+          "id": "KHWGTMmWGHE",
+          "title": "23moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=KHWGTMmWGHE",
+          "duration": 291
+        },
+        {
+          "playlistIndex": 15,
+          "id": "-bH8FqXPb7Y",
+          "title": "23moonmassgame inter",
+          "url": "https://www.youtube.com/watch?v=-bH8FqXPb7Y",
+          "duration": 57
+        },
+        {
+          "playlistIndex": 16,
+          "id": "34dy0mWNSGU",
+          "title": "23moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=34dy0mWNSGU",
+          "duration": 257
+        },
+        {
+          "playlistIndex": 17,
+          "id": "ciFmvoAZSb0",
+          "title": "23moonmassgame 3rd",
+          "url": "https://www.youtube.com/watch?v=ciFmvoAZSb0",
+          "duration": 182
+        },
+        {
+          "playlistIndex": 18,
+          "id": "5FvA_8tGFv0",
+          "title": "23moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=5FvA_8tGFv0",
+          "duration": 136
+        },
+        {
+          "playlistIndex": 19,
+          "id": "0PYcF-zso0U",
+          "title": "広大附属 月マスゲーム 2022 入場",
+          "url": "https://www.youtube.com/watch?v=0PYcF-zso0U",
+          "duration": 171
+        },
+        {
+          "playlistIndex": 20,
+          "id": "D0vzwJcqJrc",
+          "title": "広大附属 月マスゲーム 2022 Ⅰ部",
+          "url": "https://www.youtube.com/watch?v=D0vzwJcqJrc",
+          "duration": 300
+        },
+        {
+          "playlistIndex": 21,
+          "id": "CVuxpJDaMlQ",
+          "title": "広大附属 月マスゲーム 2022 インター",
+          "url": "https://www.youtube.com/watch?v=CVuxpJDaMlQ",
+          "duration": 69
+        },
+        {
+          "playlistIndex": 22,
+          "id": "tQijBDBtLFg",
+          "title": "広大附属 月マスゲーム 2022 Ⅱ部",
+          "url": "https://www.youtube.com/watch?v=tQijBDBtLFg",
+          "duration": 256
+        },
+        {
+          "playlistIndex": 23,
+          "id": "hsBKKOyNkuA",
+          "title": "広大附属 月マスゲーム 2022 Ⅲ部",
+          "url": "https://www.youtube.com/watch?v=hsBKKOyNkuA",
+          "duration": 223
+        },
+        {
+          "playlistIndex": 24,
+          "id": "xQEnBdRXRz4",
+          "title": "広大附属 月マスゲーム 2022 退場",
+          "url": "https://www.youtube.com/watch?v=xQEnBdRXRz4",
+          "duration": 188
+        },
+        {
+          "playlistIndex": 25,
+          "id": "kRxXW_RkcYg",
+          "title": "21moonmassgame opening",
+          "url": "https://www.youtube.com/watch?v=kRxXW_RkcYg",
+          "duration": 132
+        },
+        {
+          "playlistIndex": 26,
+          "id": "MrkU8zkp0LE",
+          "title": "21moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=MrkU8zkp0LE",
+          "duration": 301
+        },
+        {
+          "playlistIndex": 27,
+          "id": "Xjn7dTq6A_E",
+          "title": "21moonmassgame inter",
+          "url": "https://www.youtube.com/watch?v=Xjn7dTq6A_E",
+          "duration": 69
+        },
+        {
+          "playlistIndex": 28,
+          "id": "rzPeM499LVs",
+          "title": "21moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=rzPeM499LVs",
+          "duration": 240
+        },
+        {
+          "playlistIndex": 29,
+          "id": "716GWXbSr2U",
+          "title": "21moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=716GWXbSr2U",
+          "duration": 174
+        },
+        {
+          "playlistIndex": 30,
+          "id": "djugV02c0zI",
+          "title": "'20 moonmassgame 2部('20returns)",
+          "url": "https://www.youtube.com/watch?v=djugV02c0zI",
+          "duration": 263
+        },
+        {
+          "playlistIndex": 31,
+          "id": "r2rwoZ6KbN0",
+          "title": "19moonmassgame opening",
+          "url": "https://www.youtube.com/watch?v=r2rwoZ6KbN0",
+          "duration": 139
+        },
+        {
+          "playlistIndex": 32,
+          "id": "zdhDLasDRlo",
+          "title": "19moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=zdhDLasDRlo",
+          "duration": 295
+        },
+        {
+          "playlistIndex": 33,
+          "id": "8Pf2pGqKMXk",
+          "title": "19moonmassgame inter",
+          "url": "https://www.youtube.com/watch?v=8Pf2pGqKMXk",
+          "duration": 72
+        },
+        {
+          "playlistIndex": 34,
+          "id": "OIDElyLimS0",
+          "title": "19moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=OIDElyLimS0",
+          "duration": 255
+        },
+        {
+          "playlistIndex": 35,
+          "id": "AMH9Uv_6HdU",
+          "title": "19moonmassgame 3rd",
+          "url": "https://www.youtube.com/watch?v=AMH9Uv_6HdU",
+          "duration": 224
+        },
+        {
+          "playlistIndex": 36,
+          "id": "sty_MWztmTU",
+          "title": "19moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=sty_MWztmTU",
+          "duration": 183
+        },
+        {
+          "playlistIndex": 37,
+          "id": "eVz395RlJMc",
+          "title": "18moonmassgame opening",
+          "url": "https://www.youtube.com/watch?v=eVz395RlJMc",
+          "duration": 145
+        },
+        {
+          "playlistIndex": 38,
+          "id": "r99vLtqBHNc",
+          "title": "18moonmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=r99vLtqBHNc",
+          "duration": 294
+        },
+        {
+          "playlistIndex": 39,
+          "id": "RtJ0g8bd2k8",
+          "title": "18moonmassgame interval",
+          "url": "https://www.youtube.com/watch?v=RtJ0g8bd2k8",
+          "duration": 51
+        },
+        {
+          "playlistIndex": 40,
+          "id": "_-22AGfZxcY",
+          "title": "18moonmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=_-22AGfZxcY",
+          "duration": 258
+        },
+        {
+          "playlistIndex": 41,
+          "id": "jMPU0oRr_-8",
+          "title": "18moonmassgame 3rd stage",
+          "url": "https://www.youtube.com/watch?v=jMPU0oRr_-8",
+          "duration": 231
+        },
+        {
+          "playlistIndex": 42,
+          "id": "MskJD-YkSOA",
+          "title": "18moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=MskJD-YkSOA",
+          "duration": 208
+        },
+        {
+          "playlistIndex": 43,
+          "id": "JZxATg6v-7w",
+          "title": "17moonmassgame opening",
+          "url": "https://www.youtube.com/watch?v=JZxATg6v-7w",
+          "duration": 171
+        },
+        {
+          "playlistIndex": 44,
+          "id": "5ZhJdX1lfMQ",
+          "title": "17moonmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=5ZhJdX1lfMQ",
+          "duration": 294
+        },
+        {
+          "playlistIndex": 45,
+          "id": "uBfJ8XBCfy0",
+          "title": "17moonmassgame inter",
+          "url": "https://www.youtube.com/watch?v=uBfJ8XBCfy0",
+          "duration": 52
+        },
+        {
+          "playlistIndex": 46,
+          "id": "hIuGkUa26nw",
+          "title": "17moonmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=hIuGkUa26nw",
+          "duration": 240
+        },
+        {
+          "playlistIndex": 47,
+          "id": "9OsloLSdK4Q",
+          "title": "17moonmassgame 3rd stage",
+          "url": "https://www.youtube.com/watch?v=9OsloLSdK4Q",
+          "duration": 219
+        },
+        {
+          "playlistIndex": 48,
+          "id": "Ue94QEd8KNI",
+          "title": "17moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=Ue94QEd8KNI",
+          "duration": 214
+        },
+        {
+          "playlistIndex": 49,
+          "id": "892QoVNLkY4",
+          "title": "16moonmassgame  entrance",
+          "url": "https://www.youtube.com/watch?v=892QoVNLkY4",
+          "duration": 159
+        },
+        {
+          "playlistIndex": 50,
+          "id": "W5OAq7oI-aM",
+          "title": "16moonmassgame  1st",
+          "url": "https://www.youtube.com/watch?v=W5OAq7oI-aM",
+          "duration": 312
+        },
+        {
+          "playlistIndex": 51,
+          "id": "nCZ4ql9qhHQ",
+          "title": "16moonmassgame  inter",
+          "url": "https://www.youtube.com/watch?v=nCZ4ql9qhHQ",
+          "duration": 62
+        },
+        {
+          "playlistIndex": 52,
+          "id": "s1d-0_C8LwM",
+          "title": "16moonmassgame  2nd",
+          "url": "https://www.youtube.com/watch?v=s1d-0_C8LwM",
+          "duration": 241
+        },
+        {
+          "playlistIndex": 53,
+          "id": "XlvhMdLrHHg",
+          "title": "16moonmassgame  3rd",
+          "url": "https://www.youtube.com/watch?v=XlvhMdLrHHg",
+          "duration": 239
+        },
+        {
+          "playlistIndex": 54,
+          "id": "oDKXHbCuzxI",
+          "title": "16moonmassgame  ending",
+          "url": "https://www.youtube.com/watch?v=oDKXHbCuzxI",
+          "duration": 378
+        },
+        {
+          "playlistIndex": 55,
+          "id": "eUEoCHrw9DU",
+          "title": "2015MoonMassGame-opening",
+          "url": "https://www.youtube.com/watch?v=eUEoCHrw9DU",
+          "duration": 157
+        },
+        {
+          "playlistIndex": 56,
+          "id": "PlIkqUH6cRQ",
+          "title": "2015MoonMassGame-1st stage",
+          "url": "https://www.youtube.com/watch?v=PlIkqUH6cRQ",
+          "duration": 330
+        },
+        {
+          "playlistIndex": 57,
+          "id": "Bj8oP2xUFmw",
+          "title": "2015MoonMassGame-interval",
+          "url": "https://www.youtube.com/watch?v=Bj8oP2xUFmw",
+          "duration": 54
+        },
+        {
+          "playlistIndex": 58,
+          "id": "IIKxi2fG0jE",
+          "title": "2015MoonMassGame-2nd stage",
+          "url": "https://www.youtube.com/watch?v=IIKxi2fG0jE",
+          "duration": 254
+        },
+        {
+          "playlistIndex": 59,
+          "id": "oeOgBQ3A4v0",
+          "title": "2015MoonMassGame-3rd stage",
+          "url": "https://www.youtube.com/watch?v=oeOgBQ3A4v0",
+          "duration": 208
+        },
+        {
+          "playlistIndex": 60,
+          "id": "jBYdpTGk-v4",
+          "title": "2015MoonMassGame-ending",
+          "url": "https://www.youtube.com/watch?v=jBYdpTGk-v4",
+          "duration": 345
+        },
+        {
+          "playlistIndex": 61,
+          "id": "6r_lPKYDdnQ",
+          "title": "2014 moonmass opening",
+          "url": "https://www.youtube.com/watch?v=6r_lPKYDdnQ",
+          "duration": 184
+        },
+        {
+          "playlistIndex": 62,
+          "id": "_oaI9YLLz5U",
+          "title": "2014 moonmass 1st stage",
+          "url": "https://www.youtube.com/watch?v=_oaI9YLLz5U",
+          "duration": 307
+        },
+        {
+          "playlistIndex": 63,
+          "id": "X4XneQuD5A4",
+          "title": "2014 moonmass interval",
+          "url": "https://www.youtube.com/watch?v=X4XneQuD5A4",
+          "duration": 81
+        },
+        {
+          "playlistIndex": 64,
+          "id": "DyzmN-zRJOo",
+          "title": "2014 moonmass 2nd stage",
+          "url": "https://www.youtube.com/watch?v=DyzmN-zRJOo",
+          "duration": 258
+        },
+        {
+          "playlistIndex": 65,
+          "id": "ukN4MPxGj8o",
+          "title": "2014 moonmass 3rd stage",
+          "url": "https://www.youtube.com/watch?v=ukN4MPxGj8o",
+          "duration": 208
+        },
+        {
+          "playlistIndex": 66,
+          "id": "RznpPeFDMh8",
+          "title": "2014 moonmass ending",
+          "url": "https://www.youtube.com/watch?v=RznpPeFDMh8",
+          "duration": 215
+        },
+        {
+          "playlistIndex": 67,
+          "id": "urLpV775ptU",
+          "title": "2013 moon massgame opening",
+          "url": "https://www.youtube.com/watch?v=urLpV775ptU",
+          "duration": 186
+        },
+        {
+          "playlistIndex": 68,
+          "id": "A3zJEYSnjbI",
+          "title": "2013 moonmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=A3zJEYSnjbI",
+          "duration": 328
+        },
+        {
+          "playlistIndex": 69,
+          "id": "5fFkDszW0zk",
+          "title": "2013 moonmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=5fFkDszW0zk",
+          "duration": 260
+        },
+        {
+          "playlistIndex": 70,
+          "id": "3bwyekb72WI",
+          "title": "2013 moonmassgame 3rd stage",
+          "url": "https://www.youtube.com/watch?v=3bwyekb72WI",
+          "duration": 199
+        },
+        {
+          "playlistIndex": 71,
+          "id": "oEPrICXytl8",
+          "title": "2013 moonmassgame ending",
+          "url": "https://www.youtube.com/watch?v=oEPrICXytl8",
+          "duration": 212
+        },
+        {
+          "playlistIndex": 72,
+          "id": "StQGOVzEtUE",
+          "title": "2012massgame white-Opening",
+          "url": "https://www.youtube.com/watch?v=StQGOVzEtUE",
+          "duration": 158
+        },
+        {
+          "playlistIndex": 73,
+          "id": "Db5y3ciwOkw",
+          "title": "2012massgame white-1st stage",
+          "url": "https://www.youtube.com/watch?v=Db5y3ciwOkw",
+          "duration": 309
+        },
+        {
+          "playlistIndex": 74,
+          "id": "TpQLbCQKOww",
+          "title": "2012massgame white-Interval",
+          "url": "https://www.youtube.com/watch?v=TpQLbCQKOww",
+          "duration": 62
+        },
+        {
+          "playlistIndex": 75,
+          "id": "ZnhgUMKq_GU",
+          "title": "2012massgame white-2nd stage",
+          "url": "https://www.youtube.com/watch?v=ZnhgUMKq_GU",
+          "duration": 245
+        },
+        {
+          "playlistIndex": 76,
+          "id": "EAie0XFvkGY",
+          "title": "2012massgame white-3rd stage",
+          "url": "https://www.youtube.com/watch?v=EAie0XFvkGY",
+          "duration": 236
+        },
+        {
+          "playlistIndex": 77,
+          "id": "28L3XTnDhbs",
+          "title": "2012massgame white-Ending",
+          "url": "https://www.youtube.com/watch?v=28L3XTnDhbs",
+          "duration": 296
+        },
+        {
+          "playlistIndex": 78,
+          "id": "MrX3TG-G8Tc",
+          "title": "11massgame white-opening",
+          "url": "https://www.youtube.com/watch?v=MrX3TG-G8Tc",
+          "duration": 177
+        },
+        {
+          "playlistIndex": 79,
+          "id": "NQABiiueY64",
+          "title": "11massgame white-scene1",
+          "url": "https://www.youtube.com/watch?v=NQABiiueY64",
+          "duration": 323
+        },
+        {
+          "playlistIndex": 80,
+          "id": "H2tkLIEhrtU",
+          "title": "11massgame white-interval",
+          "url": "https://www.youtube.com/watch?v=H2tkLIEhrtU",
+          "duration": 66
+        },
+        {
+          "playlistIndex": 81,
+          "id": "AzjbWOnhNZ0",
+          "title": "11massgame white-scene2",
+          "url": "https://www.youtube.com/watch?v=AzjbWOnhNZ0",
+          "duration": 253
+        },
+        {
+          "playlistIndex": 82,
+          "id": "z6FhQtNdZcA",
+          "title": "11massgame white-scene3",
+          "url": "https://www.youtube.com/watch?v=z6FhQtNdZcA",
+          "duration": 188
+        },
+        {
+          "playlistIndex": 83,
+          "id": "s8I8QDL6kx4",
+          "title": "11massgame white-ending",
+          "url": "https://www.youtube.com/watch?v=s8I8QDL6kx4",
+          "duration": 332
+        },
+        {
+          "playlistIndex": 84,
+          "id": "p-raHQbWGHM",
+          "title": "10massgame white-opening",
+          "url": "https://www.youtube.com/watch?v=p-raHQbWGHM",
+          "duration": 182
+        },
+        {
+          "playlistIndex": 85,
+          "id": "xc0fVB05SOs",
+          "title": "10massgame white-scene1",
+          "url": "https://www.youtube.com/watch?v=xc0fVB05SOs",
+          "duration": 289
+        },
+        {
+          "playlistIndex": 86,
+          "id": "k4GIvgF98g4",
+          "title": "10massgame white-interval",
+          "url": "https://www.youtube.com/watch?v=k4GIvgF98g4",
+          "duration": 83
+        },
+        {
+          "playlistIndex": 87,
+          "id": "k24ME1th_rY",
+          "title": "10massgame white-scene2",
+          "url": "https://www.youtube.com/watch?v=k24ME1th_rY",
+          "duration": 237
+        },
+        {
+          "playlistIndex": 88,
+          "id": "Bds5iWAbWPA",
+          "title": "10massgame white-scene3",
+          "url": "https://www.youtube.com/watch?v=Bds5iWAbWPA",
+          "duration": 186
+        },
+        {
+          "playlistIndex": 89,
+          "id": "RPor6n6YC0Y",
+          "title": "10massgame white-ending",
+          "url": "https://www.youtube.com/watch?v=RPor6n6YC0Y",
+          "duration": 382
+        },
+        {
+          "playlistIndex": 90,
+          "id": "pAUKTpXAvwU",
+          "title": "09massgame white-opening",
+          "url": "https://www.youtube.com/watch?v=pAUKTpXAvwU",
+          "duration": 157
+        },
+        {
+          "playlistIndex": 91,
+          "id": "DAi7E1VYNH4",
+          "title": "09massgame white-scene1",
+          "url": "https://www.youtube.com/watch?v=DAi7E1VYNH4",
+          "duration": 312
+        },
+        {
+          "playlistIndex": 92,
+          "id": "bz1FqJZ4qJc",
+          "title": "09massgame white-interval",
+          "url": "https://www.youtube.com/watch?v=bz1FqJZ4qJc",
+          "duration": 78
+        },
+        {
+          "playlistIndex": 93,
+          "id": "A4_EfdiBWkA",
+          "title": "09massgame white-scene2",
+          "url": "https://www.youtube.com/watch?v=A4_EfdiBWkA",
+          "duration": 249
+        },
+        {
+          "playlistIndex": 94,
+          "id": "8i9VH9xvYDw",
+          "title": "09massgame white-scene3",
+          "url": "https://www.youtube.com/watch?v=8i9VH9xvYDw",
+          "duration": 151
+        },
+        {
+          "playlistIndex": 95,
+          "id": "UDFRRKawR4Y",
+          "title": "09massgame white-ending",
+          "url": "https://www.youtube.com/watch?v=UDFRRKawR4Y",
+          "duration": 220
+        },
+        {
+          "playlistIndex": 96,
+          "id": "JxTtVLrK8ds",
+          "title": "08W-0",
+          "url": "https://www.youtube.com/watch?v=JxTtVLrK8ds",
+          "duration": 244
+        },
+        {
+          "playlistIndex": 97,
+          "id": "1OBM9X7tak8",
+          "title": "08W-1",
+          "url": "https://www.youtube.com/watch?v=1OBM9X7tak8",
+          "duration": 346
+        },
+        {
+          "playlistIndex": 98,
+          "id": "Fk1DZMjxRLs",
+          "title": "08W-1.5",
+          "url": "https://www.youtube.com/watch?v=Fk1DZMjxRLs",
+          "duration": 95
+        },
+        {
+          "playlistIndex": 99,
+          "id": "kQ1aMx4Gvoc",
+          "title": "08W-2",
+          "url": "https://www.youtube.com/watch?v=kQ1aMx4Gvoc",
+          "duration": 274
+        },
+        {
+          "playlistIndex": 100,
+          "id": "pKfPNzuwUXY",
+          "title": "08W-3",
+          "url": "https://www.youtube.com/watch?v=pKfPNzuwUXY",
+          "duration": 115
+        },
+        {
+          "playlistIndex": 101,
+          "id": "1UhD-_vRgZQ",
+          "title": "08W-E",
+          "url": "https://www.youtube.com/watch?v=1UhD-_vRgZQ",
+          "duration": 305
+        },
+        {
+          "playlistIndex": 102,
+          "id": "tcCQkYhZmx0",
+          "title": "07W-0",
+          "url": "https://www.youtube.com/watch?v=tcCQkYhZmx0",
+          "duration": 279
+        },
+        {
+          "playlistIndex": 103,
+          "id": "xWdgksyRfWE",
+          "title": "07W-1",
+          "url": "https://www.youtube.com/watch?v=xWdgksyRfWE",
+          "duration": 334
+        },
+        {
+          "playlistIndex": 104,
+          "id": "ERe14A4eadY",
+          "title": "07W-1.5",
+          "url": "https://www.youtube.com/watch?v=ERe14A4eadY",
+          "duration": 128
+        },
+        {
+          "playlistIndex": 105,
+          "id": "7ry5kSyoihg",
+          "title": "07W-2",
+          "url": "https://www.youtube.com/watch?v=7ry5kSyoihg",
+          "duration": 255
+        },
+        {
+          "playlistIndex": 106,
+          "id": "fxtk1ByJcwA",
+          "title": "07W-3",
+          "url": "https://www.youtube.com/watch?v=fxtk1ByJcwA",
+          "duration": 325
+        },
+        {
+          "playlistIndex": 107,
+          "id": "iS2pA6W71fw",
+          "title": "07W-E",
+          "url": "https://www.youtube.com/watch?v=iS2pA6W71fw",
+          "duration": 618
+        },
+        {
+          "playlistIndex": 108,
+          "id": "-POljhK3Ar4",
+          "title": "06WHITEMASSGAME Entrance",
+          "url": "https://www.youtube.com/watch?v=-POljhK3Ar4",
+          "duration": 285
+        },
+        {
+          "playlistIndex": 109,
+          "id": "xQSMyagaZyU",
+          "title": "06WHITEMASSGAME 1stStage",
+          "url": "https://www.youtube.com/watch?v=xQSMyagaZyU",
+          "duration": 323
+        },
+        {
+          "playlistIndex": 110,
+          "id": "ecCTFVBmTTQ",
+          "title": "06WHITEMASSGAME 2ndStage",
+          "url": "https://www.youtube.com/watch?v=ecCTFVBmTTQ",
+          "duration": 275
+        },
+        {
+          "playlistIndex": 111,
+          "id": "ymUFfyonzCk",
+          "title": "06WHITEMASSGAME 3rdStage",
+          "url": "https://www.youtube.com/watch?v=ymUFfyonzCk",
+          "duration": 389
+        },
+        {
+          "playlistIndex": 112,
+          "id": "JzGGhG3-rYw",
+          "title": "05W 1",
+          "url": "https://www.youtube.com/watch?v=JzGGhG3-rYw",
+          "duration": 286
+        },
+        {
+          "playlistIndex": 113,
+          "id": "2IcD3Nqkoa8",
+          "title": "05W-2",
+          "url": "https://www.youtube.com/watch?v=2IcD3Nqkoa8",
+          "duration": 266
+        },
+        {
+          "playlistIndex": 114,
+          "id": "VXJIPVx4CMU",
+          "title": "2004White　Entrance",
+          "url": "https://www.youtube.com/watch?v=VXJIPVx4CMU",
+          "duration": 231
+        },
+        {
+          "playlistIndex": 115,
+          "id": "_Q50pVtkh34",
+          "title": "2004White 1st_stage",
+          "url": "https://www.youtube.com/watch?v=_Q50pVtkh34",
+          "duration": 317
+        },
+        {
+          "playlistIndex": 116,
+          "id": "IWMy3_6EwpA",
+          "title": "2004White Interbal",
+          "url": "https://www.youtube.com/watch?v=IWMy3_6EwpA",
+          "duration": 114
+        },
+        {
+          "playlistIndex": 117,
+          "id": "XPtwRYGb-I0",
+          "title": "2004White 3rd_stage",
+          "url": "https://www.youtube.com/watch?v=XPtwRYGb-I0",
+          "duration": 284
+        },
+        {
+          "playlistIndex": 118,
+          "id": "Cfg_o5n8OOM",
+          "title": "03W-0",
+          "url": "https://www.youtube.com/watch?v=Cfg_o5n8OOM",
+          "duration": 245
+        },
+        {
+          "playlistIndex": 119,
+          "id": "rvjoFVxPyPM",
+          "title": "03WHITEMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=rvjoFVxPyPM",
+          "duration": 274
+        },
+        {
+          "playlistIndex": 120,
+          "id": "StKxh2MgGLo",
+          "title": "03W-1.5",
+          "url": "https://www.youtube.com/watch?v=StKxh2MgGLo",
+          "duration": 114
+        },
+        {
+          "playlistIndex": 121,
+          "id": "Vacp7H_uR-M",
+          "title": "03W-2",
+          "url": "https://www.youtube.com/watch?v=Vacp7H_uR-M",
+          "duration": 241
+        },
+        {
+          "playlistIndex": 122,
+          "id": "cRyCv0iyT4g",
+          "title": "03W-3",
+          "url": "https://www.youtube.com/watch?v=cRyCv0iyT4g",
+          "duration": 260
+        },
+        {
+          "playlistIndex": 123,
+          "id": "2NhMXi0BtL4",
+          "title": "03W-E",
+          "url": "https://www.youtube.com/watch?v=2NhMXi0BtL4",
+          "duration": 277
+        },
+        {
+          "playlistIndex": 124,
+          "id": "BS6Sgg4CGMU",
+          "title": "02WHITEMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=BS6Sgg4CGMU",
+          "duration": 309
+        },
+        {
+          "playlistIndex": 125,
+          "id": "XB7wyFLM3EU",
+          "title": "02WHITEMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=XB7wyFLM3EU",
+          "duration": 257
+        },
+        {
+          "playlistIndex": 126,
+          "id": "t0q0OCfEBvg",
+          "title": "01WHITEMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=t0q0OCfEBvg",
+          "duration": 264
+        },
+        {
+          "playlistIndex": 127,
+          "id": "nfF3pr0FEcA",
+          "title": "00W 0",
+          "url": "https://www.youtube.com/watch?v=nfF3pr0FEcA",
+          "duration": 258
+        },
+        {
+          "playlistIndex": 128,
+          "id": "Ts1xsSOiEfE",
+          "title": "00WHITEMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=Ts1xsSOiEfE",
+          "duration": 287
+        },
+        {
+          "playlistIndex": 129,
+          "id": "C3T4G6gOSQw",
+          "title": "00W 1 5",
+          "url": "https://www.youtube.com/watch?v=C3T4G6gOSQw",
+          "duration": 135
+        },
+        {
+          "playlistIndex": 130,
+          "id": "ICC3nuHRPZw",
+          "title": "00WHITEMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=ICC3nuHRPZw",
+          "duration": 241
+        },
+        {
+          "playlistIndex": 131,
+          "id": "h-61OuW6Vy8",
+          "title": "00W 3",
+          "url": "https://www.youtube.com/watch?v=h-61OuW6Vy8",
+          "duration": 293
+        },
+        {
+          "playlistIndex": 132,
+          "id": "3tRNO8PqC7I",
+          "title": "00R E",
+          "url": "https://www.youtube.com/watch?v=3tRNO8PqC7I",
+          "duration": 255
+        }
+      ]
+    }
+  ],
+  "addedEntries": [
+    {
+      "playlistIndex": 27,
+      "id": "lv03ogUsmtQ",
+      "title": "2004White 2nd_stage",
+      "url": "https://www.youtube.com/watch?v=lv03ogUsmtQ",
+      "duration": 281,
+      "label": "2004年度 月 二部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL2FAE01B6B87B132B"
+    }
+  ],
+  "oembed": {
+    "title": "2004White 2nd_stage",
+    "author_name": "kazu031136",
+    "author_url": "https://www.youtube.com/@kazu031136",
+    "type": "video",
+    "height": 150,
+    "width": 200,
+    "version": "1.0",
+    "provider_name": "YouTube",
+    "provider_url": "https://www.youtube.com/",
+    "thumbnail_height": 360,
+    "thumbnail_width": 480,
+    "thumbnail_url": "https://i.ytimg.com/vi/lv03ogUsmtQ/hqdefault.jpg",
+    "html": "<iframe width=\"200\" height=\"150\" src=\"https://www.youtube.com/embed/lv03ogUsmtQ?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"2004White 2nd_stage\"></iframe>"
+  },
+  "userSpecifiedPlaylistsVerification": {
+    "note": "ユーザーが本チャットで再提示した月・太陽の2リストを全件再照合。全276本が登録済みで、2リスト内から追加抽出できる不足動画はなかった。",
+    "playlists": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+        "fetchedCount": 139,
+        "registeredCount": 139,
+        "unregisteredVideos": []
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYZpRXUfpyt-VA3fZt9-VAA",
+        "fetchedCount": 137,
+        "registeredCount": 137,
+        "unregisteredVideos": []
+      }
+    ]
+  }
+}
