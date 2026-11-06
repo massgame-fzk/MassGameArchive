@@ -1,0 +1,60 @@
+{
+  "requestedUrl": "https://www.youtube.com/watch?v=KfPBIyMhIGg&list=PLnOxQXsNjVVYZpRXUfpyt-VA3fZt9-VAA",
+  "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYZpRXUfpyt-VA3fZt9-VAA",
+  "checkedAt": "2026-11-06",
+  "playlistTitle": "月マス🌙",
+  "reportedCount": 137,
+  "fetchedCount": 137,
+  "method": "yt-dlp 2026.10.26 --ignore-config --flat-playlist --dump-single-json --skip-download",
+  "verification": "再生リスト上の動画ID・タイトル・長さを確認。元タイトルに基づき年度・部門・場面を分類。動画本体のダウンロード、全編の視聴確認、埋め込み再生確認は行っていない。",
+  "entries": [
+    {
+      "playlistIndex": 1,
+      "id": "KfPBIyMhIGg",
+      "title": "26moonmassgame opening",
+      "duration": 141,
+      "label": "2026年度 月 入場",
+      "url": "https://www.youtube.com/watch?v=KfPBIyMhIGg"
+    },
+    {
+      "playlistIndex": 2,
+      "id": "3cepfkXcfRk",
+      "title": "26moonmassgame 1st",
+      "duration": 284,
+      "label": "2026年度 月 一部",
+      "url": "https://www.youtube.com/watch?v=3cepfkXcfRk"
+    },
+    {
+      "playlistIndex": 3,
+      "id": "leqO2WmrVPg",
+      "title": "26moonmassgame inter",
+      "duration": 61,
+      "label": "2026年度 月 インター",
+      "url": "https://www.youtube.com/watch?v=leqO2WmrVPg"
+    },
+    {
+      "playlistIndex": 4,
+      "id": "mS5sLyU2Or4",
+      "title": "26moonmassgame 2nd",
+      "duration": 272,
+      "label": "2026年度 月 二部",
+      "url": "https://www.youtube.com/watch?v=mS5sLyU2Or4"
+    },
+    {
+      "playlistIndex": 5,
+      "id": "uJvdxC6xf9A",
+      "title": "26moonmassgame 3rd",
+      "duration": 195,
+      "label": "2026年度 月 三部",
+      "url": "https://www.youtube.com/watch?v=uJvdxC6xf9A"
+    },
+    {
+      "playlistIndex": 6,
+      "id": "2cSeyTAZR50",
+      "title": "26moonmassgame ending",
+      "duration": 157,
+      "label": "2026年度 月 退場",
+      "url": "https://www.youtube.com/watch?v=2cSeyTAZR50"
+    }
+  ]
+}

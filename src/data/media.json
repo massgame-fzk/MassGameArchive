@@ -2790,5 +2790,815 @@
     "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
     "verified": true,
     "note": "提供者の説明に基づき2020年度の月・女子・二部に分類。コロナ禍で実施できなかった演技を後日再収録した'20 returnsの完成動画。提供メッセージでは8月中旬リリースとされるが、収録年・公開年の記載はない。"
+  },
+  {
+    "label": "1989年度 赤 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=6ygKcPzc0MM",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1989年赤軍（入場）"
+  },
+  {
+    "label": "1989年度 赤 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=ynEivcbbNos",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1989年赤軍（1部）"
+  },
+  {
+    "label": "1989年度 赤 移動",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=WO6OqHseah8",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1989年赤軍（移動）。「移動」は元タイトルの表記を保持し、インターへの読み替えは行っていない。"
+  },
+  {
+    "label": "1989年度 赤 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=FgRaOYMLULs",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1989年赤軍（2部）"
+  },
+  {
+    "label": "1989年度 赤 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=yZ9hsef60zY",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1989年赤軍（3部）"
+  },
+  {
+    "label": "1989年度 赤 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=H6tIGGtDfTs",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1989年赤軍（退場）"
+  },
+  {
+    "label": "1989年度 白 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=XKJe_vGrnxg",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1989年白軍（入場）"
+  },
+  {
+    "label": "1989年度 白 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=tqxZfa7EeR8",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1989年白軍（1部）"
+  },
+  {
+    "label": "1989年度 白 移動",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=AFhQgYtxF0o",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1989年白軍（移動）。「移動」は元タイトルの表記を保持し、インターへの読み替えは行っていない。"
+  },
+  {
+    "label": "1989年度 白 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=HUUzadSzhM4",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1989年白軍（2部）"
+  },
+  {
+    "label": "1989年度 白 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=hAKtku_4ZlQ",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1989年白軍（3部）"
+  },
+  {
+    "label": "1989年度 白 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=nygoTplufr4",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1989年白軍（退場）"
+  },
+  {
+    "label": "1992年度 赤 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=db0HbBTrdgs",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1992年赤軍（入場）"
+  },
+  {
+    "label": "1992年度 赤 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=KIgLVBmwE9Q",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1992年赤軍（1部）"
+  },
+  {
+    "label": "1992年度 赤 移動",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=_ZJwtCEPK5U",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1992年赤軍（移動）。「移動」は元タイトルの表記を保持し、インターへの読み替えは行っていない。"
+  },
+  {
+    "label": "1992年度 赤 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=vo8OjVe7nEA",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1992年赤軍（2部）"
+  },
+  {
+    "label": "1992年度 赤 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=qGkVoq01ZMA",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1992年赤軍（3部）"
+  },
+  {
+    "label": "1992年度 赤 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=5EDEL00ZwSA",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1992年赤軍（退場）"
+  },
+  {
+    "label": "1992年度 白 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=crwnB724bdg",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1992年白軍（入場）"
+  },
+  {
+    "label": "1992年度 白 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=CnOTqJeTVrQ",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1992年白軍（1部）"
+  },
+  {
+    "label": "1992年度 白 移動",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=UeAOw_8iubg",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1992年白軍（移動）。「移動」は元タイトルの表記を保持し、インターへの読み替えは行っていない。"
+  },
+  {
+    "label": "1992年度 白 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=dmwmFZgynN0",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1992年白軍（2部）"
+  },
+  {
+    "label": "1992年度 白 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=fiBuwo_DjqI",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1992年白軍（3部）"
+  },
+  {
+    "label": "1992年度 白 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=c_Z-aafGIFg",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1992年白軍（退場）"
+  },
+  {
+    "label": "1995年度 赤 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=gl2dB548Fj4",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1995年赤軍（入場）"
+  },
+  {
+    "label": "1995年度 赤 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=vZ0AjJnVyjU",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1995年赤軍（1部）"
+  },
+  {
+    "label": "1995年度 赤 移動",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=6SlOBWxwc8c",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1995年赤軍（移動）。「移動」は元タイトルの表記を保持し、インターへの読み替えは行っていない。"
+  },
+  {
+    "label": "1995年度 赤 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Xyvbbeft2UA",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1995年赤軍（2部）"
+  },
+  {
+    "label": "1995年度 赤 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=fkoT9VHKkg8",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1995年赤軍（3部）"
+  },
+  {
+    "label": "1995年度 赤 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=dtmYnErQsCo",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1995年赤軍（退場）"
+  },
+  {
+    "label": "1995年度 白 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=H6Lqsyr9zGA",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1995年白軍（入場）"
+  },
+  {
+    "label": "1995年度 白 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=3WUaoefSMzM",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1995年白軍（1部）"
+  },
+  {
+    "label": "1995年度 白 移動",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=-g7-udXg8g8",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1995年白軍（移動）。「移動」は元タイトルの表記を保持し、インターへの読み替えは行っていない。"
+  },
+  {
+    "label": "1995年度 白 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=MjeOxAtVyfs",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1995年白軍（2部）"
+  },
+  {
+    "label": "1995年度 白 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=m7j7xjNEWNM",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1995年白軍（3部）"
+  },
+  {
+    "label": "1995年度 白 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=ZUQ1ybKaRjA",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1995年白軍（退場）"
+  },
+  {
+    "label": "1996年度 赤 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=7gFIfX829k0",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1996年赤軍（入場）"
+  },
+  {
+    "label": "1996年度 赤 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=YxgAub21JcU",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1996年赤軍（1部）"
+  },
+  {
+    "label": "1996年度 赤 移動",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=DMdf0du80Yc",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1996年赤軍（移動）。「移動」は元タイトルの表記を保持し、インターへの読み替えは行っていない。"
+  },
+  {
+    "label": "1996年度 赤 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=oZbdejiN1WM",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1996年赤軍（2部）"
+  },
+  {
+    "label": "1996年度 赤 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=N8qRlvBW_sw",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1996年赤軍（3部）"
+  },
+  {
+    "label": "1996年度 赤 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=XpfkWtnSQeM",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1996年赤軍（退場）"
+  },
+  {
+    "label": "1996年度 白 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=oR_fC76okTU",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1996年白軍（入場）"
+  },
+  {
+    "label": "1996年度 白 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=IMJocLst4Cg",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1996年白軍（1部）"
+  },
+  {
+    "label": "1996年度 白 移動",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=lEkECWJUyIs",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1996年白軍（移動）。「移動」は元タイトルの表記を保持し、インターへの読み替えは行っていない。"
+  },
+  {
+    "label": "1996年度 白 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=ntr-DByrpQU",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1996年白軍（2部）"
+  },
+  {
+    "label": "1996年度 白 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=99cjD_63o4I",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1996年白軍（3部）"
+  },
+  {
+    "label": "1996年度 白 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=DqBCsIN4NLk",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1996年白軍（退場）"
+  },
+  {
+    "label": "1997年度 赤 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=UzLAIHf2bqo",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1997年赤軍（入場）"
+  },
+  {
+    "label": "1997年度 赤 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=ysronlHdGzE",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1997年赤軍（1部）"
+  },
+  {
+    "label": "1997年度 赤 移動",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=i_YJN5TBlR4",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1997年赤軍（移動）。「移動」は元タイトルの表記を保持し、インターへの読み替えは行っていない。"
+  },
+  {
+    "label": "1997年度 赤 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=6k5s7RovZqo",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1997年赤軍（2部）"
+  },
+  {
+    "label": "1997年度 赤 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=bjHeUiIh0qY",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1997年赤軍（3部）"
+  },
+  {
+    "label": "1997年度 赤 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=EdMYGnwZltk",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1997年赤軍（退場）"
+  },
+  {
+    "label": "1997年度 白 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=NVJD736yo-0",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1997年白軍（入場）"
+  },
+  {
+    "label": "1997年度 白 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=qbVzrSvYM1Y",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1997年白軍（1部）"
+  },
+  {
+    "label": "1997年度 白 移動",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=7XVlPofMCxA",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1997年白軍（移動）。「移動」は元タイトルの表記を保持し、インターへの読み替えは行っていない。"
+  },
+  {
+    "label": "1997年度 白 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=i-gGNrTl8FU",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1997年白軍（2部）"
+  },
+  {
+    "label": "1997年度 白 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=L81vt1Y8op0",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1997年白軍（3部）"
+  },
+  {
+    "label": "1997年度 白 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Wq26e_e-w7o",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1997年白軍（退場）"
+  },
+  {
+    "label": "1998年度 赤 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=iSMtgRjbH_E",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1998年赤軍（入場）"
+  },
+  {
+    "label": "1998年度 赤 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Pvd-M26Q4wQ",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1998年赤軍（1部）"
+  },
+  {
+    "label": "1998年度 赤 移動",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=VEP_N8PG7N4",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1998年赤軍（移動）。「移動」は元タイトルの表記を保持し、インターへの読み替えは行っていない。"
+  },
+  {
+    "label": "1998年度 赤 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=U0PWB0o0lXA",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1998年赤軍（2部）"
+  },
+  {
+    "label": "1998年度 赤 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=L4Mfc-ggvL4",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1998年赤軍（3部）"
+  },
+  {
+    "label": "1998年度 赤 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=gLOjBz8A5ng",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1998年赤軍（退場）"
+  },
+  {
+    "label": "1998年度 白 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=fMtVKZLb2I8",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1998年白軍（入場）"
+  },
+  {
+    "label": "1998年度 白 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=YSM6sMcMfek",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1998年白軍（1部）"
+  },
+  {
+    "label": "1998年度 白 移動",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=vX3b3TD9i2Y",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1998年白軍（移動）。「移動」は元タイトルの表記を保持し、インターへの読み替えは行っていない。"
+  },
+  {
+    "label": "1998年度 白 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=WlNB4ys6tLY",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1998年白軍（2部）"
+  },
+  {
+    "label": "1998年度 白 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=gTb5NByvHLQ",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1998年白軍（3部）"
+  },
+  {
+    "label": "1998年度 白 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=HvcRp2VHVgM",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1998年白軍（退場）"
+  },
+  {
+    "label": "1999年度 赤 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=TeNgLUFtqMg",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1999年赤軍（入場）"
+  },
+  {
+    "label": "1999年度 赤 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=kfRzT9etOCo",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1999年赤軍（1部）"
+  },
+  {
+    "label": "1999年度 赤 移動",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=m3-Pnv2ISVk",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1999年赤軍（移動）。「移動」は元タイトルの表記を保持し、インターへの読み替えは行っていない。"
+  },
+  {
+    "label": "1999年度 赤 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=41EOjcapZTg",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1999年赤軍（2部）"
+  },
+  {
+    "label": "1999年度 赤 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=qjvNREm3n8E",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1999年赤軍（3部）"
+  },
+  {
+    "label": "1999年度 赤 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=ViN2j3RFQZo",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 【集団行動】広島大学附属高校マスゲーム1999年赤軍（退場）"
+  },
+  {
+    "label": "1999年度 白 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=Gp9z7MEslK0",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1999年白軍（入場）"
+  },
+  {
+    "label": "1999年度 白 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=B7ZN10fk3DU",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1999年白軍（1部）"
+  },
+  {
+    "label": "1999年度 白 移動",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=6pdWOLRTJ_4",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1999年白軍（移動）。「移動」は元タイトルの表記を保持し、インターへの読み替えは行っていない。"
+  },
+  {
+    "label": "1999年度 白 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=u7Rrbc8ny2s",
+    "source": "YouTube再生リスト「広大附属 マスゲーム」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1999年白軍（2部）"
+  },
+  {
+    "label": "1999年度 白 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=_iVwMJLpAJs",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1999年白軍（3部）"
+  },
+  {
+    "label": "1999年度 白 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=zoW1pbHxXeE",
+    "source": "YouTube再生リスト「【集団行動】広島大学附属高校マスゲーム動画」（2026-11-06再収集）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 広島大学附属高校マスゲーム1999年白軍（退場）"
+  },
+  {
+    "label": "2026年度 月 入場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=KfPBIyMhIGg",
+    "source": "YouTube再生リスト「月マス🌙」（2026-11-06確認）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYZpRXUfpyt-VA3fZt9-VAA",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 26moonmassgame opening"
+  },
+  {
+    "label": "2026年度 月 一部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=3cepfkXcfRk",
+    "source": "YouTube再生リスト「月マス🌙」（2026-11-06確認）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYZpRXUfpyt-VA3fZt9-VAA",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 26moonmassgame 1st"
+  },
+  {
+    "label": "2026年度 月 インター",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=leqO2WmrVPg",
+    "source": "YouTube再生リスト「月マス🌙」（2026-11-06確認）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYZpRXUfpyt-VA3fZt9-VAA",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 26moonmassgame inter"
+  },
+  {
+    "label": "2026年度 月 二部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=mS5sLyU2Or4",
+    "source": "YouTube再生リスト「月マス🌙」（2026-11-06確認）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYZpRXUfpyt-VA3fZt9-VAA",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 26moonmassgame 2nd"
+  },
+  {
+    "label": "2026年度 月 三部",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=uJvdxC6xf9A",
+    "source": "YouTube再生リスト「月マス🌙」（2026-11-06確認）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYZpRXUfpyt-VA3fZt9-VAA",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 26moonmassgame 3rd"
+  },
+  {
+    "label": "2026年度 月 退場",
+    "kind": "youtube-video",
+    "url": "https://www.youtube.com/watch?v=2cSeyTAZR50",
+    "source": "YouTube再生リスト「月マス🌙」（2026-11-06確認）",
+    "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYZpRXUfpyt-VA3fZt9-VAA",
+    "verified": true,
+    "note": "YouTube再生リストでタイトル確認: 26moonmassgame ending"
   }
 ]

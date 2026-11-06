@@ -1,0 +1,2513 @@
+{
+  "requestedUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+  "checkedAt": "2026-11-06",
+  "method": "yt-dlp 2026.10.26 --ignore-config --flat-playlist --dump-single-json --skip-download",
+  "verification": "再生リスト上の動画ID・タイトル・長さを確認。動画本体はダウンロードせず、全編の視聴確認や埋め込み再生確認は行っていない。",
+  "summary": {
+    "target": "1999年度以前（既存の「1999年度以前」再生リストの対象範囲）",
+    "uniqueTargetVideosInPlaylists": 88,
+    "alreadyRegisteredInPlaylists": 4,
+    "addedVideos": 84,
+    "targetVideosBefore": 26,
+    "targetVideosAfter": 110,
+    "totalVideosAfter": 388,
+    "addedByYear": {
+      "1989": 12,
+      "1992": 12,
+      "1995": 12,
+      "1996": 12,
+      "1997": 12,
+      "1998": 12,
+      "1999": 12
+    },
+    "targetVideosAfterByYear": {
+      "1989": 12,
+      "1992": 12,
+      "1994": 26,
+      "1995": 12,
+      "1996": 12,
+      "1997": 12,
+      "1998": 12,
+      "1999": 12
+    },
+    "missingYears": [
+      1982,
+      1983,
+      1984,
+      1985,
+      1986,
+      1987,
+      1988,
+      1990,
+      1991,
+      1993
+    ]
+  },
+  "playlists": [
+    {
+      "id": "PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+      "title": "広大附属 マスゲーム",
+      "url": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4",
+      "reportedCount": 135,
+      "fetchedCount": 135,
+      "targetCount": 32,
+      "entries": [
+        {
+          "playlistIndex": 1,
+          "id": "mTdG8zPxkPA",
+          "title": "26sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=mTdG8zPxkPA",
+          "duration": 310
+        },
+        {
+          "playlistIndex": 2,
+          "id": "gxpNxYkF4yM",
+          "title": "26sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=gxpNxYkF4yM",
+          "duration": 278
+        },
+        {
+          "playlistIndex": 3,
+          "id": "3cepfkXcfRk",
+          "title": "26moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=3cepfkXcfRk",
+          "duration": 284
+        },
+        {
+          "playlistIndex": 4,
+          "id": "mS5sLyU2Or4",
+          "title": "26moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=mS5sLyU2Or4",
+          "duration": 272
+        },
+        {
+          "playlistIndex": 5,
+          "id": "BPtx_YLTKbw",
+          "title": "25sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=BPtx_YLTKbw",
+          "duration": 331
+        },
+        {
+          "playlistIndex": 6,
+          "id": "6dmONEwIB7M",
+          "title": "25sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=6dmONEwIB7M",
+          "duration": 292
+        },
+        {
+          "playlistIndex": 7,
+          "id": "bb5yQmTyg2Y",
+          "title": "25moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=bb5yQmTyg2Y",
+          "duration": 301
+        },
+        {
+          "playlistIndex": 8,
+          "id": "j0Z51Jl7K88",
+          "title": "25moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=j0Z51Jl7K88",
+          "duration": 265
+        },
+        {
+          "playlistIndex": 9,
+          "id": "09mgaZXLZSI",
+          "title": "2024sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=09mgaZXLZSI",
+          "duration": 315
+        },
+        {
+          "playlistIndex": 10,
+          "id": "H8YP7bKkG8o",
+          "title": "24sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=H8YP7bKkG8o",
+          "duration": 280
+        },
+        {
+          "playlistIndex": 11,
+          "id": "JGmcQRVpDko",
+          "title": "24moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=JGmcQRVpDko",
+          "duration": 294
+        },
+        {
+          "playlistIndex": 12,
+          "id": "pdpNYyw_Snw",
+          "title": "24moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=pdpNYyw_Snw",
+          "duration": 259
+        },
+        {
+          "playlistIndex": 13,
+          "id": "P8ugLWNBA-o",
+          "title": "23sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=P8ugLWNBA-o",
+          "duration": 294
+        },
+        {
+          "playlistIndex": 14,
+          "id": "KglxvNDzkBs",
+          "title": "23sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=KglxvNDzkBs",
+          "duration": 293
+        },
+        {
+          "playlistIndex": 15,
+          "id": "KHWGTMmWGHE",
+          "title": "23moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=KHWGTMmWGHE",
+          "duration": 291
+        },
+        {
+          "playlistIndex": 16,
+          "id": "34dy0mWNSGU",
+          "title": "23moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=34dy0mWNSGU",
+          "duration": 257
+        },
+        {
+          "playlistIndex": 17,
+          "id": "7kdhgm_tjJU",
+          "title": "広大附属 太陽マスゲーム 2022 I部",
+          "url": "https://www.youtube.com/watch?v=7kdhgm_tjJU",
+          "duration": 303
+        },
+        {
+          "playlistIndex": 18,
+          "id": "xK4B7SbpWbI",
+          "title": "広大附属 太陽マスゲーム 2022 II部",
+          "url": "https://www.youtube.com/watch?v=xK4B7SbpWbI",
+          "duration": 279
+        },
+        {
+          "playlistIndex": 19,
+          "id": "D0vzwJcqJrc",
+          "title": "広大附属 月マスゲーム 2022 Ⅰ部",
+          "url": "https://www.youtube.com/watch?v=D0vzwJcqJrc",
+          "duration": 300
+        },
+        {
+          "playlistIndex": 20,
+          "id": "tQijBDBtLFg",
+          "title": "広大附属 月マスゲーム 2022 Ⅱ部",
+          "url": "https://www.youtube.com/watch?v=tQijBDBtLFg",
+          "duration": 256
+        },
+        {
+          "playlistIndex": 21,
+          "id": "YJZtFSeIC0k",
+          "title": "21sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=YJZtFSeIC0k",
+          "duration": 247
+        },
+        {
+          "playlistIndex": 22,
+          "id": "WESm-Oaf5pI",
+          "title": "21sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=WESm-Oaf5pI",
+          "duration": 243
+        },
+        {
+          "playlistIndex": 23,
+          "id": "MrkU8zkp0LE",
+          "title": "21moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=MrkU8zkp0LE",
+          "duration": 301
+        },
+        {
+          "playlistIndex": 24,
+          "id": "rzPeM499LVs",
+          "title": "21moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=rzPeM499LVs",
+          "duration": 240
+        },
+        {
+          "playlistIndex": 25,
+          "id": "djugV02c0zI",
+          "title": "'20 moonmassgame 2部('20returns)",
+          "url": "https://www.youtube.com/watch?v=djugV02c0zI",
+          "duration": 263
+        },
+        {
+          "playlistIndex": 26,
+          "id": "mFJlGZ-3qQc",
+          "title": "19sunmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=mFJlGZ-3qQc",
+          "duration": 299
+        },
+        {
+          "playlistIndex": 27,
+          "id": "pMB0GWxFoD0",
+          "title": "19sunmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=pMB0GWxFoD0",
+          "duration": 285
+        },
+        {
+          "playlistIndex": 28,
+          "id": "rCIJl6RVLr8",
+          "title": "19moonmassgame 1st",
+          "url": "https://www.youtube.com/watch?v=rCIJl6RVLr8",
+          "duration": 284
+        },
+        {
+          "playlistIndex": 29,
+          "id": "iPaf2x8wRE8",
+          "title": "19moonmassgame 2nd",
+          "url": "https://www.youtube.com/watch?v=iPaf2x8wRE8",
+          "duration": 252
+        },
+        {
+          "playlistIndex": 30,
+          "id": "jP7BzIdPaZY",
+          "title": "18sunmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=jP7BzIdPaZY",
+          "duration": 311
+        },
+        {
+          "playlistIndex": 31,
+          "id": "FwVHwTpmzbA",
+          "title": "18sunmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=FwVHwTpmzbA",
+          "duration": 275
+        },
+        {
+          "playlistIndex": 32,
+          "id": "r99vLtqBHNc",
+          "title": "18moonmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=r99vLtqBHNc",
+          "duration": 294
+        },
+        {
+          "playlistIndex": 33,
+          "id": "_-22AGfZxcY",
+          "title": "18moonmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=_-22AGfZxcY",
+          "duration": 258
+        },
+        {
+          "playlistIndex": 34,
+          "id": "de-CRJMSvwI",
+          "title": "17sunmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=de-CRJMSvwI",
+          "duration": 274
+        },
+        {
+          "playlistIndex": 35,
+          "id": "IIIj72WDnvI",
+          "title": "17sunmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=IIIj72WDnvI",
+          "duration": 261
+        },
+        {
+          "playlistIndex": 36,
+          "id": "5ZhJdX1lfMQ",
+          "title": "17moonmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=5ZhJdX1lfMQ",
+          "duration": 294
+        },
+        {
+          "playlistIndex": 37,
+          "id": "hIuGkUa26nw",
+          "title": "17moonmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=hIuGkUa26nw",
+          "duration": 240
+        },
+        {
+          "playlistIndex": 38,
+          "id": "nAEEbDs7Ohk",
+          "title": "16sunmassgame  1st",
+          "url": "https://www.youtube.com/watch?v=nAEEbDs7Ohk",
+          "duration": 292
+        },
+        {
+          "playlistIndex": 39,
+          "id": "tABnz0SoV8o",
+          "title": "16sunmassgame  2nd",
+          "url": "https://www.youtube.com/watch?v=tABnz0SoV8o",
+          "duration": 245
+        },
+        {
+          "playlistIndex": 40,
+          "id": "W5OAq7oI-aM",
+          "title": "16moonmassgame  1st",
+          "url": "https://www.youtube.com/watch?v=W5OAq7oI-aM",
+          "duration": 312
+        },
+        {
+          "playlistIndex": 41,
+          "id": "s1d-0_C8LwM",
+          "title": "16moonmassgame  2nd",
+          "url": "https://www.youtube.com/watch?v=s1d-0_C8LwM",
+          "duration": 241
+        },
+        {
+          "playlistIndex": 42,
+          "id": "Cz6Hajxq0UA",
+          "title": "2015 Sunmassgame 1st stage櫓",
+          "url": "https://www.youtube.com/watch?v=Cz6Hajxq0UA",
+          "duration": 314
+        },
+        {
+          "playlistIndex": 43,
+          "id": "LgzTcZByz4A",
+          "title": "2015 Sunmassgame 2nd stage櫓",
+          "url": "https://www.youtube.com/watch?v=LgzTcZByz4A",
+          "duration": 286
+        },
+        {
+          "playlistIndex": 44,
+          "id": "PlIkqUH6cRQ",
+          "title": "2015MoonMassGame-1st stage",
+          "url": "https://www.youtube.com/watch?v=PlIkqUH6cRQ",
+          "duration": 330
+        },
+        {
+          "playlistIndex": 45,
+          "id": "IIKxi2fG0jE",
+          "title": "2015MoonMassGame-2nd stage",
+          "url": "https://www.youtube.com/watch?v=IIKxi2fG0jE",
+          "duration": 254
+        },
+        {
+          "playlistIndex": 46,
+          "id": "_rHg-fPLLcU",
+          "title": "2014 sunmass 1st stage",
+          "url": "https://www.youtube.com/watch?v=_rHg-fPLLcU",
+          "duration": 300
+        },
+        {
+          "playlistIndex": 47,
+          "id": "e2bKUL9uNKU",
+          "title": "2014 sunmass 2nd stage",
+          "url": "https://www.youtube.com/watch?v=e2bKUL9uNKU",
+          "duration": 267
+        },
+        {
+          "playlistIndex": 48,
+          "id": "_oaI9YLLz5U",
+          "title": "2014 moonmass 1st stage",
+          "url": "https://www.youtube.com/watch?v=_oaI9YLLz5U",
+          "duration": 307
+        },
+        {
+          "playlistIndex": 49,
+          "id": "DyzmN-zRJOo",
+          "title": "2014 moonmass 2nd stage",
+          "url": "https://www.youtube.com/watch?v=DyzmN-zRJOo",
+          "duration": 258
+        },
+        {
+          "playlistIndex": 50,
+          "id": "oGMlZUj3LUs",
+          "title": "2013 sunmassgame 1st stage",
+          "url": "https://www.youtube.com/watch?v=oGMlZUj3LUs",
+          "duration": 315
+        },
+        {
+          "playlistIndex": 51,
+          "id": "tbZL6yEd2JE",
+          "title": "2013 sunmassgame 2nd stage",
+          "url": "https://www.youtube.com/watch?v=tbZL6yEd2JE",
+          "duration": 269
+        },
+        {
+          "playlistIndex": 52,
+          "id": "D5JLjDKytEg",
+          "title": "2013 MoonMassGame Pro 1st",
+          "url": "https://www.youtube.com/watch?v=D5JLjDKytEg",
+          "duration": 331
+        },
+        {
+          "playlistIndex": 53,
+          "id": "KwtNCMFgtCI",
+          "title": "2013 MoonMassGame Pro 2nd",
+          "url": "https://www.youtube.com/watch?v=KwtNCMFgtCI",
+          "duration": 258
+        },
+        {
+          "playlistIndex": 54,
+          "id": "vhMdWSG6C4U",
+          "title": "2012massgame Red-1st stage",
+          "url": "https://www.youtube.com/watch?v=vhMdWSG6C4U",
+          "duration": 311
+        },
+        {
+          "playlistIndex": 55,
+          "id": "1AQHKo31UCU",
+          "title": "2012massgame Red-2nd stage",
+          "url": "https://www.youtube.com/watch?v=1AQHKo31UCU",
+          "duration": 259
+        },
+        {
+          "playlistIndex": 56,
+          "id": "Db5y3ciwOkw",
+          "title": "2012massgame white-1st stage",
+          "url": "https://www.youtube.com/watch?v=Db5y3ciwOkw",
+          "duration": 309
+        },
+        {
+          "playlistIndex": 57,
+          "id": "ZnhgUMKq_GU",
+          "title": "2012massgame white-2nd stage",
+          "url": "https://www.youtube.com/watch?v=ZnhgUMKq_GU",
+          "duration": 245
+        },
+        {
+          "playlistIndex": 58,
+          "id": "Mrv1R83LTpo",
+          "title": "11massgame red-scene1",
+          "url": "https://www.youtube.com/watch?v=Mrv1R83LTpo",
+          "duration": 316
+        },
+        {
+          "playlistIndex": 59,
+          "id": "p_sjHVGKasg",
+          "title": "11massgame red-scene2",
+          "url": "https://www.youtube.com/watch?v=p_sjHVGKasg",
+          "duration": 272
+        },
+        {
+          "playlistIndex": 60,
+          "id": "NQABiiueY64",
+          "title": "11massgame white-scene1",
+          "url": "https://www.youtube.com/watch?v=NQABiiueY64",
+          "duration": 323
+        },
+        {
+          "playlistIndex": 61,
+          "id": "AzjbWOnhNZ0",
+          "title": "11massgame white-scene2",
+          "url": "https://www.youtube.com/watch?v=AzjbWOnhNZ0",
+          "duration": 253
+        },
+        {
+          "playlistIndex": 62,
+          "id": "QuHqrcVWaQs",
+          "title": "10massgame red-scene1",
+          "url": "https://www.youtube.com/watch?v=QuHqrcVWaQs",
+          "duration": 282
+        },
+        {
+          "playlistIndex": 63,
+          "id": "isLyGSQ26t0",
+          "title": "10massgame red-scene2",
+          "url": "https://www.youtube.com/watch?v=isLyGSQ26t0",
+          "duration": 248
+        },
+        {
+          "playlistIndex": 64,
+          "id": "xc0fVB05SOs",
+          "title": "10massgame white-scene1",
+          "url": "https://www.youtube.com/watch?v=xc0fVB05SOs",
+          "duration": 289
+        },
+        {
+          "playlistIndex": 65,
+          "id": "k24ME1th_rY",
+          "title": "10massgame white-scene2",
+          "url": "https://www.youtube.com/watch?v=k24ME1th_rY",
+          "duration": 237
+        },
+        {
+          "playlistIndex": 66,
+          "id": "NFDTvZqfqwY",
+          "title": "09massgame red-scene1",
+          "url": "https://www.youtube.com/watch?v=NFDTvZqfqwY",
+          "duration": 300
+        },
+        {
+          "playlistIndex": 67,
+          "id": "rpqYm3sPdxI",
+          "title": "09massgame red-scene2",
+          "url": "https://www.youtube.com/watch?v=rpqYm3sPdxI",
+          "duration": 264
+        },
+        {
+          "playlistIndex": 68,
+          "id": "DAi7E1VYNH4",
+          "title": "09massgame white-scene1",
+          "url": "https://www.youtube.com/watch?v=DAi7E1VYNH4",
+          "duration": 312
+        },
+        {
+          "playlistIndex": 69,
+          "id": "A4_EfdiBWkA",
+          "title": "09massgame white-scene2",
+          "url": "https://www.youtube.com/watch?v=A4_EfdiBWkA",
+          "duration": 249
+        },
+        {
+          "playlistIndex": 70,
+          "id": "czBgMBiJiJk",
+          "title": "08R-1",
+          "url": "https://www.youtube.com/watch?v=czBgMBiJiJk",
+          "duration": 346
+        },
+        {
+          "playlistIndex": 71,
+          "id": "x-YV3vgclwE",
+          "title": "08R-2",
+          "url": "https://www.youtube.com/watch?v=x-YV3vgclwE",
+          "duration": 259
+        },
+        {
+          "playlistIndex": 72,
+          "id": "1OBM9X7tak8",
+          "title": "08W-1",
+          "url": "https://www.youtube.com/watch?v=1OBM9X7tak8",
+          "duration": 346
+        },
+        {
+          "playlistIndex": 73,
+          "id": "kQ1aMx4Gvoc",
+          "title": "08W-2",
+          "url": "https://www.youtube.com/watch?v=kQ1aMx4Gvoc",
+          "duration": 274
+        },
+        {
+          "playlistIndex": 74,
+          "id": "cYQJhlhfy8w",
+          "title": "07R-1",
+          "url": "https://www.youtube.com/watch?v=cYQJhlhfy8w",
+          "duration": 331
+        },
+        {
+          "playlistIndex": 75,
+          "id": "cYi8pCkIWLE",
+          "title": "07R-2",
+          "url": "https://www.youtube.com/watch?v=cYi8pCkIWLE",
+          "duration": 296
+        },
+        {
+          "playlistIndex": 76,
+          "id": "xWdgksyRfWE",
+          "title": "07W-1",
+          "url": "https://www.youtube.com/watch?v=xWdgksyRfWE",
+          "duration": 334
+        },
+        {
+          "playlistIndex": 77,
+          "id": "7ry5kSyoihg",
+          "title": "07W-2",
+          "url": "https://www.youtube.com/watch?v=7ry5kSyoihg",
+          "duration": 255
+        },
+        {
+          "playlistIndex": 78,
+          "id": "GqU1qoOl_d0",
+          "title": "06REDMASSGAME 1stStage",
+          "url": "https://www.youtube.com/watch?v=GqU1qoOl_d0",
+          "duration": 311
+        },
+        {
+          "playlistIndex": 79,
+          "id": "pZ7B5IlSlpY",
+          "title": "06REDMASSGAME 2ndStage",
+          "url": "https://www.youtube.com/watch?v=pZ7B5IlSlpY",
+          "duration": 284
+        },
+        {
+          "playlistIndex": 80,
+          "id": "xQSMyagaZyU",
+          "title": "06WHITEMASSGAME 1stStage",
+          "url": "https://www.youtube.com/watch?v=xQSMyagaZyU",
+          "duration": 323
+        },
+        {
+          "playlistIndex": 81,
+          "id": "ecCTFVBmTTQ",
+          "title": "06WHITEMASSGAME 2ndStage",
+          "url": "https://www.youtube.com/watch?v=ecCTFVBmTTQ",
+          "duration": 275
+        },
+        {
+          "playlistIndex": 82,
+          "id": "o9yXXRtT5cg",
+          "title": "05REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=o9yXXRtT5cg",
+          "duration": 303
+        },
+        {
+          "playlistIndex": 83,
+          "id": "qS1ZrAWLjtI",
+          "title": "05R 2",
+          "url": "https://www.youtube.com/watch?v=qS1ZrAWLjtI",
+          "duration": 295
+        },
+        {
+          "playlistIndex": 84,
+          "id": "JzGGhG3-rYw",
+          "title": "05W 1",
+          "url": "https://www.youtube.com/watch?v=JzGGhG3-rYw",
+          "duration": 286
+        },
+        {
+          "playlistIndex": 85,
+          "id": "2IcD3Nqkoa8",
+          "title": "05W-2",
+          "url": "https://www.youtube.com/watch?v=2IcD3Nqkoa8",
+          "duration": 266
+        },
+        {
+          "playlistIndex": 86,
+          "id": "rCyyucdyqOs",
+          "title": "2004Red 1st_stage",
+          "url": "https://www.youtube.com/watch?v=rCyyucdyqOs",
+          "duration": 286
+        },
+        {
+          "playlistIndex": 87,
+          "id": "UJPkR-k1F3o",
+          "title": "2004Red 2nd_stage",
+          "url": "https://www.youtube.com/watch?v=UJPkR-k1F3o",
+          "duration": 256
+        },
+        {
+          "playlistIndex": 88,
+          "id": "_Q50pVtkh34",
+          "title": "2004White 1st_stage",
+          "url": "https://www.youtube.com/watch?v=_Q50pVtkh34",
+          "duration": 317
+        },
+        {
+          "playlistIndex": 89,
+          "id": "DO_T8Oj-whw",
+          "title": "03REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=DO_T8Oj-whw",
+          "duration": 315
+        },
+        {
+          "playlistIndex": 90,
+          "id": "9szH1BbNdSY",
+          "title": "03REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=9szH1BbNdSY",
+          "duration": 287
+        },
+        {
+          "playlistIndex": 91,
+          "id": "rvjoFVxPyPM",
+          "title": "03WHITEMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=rvjoFVxPyPM",
+          "duration": 274
+        },
+        {
+          "playlistIndex": 92,
+          "id": "Vacp7H_uR-M",
+          "title": "03W-2",
+          "url": "https://www.youtube.com/watch?v=Vacp7H_uR-M",
+          "duration": 241
+        },
+        {
+          "playlistIndex": 93,
+          "id": "SU7WYPbsZsM",
+          "title": "02REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=SU7WYPbsZsM",
+          "duration": 292
+        },
+        {
+          "playlistIndex": 94,
+          "id": "2ML8WUIgV6s",
+          "title": "02REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=2ML8WUIgV6s",
+          "duration": 270
+        },
+        {
+          "playlistIndex": 95,
+          "id": "BS6Sgg4CGMU",
+          "title": "02WHITEMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=BS6Sgg4CGMU",
+          "duration": 309
+        },
+        {
+          "playlistIndex": 96,
+          "id": "XB7wyFLM3EU",
+          "title": "02WHITEMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=XB7wyFLM3EU",
+          "duration": 257
+        },
+        {
+          "playlistIndex": 97,
+          "id": "4LPLoBnZIVs",
+          "title": "01R 1",
+          "url": "https://www.youtube.com/watch?v=4LPLoBnZIVs",
+          "duration": 308
+        },
+        {
+          "playlistIndex": 98,
+          "id": "bZBd2vRPmJA",
+          "title": "01REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=bZBd2vRPmJA",
+          "duration": 264
+        },
+        {
+          "playlistIndex": 99,
+          "id": "t0q0OCfEBvg",
+          "title": "01WHITEMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=t0q0OCfEBvg",
+          "duration": 264
+        },
+        {
+          "playlistIndex": 100,
+          "id": "n2AJEWaMB0g",
+          "title": "00REDMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=n2AJEWaMB0g",
+          "duration": 319
+        },
+        {
+          "playlistIndex": 101,
+          "id": "K0CV2iDXkKU",
+          "title": "00REDMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=K0CV2iDXkKU",
+          "duration": 278
+        },
+        {
+          "playlistIndex": 102,
+          "id": "Ts1xsSOiEfE",
+          "title": "00WHITEMassGame １stStage",
+          "url": "https://www.youtube.com/watch?v=Ts1xsSOiEfE",
+          "duration": 287
+        },
+        {
+          "playlistIndex": 103,
+          "id": "ICC3nuHRPZw",
+          "title": "00WHITEMassGame 2ndStage",
+          "url": "https://www.youtube.com/watch?v=ICC3nuHRPZw",
+          "duration": 241
+        },
+        {
+          "playlistIndex": 104,
+          "id": "kfRzT9etOCo",
+          "title": "広島大学附属高校マスゲーム1999年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=kfRzT9etOCo",
+          "duration": 276,
+          "year": 1999,
+          "group": "赤",
+          "scene": "一部",
+          "label": "1999年度 赤 一部"
+        },
+        {
+          "playlistIndex": 105,
+          "id": "41EOjcapZTg",
+          "title": "広島大学附属高校マスゲーム1999年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=41EOjcapZTg",
+          "duration": 258,
+          "year": 1999,
+          "group": "赤",
+          "scene": "二部",
+          "label": "1999年度 赤 二部"
+        },
+        {
+          "playlistIndex": 106,
+          "id": "B7ZN10fk3DU",
+          "title": "広島大学附属高校マスゲーム1999年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=B7ZN10fk3DU",
+          "duration": 276,
+          "year": 1999,
+          "group": "白",
+          "scene": "一部",
+          "label": "1999年度 白 一部"
+        },
+        {
+          "playlistIndex": 107,
+          "id": "u7Rrbc8ny2s",
+          "title": "広島大学附属高校マスゲーム1999年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=u7Rrbc8ny2s",
+          "duration": 240,
+          "year": 1999,
+          "group": "白",
+          "scene": "二部",
+          "label": "1999年度 白 二部"
+        },
+        {
+          "playlistIndex": 108,
+          "id": "Pvd-M26Q4wQ",
+          "title": "広島大学附属高校マスゲーム1998年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=Pvd-M26Q4wQ",
+          "duration": 237,
+          "year": 1998,
+          "group": "赤",
+          "scene": "一部",
+          "label": "1998年度 赤 一部"
+        },
+        {
+          "playlistIndex": 109,
+          "id": "U0PWB0o0lXA",
+          "title": "広島大学附属高校マスゲーム1998年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=U0PWB0o0lXA",
+          "duration": 241,
+          "year": 1998,
+          "group": "赤",
+          "scene": "二部",
+          "label": "1998年度 赤 二部"
+        },
+        {
+          "playlistIndex": 110,
+          "id": "YSM6sMcMfek",
+          "title": "【集団行動】広島大学附属高校マスゲーム1998年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=YSM6sMcMfek",
+          "duration": 279,
+          "year": 1998,
+          "group": "白",
+          "scene": "一部",
+          "label": "1998年度 白 一部"
+        },
+        {
+          "playlistIndex": 111,
+          "id": "WlNB4ys6tLY",
+          "title": "【集団行動】広島大学附属高校マスゲーム1998年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=WlNB4ys6tLY",
+          "duration": 248,
+          "year": 1998,
+          "group": "白",
+          "scene": "二部",
+          "label": "1998年度 白 二部"
+        },
+        {
+          "playlistIndex": 112,
+          "id": "ysronlHdGzE",
+          "title": "広島大学附属高校マスゲーム1997年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=ysronlHdGzE",
+          "duration": 269,
+          "year": 1997,
+          "group": "赤",
+          "scene": "一部",
+          "label": "1997年度 赤 一部"
+        },
+        {
+          "playlistIndex": 113,
+          "id": "6k5s7RovZqo",
+          "title": "広島大学附属高校マスゲーム1997年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=6k5s7RovZqo",
+          "duration": 274,
+          "year": 1997,
+          "group": "赤",
+          "scene": "二部",
+          "label": "1997年度 赤 二部"
+        },
+        {
+          "playlistIndex": 114,
+          "id": "qbVzrSvYM1Y",
+          "title": "広島大学附属高校マスゲーム1997年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=qbVzrSvYM1Y",
+          "duration": 132,
+          "year": 1997,
+          "group": "白",
+          "scene": "一部",
+          "label": "1997年度 白 一部"
+        },
+        {
+          "playlistIndex": 115,
+          "id": "i-gGNrTl8FU",
+          "title": "広島大学附属高校マスゲーム1997年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=i-gGNrTl8FU",
+          "duration": 237,
+          "year": 1997,
+          "group": "白",
+          "scene": "二部",
+          "label": "1997年度 白 二部"
+        },
+        {
+          "playlistIndex": 116,
+          "id": "YxgAub21JcU",
+          "title": "広島大学附属高校マスゲーム1996年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=YxgAub21JcU",
+          "duration": 280,
+          "year": 1996,
+          "group": "赤",
+          "scene": "一部",
+          "label": "1996年度 赤 一部"
+        },
+        {
+          "playlistIndex": 117,
+          "id": "oZbdejiN1WM",
+          "title": "広島大学附属高校マスゲーム1996年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=oZbdejiN1WM",
+          "duration": 278,
+          "year": 1996,
+          "group": "赤",
+          "scene": "二部",
+          "label": "1996年度 赤 二部"
+        },
+        {
+          "playlistIndex": 118,
+          "id": "IMJocLst4Cg",
+          "title": "【集団行動】広島大学附属高校マスゲーム1996年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=IMJocLst4Cg",
+          "duration": 261,
+          "year": 1996,
+          "group": "白",
+          "scene": "一部",
+          "label": "1996年度 白 一部"
+        },
+        {
+          "playlistIndex": 119,
+          "id": "ntr-DByrpQU",
+          "title": "【集団行動】広島大学附属高校マスゲーム1996年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=ntr-DByrpQU",
+          "duration": 239,
+          "year": 1996,
+          "group": "白",
+          "scene": "二部",
+          "label": "1996年度 白 二部"
+        },
+        {
+          "playlistIndex": 120,
+          "id": "vZ0AjJnVyjU",
+          "title": "広島大学附属高校マスゲーム1995年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=vZ0AjJnVyjU",
+          "duration": 250,
+          "year": 1995,
+          "group": "赤",
+          "scene": "一部",
+          "label": "1995年度 赤 一部"
+        },
+        {
+          "playlistIndex": 121,
+          "id": "Xyvbbeft2UA",
+          "title": "広島大学附属高校マスゲーム1995年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=Xyvbbeft2UA",
+          "duration": 249,
+          "year": 1995,
+          "group": "赤",
+          "scene": "二部",
+          "label": "1995年度 赤 二部"
+        },
+        {
+          "playlistIndex": 122,
+          "id": "3WUaoefSMzM",
+          "title": "広島大学附属高校マスゲーム1995年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=3WUaoefSMzM",
+          "duration": 297,
+          "year": 1995,
+          "group": "白",
+          "scene": "一部",
+          "label": "1995年度 白 一部"
+        },
+        {
+          "playlistIndex": 123,
+          "id": "MjeOxAtVyfs",
+          "title": "広島大学附属高校マスゲーム1995年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=MjeOxAtVyfs",
+          "duration": 226,
+          "year": 1995,
+          "group": "白",
+          "scene": "二部",
+          "label": "1995年度 白 二部"
+        },
+        {
+          "playlistIndex": 124,
+          "id": "CfDJl9GgPco",
+          "title": "94R-1 櫓版",
+          "url": "https://www.youtube.com/watch?v=CfDJl9GgPco",
+          "duration": 292,
+          "year": 1994,
+          "group": "赤",
+          "scene": "一部",
+          "label": "1994年度 赤 一部（櫓版）"
+        },
+        {
+          "playlistIndex": 125,
+          "id": "q7yNgPwQm9M",
+          "title": "94R-2",
+          "url": "https://www.youtube.com/watch?v=q7yNgPwQm9M",
+          "duration": 261,
+          "year": 1994,
+          "group": "赤",
+          "scene": "二部",
+          "label": "1994年度 赤 二部"
+        },
+        {
+          "playlistIndex": 126,
+          "id": "6-tpAusmowo",
+          "title": "94W-1",
+          "url": "https://www.youtube.com/watch?v=6-tpAusmowo",
+          "duration": 280,
+          "year": 1994,
+          "group": "白",
+          "scene": "一部",
+          "label": "1994年度 白 一部"
+        },
+        {
+          "playlistIndex": 127,
+          "id": "aWcms4Un2RM",
+          "title": "94W-2",
+          "url": "https://www.youtube.com/watch?v=aWcms4Un2RM",
+          "duration": 261,
+          "year": 1994,
+          "group": "白",
+          "scene": "二部",
+          "label": "1994年度 白 二部"
+        },
+        {
+          "playlistIndex": 128,
+          "id": "KIgLVBmwE9Q",
+          "title": "広島大学附属高校マスゲーム1992年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=KIgLVBmwE9Q",
+          "duration": 257,
+          "year": 1992,
+          "group": "赤",
+          "scene": "一部",
+          "label": "1992年度 赤 一部"
+        },
+        {
+          "playlistIndex": 129,
+          "id": "vo8OjVe7nEA",
+          "title": "広島大学附属高校マスゲーム1992年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=vo8OjVe7nEA",
+          "duration": 243,
+          "year": 1992,
+          "group": "赤",
+          "scene": "二部",
+          "label": "1992年度 赤 二部"
+        },
+        {
+          "playlistIndex": 130,
+          "id": "CnOTqJeTVrQ",
+          "title": "【集団行動】広島大学附属高校マスゲーム1992年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=CnOTqJeTVrQ",
+          "duration": 256,
+          "year": 1992,
+          "group": "白",
+          "scene": "一部",
+          "label": "1992年度 白 一部"
+        },
+        {
+          "playlistIndex": 131,
+          "id": "dmwmFZgynN0",
+          "title": "【集団行動】広島大学附属高校マスゲーム1992年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=dmwmFZgynN0",
+          "duration": 234,
+          "year": 1992,
+          "group": "白",
+          "scene": "二部",
+          "label": "1992年度 白 二部"
+        },
+        {
+          "playlistIndex": 132,
+          "id": "ynEivcbbNos",
+          "title": "広島大学附属高校マスゲーム1989年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=ynEivcbbNos",
+          "duration": 196,
+          "year": 1989,
+          "group": "赤",
+          "scene": "一部",
+          "label": "1989年度 赤 一部"
+        },
+        {
+          "playlistIndex": 133,
+          "id": "FgRaOYMLULs",
+          "title": "広島大学附属高校マスゲーム1989年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=FgRaOYMLULs",
+          "duration": 243,
+          "year": 1989,
+          "group": "赤",
+          "scene": "二部",
+          "label": "1989年度 赤 二部"
+        },
+        {
+          "playlistIndex": 134,
+          "id": "tqxZfa7EeR8",
+          "title": "【集団行動】広島大学附属高校マスゲーム1989年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=tqxZfa7EeR8",
+          "duration": 228,
+          "year": 1989,
+          "group": "白",
+          "scene": "一部",
+          "label": "1989年度 白 一部"
+        },
+        {
+          "playlistIndex": 135,
+          "id": "HUUzadSzhM4",
+          "title": "【集団行動】広島大学附属高校マスゲーム1989年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=HUUzadSzhM4",
+          "duration": 253,
+          "year": 1989,
+          "group": "白",
+          "scene": "二部",
+          "label": "1989年度 白 二部"
+        }
+      ]
+    },
+    {
+      "id": "PL7AD67D7BAA9BBF39",
+      "title": "【集団行動】広島大学附属高校マスゲーム動画",
+      "url": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39",
+      "reportedCount": 84,
+      "fetchedCount": 84,
+      "targetCount": 84,
+      "entries": [
+        {
+          "playlistIndex": 1,
+          "id": "nygoTplufr4",
+          "title": "【集団行動】広島大学附属高校マスゲーム1989年白軍（退場）",
+          "url": "https://www.youtube.com/watch?v=nygoTplufr4",
+          "duration": 207,
+          "year": 1989,
+          "group": "白",
+          "scene": "退場",
+          "label": "1989年度 白 退場"
+        },
+        {
+          "playlistIndex": 2,
+          "id": "AFhQgYtxF0o",
+          "title": "【集団行動】広島大学附属高校マスゲーム1989年白軍（移動）",
+          "url": "https://www.youtube.com/watch?v=AFhQgYtxF0o",
+          "duration": 588,
+          "year": 1989,
+          "group": "白",
+          "scene": "移動",
+          "label": "1989年度 白 移動"
+        },
+        {
+          "playlistIndex": 3,
+          "id": "hAKtku_4ZlQ",
+          "title": "【集団行動】広島大学附属高校マスゲーム1989年白軍（3部）",
+          "url": "https://www.youtube.com/watch?v=hAKtku_4ZlQ",
+          "duration": 243,
+          "year": 1989,
+          "group": "白",
+          "scene": "三部",
+          "label": "1989年度 白 三部"
+        },
+        {
+          "playlistIndex": 4,
+          "id": "HUUzadSzhM4",
+          "title": "【集団行動】広島大学附属高校マスゲーム1989年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=HUUzadSzhM4",
+          "duration": 253,
+          "year": 1989,
+          "group": "白",
+          "scene": "二部",
+          "label": "1989年度 白 二部"
+        },
+        {
+          "playlistIndex": 5,
+          "id": "tqxZfa7EeR8",
+          "title": "【集団行動】広島大学附属高校マスゲーム1989年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=tqxZfa7EeR8",
+          "duration": 228,
+          "year": 1989,
+          "group": "白",
+          "scene": "一部",
+          "label": "1989年度 白 一部"
+        },
+        {
+          "playlistIndex": 6,
+          "id": "XKJe_vGrnxg",
+          "title": "【集団行動】広島大学附属高校マスゲーム1989年白軍（入場）",
+          "url": "https://www.youtube.com/watch?v=XKJe_vGrnxg",
+          "duration": 220,
+          "year": 1989,
+          "group": "白",
+          "scene": "入場",
+          "label": "1989年度 白 入場"
+        },
+        {
+          "playlistIndex": 7,
+          "id": "H6tIGGtDfTs",
+          "title": "広島大学附属高校マスゲーム1989年赤軍（退場）",
+          "url": "https://www.youtube.com/watch?v=H6tIGGtDfTs",
+          "duration": 326,
+          "year": 1989,
+          "group": "赤",
+          "scene": "退場",
+          "label": "1989年度 赤 退場"
+        },
+        {
+          "playlistIndex": 8,
+          "id": "WO6OqHseah8",
+          "title": "広島大学附属高校マスゲーム1989年赤軍（移動）",
+          "url": "https://www.youtube.com/watch?v=WO6OqHseah8",
+          "duration": 154,
+          "year": 1989,
+          "group": "赤",
+          "scene": "移動",
+          "label": "1989年度 赤 移動"
+        },
+        {
+          "playlistIndex": 9,
+          "id": "yZ9hsef60zY",
+          "title": "広島大学附属高校マスゲーム1989年赤軍（3部）",
+          "url": "https://www.youtube.com/watch?v=yZ9hsef60zY",
+          "duration": 281,
+          "year": 1989,
+          "group": "赤",
+          "scene": "三部",
+          "label": "1989年度 赤 三部"
+        },
+        {
+          "playlistIndex": 10,
+          "id": "FgRaOYMLULs",
+          "title": "広島大学附属高校マスゲーム1989年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=FgRaOYMLULs",
+          "duration": 243,
+          "year": 1989,
+          "group": "赤",
+          "scene": "二部",
+          "label": "1989年度 赤 二部"
+        },
+        {
+          "playlistIndex": 11,
+          "id": "6ygKcPzc0MM",
+          "title": "広島大学附属高校マスゲーム1989年赤軍（入場）",
+          "url": "https://www.youtube.com/watch?v=6ygKcPzc0MM",
+          "duration": 685,
+          "year": 1989,
+          "group": "赤",
+          "scene": "入場",
+          "label": "1989年度 赤 入場"
+        },
+        {
+          "playlistIndex": 12,
+          "id": "ynEivcbbNos",
+          "title": "広島大学附属高校マスゲーム1989年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=ynEivcbbNos",
+          "duration": 196,
+          "year": 1989,
+          "group": "赤",
+          "scene": "一部",
+          "label": "1989年度 赤 一部"
+        },
+        {
+          "playlistIndex": 13,
+          "id": "c_Z-aafGIFg",
+          "title": "【集団行動】広島大学附属高校マスゲーム1992年白軍（退場）",
+          "url": "https://www.youtube.com/watch?v=c_Z-aafGIFg",
+          "duration": 269,
+          "year": 1992,
+          "group": "白",
+          "scene": "退場",
+          "label": "1992年度 白 退場"
+        },
+        {
+          "playlistIndex": 14,
+          "id": "UeAOw_8iubg",
+          "title": "【集団行動】広島大学附属高校マスゲーム1992年白軍（移動）",
+          "url": "https://www.youtube.com/watch?v=UeAOw_8iubg",
+          "duration": 122,
+          "year": 1992,
+          "group": "白",
+          "scene": "移動",
+          "label": "1992年度 白 移動"
+        },
+        {
+          "playlistIndex": 15,
+          "id": "fiBuwo_DjqI",
+          "title": "【集団行動】広島大学附属高校マスゲーム1992年白軍（3部）",
+          "url": "https://www.youtube.com/watch?v=fiBuwo_DjqI",
+          "duration": 208,
+          "year": 1992,
+          "group": "白",
+          "scene": "三部",
+          "label": "1992年度 白 三部"
+        },
+        {
+          "playlistIndex": 16,
+          "id": "dmwmFZgynN0",
+          "title": "【集団行動】広島大学附属高校マスゲーム1992年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=dmwmFZgynN0",
+          "duration": 234,
+          "year": 1992,
+          "group": "白",
+          "scene": "二部",
+          "label": "1992年度 白 二部"
+        },
+        {
+          "playlistIndex": 17,
+          "id": "CnOTqJeTVrQ",
+          "title": "【集団行動】広島大学附属高校マスゲーム1992年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=CnOTqJeTVrQ",
+          "duration": 256,
+          "year": 1992,
+          "group": "白",
+          "scene": "一部",
+          "label": "1992年度 白 一部"
+        },
+        {
+          "playlistIndex": 18,
+          "id": "crwnB724bdg",
+          "title": "【集団行動】広島大学附属高校マスゲーム1992年白軍（入場）",
+          "url": "https://www.youtube.com/watch?v=crwnB724bdg",
+          "duration": 187,
+          "year": 1992,
+          "group": "白",
+          "scene": "入場",
+          "label": "1992年度 白 入場"
+        },
+        {
+          "playlistIndex": 19,
+          "id": "5EDEL00ZwSA",
+          "title": "広島大学附属高校マスゲーム1992年赤軍（退場）",
+          "url": "https://www.youtube.com/watch?v=5EDEL00ZwSA",
+          "duration": 310,
+          "year": 1992,
+          "group": "赤",
+          "scene": "退場",
+          "label": "1992年度 赤 退場"
+        },
+        {
+          "playlistIndex": 20,
+          "id": "_ZJwtCEPK5U",
+          "title": "広島大学附属高校マスゲーム1992年赤軍（移動）",
+          "url": "https://www.youtube.com/watch?v=_ZJwtCEPK5U",
+          "duration": 82,
+          "year": 1992,
+          "group": "赤",
+          "scene": "移動",
+          "label": "1992年度 赤 移動"
+        },
+        {
+          "playlistIndex": 21,
+          "id": "qGkVoq01ZMA",
+          "title": "広島大学附属高校マスゲーム1992年赤軍（3部）",
+          "url": "https://www.youtube.com/watch?v=qGkVoq01ZMA",
+          "duration": 252,
+          "year": 1992,
+          "group": "赤",
+          "scene": "三部",
+          "label": "1992年度 赤 三部"
+        },
+        {
+          "playlistIndex": 22,
+          "id": "vo8OjVe7nEA",
+          "title": "広島大学附属高校マスゲーム1992年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=vo8OjVe7nEA",
+          "duration": 243,
+          "year": 1992,
+          "group": "赤",
+          "scene": "二部",
+          "label": "1992年度 赤 二部"
+        },
+        {
+          "playlistIndex": 23,
+          "id": "KIgLVBmwE9Q",
+          "title": "広島大学附属高校マスゲーム1992年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=KIgLVBmwE9Q",
+          "duration": 257,
+          "year": 1992,
+          "group": "赤",
+          "scene": "一部",
+          "label": "1992年度 赤 一部"
+        },
+        {
+          "playlistIndex": 24,
+          "id": "db0HbBTrdgs",
+          "title": "広島大学附属高校マスゲーム1992年赤軍（入場）",
+          "url": "https://www.youtube.com/watch?v=db0HbBTrdgs",
+          "duration": 222,
+          "year": 1992,
+          "group": "赤",
+          "scene": "入場",
+          "label": "1992年度 赤 入場"
+        },
+        {
+          "playlistIndex": 25,
+          "id": "ZUQ1ybKaRjA",
+          "title": "広島大学附属高校マスゲーム1995年白軍（退場）",
+          "url": "https://www.youtube.com/watch?v=ZUQ1ybKaRjA",
+          "duration": 400,
+          "year": 1995,
+          "group": "白",
+          "scene": "退場",
+          "label": "1995年度 白 退場"
+        },
+        {
+          "playlistIndex": 26,
+          "id": "-g7-udXg8g8",
+          "title": "広島大学附属高校マスゲーム1995年白軍（移動）",
+          "url": "https://www.youtube.com/watch?v=-g7-udXg8g8",
+          "duration": 128,
+          "year": 1995,
+          "group": "白",
+          "scene": "移動",
+          "label": "1995年度 白 移動"
+        },
+        {
+          "playlistIndex": 27,
+          "id": "m7j7xjNEWNM",
+          "title": "広島大学附属高校マスゲーム1995年白軍（3部）",
+          "url": "https://www.youtube.com/watch?v=m7j7xjNEWNM",
+          "duration": 226,
+          "year": 1995,
+          "group": "白",
+          "scene": "三部",
+          "label": "1995年度 白 三部"
+        },
+        {
+          "playlistIndex": 28,
+          "id": "MjeOxAtVyfs",
+          "title": "広島大学附属高校マスゲーム1995年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=MjeOxAtVyfs",
+          "duration": 226,
+          "year": 1995,
+          "group": "白",
+          "scene": "二部",
+          "label": "1995年度 白 二部"
+        },
+        {
+          "playlistIndex": 29,
+          "id": "3WUaoefSMzM",
+          "title": "広島大学附属高校マスゲーム1995年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=3WUaoefSMzM",
+          "duration": 297,
+          "year": 1995,
+          "group": "白",
+          "scene": "一部",
+          "label": "1995年度 白 一部"
+        },
+        {
+          "playlistIndex": 30,
+          "id": "H6Lqsyr9zGA",
+          "title": "広島大学附属高校マスゲーム1995年白軍（入場）",
+          "url": "https://www.youtube.com/watch?v=H6Lqsyr9zGA",
+          "duration": 151,
+          "year": 1995,
+          "group": "白",
+          "scene": "入場",
+          "label": "1995年度 白 入場"
+        },
+        {
+          "playlistIndex": 31,
+          "id": "dtmYnErQsCo",
+          "title": "広島大学附属高校マスゲーム1995年赤軍（退場）",
+          "url": "https://www.youtube.com/watch?v=dtmYnErQsCo",
+          "duration": 184,
+          "year": 1995,
+          "group": "赤",
+          "scene": "退場",
+          "label": "1995年度 赤 退場"
+        },
+        {
+          "playlistIndex": 32,
+          "id": "6SlOBWxwc8c",
+          "title": "広島大学附属高校マスゲーム1995年赤軍（移動）",
+          "url": "https://www.youtube.com/watch?v=6SlOBWxwc8c",
+          "duration": 121,
+          "year": 1995,
+          "group": "赤",
+          "scene": "移動",
+          "label": "1995年度 赤 移動"
+        },
+        {
+          "playlistIndex": 33,
+          "id": "fkoT9VHKkg8",
+          "title": "広島大学附属高校マスゲーム1995年赤軍（3部）",
+          "url": "https://www.youtube.com/watch?v=fkoT9VHKkg8",
+          "duration": 254,
+          "year": 1995,
+          "group": "赤",
+          "scene": "三部",
+          "label": "1995年度 赤 三部"
+        },
+        {
+          "playlistIndex": 34,
+          "id": "Xyvbbeft2UA",
+          "title": "広島大学附属高校マスゲーム1995年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=Xyvbbeft2UA",
+          "duration": 249,
+          "year": 1995,
+          "group": "赤",
+          "scene": "二部",
+          "label": "1995年度 赤 二部"
+        },
+        {
+          "playlistIndex": 35,
+          "id": "vZ0AjJnVyjU",
+          "title": "広島大学附属高校マスゲーム1995年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=vZ0AjJnVyjU",
+          "duration": 250,
+          "year": 1995,
+          "group": "赤",
+          "scene": "一部",
+          "label": "1995年度 赤 一部"
+        },
+        {
+          "playlistIndex": 36,
+          "id": "gl2dB548Fj4",
+          "title": "広島大学附属高校マスゲーム1995年赤軍（入場）",
+          "url": "https://www.youtube.com/watch?v=gl2dB548Fj4",
+          "duration": 184,
+          "year": 1995,
+          "group": "赤",
+          "scene": "入場",
+          "label": "1995年度 赤 入場"
+        },
+        {
+          "playlistIndex": 37,
+          "id": "99cjD_63o4I",
+          "title": "【集団行動】広島大学附属高校マスゲーム1996年白軍（3部）",
+          "url": "https://www.youtube.com/watch?v=99cjD_63o4I",
+          "duration": 298,
+          "year": 1996,
+          "group": "白",
+          "scene": "三部",
+          "label": "1996年度 白 三部"
+        },
+        {
+          "playlistIndex": 38,
+          "id": "DqBCsIN4NLk",
+          "title": "【集団行動】広島大学附属高校マスゲーム1996年白軍（退場）",
+          "url": "https://www.youtube.com/watch?v=DqBCsIN4NLk",
+          "duration": 248,
+          "year": 1996,
+          "group": "白",
+          "scene": "退場",
+          "label": "1996年度 白 退場"
+        },
+        {
+          "playlistIndex": 39,
+          "id": "lEkECWJUyIs",
+          "title": "【集団行動】広島大学附属高校マスゲーム1996年白軍（移動）",
+          "url": "https://www.youtube.com/watch?v=lEkECWJUyIs",
+          "duration": 102,
+          "year": 1996,
+          "group": "白",
+          "scene": "移動",
+          "label": "1996年度 白 移動"
+        },
+        {
+          "playlistIndex": 40,
+          "id": "ntr-DByrpQU",
+          "title": "【集団行動】広島大学附属高校マスゲーム1996年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=ntr-DByrpQU",
+          "duration": 239,
+          "year": 1996,
+          "group": "白",
+          "scene": "二部",
+          "label": "1996年度 白 二部"
+        },
+        {
+          "playlistIndex": 41,
+          "id": "IMJocLst4Cg",
+          "title": "【集団行動】広島大学附属高校マスゲーム1996年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=IMJocLst4Cg",
+          "duration": 261,
+          "year": 1996,
+          "group": "白",
+          "scene": "一部",
+          "label": "1996年度 白 一部"
+        },
+        {
+          "playlistIndex": 42,
+          "id": "oR_fC76okTU",
+          "title": "【集団行動】広島大学附属高校マスゲーム1996年白軍（入場）",
+          "url": "https://www.youtube.com/watch?v=oR_fC76okTU",
+          "duration": 253,
+          "year": 1996,
+          "group": "白",
+          "scene": "入場",
+          "label": "1996年度 白 入場"
+        },
+        {
+          "playlistIndex": 43,
+          "id": "XpfkWtnSQeM",
+          "title": "広島大学附属高校マスゲーム1996年赤軍（退場）",
+          "url": "https://www.youtube.com/watch?v=XpfkWtnSQeM",
+          "duration": 239,
+          "year": 1996,
+          "group": "赤",
+          "scene": "退場",
+          "label": "1996年度 赤 退場"
+        },
+        {
+          "playlistIndex": 44,
+          "id": "DMdf0du80Yc",
+          "title": "広島大学附属高校マスゲーム1996年赤軍（移動）",
+          "url": "https://www.youtube.com/watch?v=DMdf0du80Yc",
+          "duration": 95,
+          "year": 1996,
+          "group": "赤",
+          "scene": "移動",
+          "label": "1996年度 赤 移動"
+        },
+        {
+          "playlistIndex": 45,
+          "id": "N8qRlvBW_sw",
+          "title": "広島大学附属高校マスゲーム1996年赤軍（3部）",
+          "url": "https://www.youtube.com/watch?v=N8qRlvBW_sw",
+          "duration": 358,
+          "year": 1996,
+          "group": "赤",
+          "scene": "三部",
+          "label": "1996年度 赤 三部"
+        },
+        {
+          "playlistIndex": 46,
+          "id": "oZbdejiN1WM",
+          "title": "広島大学附属高校マスゲーム1996年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=oZbdejiN1WM",
+          "duration": 278,
+          "year": 1996,
+          "group": "赤",
+          "scene": "二部",
+          "label": "1996年度 赤 二部"
+        },
+        {
+          "playlistIndex": 47,
+          "id": "YxgAub21JcU",
+          "title": "広島大学附属高校マスゲーム1996年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=YxgAub21JcU",
+          "duration": 280,
+          "year": 1996,
+          "group": "赤",
+          "scene": "一部",
+          "label": "1996年度 赤 一部"
+        },
+        {
+          "playlistIndex": 48,
+          "id": "7gFIfX829k0",
+          "title": "広島大学附属高校マスゲーム1996年赤軍（入場）",
+          "url": "https://www.youtube.com/watch?v=7gFIfX829k0",
+          "duration": 187,
+          "year": 1996,
+          "group": "赤",
+          "scene": "入場",
+          "label": "1996年度 赤 入場"
+        },
+        {
+          "playlistIndex": 49,
+          "id": "Wq26e_e-w7o",
+          "title": "広島大学附属高校マスゲーム1997年白軍（退場）",
+          "url": "https://www.youtube.com/watch?v=Wq26e_e-w7o",
+          "duration": 384,
+          "year": 1997,
+          "group": "白",
+          "scene": "退場",
+          "label": "1997年度 白 退場"
+        },
+        {
+          "playlistIndex": 50,
+          "id": "7XVlPofMCxA",
+          "title": "広島大学附属高校マスゲーム1997年白軍（移動）",
+          "url": "https://www.youtube.com/watch?v=7XVlPofMCxA",
+          "duration": 117,
+          "year": 1997,
+          "group": "白",
+          "scene": "移動",
+          "label": "1997年度 白 移動"
+        },
+        {
+          "playlistIndex": 51,
+          "id": "L81vt1Y8op0",
+          "title": "広島大学附属高校マスゲーム1997年白軍（3部）",
+          "url": "https://www.youtube.com/watch?v=L81vt1Y8op0",
+          "duration": 263,
+          "year": 1997,
+          "group": "白",
+          "scene": "三部",
+          "label": "1997年度 白 三部"
+        },
+        {
+          "playlistIndex": 52,
+          "id": "i-gGNrTl8FU",
+          "title": "広島大学附属高校マスゲーム1997年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=i-gGNrTl8FU",
+          "duration": 237,
+          "year": 1997,
+          "group": "白",
+          "scene": "二部",
+          "label": "1997年度 白 二部"
+        },
+        {
+          "playlistIndex": 53,
+          "id": "qbVzrSvYM1Y",
+          "title": "広島大学附属高校マスゲーム1997年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=qbVzrSvYM1Y",
+          "duration": 132,
+          "year": 1997,
+          "group": "白",
+          "scene": "一部",
+          "label": "1997年度 白 一部"
+        },
+        {
+          "playlistIndex": 54,
+          "id": "NVJD736yo-0",
+          "title": "広島大学附属高校マスゲーム1997年白軍（入場）",
+          "url": "https://www.youtube.com/watch?v=NVJD736yo-0",
+          "duration": 304,
+          "year": 1997,
+          "group": "白",
+          "scene": "入場",
+          "label": "1997年度 白 入場"
+        },
+        {
+          "playlistIndex": 55,
+          "id": "EdMYGnwZltk",
+          "title": "広島大学附属高校マスゲーム1997年赤軍（退場）",
+          "url": "https://www.youtube.com/watch?v=EdMYGnwZltk",
+          "duration": 381,
+          "year": 1997,
+          "group": "赤",
+          "scene": "退場",
+          "label": "1997年度 赤 退場"
+        },
+        {
+          "playlistIndex": 56,
+          "id": "i_YJN5TBlR4",
+          "title": "広島大学附属高校マスゲーム1997年赤軍（移動）",
+          "url": "https://www.youtube.com/watch?v=i_YJN5TBlR4",
+          "duration": 111,
+          "year": 1997,
+          "group": "赤",
+          "scene": "移動",
+          "label": "1997年度 赤 移動"
+        },
+        {
+          "playlistIndex": 57,
+          "id": "bjHeUiIh0qY",
+          "title": "広島大学附属高校マスゲーム1997年赤軍（3部）",
+          "url": "https://www.youtube.com/watch?v=bjHeUiIh0qY",
+          "duration": 292,
+          "year": 1997,
+          "group": "赤",
+          "scene": "三部",
+          "label": "1997年度 赤 三部"
+        },
+        {
+          "playlistIndex": 58,
+          "id": "6k5s7RovZqo",
+          "title": "広島大学附属高校マスゲーム1997年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=6k5s7RovZqo",
+          "duration": 274,
+          "year": 1997,
+          "group": "赤",
+          "scene": "二部",
+          "label": "1997年度 赤 二部"
+        },
+        {
+          "playlistIndex": 59,
+          "id": "ysronlHdGzE",
+          "title": "広島大学附属高校マスゲーム1997年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=ysronlHdGzE",
+          "duration": 269,
+          "year": 1997,
+          "group": "赤",
+          "scene": "一部",
+          "label": "1997年度 赤 一部"
+        },
+        {
+          "playlistIndex": 60,
+          "id": "UzLAIHf2bqo",
+          "title": "【集団行動】広島大学附属高校マスゲーム1997年赤軍（入場）",
+          "url": "https://www.youtube.com/watch?v=UzLAIHf2bqo",
+          "duration": 212,
+          "year": 1997,
+          "group": "赤",
+          "scene": "入場",
+          "label": "1997年度 赤 入場"
+        },
+        {
+          "playlistIndex": 61,
+          "id": "ViN2j3RFQZo",
+          "title": "【集団行動】広島大学附属高校マスゲーム1999年赤軍（退場）",
+          "url": "https://www.youtube.com/watch?v=ViN2j3RFQZo",
+          "duration": 377,
+          "year": 1999,
+          "group": "赤",
+          "scene": "退場",
+          "label": "1999年度 赤 退場"
+        },
+        {
+          "playlistIndex": 62,
+          "id": "HvcRp2VHVgM",
+          "title": "【集団行動】広島大学附属高校マスゲーム1998年白軍（退場）",
+          "url": "https://www.youtube.com/watch?v=HvcRp2VHVgM",
+          "duration": 307,
+          "year": 1998,
+          "group": "白",
+          "scene": "退場",
+          "label": "1998年度 白 退場"
+        },
+        {
+          "playlistIndex": 63,
+          "id": "vX3b3TD9i2Y",
+          "title": "【集団行動】広島大学附属高校マスゲーム1998年白軍（移動）",
+          "url": "https://www.youtube.com/watch?v=vX3b3TD9i2Y",
+          "duration": 83,
+          "year": 1998,
+          "group": "白",
+          "scene": "移動",
+          "label": "1998年度 白 移動"
+        },
+        {
+          "playlistIndex": 64,
+          "id": "gTb5NByvHLQ",
+          "title": "【集団行動】広島大学附属高校マスゲーム1998年白軍（3部）",
+          "url": "https://www.youtube.com/watch?v=gTb5NByvHLQ",
+          "duration": 269,
+          "year": 1998,
+          "group": "白",
+          "scene": "三部",
+          "label": "1998年度 白 三部"
+        },
+        {
+          "playlistIndex": 65,
+          "id": "WlNB4ys6tLY",
+          "title": "【集団行動】広島大学附属高校マスゲーム1998年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=WlNB4ys6tLY",
+          "duration": 248,
+          "year": 1998,
+          "group": "白",
+          "scene": "二部",
+          "label": "1998年度 白 二部"
+        },
+        {
+          "playlistIndex": 66,
+          "id": "YSM6sMcMfek",
+          "title": "【集団行動】広島大学附属高校マスゲーム1998年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=YSM6sMcMfek",
+          "duration": 279,
+          "year": 1998,
+          "group": "白",
+          "scene": "一部",
+          "label": "1998年度 白 一部"
+        },
+        {
+          "playlistIndex": 67,
+          "id": "fMtVKZLb2I8",
+          "title": "【集団行動】広島大学附属高校マスゲーム1998年白軍（入場）",
+          "url": "https://www.youtube.com/watch?v=fMtVKZLb2I8",
+          "duration": 251,
+          "year": 1998,
+          "group": "白",
+          "scene": "入場",
+          "label": "1998年度 白 入場"
+        },
+        {
+          "playlistIndex": 68,
+          "id": "gLOjBz8A5ng",
+          "title": "広島大学附属高校マスゲーム1998年赤軍（退場）",
+          "url": "https://www.youtube.com/watch?v=gLOjBz8A5ng",
+          "duration": 360,
+          "year": 1998,
+          "group": "赤",
+          "scene": "退場",
+          "label": "1998年度 赤 退場"
+        },
+        {
+          "playlistIndex": 69,
+          "id": "VEP_N8PG7N4",
+          "title": "広島大学附属高校マスゲーム1998年赤軍（移動）",
+          "url": "https://www.youtube.com/watch?v=VEP_N8PG7N4",
+          "duration": 80,
+          "year": 1998,
+          "group": "赤",
+          "scene": "移動",
+          "label": "1998年度 赤 移動"
+        },
+        {
+          "playlistIndex": 70,
+          "id": "L4Mfc-ggvL4",
+          "title": "広島大学附属高校マスゲーム1998年赤軍（3部）",
+          "url": "https://www.youtube.com/watch?v=L4Mfc-ggvL4",
+          "duration": 291,
+          "year": 1998,
+          "group": "赤",
+          "scene": "三部",
+          "label": "1998年度 赤 三部"
+        },
+        {
+          "playlistIndex": 71,
+          "id": "U0PWB0o0lXA",
+          "title": "広島大学附属高校マスゲーム1998年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=U0PWB0o0lXA",
+          "duration": 241,
+          "year": 1998,
+          "group": "赤",
+          "scene": "二部",
+          "label": "1998年度 赤 二部"
+        },
+        {
+          "playlistIndex": 72,
+          "id": "Pvd-M26Q4wQ",
+          "title": "広島大学附属高校マスゲーム1998年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=Pvd-M26Q4wQ",
+          "duration": 237,
+          "year": 1998,
+          "group": "赤",
+          "scene": "一部",
+          "label": "1998年度 赤 一部"
+        },
+        {
+          "playlistIndex": 73,
+          "id": "iSMtgRjbH_E",
+          "title": "広島大学附属高校マスゲーム1998年赤軍（入場）",
+          "url": "https://www.youtube.com/watch?v=iSMtgRjbH_E",
+          "duration": 226,
+          "year": 1998,
+          "group": "赤",
+          "scene": "入場",
+          "label": "1998年度 赤 入場"
+        },
+        {
+          "playlistIndex": 74,
+          "id": "zoW1pbHxXeE",
+          "title": "広島大学附属高校マスゲーム1999年白軍（退場）",
+          "url": "https://www.youtube.com/watch?v=zoW1pbHxXeE",
+          "duration": 418,
+          "year": 1999,
+          "group": "白",
+          "scene": "退場",
+          "label": "1999年度 白 退場"
+        },
+        {
+          "playlistIndex": 75,
+          "id": "6pdWOLRTJ_4",
+          "title": "広島大学附属高校マスゲーム1999年白軍（移動）",
+          "url": "https://www.youtube.com/watch?v=6pdWOLRTJ_4",
+          "duration": 140,
+          "year": 1999,
+          "group": "白",
+          "scene": "移動",
+          "label": "1999年度 白 移動"
+        },
+        {
+          "playlistIndex": 76,
+          "id": "_iVwMJLpAJs",
+          "title": "広島大学附属高校マスゲーム1999年白軍（3部）",
+          "url": "https://www.youtube.com/watch?v=_iVwMJLpAJs",
+          "duration": 249,
+          "year": 1999,
+          "group": "白",
+          "scene": "三部",
+          "label": "1999年度 白 三部"
+        },
+        {
+          "playlistIndex": 77,
+          "id": "u7Rrbc8ny2s",
+          "title": "広島大学附属高校マスゲーム1999年白軍（2部）",
+          "url": "https://www.youtube.com/watch?v=u7Rrbc8ny2s",
+          "duration": 240,
+          "year": 1999,
+          "group": "白",
+          "scene": "二部",
+          "label": "1999年度 白 二部"
+        },
+        {
+          "playlistIndex": 78,
+          "id": "B7ZN10fk3DU",
+          "title": "広島大学附属高校マスゲーム1999年白軍（1部）",
+          "url": "https://www.youtube.com/watch?v=B7ZN10fk3DU",
+          "duration": 276,
+          "year": 1999,
+          "group": "白",
+          "scene": "一部",
+          "label": "1999年度 白 一部"
+        },
+        {
+          "playlistIndex": 79,
+          "id": "Gp9z7MEslK0",
+          "title": "広島大学附属高校マスゲーム1999年白軍（入場）",
+          "url": "https://www.youtube.com/watch?v=Gp9z7MEslK0",
+          "duration": 293,
+          "year": 1999,
+          "group": "白",
+          "scene": "入場",
+          "label": "1999年度 白 入場"
+        },
+        {
+          "playlistIndex": 80,
+          "id": "m3-Pnv2ISVk",
+          "title": "広島大学附属高校マスゲーム1999年赤軍（移動）",
+          "url": "https://www.youtube.com/watch?v=m3-Pnv2ISVk",
+          "duration": 91,
+          "year": 1999,
+          "group": "赤",
+          "scene": "移動",
+          "label": "1999年度 赤 移動"
+        },
+        {
+          "playlistIndex": 81,
+          "id": "qjvNREm3n8E",
+          "title": "広島大学附属高校マスゲーム1999年赤軍（3部）",
+          "url": "https://www.youtube.com/watch?v=qjvNREm3n8E",
+          "duration": 266,
+          "year": 1999,
+          "group": "赤",
+          "scene": "三部",
+          "label": "1999年度 赤 三部"
+        },
+        {
+          "playlistIndex": 82,
+          "id": "41EOjcapZTg",
+          "title": "広島大学附属高校マスゲーム1999年赤軍（2部）",
+          "url": "https://www.youtube.com/watch?v=41EOjcapZTg",
+          "duration": 258,
+          "year": 1999,
+          "group": "赤",
+          "scene": "二部",
+          "label": "1999年度 赤 二部"
+        },
+        {
+          "playlistIndex": 83,
+          "id": "kfRzT9etOCo",
+          "title": "広島大学附属高校マスゲーム1999年赤軍（1部）",
+          "url": "https://www.youtube.com/watch?v=kfRzT9etOCo",
+          "duration": 276,
+          "year": 1999,
+          "group": "赤",
+          "scene": "一部",
+          "label": "1999年度 赤 一部"
+        },
+        {
+          "playlistIndex": 84,
+          "id": "TeNgLUFtqMg",
+          "title": "広島大学附属高校マスゲーム1999年赤軍（入場）",
+          "url": "https://www.youtube.com/watch?v=TeNgLUFtqMg",
+          "duration": 267,
+          "year": 1999,
+          "group": "赤",
+          "scene": "入場",
+          "label": "1999年度 赤 入場"
+        }
+      ]
+    },
+    {
+      "id": "PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+      "title": "太陽マス☀️",
+      "url": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYagTfD67dJ6X9KVcQ5VKXx",
+      "reportedCount": 139,
+      "fetchedCount": 139,
+      "targetCount": 0,
+      "entries": [],
+      "note": "部門別リストも全件照合。1999年度以前の動画は含まれていないため、個別項目は保存対象外。"
+    },
+    {
+      "id": "PLnOxQXsNjVVYZpRXUfpyt-VA3fZt9-VAA",
+      "title": "月マス🌙",
+      "url": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVYZpRXUfpyt-VA3fZt9-VAA",
+      "reportedCount": 137,
+      "fetchedCount": 137,
+      "targetCount": 0,
+      "entries": [],
+      "note": "部門別リストも全件照合。1999年度以前の動画は含まれていないため、個別項目は保存対象外。"
+    }
+  ],
+  "addedEntries": [
+    {
+      "id": "6ygKcPzc0MM",
+      "label": "1989年度 赤 入場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "ynEivcbbNos",
+      "label": "1989年度 赤 一部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "WO6OqHseah8",
+      "label": "1989年度 赤 移動",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "FgRaOYMLULs",
+      "label": "1989年度 赤 二部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "yZ9hsef60zY",
+      "label": "1989年度 赤 三部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "H6tIGGtDfTs",
+      "label": "1989年度 赤 退場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "XKJe_vGrnxg",
+      "label": "1989年度 白 入場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "tqxZfa7EeR8",
+      "label": "1989年度 白 一部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "AFhQgYtxF0o",
+      "label": "1989年度 白 移動",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "HUUzadSzhM4",
+      "label": "1989年度 白 二部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "hAKtku_4ZlQ",
+      "label": "1989年度 白 三部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "nygoTplufr4",
+      "label": "1989年度 白 退場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "db0HbBTrdgs",
+      "label": "1992年度 赤 入場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "KIgLVBmwE9Q",
+      "label": "1992年度 赤 一部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "_ZJwtCEPK5U",
+      "label": "1992年度 赤 移動",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "vo8OjVe7nEA",
+      "label": "1992年度 赤 二部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "qGkVoq01ZMA",
+      "label": "1992年度 赤 三部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "5EDEL00ZwSA",
+      "label": "1992年度 赤 退場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "crwnB724bdg",
+      "label": "1992年度 白 入場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "CnOTqJeTVrQ",
+      "label": "1992年度 白 一部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "UeAOw_8iubg",
+      "label": "1992年度 白 移動",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "dmwmFZgynN0",
+      "label": "1992年度 白 二部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "fiBuwo_DjqI",
+      "label": "1992年度 白 三部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "c_Z-aafGIFg",
+      "label": "1992年度 白 退場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "gl2dB548Fj4",
+      "label": "1995年度 赤 入場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "vZ0AjJnVyjU",
+      "label": "1995年度 赤 一部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "6SlOBWxwc8c",
+      "label": "1995年度 赤 移動",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "Xyvbbeft2UA",
+      "label": "1995年度 赤 二部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "fkoT9VHKkg8",
+      "label": "1995年度 赤 三部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "dtmYnErQsCo",
+      "label": "1995年度 赤 退場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "H6Lqsyr9zGA",
+      "label": "1995年度 白 入場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "3WUaoefSMzM",
+      "label": "1995年度 白 一部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "-g7-udXg8g8",
+      "label": "1995年度 白 移動",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "MjeOxAtVyfs",
+      "label": "1995年度 白 二部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "m7j7xjNEWNM",
+      "label": "1995年度 白 三部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "ZUQ1ybKaRjA",
+      "label": "1995年度 白 退場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "7gFIfX829k0",
+      "label": "1996年度 赤 入場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "YxgAub21JcU",
+      "label": "1996年度 赤 一部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "DMdf0du80Yc",
+      "label": "1996年度 赤 移動",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "oZbdejiN1WM",
+      "label": "1996年度 赤 二部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "N8qRlvBW_sw",
+      "label": "1996年度 赤 三部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "XpfkWtnSQeM",
+      "label": "1996年度 赤 退場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "oR_fC76okTU",
+      "label": "1996年度 白 入場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "IMJocLst4Cg",
+      "label": "1996年度 白 一部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "lEkECWJUyIs",
+      "label": "1996年度 白 移動",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "ntr-DByrpQU",
+      "label": "1996年度 白 二部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "99cjD_63o4I",
+      "label": "1996年度 白 三部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "DqBCsIN4NLk",
+      "label": "1996年度 白 退場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "UzLAIHf2bqo",
+      "label": "1997年度 赤 入場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "ysronlHdGzE",
+      "label": "1997年度 赤 一部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "i_YJN5TBlR4",
+      "label": "1997年度 赤 移動",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "6k5s7RovZqo",
+      "label": "1997年度 赤 二部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "bjHeUiIh0qY",
+      "label": "1997年度 赤 三部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "EdMYGnwZltk",
+      "label": "1997年度 赤 退場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "NVJD736yo-0",
+      "label": "1997年度 白 入場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "qbVzrSvYM1Y",
+      "label": "1997年度 白 一部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "7XVlPofMCxA",
+      "label": "1997年度 白 移動",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "i-gGNrTl8FU",
+      "label": "1997年度 白 二部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "L81vt1Y8op0",
+      "label": "1997年度 白 三部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "Wq26e_e-w7o",
+      "label": "1997年度 白 退場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "iSMtgRjbH_E",
+      "label": "1998年度 赤 入場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "Pvd-M26Q4wQ",
+      "label": "1998年度 赤 一部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "VEP_N8PG7N4",
+      "label": "1998年度 赤 移動",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "U0PWB0o0lXA",
+      "label": "1998年度 赤 二部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "L4Mfc-ggvL4",
+      "label": "1998年度 赤 三部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "gLOjBz8A5ng",
+      "label": "1998年度 赤 退場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "fMtVKZLb2I8",
+      "label": "1998年度 白 入場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "YSM6sMcMfek",
+      "label": "1998年度 白 一部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "vX3b3TD9i2Y",
+      "label": "1998年度 白 移動",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "WlNB4ys6tLY",
+      "label": "1998年度 白 二部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "gTb5NByvHLQ",
+      "label": "1998年度 白 三部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "HvcRp2VHVgM",
+      "label": "1998年度 白 退場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "TeNgLUFtqMg",
+      "label": "1999年度 赤 入場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "kfRzT9etOCo",
+      "label": "1999年度 赤 一部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "m3-Pnv2ISVk",
+      "label": "1999年度 赤 移動",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "41EOjcapZTg",
+      "label": "1999年度 赤 二部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "qjvNREm3n8E",
+      "label": "1999年度 赤 三部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "ViN2j3RFQZo",
+      "label": "1999年度 赤 退場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "Gp9z7MEslK0",
+      "label": "1999年度 白 入場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "B7ZN10fk3DU",
+      "label": "1999年度 白 一部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "6pdWOLRTJ_4",
+      "label": "1999年度 白 移動",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "u7Rrbc8ny2s",
+      "label": "1999年度 白 二部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PLnOxQXsNjVVbfVgEZQaWa_GFc8ErPkqZ4"
+    },
+    {
+      "id": "_iVwMJLpAJs",
+      "label": "1999年度 白 三部",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    },
+    {
+      "id": "zoW1pbHxXeE",
+      "label": "1999年度 白 退場",
+      "sourceUrl": "https://www.youtube.com/playlist?list=PL7AD67D7BAA9BBF39"
+    }
+  ],
+  "existingTargetIds": [
+    "6-tpAusmowo",
+    "CfDJl9GgPco",
+    "aWcms4Un2RM",
+    "q7yNgPwQm9M"
+  ]
+}
